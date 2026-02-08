@@ -88,7 +88,7 @@ function findRoute(result)
           {
             for (let j = 0; j < 7; j++)
             {
-              if (routeDays[i].toString().includes(j.toString()))
+              if (routeDays[i][k].toString().includes(j.toString()))
               {
                 document.getElementById("day" + j).innerHTML += ("<br>" + routeTimes[i][k] + " | " + tripHeadsigns[l] + " | <a href=trip.html?agency=" + agency + "&trip=" + routeTrips[i][k] + ">Trip: " + routeTrips[i][k] + "</a>");
               }
