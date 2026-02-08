@@ -71,12 +71,12 @@ function getStops(result)
         for (let i = 0; i < stopUrlFile.length; i++)
         {
           var data = stopUrlFile[i];
-          stopId.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
-          stopName.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
-          stopLat.push(data.substring(0, data.indexOf(";")));
-          data = data.substr(data.indexOf(";") + 1);
+          stopId.push(data.substring(0, data.indexOf(",")));
+          data = data.substr(data.indexOf(",") + 1);
+          stopName.push(data.substring(0, data.indexOf(",")));
+          data = data.substr(data.indexOf(",") + 1);
+          stopLat.push(data.substring(0, data.indexOf(",")));
+          data = data.substr(data.indexOf(",") + 1);
           stopLon.push(data);
         }
 
@@ -92,7 +92,7 @@ function findTrip(result)
     {
       // things to add: connection to stop names/locations, trip time calc, distance calc
       
-      document.getElementById("route").innerHTML += ("<a href=route.html?route=" + tripRoute[i] + ">" + tripRoute[i] + "</a>");
+      document.getElementById("route").innerHTML += ("<a href=route.html?agency=" + agency + "&route=" + tripRoute[i] + ">" + tripRoute[i] + "</a>");
       document.getElementById("days").innerHTML += (tripDays[i]);
       document.getElementById("start").innerHTML += (tripStopTimes[i][0]);
 
