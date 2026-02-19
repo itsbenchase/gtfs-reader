@@ -117,6 +117,10 @@ function findTrip(result)
               tripLength = cumulative();
 
               document.getElementById("dist").innerHTML = ("<b>Trip Distance:</b> " + tripLength + " miles");
+
+              var spacing = tripLength / (cumLats.length - 1);
+              spacing = Math.round(spacing * 100.0) / 100.0;
+              document.getElementById("spacing").innerHTML = ("<b>Stop Spacing:</b> " + spacing + " miles");
             }
           }
         }
