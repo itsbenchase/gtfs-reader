@@ -13,6 +13,8 @@ const stopLon = [];
 const cumLats = [];
 const cumLons = [];
 
+const currentStopIds = [];
+
 var result = "no data";
 var agency = "no data";
 
@@ -108,6 +110,7 @@ function findTrip(result)
 
             cumLats.push(stopLat[k]);
             cumLons.push(stopLon[k]);
+            currentStopIds.push(stopId[k]);
 
             if (cumLats.length > 1)
             {
@@ -152,4 +155,14 @@ function cumulative()
 function toRadians(degrees)
 {
   return degrees * (Math.PI / 180);
+}
+
+function getStopIDs()
+{
+  document.getElementById("IDlist").innerHTML += ("<b>Stop ID list:</b><br>");
+
+  for (let i = 0; i < currentStopIds.length; i++)
+  {
+    document.getElementById("IDlist").innerHTML += (currentStopIds[i] + "<br>");
+  }
 }
