@@ -91,12 +91,22 @@ function findTrip(result)
   for (let i = 0; i < tripId.length; i++)
   {
     if (tripId[i] == result)
-    {
-      // things to add: connection to stop names/locations, trip time calc, distance calc
-      
+    {      
       document.getElementById("route").innerHTML += ("<a href=route.html?agency=" + agency + "&route=" + tripRoute[i] + ">" + tripRoute[i] + "</a>");
       document.getElementById("days").innerHTML += (tripDays[i]);
-      document.getElementById("start").innerHTML += (tripStopTimes[i][0]);
+
+      var tripStartTime = tripStopTimes[i][0];
+      var tripEndTime = tripStopTimes[i][tripStopTimes[i].length - 1];
+
+      var startHr = Number(tripStartTime.substring(0, 2));
+      var startMin = Number(tripStartTime.substring(3, 5));
+      var endHr = Number(tripEndTime.substring(0, 2));
+      var endMin = Number(tripEndTime.substring(3, 5));
+
+      tripStartTime = (startHr * 60) + startMin;
+      tripEndTime = (endHr * 60) + endMin;
+      var duration = tripEndTime - tripStartTime;
+      document.getElementById("duration").innerHTML = ("<b>Trip Duration:</b> " + duration + " minutes");
 
       var tripLength = 0.00;
 
@@ -115,8 +125,11 @@ function findTrip(result)
             if (cumLats.length > 1)
             {
               tripLength = cumulative();
-
               document.getElementById("dist").innerHTML = ("<b>Trip Distance:</b> " + tripLength + " miles");
+              
+              var speed = (tripLength / duration) * 60.0;
+              speed = Math.round(speed * 100.0) / 100.0;
+              document.getElementById("speed").innerHTML = ("<b>Trip Speed:</b> " + speed + " miles per hour");
 
               var spacing = tripLength / (cumLats.length - 1);
               spacing = Math.round(spacing * 100.0) / 100.0;
