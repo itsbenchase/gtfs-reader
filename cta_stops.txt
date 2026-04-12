@@ -514,7 +514,7 @@ stop_id,stop_name,stop_lat,stop_lon
 852,North Ave & Narragansett,41.90907058,-87.78511338
 854,North Ave & Ridgeland,41.90910585,-87.78351072
 856,North Ave & Lombard,41.90911768,-87.78091112
-857,North Ave & Taylor,41.90920084,-87.77821243
+857,North Ave & Taylor,41.90911002,-87.77834256
 860,North Ave & Menard,41.90921511,-87.77086667
 861,North Ave & Major,41.9092691,-87.76781071
 863,North Ave & Linder,41.90935385,-87.76318379
@@ -956,7 +956,7 @@ stop_id,stop_name,stop_lat,stop_lon
 1528,E Hyde Park & Kenwood,41.80245984,-87.59358273
 1529,E Hyde Park & Kimbark,41.80244507,-87.59533282
 1530,E Hyde Park & Woodlawn,41.80242326,-87.59705476
-1533,E Hyde Park & Ellis,41.80237102,-87.60195017
+1533,E Hyde Park & Ellis,41.80236479,-87.60228565
 1535,51st Street & Cottage Grove,41.80230105,-87.60671898
 1536,51st Street & Evans,41.80229598,-87.60785676
 1537,51st Street & Champlain,41.80224984,-87.60989074
@@ -1497,11 +1497,13 @@ stop_id,stop_name,stop_lat,stop_lon
 2354,State & 11th Street,41.86916753,-87.62733218
 2355,State & 9th Street,41.87041285,-87.62737375
 2357,State & Balbo,41.87298515,-87.62742291
+2359,State & Kinzie,41.88913586,-87.62792075
 2361,State & Grand (Red Line),41.89158886,-87.62795475
 2362,Western & 95th Street,41.7214868,-87.68195912
 2363,Lawrence & Marine Drive,41.96910764,-87.64975003
 2367,State & Grand (Red Line),41.8915543,-87.6281713
 2368,State & Hubbard,41.89015913,-87.62811267
+2370,State & Marina City,41.88835786,-87.62817775
 2376,State & Roosevelt,41.86760162,-87.6275416
 2377,State & 13th Street,41.86564242,-87.62755911
 2378,State & 14th Street,41.86418592,-87.62750186
@@ -2402,7 +2404,7 @@ stop_id,stop_name,stop_lat,stop_lon
 3613,Oakton & McCormick,42.02632499,-87.71134094
 3614,2424 W Oakton,42.02635472,-87.70707555
 3615,2310 W Oakton,42.02647274,-87.70548849
-3616,Oakton & Hartrey,42.02647398,-87.70414755
+3616,Oakton & Hartrey,42.02641673,-87.70397815
 3618,Oakton & Dodge,42.02650488,-87.69960779
 3619,Dodge & Kirk,42.02481625,-87.69952898
 3620,Dodge & Mulford,42.02304925,-87.69958999
@@ -2715,6 +2717,7 @@ stop_id,stop_name,stop_lat,stop_lon
 4167,California & 44th Street,41.81365784,-87.69429176
 4168,California & Pope John Paul II/43rd St,41.81548254,-87.69429163
 4169,California & 42nd Street,41.81731712,-87.69435085
+4170,California & Archer,41.81981784,-87.69449576
 4172,California & Pershing,41.82269471,-87.69456179
 4173,California & 38th Street,41.82452784,-87.69456776
 4174,California & 36th Place,41.82744292,-87.69464354
@@ -4423,6 +4426,9 @@ stop_id,stop_name,stop_lat,stop_lon
 7002,Commercial & 95th Street,41.72267025,-87.55099276
 7004,Commercial & 94th/Anthony,41.72426132,-87.55103589
 7005,Commercial & 93rd Street/South Chicago,41.72642603,-87.55099545
+7008,Commercial & 90th Street,41.73179173,-87.55122695
+7010,Commercial & 88th Street,41.73546915,-87.5513135
+7011,Commercial & 87th Street,41.73728617,-87.5513574
 7012,Commercial & 86th Street,41.73912618,-87.55139078
 7014,Commercial & 83rd Place,41.74338825,-87.55165639
 7015,Exchange & 83rd Street,41.74453165,-87.55256649
@@ -4477,6 +4483,10 @@ stop_id,stop_name,stop_lat,stop_lon
 7068,Commercial & 83rd Place,41.74352964,-87.55181747
 7069,Commercial & 85th Street,41.74108089,-87.55158398
 7070,Commercial & 86th Street,41.73931548,-87.55154303
+7071,Commercial & 87th Street,41.73749088,-87.55151613
+7072,Commercial & 88th Street,41.7356574,-87.55147389
+7073,Commercial & 89th Street,41.73382066,-87.55143754
+7074,Commercial & 90th Street,41.73201947,-87.55138172
 7077,Commercial & 93rd Street/South Chicago,41.72679505,-87.55119395
 7078,Commercial & 94th/Anthony,41.72421835,-87.55122468
 7080,Commercial & 95th Street,41.72288292,-87.55117198
@@ -5032,6 +5042,10 @@ stop_id,stop_name,stop_lat,stop_lon
 8079,47th Street & Throop,41.80876744,-87.65764319
 8080,47th Street & Loomis,41.80873335,-87.66010354
 8081,47th Street & Laflin,41.80870562,-87.66239691
+8084,47th Street & Wood,41.80862363,-87.66969316
+8085,47th Street & Wolcott,41.80858815,-87.67206304
+8089,47th Street & Oakley,41.80850863,-87.68186267
+8090,47th Street & Western Boulevard,41.80848113,-87.68363044
 8091,47th Street & Western Avenue,41.80850123,-87.68469235
 8092,47th Street & Campbell,41.80845636,-87.68689377
 8093,47th Street & Rockwell,41.80842866,-87.68921914
@@ -5081,6 +5095,11 @@ stop_id,stop_name,stop_lat,stop_lon
 8153,47th Street & Rockwell,41.8083058,-87.68943018
 8154,47th Street & Campbell,41.80833184,-87.68698874
 8155,47th Street & Western Avenue,41.80838174,-87.6845683
+8156,47th Street & Western Boulevard,41.80836536,-87.68361759
+8157,47th Street & Oakley,41.80838285,-87.68211191
+8158,47th Street & Hoyne,41.80843558,-87.67722461
+8160,47th Street & Damen,41.80845449,-87.67484062
+8161,47th Street & Wolcott,41.80846372,-87.67232813
 8166,47th Street & Loomis,41.80860867,-87.66023845
 8167,47th Street & Throop,41.80864067,-87.65778946
 8168,47th Street & Racine,41.80867182,-87.6553958
@@ -5226,6 +5245,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8601,Bryn Mawr & Chester,41.98116523,-87.8389771
 8602,Bryn Mawr & Gregory,41.98013986,-87.83701282
 8603,Bryn Mawr & Gregory,41.98032186,-87.83718982
+8611,North Avenue Beach,41.91402986,-87.62567975
 8613,Columbus & Randolph,41.88469586,-87.62080175
 8614,Broadway & Hollywood,41.98551587,-87.66024677
 8615,Ashland & Catalpa,41.98176387,-87.66986877
@@ -5236,7 +5256,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8620,Ashland & Foster,41.97641641,-87.66949463
 8621,Ashland & Berwyn,41.97790987,-87.66957977
 8622,Ashland & Balmoral,41.97972928,-87.66958659
-8623,Ashland & Catalpa,41.98157687,-87.66965877
+8623,Ashland & Catalpa,41.98153734,-87.6696317
 8627,Ups Facility Stop 1,41.74761182,-87.88430281
 8628,Ups Facility Stop 2,41.75019982,-87.88234281
 8629,69th Street & State (Red Line),41.76911576,-87.62527625
@@ -5269,6 +5289,10 @@ stop_id,stop_name,stop_lat,stop_lon
 8735,Damen & Garfield,41.79411114,-87.67421247
 8736,Damen & 54th Street,41.79566484,-87.67418376
 8738,Damen & 52nd Street,41.79933232,-87.67437563
+8739,Damen & 51st Street,41.80113284,-87.67437076
+8740,Damen & 50th Street,41.80295184,-87.67443076
+8741,Damen & 49th Street,41.80510484,-87.67449576
+8742,Damen & 48th Street,41.80665284,-87.67455376
 8749,Damen & Archer,41.83211741,-87.67525625
 8750,Damen & 33rd Street,41.83394684,-87.67530376
 8751,2559 S Damen,41.84478385,-87.67549776
@@ -5279,6 +5303,8 @@ stop_id,stop_name,stop_lat,stop_lon
 8757,Damen & 33rd Street,41.83411184,-87.67544876
 8758,Damen & Archer,41.83192573,-87.67540223
 8759,Midway Orange Line Station,41.78643568,-87.73845014
+8767,Damen & 49th Street,41.80500984,-87.67464276
+8768,Damen & 50th Street,41.80318532,-87.67464651
 8770,Damen & 52nd Street,41.79910351,-87.67455646
 8771,Damen & 53rd Street,41.79764864,-87.67448002
 8772,Damen & 54th Street,41.79584364,-87.67441102
@@ -5752,6 +5778,7 @@ stop_id,stop_name,stop_lat,stop_lon
 9450,Buffalo & 90th Street,41.73216983,-87.54440871
 9451,Buffalo & 91st Street,41.73027928,-87.54438563
 9452,91st Street & Houston,41.73016205,-87.54976079
+9453,91st Street & Commercial,41.73015482,-87.55111638
 9454,87th Street & Commercial,41.73745108,-87.55173147
 9456,87th Street & Escanaba,41.73742583,-87.55366571
 9457,87th Street & Burnham,41.73739283,-87.55611271
@@ -8047,11 +8074,11 @@ stop_id,stop_name,stop_lat,stop_lon
 12631,Addison & Paris,41.94503992,-87.83024517
 12633,Addison & Pittsburgh,41.94497461,-87.83267762
 12635,Addison & Pontiac,41.94485881,-87.83512029
-12636,Central Street & Broadway/Poplar,42.06422295,-87.6980586
+12636,Central Street & Broadway/Poplar,42.064252,-87.69814772
 12637,Central Street & Broadway/Poplar,42.06442025,-87.69796194
 12639,Central Street & Girard (Purple Line),42.06417045,-87.6858232
 12640,Central Street & Girard (Purple Line),42.06425231,-87.6854749
-12641,Central Street & Green Bay Rd,42.06447698,-87.69929021
+12641,Central Street & Green Bay Rd,42.06440221,-87.69914498
 12642,Central Street & Green Bay Rd,42.06422442,-87.69885011
 12643,Central Street & Prospect,42.06470807,-87.72547405
 12644,Chicago Avenue & Dempster (Purple Line),42.04131506,-87.68068668
@@ -8437,11 +8464,11 @@ stop_id,stop_name,stop_lat,stop_lon
 14237,Central Street & McDaniel,42.06454367,-87.70752141
 14240,Ridge & Dempster,42.04101785,-87.68807903
 14254,Ridge & Oakton,42.02649427,-87.6851569
-14255,Ridge & Oakton,42.02670469,-87.68557335
+14255,Ridge & Oakton,42.02683728,-87.68557702
 14256,Ridge & Seward,42.02862821,-87.68537941
 14257,Ridge & Seward,42.02904688,-87.68582865
 14258,Ridge & Monroe,42.0306069,-87.68574304
-14259,Ridge & Monroe,42.03092194,-87.68626312
+14259,Ridge & Monroe,42.03093796,-87.68613794
 14260,Ridge & Washington,42.0326642,-87.68621057
 14261,Ridge & Washington,42.03287501,-87.68669683
 14262,Ridge & Lee,42.03571093,-87.68687741
@@ -8544,6 +8571,7 @@ stop_id,stop_name,stop_lat,stop_lon
 14470,Clarendon & Leland,41.96728734,-87.64999836
 14471,Marine Drive & Lawrence,41.96935771,-87.64960871
 14476,Ashland Orange Line Station,41.839043,-87.66539215
+14477,Simonds & Wilson/Montrose,41.96489718,-87.63921876
 14478,Exchange & 74th Street,41.76092937,-87.5621298
 14479,Exchange & 74th Street,41.76112924,-87.56182693
 14482,Randolph & Michigan,41.88429339,-87.62362601
@@ -8588,6 +8616,7 @@ stop_id,stop_name,stop_lat,stop_lon
 14538,Vincennes & 75th Street/Yale,41.75836143,-87.6311386
 14540,87th Street & Racine,41.73603507,-87.65359521
 14541,95th Street & Claremont,41.72086437,-87.6805913
+14542,Commercial & 91st Street,41.72991808,-87.55133588
 14543,111th Street & Halsted,41.69230602,-87.64212972
 14544,111th Street & King Drive,41.69282109,-87.61357547
 14545,Halsted & 119th Street,41.67799935,-87.64179146
@@ -9060,6 +9089,7 @@ stop_id,stop_name,stop_lat,stop_lon
 15235,Halsted & Summit,41.73994396,-87.64364605
 15236,Halsted & 93rd Street,41.72533826,-87.64319339
 15237,Burley & 92nd Street,41.72848982,-87.54555464
+15238,91st Street & Houston,41.73003403,-87.55001469
 15239,106th Street & Avenue M,41.7026874,-87.53782478
 15240,106th Street & Avenue M,41.70281812,-87.53757662
 15241,Michigan & Monroe,41.88067237,-87.62419229
@@ -9067,6 +9097,7 @@ stop_id,stop_name,stop_lat,stop_lon
 15243,Ashland & Diversey,41.93271079,-87.66826281
 15244,California & 24th Boulevard,41.84818299,-87.69526476
 15245,Pershing & Damen,41.82304518,-87.67473147
+15246,47th Street & Damen,41.80856948,-87.67535681
 15247,State & 73rd Street,41.76212548,-87.62472204
 15248,State & 77th Street,41.75486817,-87.62457667
 15249,Ashland & 87th Street,41.73549049,-87.66321007
@@ -9120,7 +9151,9 @@ stop_id,stop_name,stop_lat,stop_lon
 15316,35th Street & Michigan,41.83110757,-87.62370567
 15318,Chicago & Clark,42.0495527,-87.67816356
 15319,Rogers & Paulina,42.01745538,-87.67242718
+15322,California & Pershing,41.82301159,-87.6945279
 15323,Western & 53rd Street,41.7976821,-87.68403545
+15324,47th Street & Wood,41.80851187,-87.66951656
 15326,63rd Street & Central,41.77799888,-87.76131669
 15327,79th Street & Loomis,41.75036976,-87.65834573
 15329,79th Street & Racine,41.75057147,-87.65399327
@@ -9278,6 +9311,7 @@ stop_id,stop_name,stop_lat,stop_lon
 15673,Homan & Monroe,41.8793895,-87.71104494
 15674,Homan & Roosevelt,41.86602469,-87.71063148
 15676,Division & Wells,41.90392476,-87.63492607
+15678,Commercial & 89th Street,41.73395384,-87.55127497
 15679,Kedzie & Lake (Green Line),41.88414692,-87.70629935
 15680,Kedzie & 73rd Street,41.7610331,-87.70262392
 15681,75th Street & Normal,41.75991282,-87.63742977
@@ -9648,7 +9682,7 @@ stop_id,stop_name,stop_lat,stop_lon
 17132,Lawrence & Central Park,41.96828994,-87.71804563
 17133,Lawrence & Kilpatrick,41.9681304,-87.74554394
 17135,Milwaukee & Hubbard/Union,41.89032267,-87.64609666
-17136,Milwaukee & Elston,41.89765446,-87.65745278
+17136,Milwaukee & Racine,41.89765446,-87.65745278
 17138,Irving Park & Kildare,41.95367662,-87.73566725
 17139,Sedgwick & North Ave,41.91091063,-87.63866755
 17140,Sedgwick & Blackhawk,41.90910821,-87.63860893
@@ -10151,6 +10185,7 @@ stop_id,stop_name,stop_lat,stop_lon
 17951,Halsted & 53rd Street,41.79801506,-87.64514097
 17953,Halsted & Marquette Rd,41.77234534,-87.64471675
 17957,75th Street & King Drive,41.75847659,-87.6153709
+17961,31st Street Beach,41.83904446,-87.60770969
 17966,63rd Street & Latrobe,41.77828855,-87.75335718
 17967,Cottage Grove & 67th Street,41.77291338,-87.60589981
 17968,71st Street & Jeffery,41.76626841,-87.5766342
@@ -10305,6 +10340,7 @@ stop_id,stop_name,stop_lat,stop_lon
 18251,Union Station Transit Center,41.87775325,-87.63987518
 18252,Union Station Transit Center,41.87785369,-87.63988467
 18255,Clark & Huron,41.89473689,-87.63129354
+18257,47th Street & Ashland,41.80867674,-87.66523454
 18258,47th Street & Ashland,41.80854579,-87.66467716
 18260,Belmont & Long,41.93858873,-87.7613608
 18261,Kimball & Wrightwood,41.92813325,-87.71228769
@@ -10355,6 +10391,7 @@ stop_id,stop_name,stop_lat,stop_lon
 18335,Harrison & Loomis,41.87426785,-87.66192607
 18336,Harrison & Loomis,41.87414943,-87.66159397
 18337,Diversey & Austin,41.93108495,-87.77563099
+18338,Ashland & Grace,41.95039915,-87.66908624
 18339,Harrison & Throop,41.87411301,-87.65943967
 18340,Harrison & Throop,41.87433651,-87.6596553
 18342,7061 N. Kedzie,42.01044319,-87.70929844
@@ -10395,6 +10432,7 @@ stop_id,stop_name,stop_lat,stop_lon
 18394,Kimball & Belmont (Blue Line),41.93910066,-87.71257087
 18395,Roosevelt & Ashland,41.86696864,-87.66672821
 18396,Michigan & Monroe,41.88063279,-87.62452219
+18400,47th Street & Hoyne,41.80857851,-87.67740708
 18401,Ashland & Farwell,42.00651875,-87.66991976
 18402,Orleans & Oak,41.90072162,-87.63724585
 18403,Harlem & 61st Place,41.78013215,-87.8012431
@@ -10430,7 +10468,7 @@ stop_id,stop_name,stop_lat,stop_lon
 18448,55th Street & Kenneth,41.79304814,-87.73433645
 18449,Dodge & Main,42.03406625,-87.69914231
 18450,Dodge & Oakton,42.02677531,-87.69937938
-18451,Pullman Community Center,41.70420698,-87.59437306
+18451,Pullman Community Center,41.70374746,-87.59438148
 18453,Montrose & Lincoln,41.96134154,-87.68350937
 18454,Broadway & Cullom,41.96018046,-87.6541382
 18455,Broadway & Cullom,41.96066262,-87.6545347
@@ -10546,6 +10584,7 @@ stop_id,stop_name,stop_lat,stop_lon
 18678,Belmont & Oakley,41.93943541,-87.68530361
 18679,Belmont & Hoyne,41.93948351,-87.68044691
 18680,Belmont & Hoyne,41.93962406,-87.68102384
+18681,Commercial & 91st Street,41.7303934,-87.55118485
 18683,Ashland & 43rd Street,41.81617101,-87.66498326
 18684,Ashland & 46th Street,41.81027968,-87.66513865
 18686,Commercial & 92nd Street,41.72801724,-87.5512858
@@ -10567,6 +10606,7 @@ stop_id,stop_name,stop_lat,stop_lon
 18702,Belmont & Seminary,41.93980797,-87.65636199
 18703,Belmont & Seminary,41.93994193,-87.65668798
 18704,Irving Park & Hermitage,41.95435975,-87.67250371
+18706,63rd Street Beach,41.78002886,-87.57521205
 18707,Milwaukee & Wabansia,41.91213733,-87.68003899
 18708,Addison & Kilbourn,41.94627356,-87.73965109
 18709,Ridge & Dempster,42.0410374,-87.68844711
@@ -10616,6 +10656,7 @@ stop_id,stop_name,stop_lat,stop_lon
 18763,Fairbanks & Ohio,41.89289758,-87.6201456
 18764,Western Brown Line Station,41.96560718,-87.68869881
 18765,Lawrence Red Line Station,41.96910324,-87.65903582
+18768,Commercial & 92nd Street,41.72856052,-87.55113966
 18769,Clark & Kinzie,41.88870164,-87.6311423
 18770,Irving Park & Ashland,41.95421013,-87.66826298
 18771,Taylor & Paulina,41.86916344,-87.6684578
@@ -10626,6 +10667,7 @@ stop_id,stop_name,stop_lat,stop_lon
 18776,59th Street & Normal,41.78707833,-87.63709498
 18777,59th Street & Normal,41.78721194,-87.63805586
 18778,59th Street & Union,41.78712534,-87.64280421
+18781,Damen & 48th Street,41.80635679,-87.67472665
 18782,Ford City,41.75564953,-87.73292114
 18783,41st Street & Emerald,41.82019531,-87.64483775
 18784,111th Street & Campbell,41.69183566,-87.68400536
@@ -10674,6 +10716,18 @@ stop_id,stop_name,stop_lat,stop_lon
 18830,Clybourn & Cortland,41.916886,-87.65798577
 18831,Archer & California,41.81947772,-87.69565398
 18832,Elston & Cortland,41.91572975,-87.66576902
+18833,71st Street & Washtenaw,41.76464207,-87.69101345
+18834,Ashland & Catalpa,41.98144558,-87.66988478
+18835,Ashland & Catalpa,41.98185323,-87.66964491
+18836,Ashland & Hollywood,41.98500033,-87.66972378
+18837,Oakton & Hartrey,42.02658097,-87.70468175
+18838,Ridge & Monroe,42.03105432,-87.68597874
+18839,Central Street & Green Bay Rd,42.06440096,-87.6997067
+18840,Central Street & Green Bay Rd,42.06428053,-87.69990056
+18841,Central Street & Broadway/Poplar,42.06424772,-87.69762043
+18842,Ridge & Monroe,42.03056215,-87.68603596
+18843,Ridge & Oakton,42.02624854,-87.68547531
+18844,North Ave & Taylor,41.9091143,-87.77779973
 30001,Austin-Blue,41.870851,-87.776812
 30002,Austin-Blue,41.870851,-87.776812
 30003,Harlem-Green,41.886848,-87.803176
@@ -11115,12 +11169,12 @@ stop_id,stop_name,stop_lat,stop_lon
 41690,Cermak-McCormick Place,41.853115,-87.626402
 41700,Washington/Wabash,41.88322,-87.626189
 41710,Damen (Green),41.88497405,-87.67689149
-60000,Clark/Division - NW corner,41.904,-87.6315
-60001,Clark/Division - NE corner,41.904,-87.6314
-60002,Clark/Division - SW corner,41.9038,-87.6315
-60003,Clark/Division - SE corner,41.9038,-87.6314
-60004,LaSalle/Division NE corner,41.904,-87.6328
-60005,LaSalle/Division SE corner),41.9038,-87.6328
+60000,Clark/Division (NW corner),41.904,-87.6315
+60001,Clark/Division (NE corner),41.904,-87.6314
+60002,Clark/Division (SW corner),41.9038,-87.6315
+60003,Clark/Division (SE corner),41.9038,-87.6314
+60004,Clark/Division (LaSalle/Division NE corner),41.904,-87.6328
+60005,Clark/Divison (LaSalle/Division SE corner),41.9038,-87.6328
 60006,Clark/Division (LaSalle/Division SE corner elevator),41.90382,-87.6328
 60007,Harlem/Lake (Harlem Av entry),41.8868,-87.8051
 60008,Harlem/Lake (Marion St entry),41.8868,-87.8033
