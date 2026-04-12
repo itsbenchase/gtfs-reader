@@ -135,7 +135,7 @@ function findRoute(result)
       if (count >= 10) {
         let span = times[times.length - 1] - times[0];
         let avgHeadway = Math.round(span / (count - 1));
-        displayValue = `${avgHeadway} mins (daytime)`;
+        displayValue = `${avgHeadway} mins`;
       } else {
         // If less than 10, just show the count
         if (count == 1)
