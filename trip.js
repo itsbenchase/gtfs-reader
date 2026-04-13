@@ -14,6 +14,7 @@ const cumLats = [];
 const cumLons = [];
 
 const currentStopIds = [];
+const allStopsMap = [];
 
 var result = "no data";
 var agency = "no data";
@@ -61,117 +62,59 @@ function funct()
       })
 }
 
-function getStops(result)
-{
-  const stopUrl = ("https://itsbenchase.github.io/gtfs-reader/" + agency + "_stops.txt"); // provide file location
-    fetch(stopUrl)
-      .then(r => r.text())
-      .then((text) => {
-        const stopUrlFile = text.split("\n");
-        stopUrlFile.pop();
+function getStops(result) {
+  const stopUrl = ("https://itsbenchase.github.io/gtfs-reader/" + agency + "_stops.txt");
+  fetch(stopUrl)
+    .then(r => r.text())
+    .then((text) => {
+      const stopUrlFile = text.split("\n");
+      stopUrlFile.pop();
 
-        for (let i = 0; i < stopUrlFile.length; i++)
-        {
-          var data = stopUrlFile[i];
-          stopId.push(data.substring(0, data.indexOf(",")));
-          data = data.substr(data.indexOf(",") + 1);
-          stopName.push(data.substring(0, data.indexOf(",")));
-          data = data.substr(data.indexOf(",") + 1);
-          stopLat.push(data.substring(0, data.indexOf(",")));
-          data = data.substr(data.indexOf(",") + 1);
-          stopLon.push(data);
-        }
-
-        findTrip(result)
-      })
+      for (let i = 0; i < stopUrlFile.length; i++) {
+        var data = stopUrlFile[i].split(","); // Using split is cleaner for CSV
+        stopId.push(data[0]);
+        stopName.push(data[1]);
+        stopLat.push(data[2]);
+        stopLon.push(data[3]);
+        
+        // Map ID to Lat/Lon for the utility to use
+        allStopsMap[data[0]] = { lat: parseFloat(data[2]), lon: parseFloat(data[3]) };
+      }
+      findTrip(result);
+    });
 }
 
-function findTrip(result)
-{
-  for (let i = 0; i < tripId.length; i++)
-  {
-    if (tripId[i] == result)
-    {      
+function findTrip(result) {
+  for (let i = 0; i < tripId.length; i++) {
+    if (tripId[i] == result) {
+      // 1. Basic Info
       document.getElementById("route").innerHTML += ("<a href=route.html?agency=" + agency + "&route=" + tripRoute[i] + ">" + tripRoute[i] + "</a>");
+      document.getElementById("headsign").innerHTML += (tripHeadsign[i]);
       document.getElementById("days").innerHTML += (tripDays[i]);
 
-      var tripStartTime = tripStopTimes[i][0];
-      var tripEndTime = tripStopTimes[i][tripStopTimes[i].length - 1];
+      // NEW: Call the utility here where 'i' and data are valid
+      // Note: use 'allStopsMap' if you followed the previous step to map your stops
+      const stats = calculateTripStats(tripStopIds[i], tripStopTimes[i], allStopsMap);
 
-      var startHr = Number(tripStartTime.substring(0, 2));
-      var startMin = Number(tripStartTime.substring(3, 5));
-      var endHr = Number(tripEndTime.substring(0, 2));
-      var endMin = Number(tripEndTime.substring(3, 5));
+      // 3. Update the UI using the stats object
+      document.getElementById("duration").innerHTML = ("<b>Trip Duration:</b> " + stats.duration + " minutes");
+      document.getElementById("dist").innerHTML = ("<b>Trip Distance:</b> " + stats.distance + " miles");
+      document.getElementById("speed").innerHTML = ("<b>Trip Speed:</b> " + stats.speed + " miles per hour");
+      
+      const spacing = stats.distance / (tripStopIds[i].length - 1);
+      document.getElementById("spacing").innerHTML = ("<b>Stop Spacing:</b> " + (Math.round(spacing * 100) / 100) + " miles");
 
-      tripStartTime = (startHr * 60) + startMin;
-      tripEndTime = (endHr * 60) + endMin;
-      var duration = tripEndTime - tripStartTime;
-      document.getElementById("duration").innerHTML = ("<b>Trip Duration:</b> " + duration + " minutes");
-
-      var tripLength = 0.00;
-
-      for (let j = 0; j < tripStopTimes[i].length; j++)
-      {
-        for (let k = 0; k < stopId.length; k++)
-        {
-          if (stopId[k] == tripStopIds[i][j])
-          {
+      // 4. List the Stops (Existing UI Logic)
+      for (let j = 0; j < tripStopTimes[i].length; j++) {
+        for (let k = 0; k < stopId.length; k++) {
+          if (stopId[k] == tripStopIds[i][j]) {
             document.getElementById("stops").innerHTML += ("<br>" + tripStopTimes[i][j] + " | " + stopName[k]);
-
-            cumLats.push(stopLat[k]);
-            cumLons.push(stopLon[k]);
             currentStopIds.push(stopId[k]);
-
-            if (cumLats.length > 1)
-            {
-              tripLength = cumulative();
-              document.getElementById("dist").innerHTML = ("<b>Trip Distance:</b> " + tripLength + " miles");
-              
-              var speed = (tripLength / duration) * 60.0;
-              speed = Math.round(speed * 100.0) / 100.0;
-              document.getElementById("speed").innerHTML = ("<b>Trip Speed:</b> " + speed + " miles per hour");
-
-              var spacing = tripLength / (cumLats.length - 1);
-              spacing = Math.round(spacing * 100.0) / 100.0;
-              document.getElementById("spacing").innerHTML = ("<b>Stop Spacing:</b> " + spacing + " miles");
-            }
           }
         }
       }
     }
   }
-}
-
-function cumulative()
-{
-  // haversine formula loop
-  // spherical trig cause this is the globe
-  // cumLats.length will increase by 1 each run
-  var dist = 0;
-  for (let i = 1; i < cumLats.length; i++)
-  {
-    var lon1 = toRadians(Math.abs(cumLons[i - 1]));
-    var lon2 = toRadians(Math.abs(cumLons[i]));
-    var lat1 = toRadians(Math.abs(cumLats[i - 1]));
-    var lat2 = toRadians(Math.abs(cumLats[i]));
-    var dlon = lon2 - lon1;
-    var dlat = lat2 - lat1;
-    var a = Math.pow(Math.sin(dlat / 2), 2) + Math.cos(lat1) * Math.cos(lat2) * Math.pow(Math.sin(dlon / 2), 2);      
-    var c = 2 * Math.asin(Math.sqrt(a));
-    var r = 3963;
-
-    dist += c * r;
-  }
-
-  // dist rounded for display
-  dist = Math.round(dist * 100.0) / 100.0;
-  
-  return dist;
-}
-
-function toRadians(degrees)
-{
-  return degrees * (Math.PI / 180);
 }
 
 function getStopIDs()
