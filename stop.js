@@ -171,6 +171,31 @@ function findTrips(result) {
   // 5. RENDER SUMMARY STATS (Headways)
   for (let j = 0; j < 7; j++) {
     let statsHtml = "";
+    let combinedTimes = []; // Array to hold all times for this time bin
+
+    // First, collect all times across all headsigns
+    for (let headsign in timeBins[j]) {
+      combinedTimes.push(...timeBins[j][headsign]);
+    }
+
+    // Calculate Overall Frequency
+    if (combinedTimes.length > 0) {
+      let allTimesSorted = combinedTimes.sort((a, b) => a - b);
+      let totalCount = allTimesSorted.length;
+      let overallDisplay = "";
+
+      if (totalCount >= 10) {
+        let span = allTimesSorted[totalCount - 1] - allTimesSorted[0];
+        let avgHeadway = Math.round(span / (totalCount - 1));
+        overallDisplay = `${avgHeadway} mins`;
+      } else {
+        overallDisplay = (totalCount === 1) ? `1 trip` : `${totalCount} trips`;
+      }
+      
+      // Add the "Overall" line at the top of the summary
+      statsHtml += `<br>Overall: ${overallDisplay}`;
+    }
+
     for (let headsign in timeBins[j]) {
       let times = timeBins[j][headsign].sort((a, b) => a - b);
       let count = times.length;
