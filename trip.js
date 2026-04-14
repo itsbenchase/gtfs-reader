@@ -92,27 +92,40 @@ function findTrip(result) {
       document.getElementById("headsign").innerHTML += (tripHeadsign[i]);
       document.getElementById("days").innerHTML += (tripDays[i]);
 
-      // NEW: Call the utility here where 'i' and data are valid
-      // Note: use 'allStopsMap' if you followed the previous step to map your stops
-      const stats = calculateTripStats(tripStopIds[i], tripStopTimes[i], allStopsMap);
-
-      // 3. Update the UI using the stats object
-      document.getElementById("duration").innerHTML = ("<b>Trip Duration:</b> " + stats.duration + " minutes");
-      document.getElementById("dist").innerHTML = ("<b>Trip Distance:</b> " + stats.distance + " miles");
-      document.getElementById("speed").innerHTML = ("<b>Trip Speed:</b> " + stats.speed + " miles per hour");
-      
-      const spacing = stats.distance / (tripStopIds[i].length - 1);
-      document.getElementById("spacing").innerHTML = ("<b>Stop Spacing:</b> " + (Math.round(spacing * 100) / 100) + " miles");
-
-      // 4. List the Stops (Existing UI Logic)
+      // 2. List the Stops & Calculate Cumulative Stats
       for (let j = 0; j < tripStopTimes[i].length; j++) {
+        
+        // --- CUMULATIVE CALCULATION START ---
+        // Create a slice of stops from index 0 up to the current stop (j + 1)
+        const currentStopSlice = tripStopIds[i].slice(0, j + 1);
+        const currentTimeSlice = tripStopTimes[i].slice(0, j + 1);
+        
+        // Calculate stats for the trip up to this specific stop
+        const stats = calculateTripStats(currentStopSlice, currentTimeSlice, allStopsMap);
+        
+        // Determine spacing (only if more than 1 stop has been reached)
+        const spacing = j > 0 ? (stats.distance / j) : 0;
+        // --- CUMULATIVE CALCULATION END ---
+
         for (let k = 0; k < stopId.length; k++) {
           if (stopId[k] == tripStopIds[i][j]) {
             const stopLink = `stop.html?agency=${agency}&stop=${tripStopIds[i][j]}`;
-            document.getElementById("stops").innerHTML += ("<br><a href=" + stopLink +">" + tripStopTimes[i][j] + "</a> | " + stopName[k]);
+            
+            // Build the string for this specific stop row
+            // We include the cumulative distance/duration in the row itself
+            let stopRow = `<td><a href="${stopLink}">${tripStopTimes[i][j]}</a></td><td>${stopName[k]}</td><td>${stats.distance} mi</td><td>${stats.duration} min</td><td>${stats.speed} mph</td>`;
+            
+            document.getElementById("stops").innerHTML += stopRow;
             currentStopIds.push(stopId[k]);
           }
         }
+
+        // 3. Update the Main UI Stats
+        // This will reflect the "Total" stats by the time the loop finishes
+        document.getElementById("duration").innerHTML = ("<b>Trip Duration:</b> " + stats.duration + " minutes");
+        document.getElementById("dist").innerHTML = ("<b>Trip Distance:</b> " + stats.distance + " miles");
+        document.getElementById("speed").innerHTML = ("<b>Trip Speed:</b> " + stats.speed + " miles per hour");
+        document.getElementById("spacing").innerHTML = ("<b>Stop Spacing:</b> " + (Math.round(spacing * 100) / 100) + " miles");
       }
     }
   }
