@@ -1,0 +1,79 @@
+html
+{
+    background-color: #d9ffde;
+}
+
+@font-face {
+    font-family: sourcesans;
+    src: url("https://dev.eliotindex.org/font.ttf");
+}
+
+button
+{
+    font-family: sourcesans;
+    font-size: 16pt;
+    background-color: #bcf5c4;
+    border: 1px solid #000000;
+}
+
+h1
+{
+    font-family: sourcesans;
+    font-size: 40pt;
+    color: #1aab2d;
+}
+
+h3
+{
+    font-family: sourcesans;
+    font-size: 20pt;
+    color: #1aab2d;
+}
+
+p
+{
+    font-family: sourcesans;
+    font-size: 16pt;
+    color: #000000;
+}
+
+table
+{
+    font-family: sourcesans;
+    font-size: 16pt;
+}
+
+th, td 
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #000000;
+}
+
+a:link
+{
+    color: #1aab2d;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: #1aab2d;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #1aab2d;
+    text-decoration: none;
+}
+
+a.route
+{
+    color: red;
+}
+
+.active
+{
+    background-color: #ace8b4;
+}

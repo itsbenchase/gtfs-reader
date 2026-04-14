@@ -108,7 +108,8 @@ function findTrip(result) {
       for (let j = 0; j < tripStopTimes[i].length; j++) {
         for (let k = 0; k < stopId.length; k++) {
           if (stopId[k] == tripStopIds[i][j]) {
-            document.getElementById("stops").innerHTML += ("<br>" + tripStopTimes[i][j] + " | " + stopName[k]);
+            const stopLink = `stop.html?agency=${agency}&stop=${tripStopIds[i][j]}`;
+            document.getElementById("stops").innerHTML += ("<br><a href=" + stopLink +">" + tripStopTimes[i][j] + "</a> | " + stopName[k]);
             currentStopIds.push(stopId[k]);
           }
         }
