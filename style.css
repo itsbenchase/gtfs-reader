@@ -52,13 +52,13 @@ th, td
 
 a:link
 {
-    color: #1aab2d;
+    color: green;
     text-decoration: none;
 }
 
 a:visited
 {
-    color: #1aab2d;
+    color: green;
     text-decoration: none;
 }
 
@@ -71,6 +71,19 @@ a:hover
 a.route
 {
     color: red;
+}
+a.route:hover
+{
+    color: rgb(255, 89, 89);
+}
+
+a.stop
+{
+    color: blue;
+}
+a.stop:hover
+{
+    color: rgb(103, 103, 255);
 }
 
 .active

@@ -103,6 +103,7 @@ function findTrips(result) {
   let dayCounts = [0, 0, 0, 0, 0, 0, 0];
   let dayNames = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
   let timeBins = {};
+  let stopRoutes = [];
   
   // Temporary storage to hold trip objects before sorting
   let tripsByDay = { 0: [], 1: [], 2: [], 3: [], 4: [], 5: [], 6: [] };
@@ -112,7 +113,7 @@ function findTrips(result) {
     document.getElementById("summary").innerHTML += `<br><span id="trip-count-${j}">${dayNames[j]} Trips: 0</span><span id="stats-${j}"></span><br>`;
     timeBins[j] = {};
   }
-
+  
   for (let i = 0; i < stopId.length; i++) {
     if (stopId[i] == result) {
       document.getElementById("stop").innerHTML += `${stopName[i]} (${stopId[i]})`;
@@ -127,6 +128,12 @@ function findTrips(result) {
             let [hrs, mins] = timeStr.split(':').map(Number);
             let totalMins = (hrs * 60) + mins;
             let headsign = tripHeadsign[l];
+            
+            // add route to stop
+            if (!stopRoutes.includes(tripRoute[l]))
+            {
+              stopRoutes.push(tripRoute[l]);
+            }
 
             // 2. CREATE A TRIP OBJECT
             const tripObj = {
@@ -213,5 +220,48 @@ function findTrips(result) {
     }
     document.getElementById("stats-" + j).innerHTML = statsHtml;
     document.getElementById("trip-count-" + j).innerText = `${dayNames[j]} Trips: ${tripsByDay[j].length}`;
+  }
+
+  // list routes at stop
+  for (let x = 0; x < stopRoutes.length; x++)
+  {
+    document.getElementById("routes").innerHTML += `<a class=route href=route.html?agency=${agency}&route=${stopRoutes[x]}>${stopRoutes[x]}</a>`;
+    if (stopRoutes.length > (x + 1))
+    {
+      document.getElementById("routes").innerHTML += (" / ");
+    }
+  }  
+
+  findNearby(result)
+}
+
+function findNearby(result)
+{
+  var refIdx = stopId.indexOf(result);
+  var refLat = stopLat[refIdx];
+  var refLon = stopLon[refIdx];
+  var nearby = [];
+
+  for (let i = 0; i < stopId.length; i++)
+  {
+    if (i === refIdx) { continue; }
+
+    var dist = calculateDistance(refLat, refLon, stopLat[i], stopLon[i]);
+    dist = Math.round(dist * 100) / 100;
+
+    if (dist <= 0.25)
+    {
+      nearby.push({
+        id: stopId[i],
+        name: stopName[i],
+        distance: dist
+      });
+    }
+  }
+  
+  nearby.sort((a, b) => a.distance - b.distance);
+  for (let i = 0; i < nearby.length; i++)
+  {
+    document.getElementById("nearby").innerHTML += ("<td><a class=stop href=stop.html?agency=" + agency + "&stop=" + nearby[i].id + ">" + nearby[i].id + "</a></td><td>" + nearby[i].name + "</td><td>" + nearby[i].distance + " mi.</td>");
   }
 }
