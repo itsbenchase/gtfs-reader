@@ -85,12 +85,21 @@ function getStops(result) {
 }
 
 function findTrip(result) {
+  var daysShort = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
   for (let i = 0; i < tripId.length; i++) {
     if (tripId[i] == result) {
       // 1. Basic Info
       document.getElementById("route").innerHTML += ("<a href=route.html?agency=" + agency + "&route=" + tripRoute[i] + ">" + tripRoute[i] + "</a>");
       document.getElementById("headsign").innerHTML += (tripHeadsign[i]);
-      document.getElementById("days").innerHTML += (tripDays[i]);
+
+      for (let x = 0; x < tripDays[i].length; x++)
+      {
+        document.getElementById("days").innerHTML += (daysShort[tripDays[i][x]]);
+        if (tripDays[i].length > (x + 1))
+        {
+          document.getElementById("days").innerHTML += (" / ");
+        }
+      }  
 
       // 2. List the Stops & Calculate Cumulative Stats
       for (let j = 0; j < tripStopTimes[i].length; j++) {
