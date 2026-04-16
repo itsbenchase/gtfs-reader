@@ -225,7 +225,7 @@ function findTrips(result) {
   // list routes at stop
   for (let x = 0; x < stopRoutes.length; x++)
   {
-    document.getElementById("routes").innerHTML += `<a class=route href=route.html?agency=${agency}&route=${stopRoutes[x]}>${stopRoutes[x]}</a>`;
+    document.getElementById("routes").innerHTML += `<a class='route' href='route.html?agency=${agency}&route=${stopRoutes[x]}'>${stopRoutes[x]}</a>`;
     if (stopRoutes.length > (x + 1))
     {
       document.getElementById("routes").innerHTML += (" / ");

@@ -89,7 +89,7 @@ function findTrip(result) {
   for (let i = 0; i < tripId.length; i++) {
     if (tripId[i] == result) {
       // 1. Basic Info
-      document.getElementById("route").innerHTML += ("<a href=route.html?agency=" + agency + "&route=" + tripRoute[i] + ">" + tripRoute[i] + "</a>");
+      document.getElementById("route").innerHTML += ("<a href='route.html?agency=" + agency + "&route=" + tripRoute[i] + "'>" + tripRoute[i] + "</a>");
       document.getElementById("headsign").innerHTML += (tripHeadsign[i]);
 
       for (let x = 0; x < tripDays[i].length; x++)

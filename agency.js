@@ -35,6 +35,6 @@ function getRoutes(agency)
 {
   for (let i = 0; i < routeID.length; i++)
   {
-    document.getElementById("routes").innerHTML += `<td><a class=route href=trip.html?agency=${agency}&route=${routeID[i]}>${routeID[i]}</a></td><td>${routeName[i]}</td>`;
+    document.getElementById("routes").innerHTML += `<td><a class='route' href='route.html?agency=${agency}&route=${routeID[i]}'>${routeID[i]}</a></td><td>${routeName[i]}</td>`;
   }
 }
