@@ -1,0 +1,1974 @@
+1,"South Deerfield Center",42.477045,-72.607454
+10,"Silver Lane",42.454685,-72.567691
+100,"Haydenville Center OB",42.374311,-72.701847
+1000,"Plainfield / Wason",42.123722,-72.617441
+10006,"MassMutual Enfield",42.018190,-72.584911
+1001,"Bay / Aster",42.124004,-72.560011
+1002,"Springfield / Medical Ctr Drive (across)",42.123712,-72.603921
+1003,"Carew / Van Horn",42.123644,-72.586598
+1005,"Liberty / Cleveland",42.123626,-72.584259
+1006,"Springfield / Medical Ctr Drive",42.123469,-72.603901
+1007,"3300 Main Street",42.123174,-72.609741
+1008,"Carew/Van Horn(opposite)",42.123496,-72.586603
+1009,"Bay / Edgewood",42.121816,-72.561574
+101,"Haydenville IB",42.374226,-72.701847
+1012,"State / Tilton (1)",42.123253,-72.542139
+1013,"Liberty / Cleveland",42.122942,-72.584344
+1014,"Main/Noble",42.123080,-72.609528
+1015,"State / Tilton (2)",42.123619,-72.540950
+1017,"Plainfield / Demond",42.122388,-72.616730
+1018,"Elm / Lower Grandview (1)",42.121992,-72.627419
+102,"North East Street (Out)",42.376194,-72.501264
+1020,"Parker / Sunrise (1)",42.123237,-72.497467
+1022,"Carew / Armory",42.122357,-72.588055
+1023,"Carew / Armory",42.122202,-72.588450
+1024,"Plainfield / Laurel",42.121969,-72.616608
+1026,"Main / Mechanic",42.120474,-72.745437
+1027,"Court / Washington",42.120344,-72.752822
+1029,"State / Ivanhoe (2)",42.122823,-72.542668
+103,"Jones Library (Out)",42.375891,-72.521293
+1030,"Parker / Sunrise (2)",42.122615,-72.497503
+1031,"Liberty / Phoenix",42.121751,-72.584177
+1032,"Elm / Dingle (2)",42.121436,-72.627338
+1033,"Court / Bates",42.119950,-72.756151
+1035,"Bay / Edgewood",42.121765,-72.561791
+1036,"Bay / Bertil Hammarlof",42.122839,-72.560696
+1037,"Independence House",42.121700,-72.549337
+1038,"Parker / Brewster",42.122193,-72.497776
+1039,"Plainfield / Talcott",42.121087,-72.616006
+104,"Gray Street (In)",42.375965,-72.511279
+1040,"State / Edgemont",42.121964,-72.544127
+1041,"Main / George",42.119676,-72.743277
+1042,"Carew / Nye",42.121234,-72.590014
+1043,"Carew / Parkside",42.121120,-72.590531
+1044,"Court / High",42.119305,-72.760401
+1046,"Court / Mill",42.119220,-72.759283
+1049,"Elm / Lower Grandview (2)",42.120360,-72.627493
+105,"Churchill Street",42.375886,-72.516554
+1051,"Chestnut / Baystate Medical Center Drive",42.120544,-72.605243
+1052,"Plainfield / Abbe (1)",42.120356,-72.615739
+1053,"Chestnut / Baystate Medical Center",42.120345,-72.604985
+1054,"State / Hillmont",42.121167,-72.544839
+1056,"Main / Meadow",42.119181,-72.740289
+1058,"Parker / Mallowhill",42.121315,-72.497896
+106,"Gray Street (Out)",42.375831,-72.511924
+1061,"Kindred Hospital",42.120687,-72.545477
+1062,"Plainfield / Abbe (2)",42.120345,-72.615609
+1063,"Carew / Melha",42.120245,-72.592485
+1064,"Carew / Melha",42.120119,-72.592470
+1065,"Bay/Oak Grove (across)",42.120073,-72.563426
+1066,"Main/Cumberland",42.119908,-72.608199
+1067,"Elm / Lower Grandview (3)",42.119676,-72.627430
+1068,"Main/Cumberland(opposite)",42.119629,-72.608242
+1069,"Main / Noble",42.118184,-72.736920
+107,"Lincoln Avenue (Out)",42.375687,-72.523900
+1070,"Bay / Oak Grove",42.120294,-72.563107
+1075,"State / Clarence",42.119965,-72.545886
+1077,"Chestnut / Waverly",42.119303,-72.604580
+1078,"Parker / Burns",42.120262,-72.498379
+1079,"State / Blunt Park",42.119670,-72.546328
+108,"Aspen Chase Apts (In)",42.375824,-72.507237
+1080,"Elm / Larone (1)",42.118693,-72.627667
+1081,"Chestnut / Pratt",42.118975,-72.604050
+1083,"Plainfield / Clayton",42.118769,-72.614878
+1084,"Blunt Park / State",42.119425,-72.548216
+1089,"Elm / Larone (2)",42.118497,-72.627559
+109,"Aspen Chase Apts (Out)",42.375706,-72.507403
+1090,"Broad / Bush",42.117288,-72.748228
+1091,"Plainfield / Clayton (opposite)",42.118678,-72.614726
+1093,"Main/Portland",42.118595,-72.607812
+1097,"Main opposite Portland",42.118493,-72.607607
+11,"Cliffside Apts",42.452232,-72.563593
+110,"Amherst Town Hall",42.375613,-72.519342
+1100,"Parker / Vincent",42.119271,-72.498551
+11003,"Holyoke High School",42.200718,-72.623228
+1101,"State / Blunt Park",42.118686,-72.546951
+11011,"Jarvis / Easthampton (Tripper Only)",42.219908,-72.639590
+1103,"Carew / Algonquin (opposite)",42.118077,-72.594920
+1104,"Chestnut / Chapin",42.117959,-72.603105
+1105,"Carew / Algonquin",42.118056,-72.594802
+1106,"Bay / Clifford",42.118374,-72.564987
+1107,"Putnam High School",42.117745,-72.548214
+1109,"Chestnut / Calhoun",42.117957,-72.602915
+111,"Heatherstone Road (Out)",42.375848,-72.481193
+1110,"Sanderson / Sanderson",42.117799,-72.614473
+11101,"Heatherstone Road (In)",42.376103,-72.481141
+11115,"Cherry / Homestead",42.201263,-72.642747
+11116,"Homestead / Cherry",42.201009,-72.642222
+1112,"Sanderson / Whiting (opposite)",42.117693,-72.616285
+11124,"Main / Sargeant",42.197465,-72.609680
+1113,"Sanderson / Whiting",42.117615,-72.616231
+1114,"Bay / Princeton",42.117846,-72.565631
+1117,"Sanderson / Division (1)",42.117401,-72.617820
+1118,"Broad / Woronoco",42.116063,-72.747735
+1119,"Elm / Sheaffer",42.117225,-72.627769
+112,"Amherst Common (N)",42.374578,-72.519759
+1120,"Sanderson / Division",42.117278,-72.617743
+1125,"Wilbraham / Bellwood",42.117710,-72.516885
+1126,"State / Insurance",42.117413,-72.548313
+1127,"Main / Hooker",42.116791,-72.607011
+1128,"Main / E. Hooker",42.116808,-72.606885
+1129,"Wilbraham / Pineview",42.117696,-72.514934
+113,"Amherst Common (S)",42.374456,-72.519947
+1130,"Elm / Eldridge",42.116639,-72.627408
+1131,"Wilbraham / Granger",42.117656,-72.512733
+1132,"Wilbraham / Denwall",42.117602,-72.514579
+1133,"Wilbraham / Catalpa",42.117629,-72.510548
+1134,"Wilbraham / Jonquil",42.117556,-72.512366
+1135,"Wilbraham / Fenway",42.117584,-72.507831
+1136,"Wilbraham / Birchland",42.117551,-72.510816
+1137,"Carew / Cass",42.116775,-72.595132
+1139,"Liberty / Ledyard",42.116765,-72.584749
+114,"Amity Place (Out)",42.374078,-72.531566
+1140,"Wilbraham / Jeffrey",42.117511,-72.508451
+1142,"Wilbraham / Lumae (2)",42.117531,-72.504358
+1143,"Carew / Bartlett",42.116658,-72.595304
+1144,"Chestnut / Bancroft",42.116552,-72.601294
+1145,"Wilbraham / Lumae (1)",42.117424,-72.504431
+1147,"Sci Tech High School",42.116878,-72.549121
+1149,"Liberty / Genesee (2)",42.116602,-72.584894
+115,"North East Street (In)",42.376288,-72.501420
+1151,"Bay / Bowles",42.116342,-72.567034
+1152,"Sanderson / Division (2)",42.115979,-72.617784
+1153,"E Main / Delmont",42.114406,-72.727518
+1154,"E Main / Westgate Plaza Dr",42.114632,-72.729652
+1156,"Parker / Ramp",42.116945,-72.498964
+1157,"Main / Huntington",42.115867,-72.606594
+1158,"Clyde / Sanderson",42.115783,-72.617591
+116,"Amherst College",42.373071,-72.518820
+1161,"Mercy Medical Center",42.116215,-72.593446
+1162,"Wilbraham / Park (2)",42.116634,-72.521076
+1167,"Wilbraham / Park (1)",42.116419,-72.521685
+1168,"Bay / Dartmouth",42.116231,-72.567012
+117,"Oak Knoll Street (Out)",42.371646,-72.480099
+11701,"Oak Knoll Street (In)",42.371657,-72.480014
+1176,"State / Berlin",42.115573,-72.551748
+1177,"Duggan Middle School (2)",42.116019,-72.525070
+1178,"Wilbraham / Kane (2)",42.116131,-72.500354
+1179,"Clyde / Plainfield",42.115180,-72.612619
+118,"Colonial Village Apts (In)",42.370291,-72.499144
+1181,"Clyde / Plainfield (2)",42.115064,-72.612732
+1183,"Duggan Middle School (1)",42.115846,-72.525177
+1184,"Wilbraham / Kane (1)",42.115922,-72.500254
+1185,"Chestnut / Hebron",42.115089,-72.599359
+1186,"Parker / Wilbraham",42.116033,-72.498620
+1187,"Main / Sheldon",42.114936,-72.606240
+119,"Colonial Village Apts (Out)",42.370193,-72.499070
+1193,"Clyde Street (2)",42.114909,-72.614557
+1194,"State / Dearborn",42.115299,-72.552158
+1195,"Clyde / M (1)",42.114633,-72.616424
+1197,"Carew / Massasoit",42.114827,-72.595813
+1199,"E Main / Westfield Shops Drive",42.113027,-72.722663
+12,"Sunderland Plaza",42.451567,-72.562870
+120,"Colonial Village Apts / South East Street (In)",42.369397,-72.501637
+1200,"Main / Jefferson",42.114526,-72.605920
+1201,"State / Cortland",42.114945,-72.553693
+1205,"Elm / Kings",42.114207,-72.625291
+1206,"Wilbraham / Barrison (2)",42.114944,-72.528020
+1207,"State / Dresden",42.114698,-72.553993
+1208,"Dwight / Osgood",42.115175,-72.602794
+1209,"Elm / Witch",42.113957,-72.625329
+121,"Colonial Village Apts / South East Street (Out)",42.369302,-72.501717
+1210,"Wilbraham / Barrison (1)",42.114870,-72.527969
+1211,"Bay / Buckingham (1)",42.114227,-72.568957
+1213,"Bay / Buckingham (2)",42.114465,-72.568630
+1214,"Plainfield / Orchard (opposite)",42.113902,-72.610822
+1216,"Wilbraham / Delmore",42.114645,-72.529887
+1220,"Plainfield / Orchard",42.113754,-72.610840
+1221,"State / Maynard",42.114285,-72.555731
+1222,"Carew/Chestnut (2)",42.113913,-72.596518
+1225,"Carew/Chestnut (1)",42.113869,-72.596408
+1228,"Wilbraham / Walsh",42.114355,-72.531012
+123,"Amherst Community Health Ctr (Out)",42.368639,-72.533536
+1232,"Chestnut / Carew",42.113658,-72.597436
+1233,"Main / Bancroft",42.113547,-72.605447
+1234,"Wilbraham / Monticello (2)",42.114221,-72.532817
+1235,"Dwight / Hebron",42.113576,-72.601323
+1236,"Wilbraham / Monticello (1)",42.114130,-72.532868
+124,"Amherst Community Health Ctr (In)",42.368744,-72.533362
+1240,"Wilbraham / Truman (2)",42.114058,-72.535016
+1242,"Wilbraham / Truman (1)",42.113982,-72.534518
+1246,"Wilbraham / Unnamed Street (2)",42.113785,-72.538469
+1249,"Wilbraham / Unnamed Street (1)",42.113691,-72.538389
+125,"Big Y - Amherst",42.367782,-72.534823
+1253,"State / Mapledell",42.113347,-72.558753
+1254,"75 Springfield Rd",42.111680,-72.711815
+1255,"Wilbraham / Alden (1)",42.113203,-72.542749
+1257,"Plainfield / Lowell",42.112716,-72.610102
+1258,"Springfield / Planet Fitness Dr",42.111178,-72.710652
+1259,"Wilbraham / Norfolk (2)",42.113128,-72.550327
+126,"Stony Hill Road (Out)",42.367574,-72.479801
+1260,"Plainfield / Lowell (opposite)",42.112564,-72.609907
+12601,"Stony Hill Road (In)",42.367475,-72.479757
+1261,"Wilbraham / Carlisle",42.113152,-72.549174
+1263,"American International College (1)",42.113793,-72.556819
+1264,"Wilbraham / Norfolk (1)",42.112998,-72.550673
+1265,"Wilbraham / Alden (2)",42.113066,-72.543067
+1266,"Bay/Westminster (In)",42.112791,-72.570268
+1267,"Main opposite Morgan",42.112414,-72.604495
+1268,"Worthington / Federal",42.112699,-72.580130
+1269,"Bay / Westminster",42.112943,-72.570030
+127,"Stop and Shop - Hadley",42.365735,-72.538765
+1270,"Carew/Dwight (4)",42.112449,-72.598492
+1271,"Wilbraham / Suffolk (2)",42.112839,-72.552317
+1273,"MLK Community Center (Inbound)",42.112706,-72.560698
+1274,"Carew/Dwight (3)",42.112315,-72.598499
+1275,"Wilbraham / Lakeside",42.112823,-72.544634
+1276,"Wilbraham / Benton",42.112798,-72.546189
+1277,"Elm / Rochelle (1)",42.112095,-72.625024
+1278,"Wilbraham / Suffolk (1)",42.112728,-72.552554
+128,"Greenleaves Drive",42.365362,-72.535480
+1280,"Dwight / Grosvenor",42.112205,-72.599751
+1281,"MLK Community Center",42.112560,-72.560701
+1283,"Wilbraham / Reed",42.112477,-72.554327
+1284,"Wilbraham / Rochelle",42.112466,-72.555041
+1285,"Elm / Rochelle (2)",42.111716,-72.624919
+1287,"Chestnut / Stafford",42.112063,-72.595756
+1288,"Worthington / Kibbe",42.111931,-72.583079
+129,"Emerson Court (Out)",42.365114,-72.484263
+1290,"Dwight / Bond",42.111274,-72.598625
+12901,"Emerson Court (In)",42.365067,-72.484289
+1292,"Wilbraham / Albemarle",42.112203,-72.556335
+1296,"Main/Church",42.111217,-72.602844
+1297,"AIC (Wilbraham Rd)",42.111985,-72.558451
+1299,"State / Hayden",42.112121,-72.562043
+13,"Bull Hill Road",42.446533,-72.554709
+130,"Russell/Campus Plaza (Pride)",42.363765,-72.538718
+1300,"American International College (2)",42.111898,-72.558506
+1301,"Carew/Dwight (1)",42.111453,-72.599663
+1302,"MLK Community Center (Wilbraham Road)",42.111739,-72.560206
+1304,"Magazine / Bowdoin",42.111580,-72.576099
+1306,"Worthington / Extract",42.111600,-72.583346
+1307,"Magazine / Lincoln (1)",42.111571,-72.576228
+1309,"Mason Square",42.111357,-72.564970
+131,"Gatehouse Road (Out)",42.363345,-72.488541
+13101,"Gatehouse Road (In)",42.363303,-72.488333
+1311,"Wilbraham / Colton (2)",42.111403,-72.562765
+1314,"State / Eastern",42.111737,-72.563206
+1315,"Wilbraham / Colton (1)",42.111217,-72.563230
+1316,"Plainfield / John (opposite)",42.110689,-72.603458
+1317,"West / Riverside",42.110581,-72.611304
+1319,"Plainfield / John",42.110573,-72.603509
+132,"Memorial Drive (Out)",42.362315,-72.520845
+1320,"Worthington / Sackett (1)",42.110209,-72.585151
+1321,"Worthington / Sackett (3)",42.110556,-72.584932
+1322,"West / Riverside",42.110362,-72.611267
+1323,"Mason Square (Inbound)",42.110691,-72.567249
+1325,"Magazine / Lincoln (3)",42.110543,-72.574992
+1326,"Magazine / Lincoln (2)",42.110734,-72.575312
+1327,"Mason Square",42.110482,-72.567104
+1328,"State / Thompson",42.110224,-72.569677
+1329,"Elm / Field",42.109836,-72.624825
+133,"Memorial Drive (In)",42.362615,-72.520705
+1330,"Bay / Saint James (2)",42.110203,-72.573587
+1331,"Bay / Saint James (1)",42.110140,-72.573838
+1332,"State / Hancock",42.110089,-72.569513
+1334,"Main/Carew",42.109751,-72.601001
+1335,"Main / St. George (1)",42.109784,-72.601440
+1336,"Elm / Elmwood",42.109545,-72.624318
+1338,"Hancock / State",42.109632,-72.568841
+1339,"State / Stebbins",42.109735,-72.571657
+134,"Rolling Green Apts (Out)",42.362898,-72.488774
+1340,"State / St James",42.109670,-72.573300
+1341,"State / Orleans",42.109463,-72.573274
+1345,"Springfield / Mountain",42.107765,-72.703482
+1346,"Worthington / Worthington",42.108930,-72.586669
+1347,"Springfield / Planet Fitness Dr",42.110551,-72.710005
+135,"Rolling Green Apts (In)",42.362228,-72.488033
+1350,"Technology Park",42.108868,-72.575445
+1351,"Hancock / Monroe",42.108941,-72.568824
+1352,"Westfield Walmart",42.107441,-72.708162
+1353,"Westfield / Old Westfield",42.107435,-72.688634
+1354,"Worthington / Spring (1)",42.108444,-72.587384
+1355,"Elm / Mosher",42.108008,-72.623747
+1356,"Westfield / Old Westfield",42.107466,-72.687480
+1357,"Worthington / Spring (2)",42.108242,-72.587468
+1358,"State / Walnut",42.108364,-72.576042
+1359,"Westford / Middlesex (1)",42.108373,-72.552241
+136,"Russell/Westgate (Staples)",42.361221,-72.543786
+1360,"Norfolk / Westford Circle",42.108509,-72.549426
+1361,"Westford / Middlesex (2)",42.108293,-72.552490
+1363,"Westford / Albemarle",42.108094,-72.555353
+1365,"Westford / Braddock",42.107981,-72.554659
+1366,"Westford / Gunn (2)",42.107971,-72.558282
+1367,"Westfield / Nelson",42.107030,-72.648359
+1369,"Westford / Massachusetts (2)",42.107933,-72.557054
+137,"Russell/Rte 9 (Holiday Inn Express)",42.359993,-72.546735
+1371,"Elm / Westfield",42.107391,-72.622868
+1372,"Hancock / Quincy",42.107699,-72.568457
+1374,"Westfield / Nelson",42.106891,-72.648672
+1375,"Westford / Massachusetts (1)",42.107686,-72.557520
+1376,"Westfield / Woodmont",42.106801,-72.650215
+1377,"Walnut / State (2)",42.107603,-72.576654
+1378,"Westfield / Cedar",42.106814,-72.645425
+1379,"Westfield / Elm",42.106851,-72.623682
+138,"Logtown Road (In)",42.356848,-72.482410
+1380,"Elm / Central",42.106130,-72.622451
+1381,"Walnut / State (1)",42.107338,-72.576106
+1382,"Westfield / Van Horn",42.106546,-72.650924
+1383,"Westfield / Cedar",42.106605,-72.645114
+1385,"Westfield / Talcott",42.106419,-72.652566
+1386,"Westford / Gunn (1)",42.107204,-72.558270
+1387,"Commerce High School (opposite)",42.107198,-72.578774
+1388,"Westfield / Harwich",42.106248,-72.652764
+139,"Logtown Road (Out)",42.356496,-72.481960
+1391,"Main / Park",42.106486,-72.616451
+1392,"Westfield / Van Deene",42.106296,-72.625117
+1395,"Worthington / Chestnut (1)",42.106544,-72.589497
+1398,"Worthington / Chestnut (2)",42.106470,-72.589755
+1399,"Main / Bliss",42.106236,-72.615918
+14,"Laurenitis Farm Stand (Out)",42.442226,-72.551334
+140,"Hampshire Mall",42.355901,-72.550130
+1400,"Middlesex / King",42.106793,-72.551351
+1401,"Walnut / Union (2)",42.106525,-72.575050
+1402,"Hancock / Tyler",42.106518,-72.568220
+1403,"Westfield / Maple",42.105797,-72.642914
+1404,"220 Westfield St",42.105934,-72.626740
+1405,"Walnut / Union (1)",42.106470,-72.574827
+1406,"Westfield / Maple",42.105849,-72.642742
+1407,"Westfield / Altamont",42.105595,-72.659408
+1408,"Westfield / Ely",42.105560,-72.658029
+1409,"Park / Elm",42.105957,-72.620050
+1411,"201 Westfield St",42.105830,-72.626649
+1412,"Westfield / Thompson",42.105431,-72.660999
+1413,"Conservatory of the Arts",42.105812,-72.580639
+1414,"Westfield / Brookline",42.105424,-72.656782
+1416,"Taylor / Dwight",42.105989,-72.591457
+1417,"Westford / King",42.106339,-72.558240
+1418,"Walnut / Oak (2)",42.105671,-72.573789
+1419,"Hancock / Pendleton",42.105871,-72.568207
+142,"Mountain Farms Mall",42.355389,-72.552008
+1421,"King / Westford",42.105907,-72.558373
+1423,"Walnut / Oak (1)",42.105756,-72.573762
+1424,"King / Wilbraham (2)",42.105811,-72.559774
+1426,"King / Wilbraham (1)",42.105736,-72.559858
+1427,"Westfield / Silver",42.104973,-72.641055
+1428,"Park / Union",42.105459,-72.619172
+1429,"King / Logan",42.105644,-72.561248
+143,"Leeds",42.353511,-72.699849
+1431,"Westfield / Laurel",42.104687,-72.663463
+1432,"Westfield / Mercury",42.104910,-72.629831
+1433,"Westfield / Sherwood",42.104519,-72.664843
+1434,"King / Logan",42.105555,-72.561347
+1436,"Westfield / Beverly Hills",42.104411,-72.672537
+1437,"Main / Fairview",42.104848,-72.614090
+1438,"Westfield / Silver",42.104677,-72.640719
+1439,"Westfield / Sibley",42.104332,-72.675375
+144,"Russell/Russell (Shelburne Falls)",42.354496,-72.557610
+1440,"King / Eastern (2)",42.105409,-72.563263
+1441,"Westfield / Ohio",42.104409,-72.669733
+1442,"Westfield / Mercury",42.104872,-72.629625
+1443,"Main / Fairview",42.104897,-72.613932
+1444,"Westfield / Hathorne",42.104188,-72.676169
+1445,"State / Spring",42.105141,-72.582035
+1446,"King / Merrick (2)",42.105263,-72.564538
+1447,"Westfield / Ohio",42.104219,-72.669664
+1448,"Westfield / Poplar",42.104225,-72.666762
+1449,"King / Merrick (1)",42.105170,-72.564571
+145,"Mill Lane (In)",42.354946,-72.520665
+1451,"King / Hancock",42.104908,-72.567533
+1452,"King / Hancock",42.104823,-72.567610
+1453,"608 Westfield St",42.104009,-72.633681
+1454,"State / School",42.104680,-72.582416
+1455,"Walnut / King",42.104803,-72.572363
+1456,"Westfield / Pleasant",42.103730,-72.634536
+1457,"Dwight / Harrison",42.104095,-72.589053
+1458,"Westfield / Summit",42.103566,-72.636144
+146,"Russell/Russell (Whole Foods)",42.354345,-72.557598
+1463,"Main / Church",42.103743,-72.612427
+1464,"Main / Church",42.103664,-72.612095
+1466,"Worthington / Main",42.103895,-72.592674
+1467,"Main / Worthington",42.103686,-72.592632
+147,"Columbia Drive (In)",42.354203,-72.521951
+1470,"Walnut / James",42.104284,-72.571757
+1474,"Main / Bridge",42.103273,-72.591800
+1475,"Harrison Avenue",42.103168,-72.589614
+1476,"Main / James",42.102848,-72.610971
+1477,"Main / Cottage",42.102682,-72.610431
+1478,"Walnut / Queen",42.103550,-72.570438
+1479,"State / Chestnut",42.102833,-72.585017
+148,"Old Belchertown Road",42.353477,-72.476203
+1480,"Walnut / Lebanon (2)",42.102627,-72.569249
+1481,"Main / Harrison",42.102477,-72.590028
+1483,"Walnut/Manhattan",42.100533,-72.566195
+1484,"Mosley / Main",42.102003,-72.609081
+1487,"Maple / High",42.102025,-72.582472
+1488,"Main / George",42.101797,-72.608830
+1492,"Walnut / Brigham",42.101569,-72.567722
+1494,"Maple / Union (1)",42.101335,-72.581546
+1495,"Court Square",42.101490,-72.588264
+1496,"Walnut / Alden",42.101687,-72.567723
+1498,"Maple / Union (2)",42.101382,-72.581365
+1499,"Walnut / Ashley",42.101013,-72.566723
+15,"Laurenitis Farm Stand (In)",42.442171,-72.551495
+150,"VA Medical Center",42.351296,-72.682177
+1500,"Main / Allen",42.100279,-72.605630
+1501,"Main / Allen",42.100411,-72.606055
+1503,"Main/Stockbridge",42.100371,-72.586089
+1504,"Maple / Avon (1)",42.100053,-72.579667
+1505,"Main / Howard",42.100168,-72.585993
+1506,"Maple / Avon (2)",42.099977,-72.579233
+1507,"Walnut / Crosby - Across",42.099900,-72.565081
+1508,"Sterns / Central",42.099780,-72.576333
+1509,"River / Spring",42.099206,-72.634339
+151,"Mill Valley Apts (Out)",42.351608,-72.526782
+1511,"Central / Sterns",42.099653,-72.576471
+1512,"Central / Cedar (1)",42.099640,-72.575066
+1513,"River/King",42.098835,-72.634972
+1514,"Central / Cedar (2)",42.099582,-72.574688
+1515,"Main / Chapin",42.099197,-72.603907
+1516,"Main / Park",42.099431,-72.584707
+1518,"River / King",42.098720,-72.635454
+152,"Mill Valley Apts (In)",42.351481,-72.526236
+1520,"Central / Pine (1)",42.099084,-72.573182
+1521,"Central / Pine (2)",42.099228,-72.573362
+1522,"Walnut / High",42.098405,-72.632715
+1524,"Main / Bridge (West Springfield)",42.098415,-72.602756
+1528,"Main / Bridge (West Springfield)",42.098452,-72.603043
+1529,"Main / William",42.098305,-72.583487
+153,"Meadow View Apts",42.350472,-72.530259
+1530,"Main / Hubbard",42.098592,-72.583593
+1531,"Central / Beech",42.098305,-72.570699
+1532,"Walnut / Hickory",42.098270,-72.564018
+1534,"Main / New Bridge",42.097828,-72.602157
+1537,"Central / Spruce",42.098008,-72.569454
+1538,"Central / Spruce",42.098029,-72.569780
+1539,"Bridge / High",42.097228,-72.635321
+154,"Mayflower Apts (In)",42.350719,-72.470170
+1540,"Walnut / Ottawa (2)",42.097010,-72.632224
+1542,"Main / Margaret",42.097502,-72.582761
+1543,"Walnut / Ottawa (1)",42.096944,-72.632120
+1544,"Memorial / Main",42.096941,-72.599293
+1545,"Main / Morris",42.097078,-72.582212
+1548,"Memorial / Main",42.096798,-72.599221
+1552,"Memorial / New Bridge",42.096292,-72.606849
+1554,"Allen / Malden (1)",42.096636,-72.562031
+1555,"Allen / Malden (2)",42.096554,-72.562287
+1557,"Walnut / Maple",42.095833,-72.631985
+1559,"Bridge / Maple",42.095548,-72.633911
+156,"Mayflower Apts (Out)",42.350474,-72.470064
+1560,"White / Revere (2)",42.096003,-72.560793
+1561,"White / Revere (1)",42.096108,-72.560807
+1562,"Main / Loring",42.095933,-72.581744
+1565,"Main / Adams",42.095639,-72.581501
+1566,"Bicentennial / Trinity Health",42.096269,-72.502986
+1567,"Big Y - Cooley St",42.096208,-72.500006
+157,"The Boulders Apts",42.349070,-72.528890
+1570,"Bicentennial / Sixteen Acres Health Center",42.096074,-72.504504
+1571,"Century Plaza",42.095489,-72.605078
+1573,"Maple / Highland",42.094532,-72.634601
+1576,"Memorial / Lowell (2)",42.094430,-72.614648
+1577,"Bicentennial / Allen",42.095615,-72.508993
+1578,"Memorial / Lowell (1)",42.094494,-72.613938
+1579,"Maple / Moore",42.094190,-72.635086
+1580,"Walnut/Dwight",42.094130,-72.631323
+1581,"White / Grand (1)",42.094698,-72.559054
+1582,"Main / Montpelier",42.094456,-72.581101
+1584,"White / Grand (2)",42.094676,-72.558826
+1585,"Main / Gardner",42.094303,-72.581180
+1586,"Memorial / Bosworth (2)",42.093964,-72.616077
+1587,"Memorial / Bosworth (1)",42.093893,-72.615823
+1588,"Allen / Bicentennial",42.094832,-72.510038
+1589,"Allen / Bicentennial (Inbound)",42.094762,-72.509603
+159,"Russell / Spruce Hill (W)",42.347080,-72.572624
+1591,"Allen / Talmadge",42.094696,-72.513752
+1593,"Allen / Bridlepath",42.094656,-72.514616
+1594,"Allen / Wilshire (Inbound)",42.094323,-72.508260
+1595,"Memorial / East (2)",42.093340,-72.618081
+1597,"Allen / Wilshire",42.094298,-72.508419
+1599,"Memorial / East (1)",42.093234,-72.617985
+160,"Russell / Spruce Hill (E)",42.346718,-72.573131
+1600,"Main / Marble",42.093599,-72.580790
+1601,"Walnut / Winthrop",42.093036,-72.630928
+1602,"Mill / Maple",42.093621,-72.572109
+1603,"Orange / Palm",42.093680,-72.553701
+1604,"Orange / Palm",42.093724,-72.553912
+1606,"Exposition / Memorial",42.093049,-72.619313
+1608,"Allen / Alberta",42.093591,-72.552813
+1609,"Allen / Alberta",42.093509,-72.552037
+161,"Russell / Nashua",42.345759,-72.575463
+1610,"Orange / Claremont",42.093398,-72.555450
+1612,"Allen / Allen Park (Inbound)",42.093796,-72.505894
+1613,"White / Orange (2)",42.093677,-72.557434
+1614,"Dickinson / Locust",42.093304,-72.569212
+1615,"Mill / Hancock",42.093495,-72.569136
+1616,"White / Orange (1)",42.093331,-72.557147
+1617,"Orange / Thayer (1)",42.093326,-72.556414
+1618,"Memorial / Exposition",42.092681,-72.620409
+1619,"Allen / Allen Park",42.093721,-72.505898
+1620,"Memorial / Heywood",42.092652,-72.621234
+1621,"Orange / Thayer (2)",42.093254,-72.556420
+1622,"Sumner / Bairdcrest",42.093362,-72.522175
+1623,"Mill / Pine",42.092829,-72.574527
+1624,"Orange / Wareham (1)",42.092969,-72.558609
+1625,"Orange / Wareham (2)",42.092925,-72.558524
+1627,"Locust / Darwell",42.092711,-72.570621
+1628,"Orange / Wigwam (2)",42.092753,-72.567490
+1629,"Mill / Pine",42.092174,-72.575107
+163,"Main / State Hwy 9",42.344365,-72.682348
+1630,"Orange / Earl",42.092684,-72.560365
+1631,"Maple / Orchard",42.091869,-72.637114
+1632,"Orange / Wigwam (1)",42.092666,-72.566593
+1633,"Allen / Corcoran",42.093000,-72.520772
+1635,"Locust / Darwell",42.092538,-72.571194
+1636,"Orange / Revere",42.092626,-72.560305
+164,"Warren Wright Road (Out)",42.345610,-72.467342
+1640,"Orange / Malden",42.092428,-72.561993
+1641,"Orange / Oakland",42.092343,-72.562114
+1642,"Orange / Euclid (1)",42.092265,-72.564870
+1643,"Memorial / Avenue Of The States",42.091733,-72.623579
+1644,"Sumner / Hudson",42.092615,-72.524936
+1646,"Orange / Euclid (2)",42.092179,-72.564983
+1648,"Memorial / Circuit",42.091855,-72.623643
+1649,"Allen / Harbour",42.092533,-72.522589
+165,"Warren Wright Road (In)",42.345509,-72.467128
+1650,"Dickinson / Wigwam",42.091988,-72.567991
+1651,"Dickinson / Sachem",42.091857,-72.567749
+1652,"Main / York",42.092008,-72.580277
+1653,"Locust / Woodside (1)",42.091890,-72.572459
+1654,"Sumner / Pinecrest",42.092254,-72.526760
+1655,"Main / Acushnet",42.091716,-72.579726
+1656,"110 Mill St",42.091789,-72.575382
+1657,"Eastern States Exposition",42.091315,-72.624833
+1658,"White / Dawson (2)",42.091918,-72.555055
+1659,"Locust / Woodside (2)",42.091719,-72.572552
+166,"Crocker Farm School (In)",42.347398,-72.520148
+1660,"Sumner / Emerson",42.092069,-72.527678
+1661,"Five Town Plaza",42.093849,-72.500628
+1663,"Allen / Manor",42.091850,-72.525263
+1664,"Sumner / Chalmers",42.091781,-72.529194
+1665,"Locust / Woodside (3)",42.091349,-72.573502
+1666,"Maple / Oak Hill",42.090657,-72.638019
+1667,"Locust / Woodside (4)",42.091222,-72.573508
+1668,"White / Mansfield",42.091154,-72.554004
+1669,"Walnut/Springfield",42.090353,-72.629503
+167,"Crocker Farm School (Out)",42.344973,-72.520549
+1670,"Mill / Locust (N)",42.090679,-72.577215
+1671,"Mill / Locust",42.090742,-72.577781
+1672,"Sumner / Allen",42.091036,-72.533094
+1673,"White / Scott",42.090898,-72.553796
+1674,"Dickinson/Euclid",42.090782,-72.566748
+1675,"Allen / Harkness",42.091076,-72.530254
+1676,"Dickinson / Euclid",42.090680,-72.566353
+1677,"Walnut / Springfield",42.089845,-72.629119
+1678,"Sumner / Garland",42.090710,-72.534073
+1679,"Maple / Begley (2)",42.089555,-72.638690
+168,"Russell/East (Outbound)",42.343004,-72.581418
+1680,"Maple / Begley (1)",42.089469,-72.638826
+1681,"Dickinson / Hall (2)",42.090163,-72.565103
+1682,"Roosevelt/Sumner",42.090389,-72.536643
+1683,"Dickinson / Hall (1)",42.090084,-72.565251
+1684,"White / Stratford",42.090141,-72.552759
+1685,"White / Ainsworth",42.090122,-72.552590
+1686,"Sumner / Eloise",42.090044,-72.537591
+1687,"Belmont/Leyfred",42.089695,-72.575419
+1688,"Belmont / Leyfred",42.089630,-72.575615
+1689,"Dickinson / Oakland",42.089709,-72.563286
+169,"Russell/East (Inbound)",42.342868,-72.582411
+1690,"Sumner / Eddywood",42.089959,-72.538858
+1691,"Sumner / Howes",42.089715,-72.539323
+1692,"Fort Pleasant at 36",42.089396,-72.576817
+1694,"Sumner / Rencelau",42.089553,-72.540918
+1695,"Belmont / Woodside (2)",42.089053,-72.573822
+1696,"Dickinson / Kenwood",42.089250,-72.562085
+1697,"Sumner / Castle",42.089387,-72.541095
+1698,"Belmont / Woodside (1)",42.089193,-72.573666
+1699,"Fort Pleasant / Blake Hill",42.089017,-72.576431
+17,"Plumtree Road (In)",42.431577,-72.543874
+170,"Hampshire Plaza/ Big Y",42.340453,-72.642524
+1700,"Belmont / Bellevue (1)",42.088776,-72.571803
+1701,"White / Kimberly (2)",42.088852,-72.550844
+1702,"Sumner / Perkins",42.088906,-72.544249
+1703,"Belmont / Bellevue (2)",42.088588,-72.571276
+1704,"White / Kimberly (1)",42.088738,-72.550828
+1705,"Fort Pleasant / Leete",42.088422,-72.576262
+1706,"Sumner / Eckington",42.088663,-72.544771
+1707,"Dickinson / Alderman (1)",42.088413,-72.560362
+1708,"Fort Pleasant / Forest Park Avenue",42.088245,-72.575897
+1709,"Dickinson / Alderman (2)",42.088322,-72.560083
+171,"Russell / Middle (W)",42.342357,-72.588675
+1710,"Belmont/Forest",42.088088,-72.568629
+1711,"Belmont/Keith",42.088170,-72.568523
+1712,"Sumner / Rittenhouse",42.088242,-72.547667
+1713,"Springfield / Rowley",42.087184,-72.640828
+1715,"Sumner / White",42.087956,-72.549189
+1716,"Sumner / Irvington",42.087910,-72.548592
+1717,"Belmont/Litchfield",42.087460,-72.565223
+1718,"Belmont/Oakland",42.087450,-72.564611
+1719,"Dickinson / Burlington (1)",42.087466,-72.559163
+172,"Russell / Middle (E)",42.342211,-72.589355
+1720,"Dickinson / Burlington (2)",42.087288,-72.558792
+1721,"White / Priscilla (1)",42.087395,-72.548984
+1722,"Sumner / Herman",42.087341,-72.552360
+1723,"White / Priscilla (2)",42.087341,-72.548778
+1725,"Sumner / Bryant",42.087171,-72.552444
+1726,"Sumner / Pomona",42.086977,-72.554229
+1727,"Belmont / Beaumont",42.086972,-72.562004
+1728,"Fort Pleasant / Edgeland",42.086653,-72.575146
+1729,"Fort Pleasant / Chase",42.086631,-72.574906
+173,"Russell / State Hwy 9",42.342025,-72.596076
+1730,"Belmont/Beaumont",42.086675,-72.561018
+1733,"Sumner / Ormond",42.086654,-72.555090
+1734,"Cooley / Caitlin (Opposite)",42.087398,-72.502492
+1735,"Dickinson / Sumner (1)",42.086443,-72.558047
+1736,"Dickinson / Sumner (3)",42.086816,-72.558284
+1737,"Belmont / Sumner",42.086360,-72.559282
+1739,"Springfield / Royal",42.085421,-72.643025
+174,"Russell / West",42.341962,-72.594427
+1740,"White / Morningside",42.086253,-72.547283
+1741,"Belmont / Dickinson",42.085987,-72.557185
+1743,"Springfield / Kristen",42.085122,-72.643280
+1744,"Canon Circle #1",42.086411,-72.504814
+1745,"Canon Circle #3",42.086325,-72.504274
+1746,"Dickinson / Sumner (2)",42.085866,-72.557470
+1747,"Belmont / Commonwealth (opposite)",42.085879,-72.555945
+1748,"White / Longfellow",42.085798,-72.546822
+1749,"Sumner / Beaumont",42.085673,-72.560924
+175,"Russell / Elmwood",42.340929,-72.601370
+1750,"Belmont / Ormond",42.085586,-72.554978
+1751,"Sumner / Parkwood",42.085530,-72.560744
+1752,"White / Larkspur",42.085617,-72.546377
+1753,"Belmont/Daytona",42.085290,-72.552728
+1754,"Sumner / Oakland",42.085158,-72.562815
+1755,"Belmont / Hollywood",42.085213,-72.553059
+1756,"Sumner / Oakland",42.085097,-72.563871
+1757,"Belmont / Orlando",42.085107,-72.551678
+1758,"Sumner / Sumner Terrace",42.084842,-72.565176
+1759,"Springfield / Wilson",42.083986,-72.644837
+176,"Russell / Elmwood",42.340704,-72.601495
+1760,"Dickinson / Trenton",42.084870,-72.556442
+1761,"Belmont/Itendale",42.084863,-72.551020
+1762,"Dickinson / Trenton",42.084834,-72.556244
+1763,"Belmont/Bryant",42.084912,-72.550567
+1764,"Fort Pleasant / Warner",42.084493,-72.574280
+1765,"Forest Park Entrance",42.084572,-72.565822
+1766,"Sumner / Greenleaf",42.084432,-72.567277
+1767,"Springfield / Sheri",42.083569,-72.645230
+1768,"Belmont/Longfellow",42.084424,-72.547955
+1769,"Belmont/Sylvan",42.084324,-72.548116
+177,"Meadowbrook Apartments (1)",42.340227,-72.660186
+1770,"Sumner / Forest Park",42.083933,-72.569153
+1771,"White / Blaine",42.084020,-72.544341
+1772,"White / Blaine",42.083976,-72.544122
+1773,"Dickinson / Trafton (2)",42.083760,-72.555178
+1774,"Sumner / Randolph",42.083514,-72.572004
+1775,"Belmont / Fountain (opposite)",42.083760,-72.544442
+1776,"Sumner / Firglade",42.083475,-72.571413
+1777,"Belmont / Fountain",42.083690,-72.544656
+1778,"Dickinson / Trafton (1)",42.083614,-72.555175
+1779,"Fort Pleasant / Sumner",42.083370,-72.573690
+178,"Russell/Bay",42.339935,-72.606714
+1780,"Sumner / Beechwood",42.083156,-72.573131
+1782,"Springfield / Cleveland",42.082306,-72.646940
+1783,"Springfield / Chapin",42.082025,-72.647166
+1785,"White/Webber",42.082427,-72.542180
+1786,"Dickinson / Washington (1)",42.082299,-72.554770
+1787,"Springfield / Shibley (2)",42.081140,-72.648451
+1788,"Dickinson / Washington (2)",42.081974,-72.554605
+1789,"White/Manitoba",42.082271,-72.541703
+179,"Pomeroy Lane (In)",42.340769,-72.519924
+1790,"Springfield / Shibley (1)",42.080852,-72.648650
+1791,"White/Sunapee",42.081809,-72.540698
+1792,"Springfield / Line",42.080182,-72.649695
+1793,"Dwight / White",42.081182,-72.540016
+1795,"Dwight / Stanton",42.081045,-72.539903
+1796,"Springfield / Letendre",42.079993,-72.649798
+1797,"N Main / Rosemont",42.080568,-72.537979
+1798,"N Main / Van Dyke",42.080224,-72.536930
+1799,"Dickinson / Olmsted (2)",42.079967,-72.554280
+18,"Plumtree Road (Out)",42.431933,-72.543970
+180,"Meadowbrook Apartments (2)",42.339481,-72.660479
+1800,"N Main / Dorset",42.080090,-72.534910
+1801,"Springfield / Hall",42.078896,-72.651370
+1802,"N Main / Gerrard",42.079838,-72.533717
+1803,"Dickinson / Olmsted (1)",42.079679,-72.554353
+1804,"Springfield / Mooreland",42.078679,-72.651510
+1805,"Big Y - East Longmeadow",42.079814,-72.527423
+1806,"Heritage Nursing Home",42.078860,-72.619335
+1807,"N Main / Lombard (opposite)",42.079449,-72.531856
+1808,"N Main / Lombard",42.079278,-72.531608
+1809,"704 Springfield St",42.077901,-72.652666
+1810,"Dwight / Irving",42.078598,-72.539621
+1811,"Dickinson / Copeland",42.077901,-72.553954
+1812,"Stop and Shop East Longmeadow",42.077812,-72.527156
+1813,"Dickinson / Texel",42.077479,-72.553998
+1814,"Dwight / Hartwick (2)",42.077456,-72.539107
+1815,"Springfield / Franklin",42.076389,-72.654499
+1816,"Dwight / Hartwick (1)",42.077413,-72.539195
+1817,"N Main / Dearborn",42.077449,-72.522824
+1818,"Springfield / Annable",42.076090,-72.655024
+1819,"Dickinson / Elwood",42.076969,-72.553757
+182,"Meadowbrook Apartments (3)",42.339332,-72.660476
+1820,"Springfield / Amherst",42.075225,-72.656166
+1821,"Springfield / Hastings",42.074706,-72.656676
+1824,"Springfield / Bessbrook",42.074136,-72.657407
+1825,"Dwight / Fenimore",42.074989,-72.538842
+1826,"Dwight/Fenimore",42.074934,-72.538732
+1828,"N Main / Shaw",42.074723,-72.520734
+1829,"Springfield / Agnoli",42.072957,-72.659112
+183,"Russell/Bay (Barn Shops)",42.339702,-72.607030
+1830,"N Main / Shaw",42.074315,-72.520289
+1831,"Main / Edward",42.072831,-72.614661
+1832,"Dwight / Anglesea",42.073264,-72.538591
+1833,"Main / Albert",42.072213,-72.614839
+1834,"Dwight / Channing",42.073279,-72.538502
+1835,"N Main / Mapleshade",42.072708,-72.518818
+1837,"Country View Estates",42.070657,-72.678506
+1838,"Dwight / Harper",42.070818,-72.538132
+184,"Pomeroy Lane (Out)",42.340322,-72.520184
+1841,"Dwight / Boulder",42.070320,-72.537867
+1842,"Springfield / Belvidere",42.068774,-72.667095
+1844,"Springfield / Northwood",42.068382,-72.670088
+1846,"Main / Monroe (2)",42.068357,-72.615476
+1847,"Main / Monroe (1)",42.068127,-72.615647
+1849,"Springfield / Stop and Shop Dr",42.067291,-72.675172
+1850,"Springfield / Agawam Jr High",42.067321,-72.674591
+1852,"Springfield / N Westfield",42.067034,-72.677324
+1853,"Springfield / S Westfield",42.066902,-72.678083
+1856,"Dwight / Putting Green",42.067618,-72.538572
+1857,"Dwight/Putting Green (opposite)",42.067139,-72.538953
+1859,"Longmeadow/Englewood",42.064729,-72.579237
+1862,"Jewish House",42.064024,-72.551578
+1863,"Pheasant Hill Apartments",42.062401,-72.692466
+1867,"Longmeadow/Warren (Flag Stop)",42.062366,-72.579252
+1871,"Longmeadow/Edgewood",42.059902,-72.579872
+1873,"Agawam Ind. Park Drive Ext. / Unnamed",42.059230,-72.660523
+1875,"Longmeadow/Chandler (2) (Flag Stop)",42.057861,-72.580487
+1876,"Longmeadow/Emerson",42.057052,-72.581012
+1877,"Longmeadow/Bliss",42.056749,-72.580925
+1878,"Longmeadow/Greenacre (Flag Stop)",42.055480,-72.581667
+1879,"Almgren / Gen Creighton W Abrams",42.054415,-72.658673
+1880,"Longmeadow/York (Flag Stop)",42.054940,-72.581768
+1882,"East Village Place",42.054144,-72.533583
+1883,"Longmeadow/Longmeadow (Flag Stop)",42.054012,-72.582123
+1884,"Redstone Nursing Home",42.050501,-72.532415
+1886,"Longmeadow/Wms (S)",42.050655,-72.583019
+1887,"Longmeadow/Chandler (1) (Flag Stop)",42.050151,-72.582937
+1889,"Longmeadow/Birnie (Flag Stop)",42.045360,-72.584012
+189,"Bridge / Prospect",42.338309,-72.647718
+1890,"Longmeadow/Crescent (Flag Stop)",42.044156,-72.584205
+1892,"Longmeadow/Longview (Flag Stop)",42.041817,-72.584268
+1893,"Longmeadow/Summit (Flag Stop)",42.039260,-72.584198
+1894,"Longmeadow/Summit (Flag Stop)",42.039762,-72.584004
+1896,"Longmeadow/Nevins (Flag Stop)",42.031495,-72.581960
+1897,"Longmeadow/Maple (1)",42.032970,-72.582416
+1898,"Longmeadow/Maple (2)",42.032827,-72.582193
+1899,"Longmeadow/Homestead (Flag Stop)",42.028199,-72.581470
+19,"Waterfield Farms (Out)",42.427014,-72.539958
+190,"Meadowbrook Apartments (4)",42.336673,-72.661158
+1900,"Longmeadow/Lawnwood (1) (Flag Stop)",42.026759,-72.582450
+19001,"Pittsfield ITC",42.451548,-73.253790
+19002,"Dalton Center (E)",42.473320,-73.172005
+19003,"Dalton Center (W)",42.473453,-73.171725
+19004,"Windsor Center (E)",42.510887,-73.055469
+19005,"Windsor Center (W)",42.511270,-73.056739
+19006,"Cummington Center (E)",42.456713,-72.889347
+19007,"Cummington Center (W)",42.457030,-72.889947
+19008,"Goshen Center",42.440623,-72.799989
+1901,"Longmeadow/Lawnwood (2) (Flag Stop)",42.026572,-72.582488
+19010,"Williamsburg Center (W)",42.392564,-72.729883
+1902,"Longmeadow / Enfield",42.025388,-72.583489
+1903,"Longmeadow/Booth",42.024865,-72.583721
+1904,"Homestead / Lower Westfield",42.175877,-72.648423
+1905,"Main/St. George (2)",42.109143,-72.600812
+1906,"Main/Boylston",42.107897,-72.599527
+1907,"Main Street under I-291",42.107791,-72.599077
+1908,"Main / Emery",42.106959,-72.598598
+1909,"Springfield Post Office",42.106251,-72.597254
+191,"Meadowbrook Apartments (5)",42.337588,-72.661077
+1913,"Liberty / Dwight",42.108154,-72.593547
+1914,"Liberty / Dwight",42.108351,-72.593591
+1915,"Chestnut / Liberty",42.108993,-72.592847
+1916,"Chestnut / Congress",42.109898,-72.593817
+1917,"Liberty / Chestnut (1)",42.108910,-72.592323
+1918,"Liberty / Chestnut (2)",42.109255,-72.592023
+1919,"Franklin / Liberty",42.110809,-72.592278
+192,"Forsander Apt.",42.337278,-72.670546
+1920,"Dwight / Congress",42.108685,-72.595542
+1921,"Dwight / Worthington",42.105154,-72.590660
+1922,"Worthington / Stearns",42.104823,-72.591577
+1926,"Chestnut / Shaker",42.053338,-72.520867
+1927,"Denslow / Shaker",42.042006,-72.519433
+1928,"Sumner / Ventura",42.086561,-72.556572
+1931,"Big Y - South Hadley",42.222830,-72.571525
+1933,"Center / Stivens",42.171359,-72.478540
+1934,"546 Center St",42.174386,-72.475098
+1935,"Ludlow High School (opposite)",42.171536,-72.467020
+1936,"Chapin / East",42.166314,-72.458734
+1937,"East / King",42.163400,-72.464133
+1938,"East / Yale",42.161823,-72.468099
+1939,"East / Lockland",42.160156,-72.472225
+194,"Jackson / Gleason (Flag Stop)",42.337155,-72.642787
+1940,"East / Hubbard",42.158711,-72.475863
+1941,"Parker / Dean",42.153768,-72.490231
+1942,"Parker / Kazbeck",42.151780,-72.492321
+1943,"Parker / Nichols",42.147961,-72.493865
+1944,"Center / Ideal",42.173324,-72.476360
+1945,"436 Parker St",42.142716,-72.495594
+1946,"Parker / South Branch",42.109857,-72.499109
+1947,"Parker / Acrebrook",42.105680,-72.497275
+1948,"Parker / Rosedale",42.098822,-72.496989
+1952,"N Main / Purves",42.076763,-72.522263
+1953,"Mapleshade / N Main",42.072449,-72.517517
+1954,"Cooley / Rosedale",42.099656,-72.496460
+1955,"Parker / Acrebrook",42.106088,-72.497264
+1956,"Parker / South Branch",42.110734,-72.499197
+1957,"Parker / Nantasket",42.144214,-72.494854
+1958,"Parker / Nichols",42.148316,-72.493518
+1959,"Parker / Kazbeck",42.151803,-72.492101
+1960,"Parker / Pulaski",42.153463,-72.490432
+1961,"East / Chestnut",42.156732,-72.482371
+1962,"East / Hubbard",42.158794,-72.475363
+1963,"East / Merrimac",42.161858,-72.467626
+1964,"East / King",42.163250,-72.464175
+1965,"Chapin / East",42.166435,-72.458672
+1966,"Ludlow High School",42.171882,-72.467341
+1967,"549 Center St",42.174748,-72.474950
+1968,"Center / Ideal",42.172994,-72.477065
+1969,"Center / Stivens",42.171406,-72.478751
+197,"North Street (In)",42.338528,-72.457430
+1970,"Northampton / St James",42.208911,-72.630298
+1971,"Northampton / Beacon",42.212132,-72.629599
+1972,"Pleasant / Hampden (2)",42.213134,-72.620456
+1973,"Pleasant / Forestdale (2)",42.209614,-72.620628
+1974,"Cabot / Locust",42.206889,-72.619832
+1975,"Cabot / Beech",42.205363,-72.617112
+1976,"Cabot / Chestnut",42.203633,-72.613870
+198,"North Street (Out)",42.338262,-72.457477
+199,"Meadowbrook Apartments / Straw (1)",42.336377,-72.661303
+1998,"Grove / Front",42.153803,-72.584612
+2,"Mountain Road",42.472548,-72.601402
+20,"Waterfield Farms (In)",42.426982,-72.540139
+200,"Meadowbrook Apartments / Straw (2)",42.336521,-72.661126
+2000,"Sander's Stop (In)",42.326132,-72.530289
+2001,"Sander's Stop (Out)",42.326106,-72.530400
+201,"Maple/Main (High St. Variant)",42.335989,-72.672015
+203,"Main / Maple",42.335626,-72.672160
+204,"Meadow / Main",42.335501,-72.672653
+207,"Chestnut / Main",42.335024,-72.667592
+208,"Maple/Main (Outbound)",42.334857,-72.672050
+2087,"Atkins Farm Storefront",42.318952,-72.528760
+209,"Florence Center (Inbound)",42.335083,-72.670152
+21,"Mill Hollow Apts / Puffer's Pond",42.416164,-72.520370
+210,"Straw / Berkshire (1)",42.334487,-72.663950
+211,"Straw / Berkshire (2)",42.334982,-72.663599
+213,"Barrett / Jackson (1)",42.333998,-72.643106
+214,"Barrett/Hathaway Farms (Outbound)",42.333791,-72.639973
+215,"Barrett/Hathaway Farms (Inbound)",42.333718,-72.640234
+216,"Barrett / King (2)",42.333509,-72.636484
+218,"Barrett / King (1)",42.333449,-72.636168
+22,"Market Hill Road",42.415397,-72.507339
+220,"Maple / Pine",42.332209,-72.672109
+221,"Potwine Lane (In)",42.333926,-72.523372
+222,"Potwine Lane (Out)",42.333449,-72.523565
+223,"Locust / Prospect (1)",42.331666,-72.653183
+224,"Locust / Prospect (2)",42.331500,-72.653214
+225,"Pine / Corticelli",42.331159,-72.676452
+226,"Starlite Center",42.330128,-72.675127
+227,"Florence / Ryan",42.329994,-72.678757
+228,"Stop and Shop",42.329483,-72.636167
+229,"Sheldon Field (W)",42.328932,-72.624265
+23,"Summer Street",42.414110,-72.528295
+230,"Sheldon Field (E)",42.328947,-72.624119
+231,"Gulf Road (In)",42.329634,-72.448141
+232,"Gulf Road (Out)",42.329529,-72.448197
+233,"King/Church (KFC Taco Bell)",42.328426,-72.633418
+234,"Elm/Connecting Road (Childs Park)",42.326146,-72.649699
+235,"Elm/Connecting Road (Northampton High School)",42.325189,-72.649393
+236,"Hampshire College",42.326192,-72.532065
+237,"Florence Heights",42.323804,-72.676688
+238,"Northampton Post Office Bridge Street",42.321701,-72.627153
+239,"King/North (Cumberland Farms)",42.323477,-72.632554
+24,"Cushman Day School",42.413832,-72.506351
+240,"Diane Drive (In)",42.325524,-72.439054
+241,"Diane Drive (Out)",42.325364,-72.438466
+242,"King/Bright (Dunkin Donuts)",42.323449,-72.632373
+243,"Dakin House (Out)",42.322204,-72.529823
+244,"Northampton Post Office",42.321630,-72.627060
+245,"Dakin House (In)",42.322125,-72.529765
+246,"King/Allen (Hotel Northampton)",42.320598,-72.630907
+2470,"Eric Carle Museum (In)",42.321670,-72.533520
+2471,"Eric Carle Museum (Out)",42.321767,-72.533464
+248,"Holland Glen (In)",42.321908,-72.428101
+249,"King/Merrick (Calvin Theatre)",42.319994,-72.630170
+25,"Cushman Center",42.412980,-72.508322
+250,"Holland Glen (Out)",42.321760,-72.428180
+251,"Smith College",42.319578,-72.637590
+252,"Prospect Street",42.320007,-72.638098
+254,"Northampton Court House",42.319327,-72.630251
+255,"Atkins Farm / Bay Road (In)",42.319954,-72.529493
+256,"Thornes Market (R44 Only)",42.318440,-72.631088
+257,"Atkins Farm / Bay Road (Out)",42.319474,-72.528630
+259,"Live 155",42.317941,-72.627516
+26,"East Pleasant Street / Pine Street",42.412437,-72.513226
+260,"Masonic St / Academy of Music (W)",42.317859,-72.633234
+261,"Academy of Music (E)",42.317703,-72.633160
+262,"Pleasant / Service Center",42.314209,-72.624990
+263,"Fruit Street / Old South Street",42.315143,-72.631731
+264,"Cedarwood Apts (Out)",42.315972,-72.425905
+265,"Cedarwood Apts (In)",42.315930,-72.425832
+266,"Fruit / Smith",42.313755,-72.629559
+267,"Walter Salvo House",42.313357,-72.627658
+268,"Conz St/ Dialysis Center",42.313584,-72.627485
+269,"Glenns Glen (In)",42.311610,-72.423035
+270,"Glenns Glen (Out)",42.311552,-72.423077
+271,"Notch Visitors Center (In)",42.304824,-72.528293
+272,"Notch Visitors Center (Out)",42.304198,-72.528115
+273,"Bay Road / Federal Street (In)",42.298484,-72.415896
+274,"Bay Road / Federal Street (Out)",42.298469,-72.416044
+276,"Crown Pointe Apts",42.290670,-72.408343
+277,"Granby Heights Condominiums (Out)",42.289157,-72.535661
+278,"Quabbin Shops",42.290307,-72.408116
+2780,"Woodhaven Drive (In)",42.283081,-72.405371
+2781,"Woodhaven Drive (Out)",42.283024,-72.405529
+28,"State Street",42.410655,-72.524328
+280,"Granby Heights Condominiums (In)",42.289103,-72.535438
+281,"Sargent / Baystate Medical",42.287570,-72.398921
+282,"Easthampton Post Office",42.285111,-72.665041
+283,"Oneil St (2)",42.284965,-72.656217
+284,"Oneil St (1)",42.284954,-72.656100
+286,"Lyn Drive (Out)",42.282486,-72.553576
+287,"Lyn Drive (In)",42.282355,-72.553612
+288,"Easthampton CVS",42.279969,-72.671171
+29,"Townehouse Apts (Out)",42.409592,-72.534615
+290,"Hadley Street (N)",42.263359,-72.582483
+291,"Belchertown Common",42.279646,-72.402381
+292,"Lovefield / Pleasant",42.276115,-72.657654
+293,"Pleasant / Ferry",42.275909,-72.657847
+294,"Belchertown Center",42.277605,-72.400816
+295,"Eastern Hampshire District Court",42.267066,-72.418556
+296,"Pleasant / Ridgewood (1)",42.274168,-72.661894
+297,"Pleasant / Ridgewood (2)",42.273906,-72.662185
+298,"Parsons / Federal",42.273865,-72.652115
+30,"Townehouse Apts (In)",42.409545,-72.533981
+300,"Pleasant/Hill (OB)",42.272358,-72.667609
+303,"Big E Market",42.270497,-72.672197
+304,"Orchard View",42.269965,-72.656601
+306,"Dickinson Farm Road (Out)",42.269918,-72.566034
+307,"Dickinson Farm Road (In)",42.269784,-72.565930
+308,"Union / Liberty (1)",42.267015,-72.669983
+31,"North Amherst Center (Out)",42.409181,-72.530634
+315,"Highland Village Apartments",42.268863,-72.236142
+316,"Sunrise Manor",42.264232,-72.660626
+317,"Cottage and Clark Inbound",42.264150,-72.664216
+318,"Cottage and Clark Outbound",42.263991,-72.663961
+32,"North Amherst Center (In)",42.408571,-72.530630
+320,"Silver Street (Out)",42.261572,-72.572801
+324,"Park Street",42.258003,-72.572996
+328,"Cliffview Manor",42.256594,-72.656669
+329,"Stone Shelter",42.257632,-72.575847
+33,"Grantwood Drive",42.406837,-72.514452
+330,"College Highway Apartments",42.255846,-72.691673
+331,"Ware Town Hall",42.260366,-72.241819
+332,"Ware Town Hall (opposite)",42.260479,-72.241828
+333,"Mount Holyoke College Museum",42.256659,-72.572210
+335,"Big Y - Southampton",42.253672,-72.697974
+336,"Mount Holyoke College / Blanchard Hall",42.254254,-72.574108
+338,"Mary Woolley Hall",42.254084,-72.576489
+339,"Valley View",42.256365,-72.245225
+34,"Puffton Village Apts 1",42.405876,-72.532485
+345,"Newton / Lyman",42.235730,-72.583338
+346,"Ware Walmart",42.238130,-72.279225
+35,"Puffton Village Apts 2",42.404945,-72.530827
+350,"Lamb / Ramp",42.220683,-72.590868
+351,"Lamb / Lamb",42.220361,-72.590975
+353,"Lamb / School",42.217561,-72.591969
+354,"Lincoln / Taylor",42.216107,-72.619322
+355,"Bridge / Grant",42.215761,-72.593982
+356,"Pleasant / Lincoln",42.215899,-72.620276
+357,"Bridge / School",42.215709,-72.593848
+358,"Bridge / Main",42.215382,-72.594502
+359,"Stop and Shop - Holyoke (Lincoln St)",42.213975,-72.617820
+36,"Cherry Lane",42.404612,-72.514850
+360,"Hampden / Pleasant",42.213396,-72.620794
+361,"Hampden / Nonotuck",42.213276,-72.623290
+362,"Hampden / Arlington",42.213125,-72.627872
+363,"Pleasant / Hampden (1)",42.213037,-72.620308
+364,"Northampton / Hampden",42.212774,-72.629671
+365,"Memorial / New Ludlow",42.212161,-72.572128
+369,"Dwight / Lynwood",42.210761,-72.627662
+37,"Crestview Apts",42.403879,-72.529418
+376,"Pleasant / Forestdale (1)",42.209526,-72.620498
+377,"Lyman / Maple",42.209608,-72.605818
+378,"Bondsville",42.211490,-72.345462
+38,"University Village",42.403206,-72.529163
+380,"Essex / Sycamore",42.208618,-72.619719
+383,"Britton / Hudson",42.208516,-72.573677
+386,"Sullivan School",42.207075,-72.646239
+387,"High / Dwight",42.206937,-72.607659
+388,"Lyman / Summer",42.207042,-72.595889
+39,"Sheerman Lane",42.402190,-72.515324
+391,"Lyman / Center",42.206797,-72.598336
+393,"Maple / Suffolk",42.206533,-72.609393
+394,"Dwight / Front",42.206099,-72.605818
+398,"High / Suffolk",42.205758,-72.608883
+4,"Sugarloaf Street",42.468016,-72.595440
+40,"Tilson Farm Road (Out)",42.398342,-72.516061
+406,"Mosher / West",42.205403,-72.600260
+41,"Tilson Farm Road (In)",42.398393,-72.516221
+410,"Northampton / Columbus",42.204693,-72.630744
+4101,"Pleasant (Eastworks OB)",42.273078,-72.664419
+4102,"Sullivan School (Outbound)",42.206852,-72.646419
+4103,"Olive Street (Inbound)",42.309706,-72.637872
+4104,"Olive Street (Outbound)",42.309893,-72.637793
+4106,"Edgewood & Columbus (Outbound)",42.311703,-72.635042
+4107,"141 & Summit (FLAG STOP)",42.254181,-72.656533
+4108,"141 & Vadnais (FLAG STOP)",42.254201,-72.656404
+4109,"141 & Allen (FLAG STOP)",42.256554,-72.658256
+4110,"141 & Cliffview Manor (FLAG STOP)",42.256794,-72.658303
+4111,"141 & E Green (FLAG STOP)",42.259711,-72.660452
+4112,"141 & W Green (FLAG STOP)",42.259424,-72.660370
+4113,"South St / Earle",42.306049,-72.647704
+4114,"South Street / Columbus",42.311547,-72.635000
+4115,"Earle/South Outbound",42.306234,-72.647721
+412,"High / Appleton",42.204741,-72.609836
+413,"Mosher / Bridge",42.204597,-72.596383
+414,"Holyoke Public Library",42.204153,-72.611861
+415,"Hampshire / Beech",42.204281,-72.617969
+416,"Beech / Hampshire",42.204201,-72.618480
+417,"Main / Dwight",42.204559,-72.602986
+4173,"State/Bedford Terrace (In)",42.320377,-72.634480
+418,"Stonybrook Visitor Entrance",42.204926,-72.509850
+419,"High / Essex",42.203870,-72.610678
+42,"Fairfield Street",42.398210,-72.528163
+4201,"Cumberland Farms (Flag Stop)",42.390931,-72.724110
+4202,"Williamsburg Hwy Dept. (Flag Stop)",42.391055,-72.726466
+4204,"Leeds Elementary School (IB)",42.351761,-72.699263
+422,"Hampshire / Pine",42.203937,-72.617269
+423,"Beech / Sargeant",42.203521,-72.619292
+424,"Hampshire / Walnut",42.203503,-72.616692
+425,"Cherry / Dale",42.203029,-72.645526
+426,"Northampton / Pinehurst",42.203127,-72.631010
+427,"Cherry / Maple Crest",42.202933,-72.645241
+4270,"VA Hospital Vet's Way & Lot O",42.349677,-72.685915
+43,"College of Education",42.397630,-72.527947
+430,"High / Cabot",42.202889,-72.611652
+4301,"Stop & Shop Gas / Route 9",42.364754,-72.537269
+4302,"Gardener's Supply (Flag Stop)",42.351423,-72.563462
+4303,"Russell/N. Maple (West)",42.357828,-72.551075
+431,"Cabot / High",42.202802,-72.612311
+432,"Memorial / Prospect",42.203102,-72.571634
+433,"Hampshire / Chestnut",42.202651,-72.614944
+434,"Hampshire / Chestnut",42.202520,-72.614874
+435,"Sargeant / Walnut (1)",42.202397,-72.617787
+436,"Beech / Franklin",42.202194,-72.621352
+4371,"Holyoke Train Station (Amtrak)",42.204353,-72.602735
+438,"Main / Appleton (2)",42.202413,-72.604660
+439,"Maple / Hampshire",42.201926,-72.614009
+44,"Sylvan Residential (In)",42.397183,-72.521682
+440,"Beech / Franklin",42.202199,-72.620891
+4402,"Industrial Drive East",42.335023,-72.630644
+4403,"Industrial Drive",42.334888,-72.630672
+4404,"Chapel / Grove (IB)",42.307602,-72.654018
+4405,"Chapel / Grove (OB)",42.307443,-72.655028
+4407,"Rocky Hill / Florence Rd.",42.300867,-72.673125
+4408,"West St / Earle St (Flag Stop)",42.311485,-72.643086
+441,"Northampton / Forer (1)",42.201965,-72.631089
+442,"Northampton / Forer (2)",42.201918,-72.630928
+443,"Cherry / Leary",42.201654,-72.643454
+444,"Cabot / Bond",42.201929,-72.610520
+445,"Main / Appleton (1)",42.202070,-72.604823
+446,"Cabot / Bond",42.201890,-72.610731
+447,"Hampshire / High",42.201668,-72.613321
+448,"Beech / Linden",42.201423,-72.622997
+45,"Sylvan Residential (Out)",42.397090,-72.521464
+450,"Sargeant / Chestnut (1)",42.201390,-72.616037
+451,"Cherry / Homestead",42.201119,-72.641658
+452,"High / Hampshire",42.201358,-72.613169
+453,"Maple / Sargeant",42.201097,-72.614789
+454,"Stonybrook Prerelease",42.201638,-72.509042
+455,"High / Sargeant",42.200552,-72.613942
+456,"Holyoke Medical Center",42.200372,-72.628677
+457,"Cabot / Race",42.200520,-72.608043
+459,"429 Maple St",42.200364,-72.615504
+46,"Totman Gym (In)",42.395724,-72.525449
+460,"Main / Cabot",42.200408,-72.606710
+461,"Beech / Portland",42.200163,-72.625873
+462,"Cabot / Main",42.200045,-72.607193
+463,"Cabot / Clemente",42.199689,-72.606449
+464,"Beech / Hospital",42.199473,-72.628249
+465,"Cabot / Clemente",42.199153,-72.605864
+466,"Maple / Jackson",42.198773,-72.617091
+467,"Beech / Hospital",42.199370,-72.627890
+468,"Beech / Northampton",42.199162,-72.630560
+47,"Totman Gym (Out)",42.395665,-72.525267
+470,"Veterans Home",42.199003,-72.640353
+471,"Cherry / Bay State",42.199030,-72.632017
+472,"Cherry / Hillside",42.198988,-72.633657
+473,"High / Franklin",42.199131,-72.615322
+474,"Cherry / Bay State",42.198832,-72.633103
+475,"Main / Hamilton (1)",42.199008,-72.607977
+476,"Hillside / Merkel",42.198155,-72.634257
+477,"Cabot / Bridge",42.198346,-72.604756
+478,"Cabot / Bridge",42.198558,-72.605144
+479,"High / Jackson",42.198118,-72.616316
+48,"Olympia Drive",42.396322,-72.511384
+4801,"Kennedy Park (Flag Stop)",42.215753,-72.623385
+481,"Main / Sargeant",42.198196,-72.608758
+482,"Memorial / Parking Lot",42.198101,-72.573497
+483,"Cabot / Canal",42.197391,-72.603784
+484,"Cabot / Canal",42.197368,-72.603604
+485,"South / Maple",42.196735,-72.619060
+486,"Memorial / Connecting Road",42.197146,-72.574275
+488,"South / South",42.195686,-72.620854
+489,"Hillside / Westfield",42.195314,-72.634063
+49,"Computer Science / Green Lot 26",42.395520,-72.532587
+490,"South / South Street Plaza Drive",42.195542,-72.621680
+491,"Holyoke Community College - Frost Circle",42.195154,-72.652782
+492,"Hillside / Westfield",42.195363,-72.634178
+493,"Main / Jackson (1)",42.195382,-72.611657
+494,"South / Harrison",42.194828,-72.625925
+495,"South / Harrison (2)",42.194790,-72.626861
+4963,"Food Share",42.158357,-72.326016
+497,"South / Chapin",42.194736,-72.624198
+498,"Westfield / Hitchcock",42.194397,-72.635645
+499,"Homestead / Lorraine",42.194277,-72.647186
+50,"Computer Science",42.395406,-72.532454
+500,"Northampton / Myrtle",42.193861,-72.629926
+5000,"Converse / Highland (Flag Stop)",42.064998,-72.576244
+5001,"Converse / Laurel (Flag Stop)",42.064941,-72.573543
+5002,"Converse / Burbank (1)",42.065676,-72.566844
+5003,"Converse / Burbank (2)",42.065541,-72.566818
+5004,"Converse / Williamsburg (Flag Stop)",42.065355,-72.553253
+501,"Chicopee / Emerson",42.193670,-72.600114
+502,"Westfield / Woodland",42.193016,-72.636897
+503,"Westfield / Woodland",42.193117,-72.636703
+504,"Northampton / Washington",42.192745,-72.629671
+5041,"Newton / Burnett (Flag Stop)",42.250872,-72.579036
+5042,"Newton / Brainerd (Flag Stop)",42.245050,-72.580487
+5043,"Newton / McKinley (Flag Stop)",42.232369,-72.585075
+5044,"South Hadley High School (Flag Stop)",42.228731,-72.587037
+505,"Homestead / Sheehan",42.192125,-72.648343
+5053,"Westfield / Apremont (Flag Stop)",42.182871,-72.666031
+5054,"Westfield / Fini (Flag Stop)",42.178660,-72.685646
+5055,"Westfield / Old Stage (Flag Stop)",42.179347,-72.706318
+5057,"Southampton / Summit Lock (Flag Stop)",42.175201,-72.727225
+5058,"Southampton / Falcon (Flag Stop)",42.169322,-72.726768
+5059,"Southampton / Airport (Flag Stop)",42.162251,-72.726340
+506,"Memorial / Jamrog (2)",42.192780,-72.576224
+5060,"Southampton / Colonial Pine Acres",42.143354,-72.732218
+5061,"Southampton / Colonial Pine Acres",42.143079,-72.732135
+5062,"N Elm / Notre Dame (Flag Stop)",42.135481,-72.739839
+5063,"N Elm / Pochassic (Flag Stop)",42.130533,-72.745203
+5064,"Main / River (Flag Stop)",42.375635,-72.704574
+5065,"Main / Kellogg (Flag Stop)",42.386708,-72.717115
+5066,"Main St (Flag Stop)",42.381314,-72.709636
+5067,"Haydenville (Flag Stop)",42.362316,-72.693817
+5068,"Leonard / Evergreen (Flag Stop)",42.355720,-72.695085
+5069,"Florence / Arch (Flag Stop)",42.349989,-72.692467
+507,"Memorial / Jamrog (1)",42.192703,-72.575923
+5070,"N Main / E Florence (Flag Stop)",42.349327,-72.689603
+5071,"Locust / Hatfield (Flag Stop)",42.332720,-72.657230
+5073,"Florence / Scanlon  (Flag Stop)",42.326635,-72.677515
+5074,"Jackson/Gleason (Hampshire Heights)",42.337455,-72.642363
+5076,"West St / Village Hill Rd (Flag Stop)",42.311076,-72.646541
+5077,"Chapel/Village Hill Rd (Flag Stop)",42.310989,-72.646200
+508,"Main / Berkshire",42.192160,-72.614932
+509,"The Kids Place at HCC",42.190904,-72.652895
+5091,"Union / Pochassic (Flag Stop)",42.130116,-72.744365
+5092,"Southampton / Forest (Flag Stop)",42.149191,-72.728068
+51,"Yellow Lot 13",42.395245,-72.513308
+510,"Chicopee / Baptist",42.191568,-72.601099
+5101,"Union Station Bay 1",42.106096,-72.594522
+5102,"Union Station Bay 2",42.105955,-72.594691
+5103,"Union Station Bay 3",42.105832,-72.594846
+5104,"Union Station Bay 4",42.105875,-72.594871
+5105,"Union Station Bay 5",42.105996,-72.594723
+5106,"Union Station Bay 6",42.106129,-72.594575
+5107,"Union Station Bay 7",42.106204,-72.594467
+5108,"Union Station Bay 8",42.106185,-72.594867
+5109,"Union Station Bay 9",42.105973,-72.595125
+511,"Westfield / Bray Park",42.190878,-72.640847
+5110,"Union Station Bay 10",42.105834,-72.595294
+5111,"Union Station Bay 11",42.105669,-72.595496
+5112,"Union Station Bay 12",42.106589,-72.594608
+5113,"Union Station Bay 13",42.106708,-72.594787
+5114,"Union Station Bay 14",42.106825,-72.594954
+5115,"Union Station Bay 15",42.106634,-72.595069
+5116,"Union Station Bay 16",42.106520,-72.594896
+5117,"Union Station Bay 17",42.106400,-72.594734
+512,"Westfield / Bray Park",42.190949,-72.639988
+513,"Northampton / Elmwood",42.191017,-72.629653
+514,"Main / Hanover",42.190359,-72.617522
+516,"Main / Jed Days",42.190146,-72.618562
+517,"Westfield / Connecticut",42.189848,-72.642989
+518,"Chicopee / Charbonneau",42.190153,-72.602729
+519,"Westfield / Connecticut",42.189615,-72.643292
+520,"Homestead / Memorial (1)",42.189218,-72.649791
+5200,"Granby / Hillside",42.223187,-72.581791
+5201,"Granby / Hillside",42.223349,-72.581655
+5202,"Granby / Baystate Medical",42.234809,-72.562881
+5203,"Granby / Baystate Medical",42.234837,-72.563119
+5204,"Granby / Brook",42.238535,-72.557187
+5205,"Granby / Brook",42.238455,-72.557567
+5206,"Granby Post Office",42.246368,-72.544990
+5207,"W State / Amherst",42.247047,-72.543582
+5208,"W State / Phins Hill Manor",42.249618,-72.538446
+5209,"W State / Phins Hill Manor",42.249524,-72.538363
+521,"Main / Vernon",42.189346,-72.621852
+5210,"E State / Granby High School",42.263495,-72.493050
+5211,"E State / Granby High School",42.263388,-72.493034
+5212,"State / Summit",42.265685,-72.439389
+5213,"State / Summit",42.265611,-72.438732
+5214,"State / Stadler",42.272911,-72.410205
+5215,"State / Front",42.272743,-72.410934
+522,"Westfield / Memorial",42.188651,-72.645894
+523,"Memorial / Pondview",42.189301,-72.577579
+524,"Chicopee / Blanche",42.188399,-72.605386
+525,"Westfield / Mcgrady",42.187786,-72.647630
+526,"Westfield / Johns",42.187578,-72.648904
+527,"Main / Prew (1)",42.187691,-72.624240
+528,"Northampton / Whiting Farms",42.187153,-72.630038
+529,"Kmart Parking Lot",42.187081,-72.632156
+53,"Village Park Apts (S)",42.394605,-72.515807
+530,"Chicopee / State Hwy 116",42.187062,-72.607633
+531,"Memorial / Pendleton (2)",42.187046,-72.577657
+533,"Homestead / Ramp",42.186301,-72.650575
+534,"Memorial / Pendleton (1)",42.186772,-72.577338
+535,"Homestead / Pynchon",42.185245,-72.650066
+537,"Memorial / Lynn",42.185652,-72.577628
+538,"Meadow / Chicopee (Rivers Park)",42.184788,-72.609813
+5381,"Meadow / Chicopee (Chapin School)",42.184805,-72.609955
+539,"Chicopee / Hope",42.184656,-72.611143
+54,"Village Park Apts (N)",42.395025,-72.515551
+541,"Whiting Farms / Gordon",42.183816,-72.636896
+542,"Homestead / Kane",42.183550,-72.648808
+544,"Whiting Farms / Gordon (2)",42.183448,-72.637004
+545,"Meadow / Alden",42.183737,-72.610520
+546,"Kmart Plaza Drive South",42.183452,-72.632912
+549,"Grattan / Philathea (2)",42.182765,-72.609933
+55,"Williamsburg Center (Grange Hall)",42.392008,-72.729710
+550,"Grattan / Philathea (1)",42.182712,-72.610258
+551,"Whiting Farms / Autumn",42.181670,-72.638543
+552,"Chicopee / Warregan (1)",42.181423,-72.615452
+553,"Chicopee / Warregan (2)",42.181286,-72.615777
+554,"Homestead / Charles Hill",42.180633,-72.648747
+555,"Homestead / Upland",42.180413,-72.648636
+556,"Whiting Farms / Jeanne",42.180241,-72.639659
+557,"Whiting Farms / Farnum",42.180013,-72.639670
+558,"Chicopee / Ducharme",42.179831,-72.617621
+559,"Meadow / Charpentier",42.179708,-72.612912
+56,"Arnold House",42.393758,-72.526013
+560,"Chicopee / Narragansett",42.180026,-72.617494
+561,"North / Hampton Ponds",42.178444,-72.690614
+562,"North / Hampton Ponds",42.178313,-72.690872
+563,"Meadow / Thomas (2)",42.178984,-72.613384
+564,"Tokeneke / Holy Family",42.178463,-72.636719
+565,"Tokeneke / Whiting Farms",42.178430,-72.639872
+566,"Holy Family / Tokeneke",42.178136,-72.636402
+567,"Main / Dean Tech Drive (1)",42.178187,-72.629715
+568,"Meadow / Ducharme",42.178260,-72.613876
+569,"Chicopee / Lawndale",42.177946,-72.620165
+571,"Three Rivers",42.179486,-72.365099
+572,"Chicopee / Bonner",42.177083,-72.621054
+573,"Main / Saint Vincent (1)",42.176507,-72.630246
+574,"Grattan / Dallaire",42.176397,-72.600711
+575,"Meadow / Dorrance",42.175941,-72.614530
+576,"Meadow / Lawndale",42.175740,-72.614686
+577,"Grattan / Mary",42.175799,-72.600488
+578,"Chicopee / Cora",42.175499,-72.621642
+58,"Physical Sciences Building",42.393471,-72.526131
+580,"Holy Family / Devonshire",42.174759,-72.636630
+581,"Holy Family / Devonshire",42.174620,-72.636556
+582,"Chicopee / Daley",42.174709,-72.622085
+583,"Lower Westfield / Whiting Farms",42.174555,-72.638955
+584,"Lower Westfield / Homestead",42.174004,-72.647829
+585,"Big Y - Chicopee (Memorial Drive)",42.174269,-72.578591
+586,"Grattan / Providence (1)",42.174196,-72.599504
+587,"Grattan / Providence (2)",42.174157,-72.599376
+588,"Chicopee Marketplace",42.174820,-72.575301
+59,"Orchard Hill Residential / Grayson",42.392700,-72.519277
+590,"Main / Peltiah (1)",42.173622,-72.631264
+593,"Chicopee / Dillon",42.174564,-72.622065
+594,"Main / Jones Ferry",42.171893,-72.631740
+5941,"Main / Jones Ferry (across)",42.172148,-72.631834
+595,"Montgomery / Unknown (1)",42.172250,-72.586486
+596,"Meadow / Mckinstry",42.172250,-72.614630
+597,"Montgomery / Unknown (2)",42.171994,-72.586569
+598,"Chicopee / Jones Ferry (3)",42.171662,-72.623327
+599,"Big Y - Palmer",42.174040,-72.324323
+6,"Garage Road (Out)",42.465388,-72.575866
+60,"Green Lot 25",42.392537,-72.534241
+600,"Memorial/Ramp 90",42.170698,-72.577229
+6001,"Liberty / Carolyn Price Way",42.135660,-72.584306
+6002,"Liberty / Tacoma",42.129400,-72.584605
+6003,"Liberty / Columbia",42.114189,-72.585927
+6004,"Liberty / Webster",42.113214,-72.586990
+6005,"Liberty / Cass",42.111720,-72.588902
+6006,"Liberty / Franklin (2)",42.110232,-72.590770
+6007,"Franklin / Saab",42.111317,-72.592130
+6009,"Dwight / Bruce Landon Way",42.102985,-72.587388
+6011,"Hancock / Union",42.107751,-72.568585
+6012,"King / Nelson",42.104956,-72.566281
+6013,"King / Eastern (1)",42.105399,-72.562628
+6014,"Walnut / Ivy",42.102619,-72.569111
+6016,"Chestnut / Edwards",42.103679,-72.586848
+6017,"Liberty / Franklin (1)",42.110406,-72.590423
+6018,"Liberty / Cass (opposite)",42.111512,-72.589030
+6019,"Liberty / Webster (opposite)",42.112872,-72.587337
+6020,"Liberty / Columbia (opposite)",42.114411,-72.585662
+6021,"Liberty / Genesee (1)",42.116041,-72.584930
+6023,"Liberty / Greaney",42.133663,-72.584673
+6024,"Liberty St. opposite WGGB",42.138510,-72.582695
+6026,"State / Pleasant",42.109961,-72.571289
+6027,"Clyde / M (2)",42.114760,-72.616623
+6028,"Clyde / Plainfield (1)",42.114798,-72.614691
+6029,"MassMutual Center",42.101624,-72.588208
+603,"Chicopee / Jones Ferry (2)",42.170739,-72.623835
+6031,"Cooley / Caitlin",42.087223,-72.502444
+6032,"Front / Grape (1)",42.148086,-72.602978
+604,"Memorial/(Park Inn 628)",42.171128,-72.577400
+6040,"Walnut/Hickory",42.098305,-72.564160
+6041,"Main / Pleasant",42.214571,-72.593275
+6042,"Main / Parkview Place",42.214714,-72.594182
+6043,"Liberty/C.P.Way (across)",42.135706,-72.584155
+605,"Meadow / Chicomansett",42.170993,-72.614458
+606,"Grattan / Trilby",42.170667,-72.596806
+608,"Grattan / Hobson",42.169420,-72.594865
+6093,"Holyoke Mall",42.168317,-72.639881
+61,"Yellow Lot 12",42.392369,-72.536127
+610,"Chicopee / Elmer",42.168649,-72.623671
+611,"Chicopee / Marshall",42.168033,-72.623676
+612,"State Hwy 141 / Grattan",42.167543,-72.592594
+613,"Meeting House / Meadow (1)",42.167965,-72.615063
+6134,"Locust / Berkshire (1)",42.334469,-72.663622
+6135,"Florence Center (Outbound)",42.335255,-72.669988
+6138,"Locust / Berkshire (2)",42.334361,-72.663647
+6139,"Crafts / Main",42.317784,-72.631811
+614,"Meeting House / Meadow (2)",42.167927,-72.614776
+6140,"Mountain Farms (West)",42.355459,-72.552146
+615,"Meeting House / Elcon (1)",42.167855,-72.616167
+616,"Big Y - Ludlow",42.169007,-72.481831
+617,"Meeting House / Elcon (2)",42.167741,-72.616648
+618,"Meeting House / Grocki (1)",42.167689,-72.617968
+6187,"University / Amity",42.374942,-72.532597
+6188,"University / Amity (1)",42.375002,-72.532696
+619,"Meeting House / Grocki (2)",42.167617,-72.617980
+62,"Orchard Hill Residential / Dickinson Hall",42.391826,-72.520007
+620,"Meeting House / Elmer (1)",42.167407,-72.620854
+621,"Meeting House / Elmer (2)",42.167251,-72.621757
+622,"Laurel Manor",42.169607,-72.343752
+623,"Memorial / Fuller",42.167668,-72.578305
+624,"Baystate Wing Hospital",42.169139,-72.341102
+6243,"70 Mill Street",42.090946,-72.576532
+6247,"90 Mill Street",42.091229,-72.575904
+6250,"King / Finn",42.325730,-72.633196
+6251,"King / Church",42.327932,-72.633605
+6252,"Bridge / Unnamed Street",42.338441,-72.647081
+6253,"Bridge / Shallowbrook Ln (1)",42.338534,-72.652243
+6255,"Pine / Spring",42.330711,-72.678448
+6256,"Pine / Park",42.331628,-72.675320
+6257,"Bridge / Shallowbrook Ln (2)",42.338430,-72.652160
+6258,"King / Barrett",42.331044,-72.634424
+626,"MiraVista",42.165913,-72.633589
+6260,"Old South / Conz (McDonald House)",42.315742,-72.631698
+6261,"Tobin Manor (Maple / Middle)",42.333890,-72.672067
+6262,"Atwood Drive (Southbound)",42.302886,-72.622026
+6265,"Oneil / Northampton (2)",42.288183,-72.661305
+6266,"Union / High",42.269515,-72.671822
+6267,"Union / Liberty (2)",42.266906,-72.670017
+6268,"Cottage / Adams",42.264676,-72.666338
+6269,"Cottage / Brass Cat",42.264736,-72.666291
+627,"One Beacon Drive",42.168342,-72.339557
+6270,"Easthampton Senior Center",42.269612,-72.671792
+6271,"Pleasant / Hill (IB)",42.272289,-72.667431
+6272,"Eastworks / RMV",42.273169,-72.663789
+6273,"Oneil / Northampton (1)",42.288039,-72.660885
+6274,"New South / Dewey",42.314236,-72.633195
+6275,"Elm / Franklin",42.322175,-72.644098
+6276,"Elm / Franklin",42.322267,-72.643978
+6277,"Locust / Hatfield (2)",42.332865,-72.657049
+6278,"Park / Meadow",42.335136,-72.673540
+6279,"Main / Chestnut",42.334627,-72.667394
+628,"Columba / Grattan",42.165898,-72.590874
+6280,"Main / Locust",42.334728,-72.667105
+6281,"Springfield / Mountain",42.107654,-72.703851
+6282,"140 Cottage St",42.143169,-72.547594
+6284,"Carew / Newbury",42.127681,-72.581750
+6285,"Belmont / Belvidere",42.084062,-72.546700
+6288,"Belmont / Ramp (1)",42.086352,-72.558806
+6289,"Main / Bridge",42.103339,-72.592269
+629,"Memorial/Cecile",42.165847,-72.579439
+6290,"Holyoke Community College - College Road",42.195230,-72.652972
+6291,"Hilltown Cooperative Charter School",42.286711,-72.659891
+63,"Morrill Science Center",42.391480,-72.525239
+630,"Montgomery / Willette",42.165387,-72.583976
+6302,"Page / Robbins",42.147832,-72.542600
+6303,"Page / Oakdale",42.148277,-72.541506
+6304,"Page / 1st",42.150201,-72.537061
+6305,"190 Brookdale Dr",42.146350,-72.527250
+6306,"Brookdale / Cottage",42.142606,-72.525651
+6307,"Cottage / Carando",42.143866,-72.536590
+631,"Chicopee / Oldfield (1)",42.165009,-72.621264
+632,"Grattan / Columba",42.165289,-72.590122
+6324,"Main / Holland",42.124341,-72.610074
+633,"Palmer Green Estates",42.167453,-72.338694
+634,"Chicopee / Oldfield (2)",42.164835,-72.620904
+635,"Grattan / Naomi (2)",42.164106,-72.588898
+6350,"Front / Orchard",42.148049,-72.598872
+6351,"Front / Cyman",42.148010,-72.595079
+6352,"Front / Academy",42.147990,-72.592000
+6353,"Front / Grove",42.152486,-72.584406
+6356,"Walmart Chicopee",42.173023,-72.573711
+636,"Grattan / Naomi (1)",42.163963,-72.588911
+637,"Whitney / Whitney",42.163645,-72.640085
+6371,"Allen / Wachusett",42.094125,-72.515796
+6373,"Sumner / Washington",42.083858,-72.570224
+6374,"Fort Pleasant / Warner (1)",42.084992,-72.574221
+6375,"Main / Osgood",42.112721,-72.604614
+6376,"Main / Bancroft",42.113762,-72.605463
+6377,"Bay / Blunt Park (3)",42.128826,-72.556923
+6379,"Berkshire / Champlain",42.145151,-72.521387
+638,"Whitney / Mall Dr",42.163554,-72.639957
+6380,"Oak / Caton (2)",42.159048,-72.503143
+639,"Chicopee / Lorraine (1)",42.163209,-72.618849
+64,"Integrative Learning Center",42.390988,-72.525305
+640,"Riverdale / Brightside",42.162148,-72.633185
+6400,"Boston / Lucerne (2)",42.140599,-72.499843
+6401,"Armory / Hannon",42.114328,-72.580438
+6402,"Armory / Napier",42.116768,-72.582441
+6403,"Armory / Ledyard",42.116764,-72.582607
+6404,"Armory / Worthington",42.113891,-72.580160
+6406,"Lincoln / Federal",42.110470,-72.578372
+6407,"Lincoln / Federal",42.110435,-72.578159
+641,"Chicopee / Poplar (1)",42.162094,-72.617008
+6410,"State / Mason",42.112135,-72.562490
+6411,"Dwight / Taylor",42.105920,-72.591827
+6412,"E Main / Westfield Shops Dr",42.113527,-72.723683
+6413,"Court / Day",42.120181,-72.754133
+6414,"Main / Cross",42.119099,-72.741593
+6415,"Cherry / Maple Crest",42.201669,-72.643694
+6416,"Homestead / Memorial (2)",42.189440,-72.649738
+6417,"Maple / Stockbridge",42.101848,-72.584009
+642,"Chicopee / Poplar (2)",42.162149,-72.616900
+6420,"White / Pasadena",42.092854,-72.556315
+6421,"Memorial / Union",42.096193,-72.607202
+6427,"Island Pond / Casco",42.101451,-72.549052
+6428,"Island Pond / Amanda",42.101724,-72.548307
+6429,"Island Pond / Surry",42.097733,-72.550540
+6430,"Island Pond / Agnes",42.097532,-72.550750
+6431,"Berlin / State",42.115615,-72.551102
+6432,"Berlin / State",42.115184,-72.551132
+6433,"Roosevelt / Blunt Park",42.123133,-72.549334
+6434,"Roosevelt / Cottage",42.138899,-72.547811
+6435,"Roosevelt / Peer",42.129654,-72.545850
+6436,"Roosevelt / Bay",42.132193,-72.546180
+6437,"Roosevelt / Bay",42.132211,-72.545937
+6438,"Roosevelt / Wilbraham",42.113560,-72.548241
+6439,"Roosevelt / Byron",42.113443,-72.548369
+644,"Grattan / Morris",42.161941,-72.586151
+6441,"Chicopee / Lorraine (2)",42.163377,-72.618943
+6442,"Chicopee / Walter",42.184787,-72.610850
+6444,"Chicopee / Baptist",42.191538,-72.601394
+6445,"Chicopee / Bolduc",42.190296,-72.602782
+6446,"Chicopee / Adams",42.189041,-72.604478
+6447,"Chicopee / Perrault",42.187233,-72.607619
+6450,"Chicopee / Jones Ferry (1)",42.171829,-72.623352
+6452,"Meadow / Caroline",42.182301,-72.611152
+6453,"Meadow / Elizabeth",42.181736,-72.611578
+6454,"Meadow / Thomas (1)",42.178925,-72.613538
+6456,"Lower Westfield / Whiting Farms",42.172878,-72.640208
+6457,"Northampton / Elmwood (2)",42.190899,-72.629524
+6458,"Riverdale / Labelle (1)",42.151551,-72.630682
+646,"Chicopee / Ramp (2)",42.160867,-72.614554
+6463,"Roosevelt / Carnavon",42.107681,-72.546602
+6464,"Pine / Maple Court",42.097607,-72.573470
+6465,"Pine / Maple Street",42.095792,-72.574140
+6466,"Pine / Windsor Street",42.096733,-72.573627
+6467,"Pine / Pine Court",42.098116,-72.573088
+647,"Chicopee / Ramp (1)",42.160855,-72.614732
+6470,"University Park Apartments / Jarvis",42.217985,-72.641304
+6471,"University Park Apartments / Jarvis (IN)",42.218202,-72.641306
+6473,"Pine/Windsor (across)",42.096898,-72.573705
+6474,"Island Pond / Roosevelt",42.104009,-72.546157
+6475,"Roosevelt / Strathmore",42.107835,-72.546764
+6476,"Roosevelt / Sylvester",42.129403,-72.545584
+6477,"Roosevelt / Edgemont",42.124606,-72.547014
+648,"Montgomery / Memorial",42.161142,-72.581796
+65,"Chadbourne Hall (N)",42.389371,-72.518861
+650,"Grattan / Montgomery (2)",42.160997,-72.582918
+6501,"Pleasant / Dwight",42.211312,-72.620407
+6502,"Hillside / Merkel",42.198208,-72.634110
+6504,"Chicopee High School",42.149318,-72.586313
+651,"Grattan / Montgomery (1)",42.160864,-72.582730
+653,"Highland / Prospect",42.159399,-72.634367
+654,"Highland / Prospect",42.159307,-72.634517
+6550,"Main / Hamilton (2)",42.198709,-72.608442
+6551,"Main / Adams (2)",42.196739,-72.610434
+6552,"Main / Jackson (2)",42.195884,-72.611276
+6553,"Main / Papineau",42.188535,-72.623529
+6554,"Main / Prew (2)",42.187891,-72.624193
+6555,"Main / Dean Tech Drive (2)",42.177796,-72.630009
+6556,"Main / Saint Vincent (2)",42.176590,-72.630359
+6557,"Main / Peltiah (2)",42.174150,-72.631179
+656,"Riverdale / Marion",42.158625,-72.633206
+658,"East / Warren",42.159988,-72.472321
+659,"Main / Oak",42.159677,-72.502599
+66,"Chadbourne Hall (S)",42.389351,-72.518940
+661,"Main / Pinevale",42.159511,-72.500898
+662,"Main / Pinevale",42.159416,-72.500946
+663,"Main / Grove",42.158557,-72.584712
+664,"Main / Canterbury",42.158559,-72.580592
+665,"Main / Cedar",42.159320,-72.498757
+666,"46 Main Street",42.158473,-72.584628
+667,"Main / Canterbury",42.158468,-72.580566
+668,"Main / Cedar",42.159193,-72.498471
+669,"Oak / Caton (1)",42.159093,-72.503295
+67,"Mullins Center",42.389180,-72.532472
+670,"Main / Lyons",42.159193,-72.496959
+673,"Belcher / Maple",42.157943,-72.580328
+6734,"South East Commons (Out)",42.371922,-72.501510
+6735,"South East Commons (In)",42.371755,-72.501408
+675,"Main / Lyons",42.158541,-72.494607
+676,"State Hwy 116 / Sitarz",42.157256,-72.612222
+678,"Main / Indian Leap",42.157783,-72.491349
+679,"Grove / Court (2)",42.157034,-72.585233
+68,"Butterfield Hall (W)",42.388943,-72.517661
+680,"Main / Indian Leap",42.157833,-72.491937
+6801,"Main / Meadow",42.189837,-72.620639
+6802,"N Elm / Harvard",42.135056,-72.739987
+6808,"White / Dawson (1)",42.091784,-72.555006
+681,"Grove / Court (1)",42.156956,-72.585145
+6811,"Girls Inc. (Flag Stop)",42.205766,-72.604964
+682,"Old Chicopee / State Hwy 116",42.157395,-72.612050
+683,"Berkshire / Chestnut (1)",42.157216,-72.508123
+684,"Berkshire / Chestnut (2)",42.157153,-72.508791
+685,"Berkshire / Myrtle (1)",42.157031,-72.506381
+6850,"Myrtle/Berkshire (in)",42.156798,-72.506283
+6855,"High / Union",42.269820,-72.671549
+686,"Berkshire / Myrtle (2)",42.156984,-72.506314
+6860,"Myrtle/Berkshire (out)",42.156862,-72.506126
+687,"Broadway / Ramp",42.156164,-72.580889
+6870,"Springfield RMV",42.140853,-72.574690
+688,"Main / Rogers",42.156989,-72.489800
+6889,"Church Street Senior Center",42.265295,-72.236021
+689,"Berkshire / Oak (1)",42.156836,-72.503995
+69,"Butterfield Hall (E)",42.388787,-72.517502
+690,"Palmer Library",42.158299,-72.330926
+6902,"Palmer Library",42.158130,-72.331022
+691,"Main / Rogers",42.156905,-72.489925
+6910,"Worthington / Federal",42.112570,-72.580272
+692,"Broadway / Paine",42.156076,-72.580725
+693,"Berkshire / Oak (2)",42.156751,-72.504017
+694,"Berkshire / Holly",42.156588,-72.511074
+695,"Sewall / East",42.157472,-72.481061
+6950,"Sewall / East",42.157215,-72.480899
+6951,"Sewall / Winsor",42.159223,-72.480379
+6952,"Sewall / Winsor",42.159265,-72.480181
+6953,"Stop and Shop - Westfield",42.120213,-72.747302
+696,"Berkshire / Berkshire",42.156321,-72.511089
+697,"Grove / Oak",42.155380,-72.585471
+698,"Main / Banner",42.156058,-72.488029
+699,"Main / Banner",42.155992,-72.488176
+7,"Pioneer Valley Apts",42.459332,-72.578462
+70,"Recreation Center",42.389186,-72.532306
+7006,"Sargent / Baystate Medical",42.287567,-72.399152
+701,"Kennedy Middle School",42.155032,-72.512268
+7010,"Park / Breckenridge (Dollar General)",42.151600,-72.316214
+702,"Broadway / Summer",42.154138,-72.580496
+703,"Grove / Front",42.153976,-72.584604
+704,"Berkshire / Fiberloid",42.154496,-72.512993
+7043,"Russell/N. Maple (East)",42.357903,-72.550120
+705,"Riverdale / Althea (1)",42.152801,-72.630998
+706,"Broadway / Pine",42.153326,-72.580523
+707,"Riverdale / Althea (2)",42.152632,-72.630706
+708,"Berkshire / Fiberloid",42.153700,-72.513430
+709,"Broadway / Pine",42.152835,-72.580352
+71,"Fine Arts Center",42.387820,-72.523929
+7100,"Southwick Town Hall",42.052828,-72.771702
+7101,"College / Brickyard",42.216088,-72.730455
+7102,"College / Moose Brook",42.215997,-72.730217
+7103,"College / Maple",42.229008,-72.729934
+7104,"College / East",42.229474,-72.729598
+7105,"College / Pomeroy Meadow",42.236646,-72.724242
+7106,"College / Pomeroy Meadow",42.236555,-72.724216
+7107,"College / Lynn",42.237736,-72.720591
+7108,"College / Lynn",42.237653,-72.720560
+711,"Riverdale / Labelle (2)",42.151345,-72.630466
+7110,"West Silver / Holland",42.114598,-72.750757
+7111,"West Silver / Holland",42.114507,-72.750543
+7112,"South Maple / Mill",42.111786,-72.762165
+7113,"South Maple / Mill",42.111666,-72.762138
+7114,"Southwick / Hundred Acres",42.109102,-72.764762
+7115,"Southwick / Hundred Acres",42.109139,-72.764582
+7116,"Southwick / Phillip",42.103389,-72.764412
+7117,"Southwick / Phillip",42.103863,-72.764302
+7118,"Southwick / Southwood Acres",42.100486,-72.763841
+7119,"Southwick / Southwood Acres",42.100363,-72.763625
+712,"Goodwin / Lilac",42.151789,-72.506356
+7120,"College / South Village",42.085639,-72.765431
+7121,"College / South Village",42.085906,-72.765135
+7122,"College / Crescent",42.062928,-72.765032
+7123,"College / Crescent",42.063164,-72.764739
+7124,"College / Southwick Plaza",42.057188,-72.768266
+7125,"College / Southwick Plaza",42.056968,-72.768207
+713,"Lilac / Goodwin",42.151770,-72.506187
+714,"Front/Ellerton(opposite)",42.150704,-72.585412
+715,"Front / Ellerton",42.150618,-72.585329
+716,"Berkshire / Dutton",42.150907,-72.516061
+718,"Goodwin / Darling (1)",42.150641,-72.507907
+719,"Goodwin / Darling (2)",42.150392,-72.508116
+72,"Studio Arts Building",42.387694,-72.523467
+720,"Broadway / Grove",42.149543,-72.579990
+722,"Berkshire / Page",42.150049,-72.517079
+725,"Broadway / Monroe",42.149190,-72.579842
+726,"Front/Wheatland(opposite)",42.149051,-72.587467
+727,"Front/Springfield",42.148855,-72.606863
+728,"Goodwin / Layzon Brothers",42.149753,-72.508561
+729,"Riverdale / Hayes (2)",42.148488,-72.630727
+73,"Haigis Mall",42.387151,-72.526402
+730,"Berkshire / Seneca",42.149344,-72.517509
+731,"Chicopee Center- Dollar Store",42.148437,-72.608882
+732,"Riverdale / Hayes (1)",42.148140,-72.630425
+733,"Front / Grape (2)",42.148212,-72.603461
+735,"Front/Orchard(opposite)",42.148138,-72.598648
+736,"Berkshire / Ogden",42.148815,-72.518203
+737,"Chicopee Center - City Hall",42.148298,-72.606921
+738,"Front/Cyman",42.148092,-72.594778
+739,"Front/Academy(opposite)",42.148073,-72.591879
+74,"Boyden Gym (S)",42.386234,-72.531229
+7420,"Big Y - Wilbraham",42.149262,-72.472789
+7445,"Rocky Hill Co Housing b",42.308247,-72.674270
+7446,"Rocky Hill Co Housing a",42.307991,-72.674585
+7447,"Florence Rd at Florence Heights",42.323837,-72.676858
+746,"Center / School",42.146835,-72.607245
+747,"Springfield / Pearl",42.146491,-72.605037
+748,"Broadway / Theodore",42.146993,-72.579650
+7481,"Atwood Drive (Northbound)",42.303279,-72.623704
+7482,"Lyman / Elm",42.210686,-72.607754
+7483,"McNulty Park",42.214280,-72.616958
+749,"Broadway / Theodore",42.146966,-72.579786
+75,"UMass Visitors Center",42.385457,-72.524673
+750,"Berkshire / Lorimer",42.147431,-72.519244
+751,"Riverdale / U.S. Hwy 5 (4)",42.146491,-72.629695
+752,"Springfield / Howard",42.146486,-72.605169
+753,"Berkshire / Superior",42.147067,-72.519808
+755,"Boston / Dudley",42.146817,-72.481551
+756,"Cabot / Park",42.145627,-72.608897
+757,"Berkshire / Michigan",42.146256,-72.520326
+759,"Riverdale / U.S. Hwy 5 (1)",42.145191,-72.629182
+76,"Boyden Gym (N)",42.386550,-72.531202
+760,"Boston / Hatch",42.146484,-72.482304
+761,"Center/Union",42.144858,-72.608819
+764,"Boston / Biddle",42.145430,-72.484260
+765,"Berkshire / Champlain (1)",42.145190,-72.521545
+766,"Springfield / South",42.144461,-72.603407
+768,"Springfield / Chapin",42.144291,-72.603479
+77,"Southwest Residential / Massachusetts Avenue (W)",42.384962,-72.528282
+770,"Riverdale / Wayside",42.143764,-72.628515
+771,"Riverdale / U.S. Hwy 5 (3)",42.143516,-72.628155
+773,"Center / South",42.143637,-72.610118
+774,"Cottage / Industry",42.144210,-72.544532
+775,"Broadway / Western",42.143676,-72.580373
+776,"Broadway / Western",42.143661,-72.580499
+778,"Industry / Cottage (State Offices)",42.143628,-72.543623
+779,"Springfield / Gaylord",42.143271,-72.602983
+78,"Southwest Residential / Massachusetts Avenue (E)",42.384648,-72.528412
+781,"Center/South",42.143535,-72.610024
+784,"Cottage / Progress (opposite)",42.143107,-72.532883
+786,"Page / Sargon",42.143051,-72.554027
+788,"Page / Sargon (opposite)",42.142883,-72.554062
+789,"Springfield / Stearns",42.142414,-72.602710
+79,"Chestnut Street (N)",42.383675,-72.518459
+790,"Broadway / William",42.142170,-72.580963
+7902,"West Brookfield (E)",42.235186,-72.140579
+7903,"West Brookfield (W)",42.235834,-72.138268
+7904,"Brookfield (E)",42.215279,-72.097321
+7905,"Brookfield (W)",42.215476,-72.097455
+7906,"East Brookfield (E)",42.226215,-72.049920
+7907,"East Brookfield (W)",42.226322,-72.050006
+7908,"Spencer (E)",42.243865,-71.994456
+7909,"Spencer (W)",42.243870,-71.995309
+791,"Berkshire / Cottage",42.142436,-72.523602
+7910,"Leicester (E)",42.246001,-71.909031
+7911,"Leicester (W)",42.245367,-71.907123
+7912,"Union Station Garage",42.260210,-71.795179
+792,"Page / Prentice",42.142110,-72.555845
+794,"Page / Prentice (opposite)",42.142059,-72.555643
+794951,"Merrill Rd/Stop & Shop (E)",42.466141,-73.204565
+795,"66 Industry Ave",42.142059,-72.543437
+796,"Berkshire / Babbin",42.141918,-72.523623
+797,"Boston Road Opposite Eastfield Mall",42.142043,-72.491856
+798,"Broadway / Abbey Memorial",42.140955,-72.581466
+799,"Springfield / Casino",42.140746,-72.602339
+8,"Russell Street",42.458451,-72.573504
+80,"Chestnut Street (S)",42.383452,-72.518781
+8000,"Hall Drive",42.357938,-72.484243
+8002,"Old Belchertown Road 2",42.354713,-72.480109
+8005,"Garage Road (In)",42.465288,-72.576033
+8006,"Sunderland Center",42.464945,-72.580335
+8008,"Sand Hill Road",42.412728,-72.514259
+8010,"Mill Lane (Out)",42.354983,-72.520812
+8011,"Columbia Drive (Out)",42.354343,-72.522065
+8014,"Silver Street (In)",42.261480,-72.572668
+8015,"Hadley Street (S)",42.261659,-72.580781
+8016,"Skinner Mountain (N)",42.299409,-72.602209
+8017,"Skinner Mountain (S)",42.299206,-72.602527
+8018,"Middle Street / Rt 47 (E)",42.334366,-72.588107
+8019,"Middle Street / Rt 47 (W)",42.334473,-72.588698
+802,"Page / Osborne",42.141129,-72.557712
+8020,"Bay Road (W)",42.337568,-72.605840
+8022,"Bay Road (E)",42.337413,-72.605885
+8024,"Pulpit Hill Road 1",42.417420,-72.523872
+8025,"Pulpit Hill Road 2",42.417189,-72.526891
+803,"Industry / Memorial",42.141126,-72.542875
+8032,"John W. Olver Transit Center",42.585643,-72.600624
+8033,"Baystate Franklin Medical Center",42.596031,-72.591725
+8034,"Pelham Community Center",42.377960,-72.468821
+8035,"Amethyst Brook Apartments (W)",42.378289,-72.473809
+8036,"Amethyst Brook Apartments (E)",42.378216,-72.473660
+8037,"South County Senior Center (N)",42.466046,-72.577457
+803715,"Merrill Rd/Panera Plaza (W)",42.465426,-73.205434
+8038,"South County Senior Center (S)",42.465923,-72.577526
+805,"Springfield / Henry Harris",42.140451,-72.602137
+81,"Fearing Street (In)",42.383049,-72.520484
+811,"Boston / Lucerne (1)",42.140727,-72.499922
+8110,"Boston / Eastfield Mall",42.142405,-72.490199
+812,"Page / Windemere",42.140100,-72.559716
+814,"Springfield / Lemuel",42.139678,-72.601923
+817,"Page / Fresno",42.139599,-72.560381
+818,"Springfield / Marion",42.139382,-72.601953
+819,"Riverdale / Ashley (1)",42.138897,-72.626422
+82,"Fearing Street (Out)",42.382885,-72.520565
+823,"Boston / Fieldston",42.140049,-72.503302
+825,"Boston / Temby",42.139623,-72.505513
+826,"Berkshire / Harvey (2)",42.139467,-72.524980
+827,"Riverdale / Ashley (2)",42.138358,-72.625920
+828,"Berkshire / Harvey (1)",42.139361,-72.525344
+829,"Boston Road Mobile Home Park",42.139512,-72.505297
+83,"Green Lot 33 (W)",42.382363,-72.532248
+830,"Liberty / WGGB",42.138768,-72.582898
+832,"Page / Haumont",42.138796,-72.562137
+835,"Page / Saint James",42.138647,-72.562282
+838,"Parker / Frederic",42.139093,-72.495996
+84,"Green Lot 33 (E)",42.382284,-72.532163
+840,"Five Mile Pond Park",42.138847,-72.509775
+841,"Boston / Shumway",42.138669,-72.508970
+842,"Springfield Plaza",42.137939,-72.579038
+844,"Springfield / Franklin (2)",42.137755,-72.601409
+845,"Springfield / Franklin (1)",42.137718,-72.601501
+846,"Center/Rt 91",42.137485,-72.612719
+847,"Parker / Ellery",42.138453,-72.495828
+848,"Springfield Plaza (Stop & Shop)",42.137653,-72.582060
+849,"Center/South of I-91",42.137284,-72.612895
+85,"Triangle Street",42.382216,-72.519098
+850,"Memorial Industrial Park",42.137928,-72.545243
+851,"Boston / Lloyd",42.137877,-72.513110
+852,"Boston / Brandon",42.137786,-72.514474
+854,"Saint James / El Paso",42.137504,-72.564463
+855,"Boston / Phillips",42.137641,-72.514316
+856,"Saint James / Holy Cross (opposite)",42.136947,-72.565785
+858,"Boston / Glenwood (1)",42.137202,-72.517582
+859,"603 Berkshire Ave",42.137094,-72.527702
+86,"Southwest Residential  / University Drive (S)",42.382007,-72.531850
+860,"Boston / Glenwood (2)",42.137049,-72.517661
+861,"600 Berkshire Ave",42.137003,-72.528073
+863,"Saint James / Holy Cross",42.136663,-72.566067
+866,"Springfield Walmart",42.136634,-72.506824
+867,"Berkshire / Dewey",42.136383,-72.528720
+868,"Saint James / St James",42.135274,-72.568712
+869,"Boston / Lawnwood (1)",42.135218,-72.523602
+87,"Southwest Residential / University Drive (N)",42.382781,-72.531781
+870,"Springfield / Atwater (1)",42.135187,-72.600800
+871,"Boston / Lawnwood (2)",42.135861,-72.522281
+872,"Saint James Blvd / Saint James Ave",42.135418,-72.568741
+873,"Springfield / Mellen",42.135135,-72.600714
+874,"Berkshire / County",42.135522,-72.530077
+875,"Berkshire / Rush",42.135646,-72.529600
+876,"Parker / N Branch",42.135633,-72.495912
+879,"Saint James Blvd / Saint James Ave",42.135035,-72.569174
+881,"1102 Riverdale St",42.134333,-72.625923
+883,"Berkshire / Elizabeth",42.135141,-72.530398
+885,"Carew / Shaine",42.134268,-72.570883
+886,"Boston / Arnold",42.134559,-72.524262
+887,"Boston / Stuart",42.134108,-72.525014
+888,"Springfield / Davenport (1)",42.133619,-72.600462
+8888,"Olver Transit Pavilion",42.122785,-72.749324
+889,"Parker / Hermitage",42.134462,-72.495722
+89,"University Day School (S)",42.381538,-72.533913
+890,"Carew / Sherbrooke",42.133783,-72.571130
+891,"Riverdale / U.S. Hwy 5 (2)",42.132913,-72.625742
+892,"Liberty/Lynwood",42.133266,-72.584754
+893,"Springfield / Davenport (2)",42.133078,-72.600243
+894,"Parker / Overlea",42.133857,-72.495873
+896,"Berkshire / Egan",42.133434,-72.533143
+897,"Westfield State University",42.130725,-72.796658
+898,"Center St. (Opposite 628)",42.132750,-72.613069
+899,"Center/Health Clinic",42.132503,-72.613183
+9,"Sugarloaf Estates",42.457672,-72.581465
+90,"University Day School (N)",42.381489,-72.533848
+9000,"Canon Circle #2",42.086002,-72.507996
+9005,"SAAB Court",42.111381,-72.592846
+9006,"Sumner / Lenox",42.085970,-72.558741
+9008,"Ryan/ Spring OB",42.329903,-72.678623
+901,"Berkshire / Harding",42.133660,-72.532574
+9011,"Brassworks IB",42.376798,-72.705908
+9014,"State / Federal",42.107677,-72.577838
+902,"Carew / Upland",42.132623,-72.573187
+9022,"Boland Way",42.102091,-72.591275
+903,"Bay / Hood (1)",42.132749,-72.541860
+9037,"White / Winnipeg",42.083080,-72.543094
+9038,"Main / Patton",42.109221,-72.600514
+904,"Bay / Hood (2)",42.132633,-72.542340
+9040,"Harrison Avenue (Out)",42.102934,-72.589719
+905,"Bay / Bay Path",42.132611,-72.543610
+9050,"Amity Place (In)",42.373966,-72.531554
+9051,"Lincoln Avenue (In)",42.375593,-72.523910
+9052,"Jones Library (In)",42.375754,-72.521717
+9053,"The Mill District",42.415151,-72.529851
+9054,"Amherst Survival Center (In)",42.414663,-72.532605
+9055,"Amherst Survival Center (Out)",42.414661,-72.532456
+9056,"Hartsbrook School (W)",42.329480,-72.566533
+9057,"Hartsbrook School (E)",42.329453,-72.565977
+9058,"Chmura Road (N)",42.315367,-72.575920
+9059,"Chmura Road (S)",42.315439,-72.575992
+906,"Carew / Upland",42.132340,-72.573389
+9063,"Ware Post Office",42.255386,-72.252471
+9064,"Big Y - Ware",42.254866,-72.253211
+907,"Liberty / Edgar",42.132207,-72.584598
+9071,"Hendrick / Plain (Flag Stop)",42.241020,-72.662475
+9072,"Strong / Plain (Flag Stop)",42.238745,-72.681055
+9074,"Park / Garfield (Flag Stop)",42.261139,-72.674128
+9075,"Main / Wright (Flag Stop)",42.263053,-72.681774
+908,"Bay / Haskin (2)",42.132564,-72.540474
+9086,"HTC Bay 7",42.208505,-72.607303
+9087,"HTC Bay 6",42.208451,-72.607356
+9088,"HTC Bay 5",42.208394,-72.607413
+9089,"HTC Bay 4",42.208339,-72.607466
+909,"Bay / Cloran",42.132424,-72.544585
+9095,"Hampshire County House of Corrections",42.307324,-72.658579
+9096,"HTC Bay 3",42.208283,-72.607521
+9097,"HTC Bay 2",42.208226,-72.607576
+9098,"HTC Bay 1",42.208170,-72.607631
+91,"McGuirk Stadium / Yellow Lot 11 (N)",42.379965,-72.533982
+910,"Bay / Haskin (1)",42.132544,-72.540178
+911,"Parker / Sonia",42.132705,-72.495850
+9129,"50 Wason Avenue",42.125259,-72.615868
+9130,"Williams/Longmeadow",42.050586,-72.582768
+9140,"Commerce High School",42.106884,-72.578926
+9141,"Central High School (Tripper Only)",42.130812,-72.549532
+9142,"Roosevelt / Central High School",42.131018,-72.545984
+9146,"Central HS (Tripper Only)",42.130797,-72.547074
+915,"Carew / Piedmont",42.131654,-72.574701
+9150,"State / Benton",42.116326,-72.549461
+9151,"Putnam High School (Blunt Park Road)",42.119096,-72.547953
+916,"Springfield / Atwater (2)",42.131411,-72.600328
+9160,"Crafts Avenue / Peter Pan",42.316730,-72.631595
+9161,"Look Park OB",42.344156,-72.681959
+917,"Bay / Central High School (1)",42.131723,-72.549467
+9177,"Church / Pine (Thorndike)",42.190842,-72.331544
+918,"Springfield / Atwater (3)",42.131206,-72.600226
+92,"McGuirk Stadium / Yellow Lot 11 (S)",42.379891,-72.534102
+920,"Carew / Savoy",42.131525,-72.574668
+9202,"100 Wason Avenue",42.125433,-72.613921
+921,"Parker / Ravenwood",42.132070,-72.495695
+922,"Bay / Central High School (2)",42.131528,-72.550607
+924,"Bay / Jasper (1)",42.131651,-72.537276
+925,"Bay / Jasper (2)",42.131557,-72.537244
+9250,"Dwight / Converse",42.059828,-72.537645
+926,"Riverdale Shops 2",42.130419,-72.622538
+927,"Center/Plainfield (Opposite)",42.130398,-72.612650
+929,"Western / Westwood",42.128960,-72.792993
+93,"Pray Street (Out)",42.379601,-72.519783
+930,"Riverdale Shops 1",42.130718,-72.624163
+931,"Bay / Berkshire",42.131100,-72.535252
+9310,"State and Main(Tripper Timepoint)",42.101123,-72.586728
+9311,"Springfield Library",42.103118,-72.584468
+9312,"Carew and Main(Tripper Timepoint)",42.110138,-72.601362
+9315,"Armory and Carew(Tripper Timepoint)",42.121983,-72.588475
+9316,"State / Main (Tripper Only)",42.101111,-72.586952
+932,"Center / Plainfield",42.130762,-72.612968
+9320,"State and St. James(Tripper Timepoint)",42.109630,-72.573416
+9322,"State and St. James(Tripper Timepoint)",42.108748,-72.575246
+9323,"Carew and Main(Tripper Timepoint)",42.111417,-72.599924
+9324,"Carew and Chestnut",42.113661,-72.596848
+9326,"State and Dwight(Tripper Timepoint)",42.102167,-72.585748
+9327,"State and Chestnut(Tripper Timepoint)",42.101952,-72.585773
+9328,"Tapley and St. James(Tripper Timepoint)",42.125257,-72.567171
+9329,"Wason / Fisk",42.124709,-72.613533
+933,"Union / Springdale Ave",42.129011,-72.731415
+9330,"Island Pond / Allen",42.094880,-72.550754
+9331,"Island Pond / Allen",42.094786,-72.550991
+934,"Berkshire / Bay",42.131116,-72.534485
+9350,"Treehouse Circle",42.251033,-72.670315
+936,"Carew / Suzanne",42.130635,-72.576545
+938,"Boston / Morton (2)",42.130927,-72.526688
+939,"Union / Lower Sandy Hill",42.128889,-72.731066
+94,"Pray Street (In)",42.379759,-72.519506
+940,"Boston / Morton (1)",42.130843,-72.527036
+941,"Carew / Eddy",42.130414,-72.576731
+942,"Bay / Blunt Park (1)",42.130675,-72.554020
+943,"Western / Woodward Center",42.127056,-72.787289
+944,"Bay / Blunt Park (2)",42.130782,-72.554061
+9441,"Walnut / Shopping Court",42.088064,-72.629414
+9442,"Walnut / Shopping Court (Opposite)",42.087946,-72.629292
+946,"Parker / Sunnybrook",42.129983,-72.495804
+947,"Liberty / Roy",42.129240,-72.584495
+948,"Carew / Judson",42.129215,-72.579225
+949,"Riverdale / Parking Lot",42.129044,-72.626422
+95,"Cowles Lane",42.377895,-72.520057
+950,"Carew / Middle",42.129003,-72.579338
+951,"Colonial Estates",42.131408,-72.504297
+953,"Riverdale / Pierce",42.128200,-72.626848
+954,"Bay / Blunt Park (4)",42.129039,-72.556860
+955,"Springfield / Shefford (1)",42.128404,-72.600525
+9550,"River Terrace / Northampton",42.227695,-72.628962
+9551,"River Terrace / Northampton",42.227570,-72.628831
+956,"Boston / Pheland",42.128907,-72.529414
+957,"Springfield / Shefford (2)",42.128153,-72.600428
+958,"Carew / Nottingham",42.128145,-72.580838
+9587,"Raymond A. Jordan Senior Center",42.125003,-72.550907
+96,"Amherst Post Office",42.377804,-72.519836
+960,"Liberty / Langdon",42.127793,-72.584540
+961,"Boston / Seymour",42.128191,-72.530043
+962,"Boston / Wilton",42.127680,-72.530896
+964,"Parker / Patricia (1)",42.127766,-72.496204
+965,"Main/Main",42.127641,-72.611450
+966,"Parker / Patricia (2)",42.127556,-72.496108
+967,"Center / Main",42.127705,-72.611612
+968,"Carew / Freeman",42.126610,-72.583013
+969,"Boston / Barber",42.127079,-72.531452
+97,"Dallas Mall (W)",42.377636,-72.534152
+970,"Springfield / Caseland",42.126291,-72.601107
+972,"Carew / Freeman",42.126387,-72.583086
+973,"Springfield / Cunningham",42.126065,-72.601213
+974,"Boston / Denver (2)",42.126326,-72.532669
+975,"Boston / Denver (1)",42.126215,-72.533200
+976,"Liberty / Carew",42.125768,-72.584351
+977,"Bay / Baywood (1)",42.125958,-72.558840
+978,"3550 Main Street",42.126355,-72.611090
+979,"Baystate Parking Lot N",42.126441,-72.610885
+98,"Dallas Mall (E)",42.377534,-72.532615
+980,"Carew / Liberty",42.125622,-72.584215
+9800,"Western / Lathrop",42.122634,-72.774434
+9801,"Court / Cemetery",42.119418,-72.763252
+9802,"Western / Lowell",42.122157,-72.773485
+981,"Bay / Baywood (2)",42.125685,-72.558897
+982,"Boston / Coleman",42.125611,-72.534127
+983,"Western / Birch",42.123373,-72.776629
+984,"Carew / Liberty",42.125053,-72.584651
+985,"Liberty / Carew",42.124846,-72.584422
+986,"Carew / Penacook",42.124796,-72.585150
+989,"Boston / Preston",42.125167,-72.535948
+99,"Thayer Street (Out)",42.376376,-72.486325
+990,"Boston / Ambrose (3)",42.125046,-72.535912
+9901,"Thayer Street (In)",42.376449,-72.486564
+991,"Parker / Nassau",42.125254,-72.496758
+992,"Elm / Ramp",42.123975,-72.626691
+993,"Western / Highland",42.119608,-72.765257
+994,"3350 Main Street",42.124025,-72.610094
+995,"Boston / Ambrose (1)",42.124618,-72.538212
+996,"Parker / Gary",42.124904,-72.497009
+9968,"State / Hampden (opposite)",42.156368,-72.477120
+9969,"Encompass Health",42.154753,-72.472548
+9970,"State / Hampden",42.156490,-72.477269
+9971,"East / Chestnut",42.156832,-72.482314
+998,"Elm / Dingle (1)",42.123738,-72.626896
+999,"Boston / Ambrose (2)",42.124503,-72.538204
+9990,"Whately Park and Ride",42.469970,-72.615263
+9993,"Industrial Drive",42.467677,-72.605527
+9999,"Riverside Park Plaza",42.411086,-72.530552
+place_54Inds,"54 Industrial Dr",42.333647,-72.629347
+place_AcaMus,"Academy of Music",42.317677,-72.633607
+place_HTC,"Holyoke Transportation Center",42.207958,-72.607763
+place_UnSta,"Springfield Union Station",42.106527,-72.593655

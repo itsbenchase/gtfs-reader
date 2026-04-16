@@ -19,10 +19,10 @@ public class gtfs2
 {
     public static void main(String [] args)
     {  
-        final String agency = "lrta";
+        final String agency = "pvta";
         Scanner in = new Scanner(System.in);
 
-        String zipUrl = "https://data.trilliumtransit.com/gtfs/lowell-ma-us/lowell-ma-us.zip";
+        String zipUrl = "https://www.pvta.com/g_trans/google_transit.zip";
 
         // curent date, used for outdated service_ids
         LocalDateTime now = LocalDateTime.now();
