@@ -11,6 +11,8 @@ function funct()
 
   var paramName2 = 'agency';
   agency = parsedUrl.searchParams.get(paramName2);
+
+  document.getElementById("mapLink").innerHTML = `Click <a href=map.html?agency=${agency}>here</a> to view all stops on a map.`
   
   const testAgencyUrl = ("https://itsbenchase.github.io/gtfs-reader/" + agency + "_routes.txt"); // provide file location
     fetch(testAgencyUrl)
