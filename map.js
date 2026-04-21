@@ -304,7 +304,7 @@ function findTrips(result) {
     if (thursTimes.length > 1) {
         thursTimes.sort((a, b) => a - b);
         let span = thursTimes[thursTimes.length - 1] - thursTimes[0];
-        weekdayAvg = Math.round(span / (thursTimes.length - 1));
+        weekdayAvg = Math.max(1, Math.round(span / (thursTimes.length - 1)));
     }
 
     return { trips: weekdayAvg, routes: stopRoutes };

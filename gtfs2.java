@@ -19,10 +19,10 @@ public class gtfs2
 {
     public static void main(String [] args)
     {  
-        final String agency = "pvta";
+        final String agency = "bay";
         Scanner in = new Scanner(System.in);
 
-        String zipUrl = "https://www.pvta.com/g_trans/google_transit.zip";
+        String zipUrl = "https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=RG";
 
         // curent date, used for outdated service_ids
         LocalDateTime now = LocalDateTime.now();
@@ -296,7 +296,7 @@ public class gtfs2
                             String tripID = columns[tripIndex];
                             Integer index = tripIndexMap.get(tripID);
                             
-                            if (index != null) {
+                            if (index != null && columns[timeIndex].length() > 0) {
                                 tripIDtimes.add(tripID);
                                 departuretimes.add(columns[timeIndex].substring(0, 5));
                                 stopIDtimes.add(columns[stopIndex]);
