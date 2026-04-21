@@ -18,6 +18,7 @@ const allStopsMap = {};
 const fullTripStopIds = [];    // New: Stores the arrays of stop IDs
 const fullTripStopTimes = [];  // New: Stores the arrays of stop times
 const stopToTripsMap = {};
+let bounds = new maplibregl.LngLatBounds();
 
 const CHUNK_SIZE = 500; // How many stops to process per "breath"
 let currentIndex = 0;
@@ -125,9 +126,7 @@ function mapFunct()
 {
     map = new maplibregl.Map({
         container: 'map',
-        style: 'https://tiles.openfreemap.org/styles/positron',
-        center: [-87.74193, 42.07154],
-        zoom: 10
+        style: 'https://tiles.openfreemap.org/styles/positron'
     });
 
     map.on('load', () => {
@@ -200,6 +199,15 @@ function processChunks() {
     for (let i = currentIndex; i < end; i++) {
         if (!stopId[i]) continue;
 
+        // check if stop has actual location
+        const lon = parseFloat(stopLon[i]);
+        const lat = parseFloat(stopLat[i]);
+
+        if (isNaN(lon) || isNaN(lat)) {
+            console.warn(`Skipping stop ${stopId[i]} due to invalid coordinates: [${stopLon[i]}, ${stopLat[i]}]`);
+            continue;
+        }
+
         // Accessing stopFreq now works because it's in the outer scope
         const freqData = findTrips(stopId[i]) || { trips: 0, routes: [] };
         
@@ -218,6 +226,7 @@ function processChunks() {
                 'coordinates': [stopLon[i], stopLat[i]]
             }
         });
+        bounds.extend([stopLon[i], stopLat[i]]);
     }
 
     currentIndex = end;
@@ -239,6 +248,11 @@ function processChunks() {
             // Sort descending (Large numbers first, small numbers/high-freq last)
             // This puts the 9999s (gray circles) at the start of the array (bottom of map)
             return freqB - freqA; 
+        });
+        map.fitBounds(bounds, {
+            padding: 40,      // Pixels of space around the edges
+            maxZoom: 15,     // Don't zoom in too far if there's only 1 stop
+            duration: 2000   // Smooth animation (in milliseconds)
         });
         map.getSource('bus-stops').setData({
             'type': 'FeatureCollection',
