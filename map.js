@@ -38,7 +38,7 @@ function funct()
   agency = parsedUrl.searchParams.get(paramName2);
 
   // 1. Define the URL for your agency's trips file
-  const testAgencyUrl = ("https://itsbenchase.github.io/gtfs-reader/" + agency + "_trips.txt");
+  const testAgencyUrl = ("https://localtransit.app/" + agency + "_trips.txt");
   
   fetch(testAgencyUrl)
     .then(r => r.text())
@@ -84,7 +84,7 @@ function funct()
 }
 
 function getStops(result) {
-  const stopUrl = ("https://itsbenchase.github.io/gtfs-reader/" + agency + "_stops.txt");
+  const stopUrl = ("https://localtransit.app/" + agency + "_stops.txt");
   fetch(stopUrl)
     .then(r => r.text())
     .then((text) => {

@@ -14,7 +14,7 @@ function funct()
 
   document.getElementById("mapLink").innerHTML = `Click <a href=map.html?agency=${agency}>here</a> to view all stops on a map.`
   
-  const testAgencyUrl = ("https://itsbenchase.github.io/gtfs-reader/" + agency + "_routes.txt"); // provide file location
+  const testAgencyUrl = ("https://localtransit.app/" + agency + "_routes.txt"); // provide file location
     fetch(testAgencyUrl)
       .then(r => r.text())
       .then((text) => {
