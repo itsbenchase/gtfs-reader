@@ -173,8 +173,9 @@ function mapFunct()
 
     // 2. Map each route to an HTML link string
     const routeLinks = routeList.map(route => {
+        const safeRoute = encodeURIComponent(route);
         // Ensure you have access to the 'agency' variable here
-        return `<a class=route href="route.html?agency=${agency}&route=${route}" class="popup-link">${route}</a>`;
+        return `<a class=route href="route.html?agency=${agency}&route=${safeRoute}" class="popup-link">${route}</a>`;
     }).join(' / ');
 
     new maplibregl.Popup()
