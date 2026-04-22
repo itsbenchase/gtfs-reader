@@ -17,12 +17,21 @@ import java.util.zip.ZipEntry;
 
 public class gtfs2
 {
+    static String agency = "no data";
+    static String zipUrl = "no data";
+
+    public gtfs2(String agency1, String zipUrl1)
+    {
+        agency = agency1;
+        zipUrl = zipUrl1;
+    }
+
     public static void main(String [] args)
     {  
-        final String agency = "wmata";
+        //final String agency = "wmata";
         Scanner in = new Scanner(System.in);
 
-        String zipUrl = "https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=RG";
+        //String zipUrl = "https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=RG";
 
         // curent date, used for outdated service_ids
         LocalDateTime now = LocalDateTime.now();
@@ -141,7 +150,7 @@ public class gtfs2
                             headers2 = s.nextLine().split(",");
                             List<String> headers = Arrays.asList(headers2);
                             idIndex = headers.indexOf("route_id");
-                            nameIndex = headers.indexOf("route_long_name");
+                            nameIndex = headers.indexOf("route_short_name");
                             fullIndex = headers.indexOf("route_long_name");
 
                             System.out.println("routes: " + idIndex + " / " + nameIndex + " / " + fullIndex);
