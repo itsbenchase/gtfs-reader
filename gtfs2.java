@@ -11,6 +11,7 @@ import java.util.HashMap;
 import java.net.URL;
 import java.util.zip.ZipInputStream;
 import java.util.zip.ZipEntry;
+import java.time.LocalDate;
 
 // 2026 reader style update
 // version connected to the web
@@ -114,6 +115,58 @@ public class gtfs2
                         }
                     }
                     System.out.println("Calendar loaded");
+                }
+
+                else if (entry.getName().equals("calendar_dates.txt")) {
+                    Scanner s = new Scanner(zis);
+                    int z = 0;
+                    int serviceIndex = -1, dateIndex = -1, exceptionIndex = -1;
+                    
+                    // Formatter for GTFS date format: YYYYMMDD
+                    DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyyMMdd");
+
+                    while (s.hasNextLine()) {
+                        String line = s.nextLine();
+                        if (z == 0) {
+                            List<String> headers = Arrays.asList(line.split(","));
+                            serviceIndex = headers.indexOf("service_id");
+                            dateIndex = headers.indexOf("date");
+                            exceptionIndex = headers.indexOf("exception_type");
+                            z++;
+                        } else {
+                            String[] data = line.split(",");
+                            String rawDate = data[dateIndex];
+                            int type = Integer.parseInt(data[exceptionIndex]);
+
+                            // We only care about type 1 (service added) for date-based schedules
+                            if (type == 1) {
+                                try {
+                                    // Convert GTFS string to a Date object to find the day of week
+                                    LocalDate date = LocalDate.parse(rawDate, formatter);
+                                    int dayOfWeek = date.getDayOfWeek().getValue(); // 1 (Mon) to 7 (Sun)
+                                    
+                                    serviceIDcal.add(data[serviceIndex]);
+                                    calStart.add(Integer.parseInt(rawDate));
+                                    calEnd.add(Integer.parseInt(rawDate));
+
+                                    // Initialize all days to "0" first
+                                    String[] weekStatus = {"0", "0", "0", "0", "0", "0", "0"};
+                                    
+                                    // Set "1" only for the specific day this date falls on
+                                    // LocalDate uses 1 for Monday, so we use dayOfWeek - 1 for your 0-indexed array
+                                    weekStatus[dayOfWeek - 1] = "1";
+
+                                    for (int i = 0; i < 7; i++) {
+                                        days[i].add(weekStatus[i]);
+                                    }
+                                    
+                                } catch (Exception e) {
+                                    System.out.println("Error parsing date: " + rawDate);
+                                }
+                            }
+                        }
+                    }
+                    System.out.println("calendar_dates.txt processed as schedule");
                 }
             }
         }
@@ -240,7 +293,7 @@ public class gtfs2
 
                                 serviceIDtrip.add(serviceID);
                                 tripIDtrip.add(data[tripIndex]);
-                                if (headsignIndex != -1)
+                                if (headsignIndex != -1 && data[headsignIndex].length() > 1)
                                 {
                                     headsigntrip.add(data[headsignIndex]);
                                 }
@@ -288,6 +341,7 @@ public class gtfs2
                     int tripIndex = -999;
                     int timeIndex = -999;
                     int stopIndex = -999;
+                    int stopHeadIndex = -999;
 
                     while ((line = br.readLine()) != null) {
                         
@@ -299,6 +353,7 @@ public class gtfs2
                             tripIndex = headers.indexOf("trip_id");
                             timeIndex = headers.indexOf("departure_time");
                             stopIndex = headers.indexOf("stop_id");
+                            stopHeadIndex = headers.indexOf("stop_headsign");
 
                             System.out.println("times: " + tripIndex + " / " + timeIndex + " / " + stopIndex);
 
@@ -313,6 +368,11 @@ public class gtfs2
                                 tripIDtimes.add(tripID);
                                 departuretimes.add(columns[timeIndex].substring(0, 5));
                                 stopIDtimes.add(columns[stopIndex]);
+
+                                if (stopHeadIndex != -1 && columns[stopHeadIndex].length() > 1)
+                                {
+                                    headsigntrip.set(index, columns[stopHeadIndex]);
+                                }
                             }
 
                             count++;
