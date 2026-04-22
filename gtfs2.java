@@ -19,10 +19,10 @@ public class gtfs2
 {
     public static void main(String [] args)
     {  
-        final String agency = "bay";
+        final String agency = "wmata";
         Scanner in = new Scanner(System.in);
 
-        String zipUrl = "https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=RG";
+        String zipUrl = "https://itsbenchase.github.io/gtfs-reader/wmata.zip";
 
         // curent date, used for outdated service_ids
         LocalDateTime now = LocalDateTime.now();
