@@ -1,1 +1,1 @@
-muni;https://localtransit.app/GTFSTransitData_SF.zip
+muni;https://localtransit.app/GTFSTransitData_SF_1.zip
