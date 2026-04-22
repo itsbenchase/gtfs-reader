@@ -23,7 +23,7 @@ function funct()
   var paramName2 = 'agency';
   agency = parsedUrl.searchParams.get(paramName2);
   
-  const testAgencyUrl = ("https://localtransit.app/" + agency + "_routes.txt"); // provide file location
+  const testAgencyUrl = (agency + "_routes.txt"); // provide file location
     fetch(testAgencyUrl)
       .then(r => r.text())
       .then((text) => {
@@ -56,7 +56,7 @@ function funct()
 
 function getStops()
 {
-    const stopUrl = `https://localtransit.app/${agency}_stops.txt`;
+    const stopUrl = `${agency}_stops.txt`;
     fetch(stopUrl).then(r => r.text()).then(text => {
         text.split("\n").forEach(line => {
             const parts = line.split(",");
@@ -70,7 +70,7 @@ function getStops()
 
 function getTrips(result) {
   // 1. Define the URL for your agency's trips file
-  const testAgencyUrl = ("https://localtransit.app/" + agency + "_trips.txt");
+  const testAgencyUrl = (agency + "_trips.txt");
   
   fetch(testAgencyUrl)
     .then(r => r.text())

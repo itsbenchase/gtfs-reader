@@ -84,7 +84,7 @@ function funct()
 }
 
 function getStops(result) {
-  const stopUrl = ("https://localtransit.app/" + agency + "_stops.txt");
+  const stopUrl = (agency + "_stops.txt");
   fetch(stopUrl)
     .then(r => r.text())
     .then((text) => {
