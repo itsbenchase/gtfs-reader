@@ -207,8 +207,12 @@ public class gtfs2
                     {
                         if (z == 0)
                         {
-                            headers2 = s.nextLine().split(",");
+                            String rawLine = s.nextLine();
+                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                            
+                            headers2 = cleanLine.split(",");
                             List<String> headers = Arrays.asList(headers2);
+                            
                             tripIndex = headers.indexOf("trip_id");
                             serviceIndex = headers.indexOf("service_id");
                             routeIndex = headers.indexOf("route_id");
