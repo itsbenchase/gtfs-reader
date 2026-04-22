@@ -117,7 +117,7 @@ public class gtfs2
                     System.out.println("Calendar loaded");
                 }
 
-                else if (entry.getName().equals("calendar_dates.txt")) {
+                else if (entry.getName().equals("calendar_dates.txt") && !found) {
                     Scanner s = new Scanner(zis);
                     int z = 0;
                     int serviceIndex = -1, dateIndex = -1, exceptionIndex = -1;

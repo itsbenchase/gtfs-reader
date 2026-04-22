@@ -1,1 +1,1 @@
-muni;https://localtransit.app/GTFSTransitData_SF_1.zip
+lacmta;https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip
