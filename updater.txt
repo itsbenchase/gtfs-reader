@@ -1,1 +1,1 @@
-ca-octa;https://www.octa.net/current/google_transit.zip
+mts;https://www.sdmts.com/google_transit_files/google_transit.zip
