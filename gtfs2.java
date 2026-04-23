@@ -399,7 +399,7 @@ public class gtfs2
                                 }
                                 stopIDtimes.add(columns[stopIndex]);
 
-                                if (stopHeadIndex != -1 && columns[stopHeadIndex].length() > 1)
+                                if (stopHeadIndex != -1  && columns.length > stopHeadIndex && columns[stopHeadIndex].length() > 1)
                                 {
                                     headsigntrip.set(index, columns[stopHeadIndex]);
                                 }

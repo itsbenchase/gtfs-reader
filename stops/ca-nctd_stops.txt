@@ -1,0 +1,1804 @@
+10034,Nobel Dr & Lebon Dr,  32.868293,-117.225183
+10374,Gilman Dr & Myers Dr,  32.876949,-117.235533
+10399,Nobel Dr & Regents Rd,  32.867232,-117.218619
+10422,Mira Mesa Bl & Scranton Rd,  32.892518,-117.200950
+10772,Gilman Dr & Myers Dr,  32.877167,-117.237417
+10793,La Jolla Village Dr & Regents Rd,  32.871503,-117.218669
+11151,Nobel Dr & Lebon Dr,  32.868525,-117.225289
+11153,La Jolla Village Dr & Lebon Dr,  32.871250,-117.223855
+11163,Nobel Dr & Regents Rd,  32.867815,-117.219296
+11167,La Jolla Village Dr & Executive Wy,  32.873829,-117.210008
+11538,N Torrey Pines Rd & Torrey Pines Scenic Dr,  32.887475,-117.243837
+11539,N Torrey Pines Rd & Torrey Pines Golf Course,  32.906751,-117.243990
+11541,N Torrey Pines Rd & Science Park Rd,  32.901424,-117.242815
+11548,Gilman Dr & Eucalyptus Grove Ln,  32.875781,-117.239210
+11875,N Torrey Pines Rd & Almahurst Row,  32.880465,-117.244028
+11876,N Torrey Pines Rd & La Jolla Shores Dr,  32.874901,-117.243796
+11877,N Torrey Pines Rd & Salk Institute Rd,  32.885786,-117.243958
+11882,N Torrey Pines Rd & Scripps Clinic Drwy,  32.894078,-117.241260
+11885,N Torrey Pines Rd & Genesee Av,  32.891359,-117.241405
+11913,Genesee Av & Campus Point Dr,  32.881551,-117.219718
+11923,La Jolla Village Dr & Genesee Av,  32.872645,-117.214513
+12310,N Torrey Pines Rd & La Jolla Shores Dr,  32.874579,-117.243543
+12311,N Torrey Pines Rd & Torrey Pines Scenic Dr,  32.886534,-117.243654
+12316,N Torrey Pines Rd & UCSD Northpoint Drwy,  32.889558,-117.242483
+12320,Gilman Dr & Eucalyptus Grove Ln,  32.875266,-117.238755
+12402,Camino Santa Fe & Flanders Dr,  32.905177,-117.170922
+12631,N Torrey Pines Rd & Muir College Dr,  32.881350,-117.243690
+12634,N Torrey Pines Rd & Revelle College Dr,  32.871606,-117.243423
+12639,N Torrey Pines Rd & Scripps Clinic Drwy,  32.895275,-117.241110
+13024,Nobel Dr & La Jolla Village Square Drwy,  32.867766,-117.231688
+13058,Nobel Dr & La Jolla Village Square Drwy,  32.868011,-117.231658
+13130,N Torrey Pines Rd & John Hopkins Dr,  32.897802,-117.242077
+13141,N Torrey Pines Rd & John J Hopkins Dr,  32.898471,-117.241820
+13202,Mira Mesa Bl & Oberlin Dr,  32.896536,-117.192679
+13203,Mira Mesa Bl & Pacific Heights Bl,  32.900252,-117.188822
+13204,Mira Mesa Bl & Huennekens St,  32.903630,-117.183671
+13205,Mira Mesa Bl & Steadman St,  32.905617,-117.180398
+13222,Mira Mesa Bl & Sequence Dr,  32.903342,-117.184744
+13223,Mira Mesa Bl & Pacific Heights Bl,  32.899847,-117.189955
+13226,Barnes Canyon Rd & Lusk Bl,  32.900097,-117.196484
+13227,Barnes Canyon Rd & 10140,  32.899721,-117.198552
+13228,Barnes Canyon Rd & 10030,  32.899254,-117.201329
+13229,Scranton Rd & 9808,  32.898094,-117.202845
+13230,Scranton Rd & Mira Sorrento Pl,  32.895540,-117.202944
+13231,Mira Mesa Bl & Scranton Rd,  32.892831,-117.202110
+20001,Broadway & Leslie Ln,  33.148963,-117.090834
+20004,Brown St & Del Valle (Las Pulgas),  33.350836,-117.411236
+20006,Access Rd & Px,  33.222692,-117.395368
+20007,Vandegrift Bl & Ash Rd,  33.231846,-117.389372
+20018,Division St & Grant St,  33.196127,-117.370258
+20020,Division St & Country Club Ln,  33.197026,-117.365342
+20024,Vandegrift Bl & Area 26,  33.317869,-117.327032
+20025,Oceanside Bl & Industry St,  33.197836,-117.350109
+20026,Bldg 22114 & 10th St,  33.294300,-117.350633
+20027,Grand Av & Madison St,  33.161625,-117.347768
+20030,Grand Av & Harding St,  33.162834,-117.345663
+20032,Oceanside Bl & Camelot Dr,  33.200654,-117.344325
+20038,Oceanside Blvd & Garrison St,  33.201671,-117.336612
+20039,Mission Av & 3745 (Fireside St),  33.223052,-117.334291
+20041,Mesa Dr & Garrison St,  33.208641,-117.334341
+20045,Mission Av & El Camino Real,  33.225368,-117.331348
+20047,Magnolia Av & Brady Cr (Jr High),  33.158370,-117.330382
+20051,Carlsbad Village Dr & Santa Clara Way,  33.170542,-117.316929
+20054,Carlsbad Village Dr & Victoria Av,  33.166484,-117.305737
+20059,N River Rd & Redondo Dr,  33.249539,-117.300802
+20061,Barnard Dr & Meadow Ln,  33.186713,-117.297372
+20063,Encinitas Bl & I-5,  33.048490,-117.289603
+20066,Santa Fe Dr & Summit Av,  33.036132,-117.288374
+20067,Lake Bl & Thunder Dr,  33.180104,-117.289004
+20068,Lake Bl & Del Cerro Av,  33.178493,-117.283866
+20069,Santa Fe Dr & Santa Fe Plaza,  33.036110,-117.283647
+20070,Sky Haven Ln & Lake Bl,  33.177627,-117.280542
+20071,Encinitas Bl & Delphinium St,  33.048643,-117.275794
+20075,W Vista Way & Hill Dr,  33.192166,-117.271254
+20077,Encinitas Bl & Balour Dr,  33.045188,-117.269256
+20081,Lomas Santa Fe Dr & Solana Hills Dr,  32.995952,-117.259347
+20088,Bobier Dr & N Santa Fe Av,  33.221068,-117.246482
+20090,E Vista Way & Franklin Ln,  33.207349,-117.235903
+20094,E Vista Way & Palomar Pl,  33.223300,-117.225995
+20096,Arcadia Av & Oak Dr,  33.224804,-117.222123
+20097,Poinsettia Av & Specialty Dr,  33.140778,-117.219465
+20101,Avenida De La Plata & College Boulevard,  33.212806,-117.288000
+20105,Mission Rd & Woodland Pkwy,  33.140986,-117.137943
+20106,Mission Rd & Rancheros Dr,  33.135833,-117.130105
+20109,El Norte Pkwy & Bennett Av,  33.152741,-117.121914
+20110,El Norte Pkwy & Las Palmas Ln,  33.149936,-117.117239
+20111,Mission Rd & Washington Av,  33.123960,-117.105755
+20113,Country Club Ln & Eveningside Glen,  33.159560,-117.095981
+20115,Valley Pkwy & Tulip St,  33.117327,-117.094102
+20116,El Norte Pkwy & Las Villas Way,  33.140738,-117.094707
+20121,Mission Av & Cedar St,  33.134242,-117.074152
+20122,Washington Av & Date St,  33.130396,-117.072584
+20123,Washington Av & Beech St,  33.131846,-117.069958
+20127,Sunset Dr & Royal Crest Dr,  33.095546,-117.062615
+20129,Hwy 78 & Citrus Av,  33.108913,-117.048840
+20130,Valley Pkwy & Quarry Glen,  33.138824,-117.048614
+20131,Hwy 78 & Summit Dr,  33.106954,-117.044638
+20133,Valley Pkwy & Citrus Av (Vons),  33.140212,-117.045562
+20134,Glenridge Rd & Mountain View Dr,  33.126420,-117.044322
+20135,Valley Pkwy & Bear Valley Pkwy,  33.143615,-117.038057
+20136,Valley Center Rd & Lilac Rd,  33.222316,-117.036509
+20137,Valley Center Rd & Miller Rd,  33.230823,-117.033388
+20138,Valley Center & Rock Hill Ranch Rd,  33.228174,-117.006315
+20139,Hwy 78 & Old Milky Way,  33.087836,-116.991716
+20140,Valley Center Rd & N Lake Wohlford Rd,  33.228055,-116.976403
+20141,Valley Center Rd & Hwy 76,  33.287359,-116.957588
+20142,Hwy 78 & Weekend Villa Rd,  33.070031,-116.885581
+20155,Mission Av & Horne St,  33.198369,-117.375219
+20157,Center Av & Horne St,  33.195743,-117.373221
+20160,Oceanside Bl & Coast Hwy,  33.183736,-117.368824
+20161,Mission Av & Brooks St,  33.202004,-117.368325
+20162,Oceanside Blvd & Ditmar St,  33.184833,-117.366999
+20164,Mission Av & Canyon Dr,  33.204719,-117.363534
+20166,Mission Av & Carey Rd East,  33.207290,-117.361223
+20167,Oceanside Blvd & Commerce St,  33.191376,-117.360536
+20169,Vista Way & Coast Hwy,  33.172241,-117.359108
+20170,Oceanside Blvd & State Tree Dr,  33.192388,-117.358450
+20171,Mission Av & Mesa Dr,  33.208643,-117.358703
+20176,Mission Av & Carolyn Cir,  33.213448,-117.347994
+20177,E Av & 10th St,  33.292766,-117.347938
+20178,Carlsbad Village Dr & Harding St,  33.162493,-117.343551
+20180,Mission Av & Foussat Rd,  33.217063,-117.342800
+20181,Vandegrift Bl & A St,  33.304962,-117.342804
+20182,Chestnut Av & Harding St,  33.157650,-117.340830
+20183,Mesa Dr & Wilcox St,  33.209941,-117.341294
+20184,Mesa Dr & Sea Ridge Rd,  33.211159,-117.340513
+20185,Mission Av & Copperwood Way,  33.218799,-117.340340
+20186,Oceanside Bl & Foussat Rd,  33.201653,-117.340130
+20189,Vista Way & Olson Way,  33.183115,-117.336535
+20190,Marron Rd & Monroe St,  33.176610,-117.336259
+20191,Mesa Dr & Mainsail Rd,  33.210879,-117.336590
+20192,Carlsbad Village Dr & Valley St,  33.167388,-117.335458
+20193,Tamarack Av & Pio Pico Dr,  33.152761,-117.334873
+20194,Oceanside Blvd & El Camino Real E,  33.201631,-117.330273
+20195,Vista Way & Via Esmarca,  33.183108,-117.330868
+20196,Mesa Dr & Pear Tree Ln,  33.208673,-117.331746
+20197,Mission Av & Plaza Real,  33.226492,-117.329353
+20199,Vista Way & El Camino Real,  33.182493,-117.325886
+20201,Marron Rd & El Camino Real,  33.177764,-117.324718
+20202,Vista Way & Valley Glen Dr,  33.182438,-117.322570
+20204,Mesa Dr & Vanilla Way,  33.212414,-117.321360
+20206,Vista Way & Paseo De Laura,  33.181151,-117.317269
+20210,N River Rd & Avenida Descanso,  33.245169,-117.313988
+20211,Mission Av & Mission Gate Dr,  33.229867,-117.312059
+20212,Oceanside Blvd & Rancho Del Oro Dr,  33.203147,-117.310499
+20218,N River Rd & Calle Montecito,  33.245376,-117.308235
+20219,Vandegrift Bl & 19th,  33.317493,-117.309075
+20220,Mission Av & Old Grove Rd,  33.229256,-117.305274
+20222,Carlsbad Village Dr & Chatham Rd,  33.166515,-117.303433
+20226,Barnard Dr & Carr Dr,  33.187928,-117.298279
+20227,Lake Bl & Esplanade St,  33.179297,-117.291178
+20228,Waring Rd & Waring Ct,  33.187800,-117.290337
+20229,Oceanside Blvd & Avenida Del Oro,  33.205968,-117.288673
+20230,Oceanside Blvd & Collge Blvd,  33.207218,-117.284237
+20232,Encinitas Bl & Westlake St,  33.047559,-117.278942
+20233,W Vista Way & Emerald Dr,  33.189141,-117.278850
+20236,Palomar Airport Rd & Yarrow Dr,  33.125777,-117.274614
+20238,W Vista Way & Grapevine Rd,  33.190658,-117.274527
+20240,Oceanside Blvd & Peacock Blvd,  33.214492,-117.273002
+20242,Lomas Santa Fe Dr & Rios Av,  32.992361,-117.268942
+20244,Oceanside Blvd & Temple Heights Dr,  33.216885,-117.270114
+20245,N Santa Fe Av & Champlain St,  33.239524,-117.270411
+20248,Encinitas Bl & Beechtree Dr,  33.045972,-117.263959
+20251,Lomas Santa Fe Dr & Hilmen Dr,  32.995520,-117.264254
+20252,Oceanside Blvd & 4927,  33.218449,-117.268182
+20253,W Vista Way & Santa Clara Dr,  33.194247,-117.265705
+20254,N Santa Fe Av & Darwin Dr,  33.237237,-117.264762
+20255,W Vista Way & Copper Av,  33.194472,-117.260836
+20258,Encinitas Bl & Cam Delas Flores,  33.045606,-117.254660
+20262,W Vista Way & Melrose Dr,  33.195461,-117.253979
+20267,Encinitas Bl & Village Park Way,  33.044904,-117.248461
+20268,S Mission Rd & Ammunition Rd,  33.370413,-117.251869
+20271,Encinitas Bl & Willowspring Dr,  33.041357,-117.244143
+20273,Park Center Dr & Melrose Dr,  33.139723,-117.243973
+20280,S Santa Fe Av & Guajome St,  33.195952,-117.238227
+20281,La Costa Av & Rancho Santa Fe Rd,  33.081175,-117.236569
+20285,E Vista Way & Townsite Dr,  33.210196,-117.233955
+20287,S Santa Fe Av & Civic Center Dr,  33.193511,-117.233800
+20288,La Costa Av & Calle Timiteo,  33.079807,-117.231996
+20289,Arcadia Av & Anza Av,  33.224899,-117.231611
+20291,E Vista Way & Vale Terrace Dr,  33.211104,-117.231005
+20292,Camino De Los Coches & Via Callendo,  33.078398,-117.229770
+20298,Via De La Valle & Caminito Porta Delgada,  32.983777,-117.219320
+20299,Sycamore Av & Grand Av,  33.155851,-117.224077
+20300,Poinsettia Av & Linda Vista Dr,  33.137187,-117.222983
+20302,Shadowridge & Watson Way,  33.166195,-117.221450
+20305,S Santa Fe Av & Woodland Dr,  33.175723,-117.212670
+20306,Via De La Valle & Calzada Del Bosque,  33.005343,-117.208389
+20307,S Santa Fe Av & Robelini Dr,  33.173523,-117.209021
+20309,S Santa Fe Av & Azalea Dr,  33.169104,-117.206423
+20311,Paseo Delicias & Via De La Valle,  33.023524,-117.198620
+20312,S Santa Fe Av & Las Flores Dr,  33.156551,-117.199869
+20314,Mission Rd & Rancho Santa Fe Rd,  33.152295,-117.195160
+20315,Mission Rd & Pacific St,  33.150397,-117.191895
+20316,Paseo Delicas & La Valle Plateada,  33.030363,-117.190657
+20318,Del Dios Hwy & Via Cuatro Caminos,  33.034742,-117.175648
+20321,Mission Rd & Marcos St,  33.144362,-117.169827
+20322,Mission Rd & Pico Av,  33.143261,-117.165548
+20323,Mission Rd & San Marcos Bl,  33.142338,-117.161781
+20324,Mission Rd & Mulberry Dr,  33.144715,-117.150022
+20328,El Norte Pkwy & Country Club Ln,  33.154728,-117.125264
+20329,Mission Rd & Auto Park Wy,  33.129990,-117.122157
+20331,El Norte Pkwy & Rees Rd,  33.148448,-117.114688
+20332,Country Club Ln & La Brea St,  33.157409,-117.114137
+20333,Mission Rd & Enterprise St,  33.125995,-117.112197
+20336,Country Club Ln & Nutmeg St,  33.157109,-117.109011
+20337,El Norte Pkwy & Nordahl Rd,  33.147096,-117.108209
+20338,El Norte Pkwy & Seven Oaks Rd,  33.145903,-117.102381
+20339,Valley Pkwy & Auto Park Wy,  33.112327,-117.102255
+20340,Mission Av & Metcalf St,  33.125387,-117.100961
+20343,Country Club Ln & Village Rd,  33.159029,-117.099937
+20344,El Norte Pkwy & Iris Ln (525),  33.144548,-117.099128
+20345,Lincoln Av & Eden Pl,  33.130197,-117.098052
+20346,Lincoln Av & Avocado Av,  33.130920,-117.095684
+20348,El Norte Pkwy & Morning View Dr,  33.143701,-117.097169
+20349,El Norte Pkwy & Escondido Bl,  33.139189,-117.092260
+20353,2nd Av & Escondido Bl,  33.119484,-117.083166
+20355,Washington Av & Juniper St,  33.127594,-117.081472
+20357,2nd Av & Broadway,  33.120835,-117.080486
+20360,Mission Av & Fig St,  33.133074,-117.076624
+20361,Washington Av & Grape St,  33.129131,-117.076521
+20365,Grand Av & Fig St,  33.124960,-117.072559
+20367,Lincoln Av & Harding St,  33.140737,-117.069891
+20368,Grand Av & Date St,  33.125917,-117.069514
+20372,Valley Pkwy & Ash St,  33.130752,-117.066244
+20375,Grand Av & Ash St,  33.127410,-117.064553
+20376,Grand Av & Ohio Av,  33.128193,-117.062849
+20377,Grand Av & Rose St,  33.130959,-117.056838
+20378,Grand Av & Fernwood Av,  33.131739,-117.055140
+20379,Grand Av & Foxdale Pl,  33.133562,-117.051207
+20380,Valley Pkwy & Midway Dr,  33.137664,-117.051078
+20383,Valley Center Rd & Calle De Vista,  33.218905,-117.033713
+20384,Valley Pkwy & Hidden Trails Rd,  33.150428,-117.032665
+20385,Valley Center Rd & Lake Wohlford Rd,  33.159548,-117.030821
+20386,Valley Center Rd & Cole Grade Rd,  33.231125,-117.023569
+20387,Hwy 78 & Safari Park Outside Gate,  33.094152,-117.002314
+20388,Valley Center Rd & Queensbridge Rd,  33.228216,-116.995725
+20389,Valley Center Rd & N Paradise Creek Ln,  33.257131,-116.957947
+20393,Vandegrift Bl & Stuart Mesa Rd,  33.233738,-117.388596
+20399,Center Av & Horne St,  33.195749,-117.373483
+20402,Mission Av & San Diego St,  33.201945,-117.368844
+20404,Division St & Brooks St,  33.196811,-117.366906
+20406,Oceanside Bl & Vine St,  33.188432,-117.364625
+20409,Mission Av & Amick St,  33.208791,-117.359048
+20413,Bldg 22114 & 9th St,  33.293705,-117.352282
+20416,Mesa Dr & Barnwell St,  33.205035,-117.348019
+20417,E St & 10th St,  33.292646,-117.348125
+20419,Carlsbad Village Dr & Harding St,  33.162401,-117.343972
+20421,Chestnut Av & Harding St,  33.157750,-117.340897
+20422,Carlsbad Village Dr & Pio Pico Dr (Library),  33.164698,-117.340007
+20425,Vista Way & Olson Way,  33.183315,-117.336512
+20426,Tamarack Av & Pio Pico Dr,  33.152960,-117.334919
+20431,Mission Av & El Camino Real,  33.226590,-117.330058
+20432,Vandegrift Bl & Rattlesnake Canyon Rd,  33.317745,-117.327384
+20433,Vista Way & El Camino Real,  33.182990,-117.326216
+20434,Marron Rd & El Camino Real,  33.177897,-117.325695
+20441,Mission Av & Old Grove Rd,  33.229234,-117.305937
+20448,Barnard Dr & Meadow Ln,  33.186618,-117.297001
+20451,Waring Rd & Waring Ct,  33.187922,-117.290862
+20452,Santa Fe Dr & Arden Dr,  33.036251,-117.287938
+20453,Encinitas Blvd & Essex Heights,  33.047779,-117.283323
+20454,Lake Bl & Surf Pl,  33.178622,-117.283904
+20455,W Vista Way & Cedar Rd,  33.186325,-117.283589
+20459,W Vista Way & Emerald Dr,  33.189333,-117.278846
+20463,W Vista Way & Grapevine Rd,  33.190375,-117.275525
+20466,Encinitas Bl & Via Cantebria,  33.046061,-117.267706
+20477,Bobier Dr & Panther Way,  33.221445,-117.241977
+20478,Vista Village Dr & Citrus Av,  33.203776,-117.241267
+20480,Camino De Los Coches & Calle Timiteo,  33.075566,-117.236395
+20482,La Costa Av & Rancho Santa Fe Rd,  33.081352,-117.236382
+20485,S Santa Fe Av & Civic Center Dr,  33.193497,-117.233178
+20486,Arcadia Av & Anza Av,  33.225040,-117.232072
+20490,S Santa Fe Av & Service Pl,  33.188356,-117.225749
+20494,S Santa Fe & Montgomery Dr,  33.183167,-117.219231
+20495,S Santa Fe Av & York Dr,  33.175504,-117.212100
+20496,Mission Rd & Rancho Santa Fe Rd,  33.152883,-117.195265
+20497,Mission Rd & Pacific St,  33.150524,-117.191766
+20498,Mission Rd & Pico Av,  33.143446,-117.165539
+20499,Country Club Ln & El Norte Pkwy,  33.155764,-117.125040
+20500,El Norte Pkwy & Rees Rd,  33.149171,-117.115397
+20506,El Norte Pkwy & Morning View Dr,  33.141719,-117.094813
+20513,Grand Av & Valley Bl,  33.124297,-117.075499
+20514,Grand Av & Fig St,  33.125070,-117.072570
+20515,Washington Av & Date St,  33.130749,-117.072058
+20516,Grand Av & Ash St,  33.127501,-117.064770
+20517,Washington Av & Beech St,  33.132005,-117.069940
+20518,Grand Av & Beech St,  33.126873,-117.066812
+20519,Washington Av & Harding St,  33.134367,-117.065990
+20521,Washington Av & Mills St,  33.136429,-117.062553
+20522,Valley Pkwy & Midway Dr,  33.138384,-117.050306
+20523,Hwy 78 & Summit Dr,  33.107457,-117.044995
+20524,Glenridge Rd & Mountain View Dr,  33.126444,-117.044547
+20525,Valley Center Rd & Lake Wohlford Rd,  33.159893,-117.030990
+20526,Hwy 78 & Safari Park Outside Gate,  33.094026,-117.001309
+20532,Vandegrift Bl & Stuart Mesa Rd,  33.232295,-117.389306
+20538,Mission Av & Ditmar St,  33.196770,-117.378210
+20540,Mission Av & Clementine St,  33.197900,-117.376354
+20545,Division St & Grant St,  33.196233,-117.370038
+20546,Oceanside Blvd & Ditmar St,  33.184792,-117.367504
+20547,Mission Av & Canyon Dr,  33.204136,-117.364743
+20550,Mission Av & Carey Rd,  33.206778,-117.362056
+20551,Oceanside Blvd & State Tree Dr,  33.192216,-117.359315
+20553,Oceanside Blvd & 1906,  33.193684,-117.356260
+20556,Oceanside Blvd & Crouch St,  33.194880,-117.354128
+20557,Vista Way & Lincoln St,  33.174824,-117.355131
+20559,Oceanside Bl & Hoover St,  33.198046,-117.350206
+20561,Grand Av & Roosevelt St,  33.161196,-117.348898
+20562,Mission Av & Airport Rd,  33.213117,-117.348845
+20563,Oceanside Bl & Macdonald St,  33.199297,-117.347691
+20564,Mesa Dr & Parnassus Cir (S),  33.206617,-117.347189
+20565,Mesa Dr & Parnassus Cir (N),  33.207778,-117.346656
+20567,Mission Av & Roymar Rd,  33.215142,-117.346002
+20568,Oceanside Bl & Barnwell St,  33.200541,-117.345052
+20569,Mesa Dr & Foussat Rd,  33.209165,-117.343997
+20570,Mission Av & Foussat Rd,  33.216603,-117.343919
+20575,Oceanside Blvd & Edgehill Ln,  33.201852,-117.340417
+20579,Oceanside Blvd & Garrison St,  33.201857,-117.337734
+20580,Mesa Dr & Mainsail Rd,  33.211561,-117.337107
+20581,Carlsbad Village Dr & Valley St,  33.167475,-117.335538
+20582,Mission Av & Fireside St,  33.222673,-117.335262
+20583,Mesa Dr & El Camino Real,  33.208755,-117.334008
+20585,Vista Way & Via Esmarca,  33.183364,-117.331826
+20587,Mission Av & El Camino Real,  33.224800,-117.332396
+20588,Mesa Dr & Pear Tree Ln,  33.209307,-117.330283
+20589,Magnolia Av & Brady Circle,  33.158578,-117.330276
+20590,El Camino Real & Coco Palms Dr,  33.229151,-117.330129
+20591,El Camino Real & Laguna Vista MHP (Gate),  33.229979,-117.328085
+20592,Vista Way & Target,  33.183344,-117.329490
+20593,Mesa Dr & Pearwood Dr,  33.210516,-117.326723
+20595,Vandegrift Bl & Santa Margarita Rd,  33.321277,-117.325404
+20596,Vista Way & Valley Glen Dr,  33.182710,-117.323006
+20597,Mesa Dr & Vanilla Way,  33.212801,-117.321232
+20599,Carlsbad Village Dr & Appian Rd,  33.170640,-117.317417
+20601,Mesa Dr & Rancho Del Oro Dr,  33.214505,-117.318395
+20602,Vista Way & Paseo De Laura,  33.181585,-117.318120
+20603,N River Rd & Festival Dr,  33.245460,-117.318197
+20604,Rancho Del Oro Dr & Mesa Dr,  33.215094,-117.317911
+20605,N River Rd & Avenida Descanso,  33.245437,-117.315060
+20608,N River Rd & Calle Montecito,  33.245481,-117.309249
+20613,Carlsbad Village Dr & Victoria Av,  33.166703,-117.305819
+20618,Carlsbad Village Dr & Tamarack Av,  33.167198,-117.301194
+20622,Barnard Dr & Carr Dr,  33.188279,-117.298404
+20625,Waring Rd & Camarillo Av,  33.186761,-117.294235
+20628,Encinitas Bl & I-5,  33.048756,-117.289701
+20631,Thunder Dr & Tri-City Medical,  33.186250,-117.288365
+20632,Lake Bl & Thunder Dr,  33.180189,-117.288394
+20633,Oceanside Blvd & College Blvd,  33.207196,-117.285942
+20634,Lake Bl & Twilight Ln,  33.178293,-117.281726
+20635,Oceanside Bl & Arroyo Av,  33.208605,-117.281851
+20636,Encinitas Bl & Quail Gardens Dr,  33.047711,-117.279104
+20637,W Vista Way & Emerald Dr,  33.188312,-117.280572
+20639,Encinitas Bl & Delphinium St,  33.048892,-117.276022
+20642,Oceanside Blvd & Beverly Glen Dr,  33.212685,-117.275694
+20643,N Santa Fe Av & Mesa Dr,  33.241779,-117.275939
+20644,Oceanside Blvd & Peacock Blvd,  33.214209,-117.273807
+20647,Lomas Santa Fe Dr & Granados Av,  32.992883,-117.268755
+20649,W Vista Way & Hill Dr,  33.192136,-117.271681
+20650,Oceanside Blvd & Temple Heights Dr,  33.216558,-117.270972
+20651,N Santa Fe Av & Champlain St,  33.239864,-117.271096
+20654,Lomas Santa Fe Dr & Nardo Av,  32.995257,-117.265884
+20658,Palomar Airport Rd & El Camino Real,  33.129514,-117.267885
+20660,W Vista Way & Santa Clara Dr,  33.194155,-117.266353
+20662,N Santa Fe Av & Darwin Dr,  33.237900,-117.265016
+20664,Lomas Santa Fe Dr & Solana Hills Dr,  32.996228,-117.259585
+20665,W Vista Way & Copper Av,  33.194624,-117.262105
+20669,Encinitas Bl & Turner Av,  33.045889,-117.255204
+20672,W Vista Way & Hwy 78 Wb On Ramp,  33.194808,-117.256965
+20679,W Vista Way & Valencia Dr,  33.196799,-117.251585
+20681,Encinitas Bl & Village Park Way,  33.045330,-117.249093
+20686,Vista Village Dr & Camino Corto,  33.199928,-117.247646
+20687,Encinitas Bl & Willowspring Dr,  33.042507,-117.244730
+20690,Bobier Dr & N Santa Fe Av,  33.221270,-117.245644
+20691,Encinitas Bl & Rancho Santa Fe Rd,  33.037696,-117.239347
+20693,S Santa Fe Av & Terrace Dr,  33.196947,-117.239229
+20694,Vista Village Dr & Hillside Ter,  33.205112,-117.237560
+20695,E Vista Way & Franklin Ln,  33.207226,-117.236209
+20696,E Vista Way & Townsite Dr,  33.209153,-117.235469
+20697,La Costa Av & Calle Timiteo,  33.079664,-117.232001
+20699,E Vista Way & Anza Av,  33.211174,-117.232452
+20700,S Santa Fe Av & Alta Calle,  33.192457,-117.230244
+20702,Via De La Valle & El Camino Real (N),  32.983402,-117.226141
+20706,E Vista Way & Palomar Pl,  33.222960,-117.226269
+20707,Arcadia Av & E Vista Way,  33.225000,-117.227255
+20709,S Santa Fe Av & Cypress Dr,  33.185650,-117.223859
+20710,Poinsettia Av & Island View Way,  33.136275,-117.223745
+20711,Poinsettia Av & Specialty Dr,  33.140962,-117.219544
+20713,Via De La Valle & Cancha De Golf,  32.994376,-117.212255
+20714,Shadowridge Dr & Sycamore Av,  33.164993,-117.217243
+20715,Via De La Valle & Calzada Del Bosque,  33.004849,-117.208622
+20716,S Santa Fe Av & Palmyra Dr,  33.171347,-117.207138
+20717,S Santa Fe Av & Bosstick Bl,  33.159902,-117.203507
+20718,Paseo Delicias & La Fremontia,  33.023514,-117.198855
+20719,S Santa Fe Av & Las Flores Dr,  33.157196,-117.200668
+20721,Rancho Santa Fe Rd & Capalina Rd,  33.152435,-117.197111
+20722,Paseo Delicas & El Montevideo,  33.030024,-117.191100
+20723,Mission Rd & Crusaders Way,  33.145786,-117.175114
+20725,Mission Rd & Woodward St,  33.142407,-117.160992
+20727,Mission Rd & Mulberry Dr,  33.144930,-117.150498
+20728,Mission Rd & Richland Rd,  33.142340,-117.140434
+20730,Mission Rd & Avenida Chapala,  33.136939,-117.131128
+20731,Mission Rd & Auto Park Wy,  33.131079,-117.123406
+20732,El Norte Pkwy & Bennett Av,  33.152872,-117.121632
+20735,Country Club Ln & La Brea St,  33.157684,-117.114048
+20736,Harmony Grove Rd & Princess Kyra Pl,  33.110449,-117.113941
+20737,Country Club Ln & Nutmeg St,  33.157407,-117.109477
+20738,El Norte Pkwy & Nutmeg St,  33.147095,-117.106432
+20740,Valley Pkwy & Auto Park Wy,  33.112715,-117.102480
+20741,Mission Av & Metcalf St,  33.125347,-117.101866
+20742,Country Club Ln & Village Rd,  33.159223,-117.100143
+20743,El Norte Pkwy & Iris Ln,  33.144663,-117.098800
+20744,Country Club Ln & Eastridge Ln,  33.159635,-117.096453
+20747,El Norte Pkwy & Seven Oaks Rd,  33.146054,-117.102113
+20748,Country Club Ln & Iris Ln,  33.160647,-117.094117
+20752,El Norte Pkwy & Broadway,  33.139749,-117.089977
+20754,Valley Pkwy & Escondido Bl,  33.120823,-117.085788
+20757,Washington Av & Juniper St,  33.127834,-117.081272
+20758,Mission Av & Gamble St,  33.131726,-117.081312
+20760,Mission Av & Fig St,  33.132721,-117.078084
+20761,Washington Av & Grape St,  33.129203,-117.076852
+20767,Grand Av & Date St,  33.125943,-117.069779
+20771,El Norte Pkwy & Rimrock Dr,  33.149456,-117.066246
+20776,Grand Av & Gayland St,  33.132975,-117.052721
+20777,Grand Av & Midway Dr,  33.134118,-117.050284
+20782,Valley Pkwy & Citrus Av,  33.140911,-117.044840
+20783,Hwy 78 & Highgrove Dr,  33.102977,-117.036713
+20784,Valley Pkwy & Bear Valley Pkwy,  33.143401,-117.039430
+20785,Valley Center Rd & Lilac Rd,  33.222112,-117.036746
+20786,Valley Pkwy & Las Brisas Dr,  33.147936,-117.034367
+20787,Valley Center Rd & Queensbridge Rd,  33.228383,-116.996232
+20788,Hwy 78 & Old Milky Way,  33.088323,-116.991603
+20789,Valley Center Rd & Thundernut Ln,  33.228291,-116.976100
+20790,Hwy 76 & Valley Center Rd,  33.288655,-116.960808
+20791,Hwy 78 & Indian Oaks Rd,  33.072209,-116.900740
+20792,Hwy 78 & Weekend Villa Rd,  33.070270,-116.885106
+20800,Vandegrift Bl & Commissary,  33.227000,-117.391945
+20806,Coast Hwy & Surfrider Way,  33.199493,-117.382689
+20820,Country Club Ln & Division St,  33.197610,-117.365258
+20821,Coast Hwy & Whaley St,  33.176905,-117.363731
+20823,Coast Hwy & Vista Way,  33.172211,-117.359784
+20827,Carlsbad Bl & Pine Ave,  33.155908,-117.350965
+20828,Mesa Dr & Hoover St,  33.204180,-117.350332
+20829,Carlsbad Bl & Maple Ave,  33.152392,-117.349205
+20831,Mesa Dr & Parnassus Cir,  33.206620,-117.347018
+20833,Mesa Dr & Cottingham St,  33.209117,-117.344848
+20837,Fireside St & Heritage St,  33.225607,-117.338469
+20838,Carlsbad Bl & Tierra Del Oro St,  33.133634,-117.336417
+20844,Vista Bella & Vista Oceana,  33.216932,-117.330432
+20846,El Camino Real & Camino Town,  33.185664,-117.328287
+20847,Monroe St & Chestnut Av,  33.161901,-117.326649
+20848,El Camino Real & Marron Rd,  33.178204,-117.326830
+20851,Avenida De Anita & Avenida De Louisa,  33.175283,-117.322229
+20852,Avenida De Anita & Via Naranja,  33.174634,-117.321249
+20853,Avenida De Anita & Via Esparto,  33.172702,-117.320670
+20858,Carlsbad Bl & La Costa Av,  33.084424,-117.310990
+20864,Vandegrift Bl & 16th St (Area 14),  33.313802,-117.309996
+20867,Highway 101 & El Portal St,  33.056099,-117.298058
+20872,Hwy 101 & H St,  33.040950,-117.293300
+20874,Hwy 101 & K St,  33.036524,-117.292332
+20877,El Camino Real & Jackspar Dr,  33.146616,-117.289981
+20878,Thunder Dr & Vista Way,  33.185093,-117.288298
+20879,Thunder Dr & Altura Dr,  33.192117,-117.288266
+20881,Saxony Rd & Ezee St,  33.059495,-117.285489
+20890,Emerald Dr & Candia Ct,  33.201871,-117.279572
+20891,Sunset Dr & Sky Haven Ln,  33.184209,-117.279028
+20892,N Santa Fe Av & Alamosa Park Dr,  33.242746,-117.278354
+20895,Hwy 101 & Estrella St,  32.994948,-117.272562
+20897,Hwy 101 & Dahlia Dr,  32.988321,-117.271003
+20898,Hwy 101 & Via De La Valle,  32.980405,-117.269259
+20899,Camino Del Mar & 25th St,  32.969275,-117.268018
+20900,El Camino Real & La Costa Av,  33.084852,-117.268499
+20901,El Camino Real & Arenal Rd,  33.094933,-117.267864
+20903,Camino Del Mar & 15th St,  32.959836,-117.265439
+20904,El Camino Real & Aviara Pkwy,  33.102746,-117.266771
+20905,Camino Del Mar & 13th St,  32.957370,-117.264661
+20906,El Camino Real & Levante St,  33.078140,-117.265555
+20907,Camino Del Mar & 9th St,  32.953629,-117.263213
+20908,Camino Del Mar & 4th St,  32.949149,-117.261518
+20910,El Camino Real & Encinitas Blvd,  33.044644,-117.259785
+20912,El Camino Real & Santa Fe Dr,  33.039133,-117.259581
+20916,Melrose Dr & Sunset Dr,  33.179114,-117.253583
+20917,Melrose Dr & Branding Iron Cir,  33.181793,-117.252628
+20919,N Santa Fe Av & Osborne St,  33.234468,-117.253786
+20926,N Santa Fe Av & Pond Pl,  33.224305,-117.246513
+20928,N Santa Fe Av & Orange St,  33.205271,-117.245127
+20929,N Santa Fe Av & East Dr,  33.214275,-117.245042
+20931,S Mission Rd & Winterhaven Rd,  33.346132,-117.242385
+20932,Melrose Dr & Green Oak Rd,  33.155512,-117.241872
+20933,S Mission Rd & Big Oak Ranch Rd,  33.338546,-117.238352
+20934,Rancho Santa Fe Rd & 9th St,  33.048229,-117.233968
+20937,Anza Av & Bobier Dr,  33.219717,-117.233778
+20938,S Mission Rd & Hellers Bend (North),  33.324208,-117.235281
+20939,Anza Ave. & Caramel Circle,  33.221822,-117.232729
+20941,E Vista Way & Hutchison St,  33.250302,-117.230342
+20942,E Vista Way & E Bobier Dr,  33.216647,-117.226760
+20943,E Vista Way & Arcadia Av,  33.226019,-117.226283
+20944,E Vista Way & Osborne St,  33.238540,-117.226351
+20945,La Mirada Dr & Commerce Wy,  33.150407,-117.222668
+20946,Oak Dr & Foothill Dr,  33.216685,-117.221913
+20947,Rancho Santa Fe Rd & Somerset Pl,  33.128981,-117.211233
+20948,Rancho Santa Fe Rd & 1st St,  33.137123,-117.205028
+20949,Rancho Santa Fe Rd & Linda Vista Dr,  33.140732,-117.203230
+20962,Escondido Bl & Mission Av,  33.128255,-117.089140
+20964,Broadway & Lincoln Av,  33.133972,-117.087080
+20967,Pala Mission Rd & Portillo Rd,  33.364953,-117.084209
+20971,Escondido Bl & 15th Av,  33.107400,-117.075128
+20972,Escondido Bl & Felicita Av,  33.105210,-117.073658
+20976,Hwy 76 & Lilac Rd,  33.364021,-117.062397
+20978,Bear Valley Pkwy & Kit Carson Park,  33.078231,-117.057425
+20980,Citrus Av & Citron Pl,  33.133080,-117.039209
+20981,Hwy 78 & San Pasqual Rd,  33.097807,-117.020663
+20982,Hwy 76 & El Senedero Dr,  33.335874,-117.005488
+20983,Hwy 76 & Pauma Valley Dr,  33.302974,-116.978077
+20991,Stuart Mesa & Vaughn,  33.252679,-117.404834
+20992,Stuart Mesa & Bloom,  33.249042,-117.403107
+20996,Coast Hwy & Civic Center Dr,  33.197286,-117.380820
+20999,Coast Hwy & Topeka St,  33.193733,-117.377830
+21003,Coast Hwy & Washington Av,  33.190530,-117.375124
+21005,Coast Hwy & Wisconsin Av,  33.188381,-117.373356
+21008,Coast Hwy & West St,  33.186416,-117.371734
+21013,Coast Hwy & Oceanside Blvd,  33.183350,-117.369212
+21015,Coast Hwy & Cassidy St,  33.174859,-117.362015
+21019,Mesa Dr & Mission Av,  33.208108,-117.358652
+21023,Mesa Dr & Crouch St,  33.205741,-117.353723
+21024,9th St & Vandegrift Bl,  33.295368,-117.353596
+21031,Mesa Dr & Barnwell St,  33.204694,-117.348050
+21032,Carlsbad Bl & Tamarack Av,  33.147366,-117.345393
+21033,Harding St & Carlsbad Village Dr,  33.161521,-117.344381
+21038,Harding St & Pine Av,  33.159434,-117.342688
+21042,Marron Rd & Jefferson St,  33.177515,-117.340350
+21043,Pio Pico Dr & Chestnut Av,  33.157698,-117.339080
+21044,Pio Pico Dr & Magnolia Av,  33.154866,-117.337591
+21046,Fireside St & Parkside Dr,  33.227742,-117.338184
+21050,Carlsbad Bl & Cerezo Dr,  33.128419,-117.332693
+21051,El Camino Real & Mesa Dr,  33.208363,-117.333615
+21053,El Camino Real & Oceanside Bl,  33.200819,-117.331779
+21054,Carlsbad Bl & Solamar Dr,  33.120896,-117.327305
+21055,El Camino Real & Los Arbolitos Bl,  33.227731,-117.331245
+21058,El Camino Real & Mission Av,  33.225350,-117.331274
+21059,El Camino Real & Basel St,  33.190631,-117.328263
+21060,El Camino Real & Fire Mountain Dr,  33.192256,-117.328221
+21066,El Camino Real & Hosp Way,  33.174733,-117.325344
+21067,Douglas Dr & El Camino Real,  33.229851,-117.326191
+21068,El Camino Real & Carlsbad Village Dr,  33.171425,-117.322674
+21070,Avenida De Anita & Flower Fields Way,  33.177031,-117.322686
+21071,Douglas Dr & N River Rd,  33.244894,-117.322785
+21072,El Camino Real & Chestnut Av,  33.163267,-117.319798
+21073,Rancho Del Oro Dr & San Ramon Dr,  33.222142,-117.320378
+21074,Carlsbad Bl & Poinsettia Ln,  33.101378,-117.318157
+21076,Rancho Del Oro Dr & Oregano Way,  33.217677,-117.319274
+21078,El Camino Real & Tamarack Av,  33.153614,-117.312101
+21079,Vandegrift Bl & 11th St,  33.299424,-117.313258
+21080,Vandegrift Bl & 4th St,  33.293749,-117.312591
+21082,Vandegrift Bl & Mcx Rd,  33.302266,-117.312648
+21083,El Camino Real & Kelly Dr,  33.152087,-117.309870
+21085,Hwy 101 & La Costa Av,  33.081404,-117.308163
+21086,Rancho Del Oro Rd & Las Tiendas Way,  33.183793,-117.311050
+21087,Vandegrift Bl & 14th St,  33.307231,-117.311596
+21090,Rancho Del Oro Dr & Tournament Dr,  33.186579,-117.309181
+21091,Rancho Del Oro Rd & Trieste Way,  33.189248,-117.308571
+21093,Hwy 101 & Grandview St,  33.075877,-117.306222
+21098,Hwy 101 & Phoebe St,  33.069046,-117.303944
+21102,Hwy 101 & Leucadia Blvd,  33.063985,-117.302270
+21108,Vandegrift Bl & Barnett Cir,  33.284752,-117.302105
+21109,N River Rd & Redondo Dr,  33.249103,-117.301492
+21114,Vandegrift Bl & Gold Dr,  33.257830,-117.299025
+21115,Vandergrift Blvd & Parker St,  33.261075,-117.298400
+21116,Vandergrift Blvd & Castellano Dr,  33.264428,-117.297804
+21118,College Bl & Plaza Dr,  33.181633,-117.296445
+21119,Vandegrift Bl & Douglas Dr,  33.273012,-117.296290
+21120,College Blvd & Adams St,  33.248971,-117.294961
+21123,Vulcan Av & J St,  33.038545,-117.291676
+21124,College Blvd & Via Cupeno,  33.246292,-117.290865
+21125,Thunder Dr & College Bl,  33.198946,-117.288260
+21126,Thunder Dr & Marvin St,  33.194668,-117.288279
+21127,Saxony Rd & Saxony Ln,  33.052379,-117.285655
+21128,El Camino Real & Sunny Creek Rd,  33.144605,-117.286051
+21129,Saxony Rd & Leucadia Bl,  33.064586,-117.285224
+21131,Saxony Rd & Puebla St,  33.061684,-117.285374
+21133,Sky Haven Ln & Sundown Ln,  33.180351,-117.280156
+21134,Sky Haven Ln & Zenith Ln,  33.178526,-117.280183
+21135,Emerald Dr & Hacienda Dr,  33.186218,-117.279636
+21141,Hwy 101 & Solana Vista Dr,  32.997862,-117.274040
+21142,Yarrow Dr & Palomar Airport Rd,  33.124855,-117.275042
+21144,Hwy 101 & Plaza St,  32.991360,-117.271692
+21145,Camino Del Mar & 29th St,  32.972376,-117.268658
+21147,El Camino Real & Dove Ln,  33.104981,-117.267149
+21149,El Camino Real & Town Center Dr,  33.064595,-117.262622
+21150,N Torrey Pines Rd & Torrey Pines State Beach,  32.935782,-117.260929
+21151,El Camino Real & Mountain Vista Dr,  33.051497,-117.260948
+21161,S Mission Rd & Clemmens Ln,  33.368699,-117.250952
+21164,S Mission Rd & O' Hearn Dr,  33.365772,-117.249943
+21165,Melrose Dr & Buena Vista Dr,  33.166667,-117.247238
+21166,S Mission Rd & Rocky Crest Rd,  33.362569,-117.249439
+21170,Melrose Dr & Longhorn Dr,  33.163662,-117.244500
+21171,N Santa Fe Av & California Av,  33.207125,-117.245112
+21173,N Santa Fe Av & Los Angeles Dr,  33.211115,-117.245085
+21174,N Santa Fe Av & Bobier Dr,  33.220730,-117.245017
+21175,N Santa Fe Av & Indian Rock Rd,  33.217192,-117.245023
+21177,Melrose Dr & Dawson Dr,  33.149826,-117.242251
+21178,Melrose Dr & Shadowridge Dr,  33.161112,-117.242115
+21180,Melrose Dr & Sycamore Av,  33.144864,-117.241536
+21181,Rancho Santa Fe Rd & Calle Barcelona,  33.071883,-117.243146
+21183,Rancho Santa Fe Rd & Olive Crest Dr,  33.057537,-117.235572
+21184,Hwy 76 & North River Rd,  33.266976,-117.237136
+21185,S Mission Rd & Green Canyon Rd,  33.334647,-117.236575
+21187,Camino De Los Coches & Via Callendo,  33.077986,-117.230036
+21188,Business Park Dr & Liberty Way,  33.137578,-117.230039
+21191,E Vista Way & Oak Dr,  33.213141,-117.228842
+21192,S Mission Rd & 4719,  33.305837,-117.227333
+21193,Rancho Santa Fe Rd & Melrose Dr,  33.106584,-117.225740
+21194,E Vista Way & Strawberry Hill Ln,  33.243532,-117.226593
+21195,Genesee Av & Scripps Hospital,  32.884236,-117.222171
+21197,E Vista Way & Old Taylor St,  33.230034,-117.226298
+21198,Hwy 76 & Olive Hill Rd,  33.288546,-117.225837
+21199,S Mission Rd & Hwy 76,  33.294879,-117.222977
+21201,Oak Dr & Monte Mar Rd,  33.218347,-117.221921
+21202,Oak Dr & Palomar Pl,  33.222695,-117.221923
+21203,Sycamore Av & Watson Way,  33.161114,-117.219881
+21204,Rancho Santa Fe Rd & Lake Ridge Rd,  33.122200,-117.218896
+21205,La Mirada Dr & Ash St,  33.148923,-117.218350
+21206,Sycamore Av & Shadowridge Dr,  33.164204,-117.217280
+21209,Rancho Santa Fe Rd & Lodge Pole Rd,  33.126806,-117.213575
+21210,Rancho Santa Fe Rd & San Marcos Bl,  33.130004,-117.210106
+21213,Rancho Santa Fe Rd & Descanso Av,  33.148180,-117.199453
+21233,Broadway & Village Rd,  33.157888,-117.092549
+21234,Quince St & Washington Av,  33.124854,-117.092271
+21236,Broadway & Vista Av,  33.153046,-117.091794
+21237,Broadway & Leslie Ln,  33.148205,-117.090985
+21238,Quince St & Norlak Av,  33.120804,-117.090073
+21239,Broadway & Bud Quade Way,  33.143297,-117.090196
+21240,Broadway & El Norte Pkwy,  33.139000,-117.089322
+21241,Broadway & 1125,  33.136294,-117.088093
+21246,Broadway & Washington Av,  33.126507,-117.083796
+21247,Escondido Bl & 2nd Av,  33.119088,-117.083410
+21249,Escondido Bl & 6th Av,  33.115674,-117.080993
+21250,Escondido Bl & 9th Av,  33.112687,-117.078881
+21254,Escondido Bl & 13th Av,  33.109210,-117.076409
+21271,Bear Valley Pkwy & Las Palmas Av,  33.085735,-117.057302
+21273,Midway Dr & Mission Av,  33.144295,-117.056271
+21274,Midway Dr & Washington Av,  33.141107,-117.053687
+21277,Citrus Av & Bear Valley Pkwy,  33.136730,-117.041563
+21278,Hwy 78 & Old San Pasqual Rd,  33.102711,-117.036606
+21280,Hwy 76 & Adams Dr,  33.340235,-117.012254
+21281,Hwy 76 & Pauma Reservation Rd,  33.329219,-117.000611
+21282,Hwy 76 & Cole Grade Rd,  33.318523,-116.992722
+21283,Hwy 78 & Horizon View Dr,  33.074220,-116.902831
+21284,Hwy 78 & Cedar St,  33.054502,-116.871477
+21285,Hwy 78 & Olive St,  33.048091,-116.871206
+21286,Broadway & Sherman Pl,  33.124120,-117.082687
+21291,Basilone Rd & San Juan St,  33.394164,-117.514206
+21292,Las Pulgas Rd & Bldg 43260 (Gas Station),  33.341259,-117.410716
+21309,Coast Hwy & Oceanside Blvd,  33.183462,-117.368994
+21311,Coast Hwy & Morse St,  33.177699,-117.364126
+21317,Mesa Dr & Crouch St,  33.205790,-117.353534
+21319,9th St & Vandegrift Bl,  33.295451,-117.353472
+21324,10th St & Bldg 22114,  33.294037,-117.350224
+21334,Pio Pico Dr & Chestnut Av,  33.157740,-117.338986
+21335,Fireside St & Heritage St,  33.225190,-117.338110
+21337,Fireside St & Los Arbolitos Bl,  33.228467,-117.337078
+21343,Carlsbad Bl & Solamar Dr,  33.120136,-117.326429
+21352,El Camino Real & Hosp Way,  33.173960,-117.324140
+21355,Avenida De Anita & Flower Fields Way,  33.176976,-117.322547
+21356,Douglas Dr & N River Rd,  33.244819,-117.322409
+21357,Avenida De Anita & Via Vera,  33.173398,-117.320575
+21358,Rancho Del Oro Dr & San Ramon Dr,  33.222116,-117.320107
+21359,Rancho Del Oro Dr & Via Rancho Rd,  33.218974,-117.318992
+21365,Vandegrift Bl & Mcx Rd,  33.301722,-117.312599
+21366,Hwy 101 & La Costa Av,  33.081170,-117.307742
+21368,Rancho Del Oro Rd & Tournament Dr,  33.186495,-117.308907
+21372,Vandegrift Bl & Barnett Cir,  33.284951,-117.301963
+21373,Hwy 101 & El Portal St,  33.057017,-117.298357
+21374,Vandegrift Bl & Castellano Way,  33.265256,-117.297255
+21375,Vandegrift Bl & Douglas Dr,  33.274107,-117.295940
+21378,Vulcan Av & J St,  33.038565,-117.291542
+21380,Thunder Dr & Waring Rd,  33.187257,-117.288183
+21381,Thunder Dr & College Bl,  33.198835,-117.288095
+21382,Thunder Dr & Westwood Rd,  33.192486,-117.288108
+21384,Thunder Dr & Jonathon St,  33.196779,-117.288100
+21385,Saxony Rd & Leucadia Bl,  33.064703,-117.285099
+21394,Yarrow Dr & Corte Dela Pina,  33.122305,-117.273676
+21395,El Camino Real & La Costa Av,  33.084905,-117.268139
+21396,Camino Del Mar & 13th St,  32.957426,-117.264349
+21399,Camino Del Mar & Del Mar Heights Rd,  32.947888,-117.260722
+21401,Stevens Av & Genevieve St,  32.989169,-117.260412
+21402,El Camino Real & 317,  33.054702,-117.261649
+21403,El Camino Real & Santa Fe Dr,  33.039112,-117.259169
+21409,Melrose Dr & County Complex,  33.189719,-117.253735
+21415,N Santa Fe Av & Taylor St,  33.229487,-117.248145
+21419,N Santa Fe Av & Cananea St,  33.217088,-117.244747
+21421,Melrose Dr & Shadowridge Dr,  33.160931,-117.241710
+21424,Hwy 76 & North River Rd,  33.267735,-117.236613
+21426,Rancho Santa Fe Rd & El Camino Del Norte,  33.050290,-117.233108
+21428,S Mission Rd & Baja Mission Rd,  33.312572,-117.229836
+21429,E Vista Way & Oak Dr,  33.212989,-117.228578
+21430,E Vista Way & Strawberry Hill Ln,  33.244177,-117.226710
+21431,E Vista Way & Foothill Dr,  33.218497,-117.225985
+21432,S Mission Rd & Hwy 76,  33.295362,-117.222986
+21438,Rancho Santa Fe Rd & Descanso Av,  33.148212,-117.199109
+21444,Broadway & Sundance MHP,  33.158724,-117.092432
+21445,Quince St & Washington Av,  33.125275,-117.092201
+21446,Escondido Bl & Mission Av,  33.128597,-117.089046
+21450,Escondido Bl & 2nd Av,  33.118840,-117.083087
+21453,Escondido Bl & 15th Av,  33.107660,-117.075166
+21455,Pala Mission Rd & Temecula Rd,  33.365286,-117.074888
+21457,Sunset Dr & Escondido Bl,  33.101188,-117.070214
+21464,Hwy 76 & Rhonda Ln,  33.335066,-117.004643
+21465,Hwy 76 & Pauma Reservation Rd,  33.328755,-117.000051
+21466,Hwy 76 & Cole Grade Rd,  33.319190,-116.992950
+21467,Hwy 78 & Cedar St,  33.054702,-116.871331
+21468,Hwy 78 & Olive St,  33.048122,-116.871046
+21471,Basilone Rd & Naval Hosp Clinic,  33.392107,-117.509770
+21472,Basilone Rd & Bldg 53372 (Horno Em Club),  33.378956,-117.481622
+21473,Basilone Rd & Bldg 53505 (Horno),  33.376925,-117.477142
+21474,Stuart Mesa & Mitchell,  33.251479,-117.404352
+21475,Stuart Mesa & Bloom,  33.249859,-117.403355
+21480,Stuart Mesa & Vandegrift Bl,  33.233466,-117.389591
+21483,Coast Hwy & Surfrider Way,  33.199551,-117.382482
+21489,Coast Hwy & Mission Av,  33.196274,-117.379740
+21491,Coast Hwy & Michigan Av,  33.193094,-117.377053
+21494,Coast Hwy & Washington Av,  33.190989,-117.375264
+21496,Coast Hwy & Wisconsin Av,  33.188996,-117.373587
+21497,Coast Hwy & West St,  33.186977,-117.371962
+21504,Coast Hwy & Cassidy St,  33.175557,-117.362352
+21505,Coast Hwy & Vista Way,  33.172727,-117.359968
+21510,Carlsbad Bl & Oak Av,  33.156618,-117.350627
+21511,Carlsbad Bl & Chestnut Av,  33.152607,-117.349120
+21515,Carlsbad Bl & Tamarack Av,  33.147967,-117.345584
+21516,Harding St & Oak Av,  33.161096,-117.343807
+21517,Harding St & Pine Av,  33.159934,-117.342872
+21520,Pio Pico Dr & Magnolia Av,  33.155368,-117.337728
+21523,Carlsbad Bl & Cannon Rd,  33.132921,-117.335637
+21525,Monroe St & Hosp Way,  33.171174,-117.334607
+21527,Monroe St & Ave Of Trees,  33.169508,-117.333817
+21528,Carlsbad Bl & Cerezo Dr,  33.128843,-117.332786
+21529,El Camino Real & Mesa Dr,  33.208924,-117.333302
+21531,El Camino Real & Oceanside Bl,  33.202231,-117.332418
+21532,El Camino Real & Vista Oceana,  33.216723,-117.332210
+21534,El Camino Real & Mission Av,  33.227388,-117.330950
+21535,Monroe St & Gayle Way,  33.165303,-117.328717
+21536,El Camino Real & Skyline Dr,  33.192928,-117.327869
+21537,El Camino Real & Camino Town,  33.185428,-117.327838
+21538,Monroe St & Chestnut Av,  33.162414,-117.326845
+21539,El Camino Real & Marron Rd,  33.178511,-117.326592
+21540,Douglas Dr & Mission Av,  33.229438,-117.325971
+21541,Douglas Dr & El Camino Real,  33.232251,-117.324985
+21545,El Camino Real & Carlsbad Village Dr,  33.172277,-117.322752
+21546,Avenida De Anita & Avenida De Louisa,  33.175359,-117.322503
+21547,Douglas Dr & Pala Rd,  33.238448,-117.322461
+21548,Avenida De Anita & Calle Susana,  33.174685,-117.321105
+21549,El Camino Real & Chestnut Av,  33.164751,-117.319948
+21551,Carlsbad Bl & Poinsettia Ln,  33.102303,-117.318179
+21558,El Camino Real & Tamarack Av,  33.154523,-117.313223
+21560,Rancho Del Oro Rd & Vista Way Village Dr,  33.183346,-117.311001
+21561,El Camino Real & Kelly Dr,  33.152865,-117.310396
+21563,Vandegrift Bl & 14th St,  33.308243,-117.311202
+21566,Rancho Del Oro Rd & Del Oro Homes,  33.189771,-117.308179
+21568,Hwy 101 & Grandview St,  33.075865,-117.305915
+21569,Vandegrift Bl & 16th St (14 Area),  33.313706,-117.309697
+21574,Hwy 101 & Phoebe St,  33.069306,-117.303672
+21577,Hwy 101 & Leucadia Blvd,  33.065251,-117.302395
+21585,N River Rd & College Blvd,  33.251793,-117.299844
+21592,Vandegrift Bl & Gold Dr,  33.258424,-117.298583
+21593,Vandergrift Blvd & Parker St,  33.261889,-117.297926
+21599,College Blvd & Adams St,  33.249516,-117.295619
+21600,Hwy 101 & H St,  33.040973,-117.293065
+21601,Hwy 101 & K St,  33.036021,-117.291784
+21603,College Blvd & Via Cupeno,  33.247362,-117.291383
+21604,El Camino Real & Rancho Carlsbad Dr,  33.146948,-117.289971
+21606,Thunder Dr & Vista Way,  33.184839,-117.288190
+21607,Saxony Rd & Seacrest Way,  33.051949,-117.285529
+21608,Saxony Rd & Silver Berry Pl,  33.056028,-117.285411
+21609,Saxony Rd & Puebla St,  33.061455,-117.285230
+21614,Emerald Dr & Silver Fox Ln,  33.203969,-117.279449
+21615,Emerald Dr & Borra Ct,  33.201114,-117.279448
+21622,Yarrow Dr & Camino Vida Roble,  33.120151,-117.273579
+21623,Hwy 101 & Lomas Santa Fe Dr,  32.992676,-117.271706
+21626,Hwy 101 & Via De La Valle,  32.980897,-117.268990
+21627,Camino Del Mar & 29th St,  32.972405,-117.268375
+21628,El Camino Real & Costa Del Mar Rd,  33.089723,-117.269242
+21629,Camino Del Mar & 24th St,  32.968910,-117.267619
+21632,El Camino Real & Arenal Rd,  33.094306,-117.267716
+21634,El Camino Real & Carlsbad Water District,  33.131973,-117.268641
+21635,El Camino Real & Dove Ln,  33.105539,-117.266899
+21636,Camino Del Mar & 15th St,  32.960084,-117.265178
+21637,El Camino Real & Alga Rd,  33.102772,-117.266395
+21638,El Camino Real & Levante St,  33.078829,-117.265471
+21639,Camino Del Mar & 9th St,  32.953910,-117.263045
+21640,El Camino Real & Garden View Rd (501),  33.059126,-117.262543
+21641,Stevens Av & Academy Dr,  32.991333,-117.261312
+21642,El Camino Real & Olivenhain Rd,  33.068167,-117.262008
+21643,El Camino Real & Mountain Vista Dr,  33.052145,-117.260777
+21644,El Camino Real & Encinitas Bl,  33.047681,-117.259423
+21645,Stevens Av & Valley Av,  32.983545,-117.258628
+21653,Melrose Dr & Sunset Dr,  33.178132,-117.253544
+21654,Melrose Dr & Las Palmas Dr,  33.186503,-117.253290
+21655,Melrose Dr & Branding Iron Dr,  33.182409,-117.252302
+21658,N Santa Fe Av & Paseo Marguerita,  33.232065,-117.249394
+21660,Melrose Dr & Buena Vista Dr,  33.167561,-117.247417
+21661,S Mission Rd & Pepper Tree Ln,  33.363267,-117.249101
+21663,N Torrey Pines Rd & Torrey Pines Golf Course,  32.905431,-117.243229
+21664,N Santa Fe Av & Angeles Vista Dr,  33.225471,-117.246434
+21665,N Torrey Pines Rd & Science Park Rd,  32.902044,-117.242567
+21666,Melrose Dr & Live Oak Rd,  33.165129,-117.245739
+21667,N Santa Fe Av & Orange St,  33.205173,-117.244849
+21670,N Santa Fe Av & Townsite Dr,  33.211724,-117.244797
+21671,N Santa Fe Av & East Dr,  33.214268,-117.244787
+21672,N Santa Fe Av & Bobier Dr,  33.220087,-117.244728
+21675,Melrose Dr & Dawson Dr,  33.150573,-117.242028
+21676,Melrose Dr & Green Oak Rd,  33.155441,-117.241509
+21677,Melrose Dr & Sycamore Av,  33.145931,-117.240992
+21678,Rancho Santa Fe Rd & Calle Barcelona,  33.072451,-117.241928
+21679,Rancho Santa Fe Rd & Encinitas Bl,  33.037511,-117.238454
+21680,S Mission Rd & Big Oak Ranch Rd,  33.339760,-117.238748
+21681,Rancho Santa Fe Rd & Olive Crest Dr,  33.058182,-117.236043
+21683,S Mission Rd & Via Encinos Dr,  33.328955,-117.236006
+21684,S Mission Rd & Green Canyon Rd,  33.333566,-117.235901
+21686,Anza Av & Bobier Dr,  33.219836,-117.233592
+21687,S Mission Rd & Hellers Bend (North),  33.324182,-117.235026
+21688,Anza Av & Monterey Ln,  33.221640,-117.232572
+21691,E Vista Way & Hutchison St,  33.251215,-117.230728
+21692,E Vista Way & Gopher Canyon Rd,  33.247448,-117.228043
+21693,S Mission Rd & La Canada Rd,  33.309276,-117.228253
+21694,E Vista Way & Arcadia Av,  33.225191,-117.226019
+21695,E Vista Way & Serra Dr,  33.230803,-117.226052
+21696,E Vista Way & Osborne St,  33.239430,-117.226132
+21697,Rancho Santa Fe Rd & La Costa Meadows Dr,  33.105091,-117.224937
+21699,Hwy 76 & Camino Del Rey,  33.289260,-117.225254
+21701,La Mirada Dr & Coral St,  33.150706,-117.223043
+21703,Sycamore Av & Hibiscus Av,  33.161485,-117.219186
+21704,Rancho Santa Fe Rd & Camino Del Arroyo,  33.122054,-117.218632
+21705,La Mirada Dr & Ash St,  33.149363,-117.219131
+21707,Rancho Santa Fe Rd & Lake San Marcos Dr,  33.127139,-117.212923
+21709,Rancho Santa Fe & San Marcos Blvd,  33.131880,-117.207772
+21711,Rancho Santa Fe Rd & Linda Vista Dr,  33.140540,-117.202991
+21712,Rancho Santa Fe Rd & Cherokee St,  33.144836,-117.200812
+21713,Rancho Santa Fe Rd & Grand Av,  33.146368,-117.200072
+21723,Valley Pkwy & Citracado Pkwy,  33.097098,-117.111007
+21724,Valley Pkwy & Vermel Av,  33.099600,-117.108406
+21727,Rock Springs Rd & Mission Av,  33.127240,-117.097572
+21728,Morning View Dr & Lincoln Av,  33.132785,-117.094625
+21730,Broadway & Vista Av,  33.154162,-117.091669
+21732,Broadway & Sheridan Av,  33.143656,-117.090010
+21733,Broadway & El Norte Pkwy,  33.140432,-117.089484
+21734,Escondido Bl & Washington Av,  33.126417,-117.088134
+21736,Broadway & Lincoln Av,  33.134267,-117.086904
+21737,Broadway & Mission Av,  33.130915,-117.085410
+21739,Broadway & Park Av,  33.129040,-117.084677
+21748,Escondido Bl & 6th Av,  33.116108,-117.081157
+21749,Escondido Bl & 9th Av,  33.113213,-117.079105
+21754,Escondido Bl & 13th Av,  33.109860,-117.076735
+21758,Escondido Bl & Felicita Av,  33.105229,-117.073393
+21766,Pala Mission Rd & Temecula Rd,  33.365156,-117.072053
+21773,Bear Valley Pkwy & Mary Ln (San Pasqual HS),  33.077150,-117.057368
+21774,Bear Valley Pkwy & Peet Ln,  33.085837,-117.056958
+21777,Midway Dr & Mission Av,  33.144316,-117.056046
+21779,Midway Dr & 460,  33.139018,-117.052508
+21780,Citrus Av & Bear Valley Pkwy,  33.138626,-117.042664
+21784,Valley Center Rd & Woods Valley Rd,  33.206321,-117.033271
+21785,Hwy 76 & Adams Dr,  33.340651,-117.012982
+21786,Hwy 78 & Horizon View Dr,  33.075230,-116.902692
+21794,Oceanside Bl & Macdonald St,  33.199141,-117.347618
+21795,Mesa Dr & Wilcox St,  33.210275,-117.341320
+21796,Oceanside Blvd & El Camino Real,  33.201865,-117.334587
+21797,El Camino Real & Coco Palms Dr (Trico MHP),  33.229582,-117.328344
+21798,Carlsbad Village Dr & Pontiac Dr,  33.171522,-117.313487
+21799,Carlsbad Village Dr & Pontiac Dr,  33.171863,-117.313041
+21801,Barnard Dr & MiraCosta College,  33.189040,-117.300500
+21803,Encinitas Bl & Town & Country,  33.046764,-117.281782
+21804,Oceanside Blvd & St Margarets Church,  33.210254,-117.278657
+21806,Oceanside Blvd & Catalina Cir,  33.219413,-117.264372
+21807,Oceanside Blvd & Catalina Cir,  33.219139,-117.264053
+21810,Via De La Valle & 2705,  32.980491,-117.249682
+21811,W Vista Way & Melrose Plaza,  33.196094,-117.252344
+21812,Bobier Dr & Heidi Cir,  33.221242,-117.240933
+21813,Via De La Valle & El Camino Real (N),  32.983359,-117.225006
+21814,S Santa Fe Av & 1275,  33.187777,-117.225668
+21815,S Santa Fe Av & Mar Vista Dr (1411),  33.184252,-117.222618
+21816,S Santa Fe Av & 2511,  33.163824,-117.205415
+21825,Mission Av & Gamble St,  33.131804,-117.080359
+21828,Valley Pkwy & Imperial Escondido MHP,  33.140049,-117.046697
+21829,Valley Pkwy & Citrus Av (Ralphs),  33.141382,-117.043042
+21831,Glenridge Rd & Vulcan Pl,  33.128965,-117.039131
+21832,Valley Center Rd & Miller Rd,  33.231057,-117.032929
+21833,Valley Center Rd & Mirar De Valle Rd,  33.210880,-117.033679
+21834,Valley Center Rd & Valley Center Plaza,  33.217364,-117.033679
+21835,Valley Center Rd & Cole Grade Rd,  33.231258,-117.026336
+21836,Valley Center Rd & Irish Oaks Rd (29779),  33.228270,-117.011234
+21837,Valley Center Rd & Rock Hill Ranch Rd,  33.228328,-117.006247
+21838,Valley Center Rd & Sunset Rd,  33.228303,-116.981380
+21839,Valley Center Rd & Kolb Rd,  33.247043,-116.963696
+21840,Valley Center Rd & Morningstar Ln,  33.248918,-116.963453
+21844,Valley Center Rd & Golsh Rd,  33.277455,-116.953759
+21845,Valley Center Rd & South Resort Dr (Harrah's),  33.268985,-116.953851
+21846,Valley Center Rd & Arviso Rd,  33.270169,-116.953864
+21847,Valley Center Rd & Tribal Rd,  33.272782,-116.953776
+21848,Hwy 78 & Across From Turnout,  33.087979,-116.937454
+21852,Vandegrift Bl & Building 22831,  33.287668,-117.371183
+21853,Oceanside Bl & Coast Hwy,  33.184039,-117.368724
+21854,Oceanside Blvd & I-5,  33.189469,-117.363506
+21855,Vandegrift Bl & 7th St,  33.294332,-117.357808
+21857,Oceanside Blvd & Crouch St,  33.194390,-117.354410
+21858,11th St & Vandegrift Bl,  33.298137,-117.346299
+21864,Oceanside Blvd & Rancho Del Oro Dr,  33.203201,-117.311950
+21865,MiraCosta College,  33.190174,-117.301117
+21866,Oceanside Blvd & Corporate Centre Dr,  33.203696,-117.305910
+21867,Waring Rd & Camarillo Av,  33.186608,-117.294120
+21870,Saxony Rd & Saxony Pl,  33.053697,-117.285478
+21871,W Vista Way & Cedar Rd,  33.186052,-117.283942
+21872,Oceanside Bl & Arroyo Av,  33.208744,-117.280885
+21874,Oceanside Blvd & Beverly Glen Dr,  33.212933,-117.274952
+21876,Encinitas Bl & Beechtree Dr,  33.046164,-117.262098
+21879,Bobier Dr & Kiva Ln,  33.221252,-117.243394
+21881,Park Center Dr & 1335,  33.140367,-117.238832
+21883,S Santa Fe Av & 1011,  33.192354,-117.230662
+21884,S Santa Fe Av & Monte Vista Dr (1069),  33.190941,-117.228282
+21886,Via De La Valle & Las Palomas,  32.994258,-117.212169
+21889,Mission Rd & Knoll Rd,  33.145072,-117.172851
+21891,Mission Rd & Mission Hills Ct,  33.143883,-117.144753
+21893,Country Club Ln & Montego Av,  33.157363,-117.103364
+21895,Valley Pkwy & Ivy St,  33.125124,-117.077339
+21896,Sunset Dr & Royal Crest Dr,  33.096980,-117.063925
+21897,Valley Pkwy & Eastwood Meadows MHP,  33.142608,-117.041154
+21898,Glenridge Rd & Vulcan Pl,  33.128763,-117.039210
+21899,Valley Center Rd & Irish Oaks Rd,  33.228141,-117.010713
+21900,Hwy 78 & San Pasqual School,  33.088960,-116.979231
+21901,Valley Center Rd & Sunset Rd,  33.228159,-116.981322
+21902,Hwy 78 & FAH Medical Station,  33.089845,-116.975963
+21904,Valley Center Rd & S Paradise Creek Ln,  33.244892,-116.963817
+21907,Valley Center Rd & South Resort Dr (Harrah's),  33.268607,-116.953649
+21908,Valley Center Rd & McCormick Rd,  33.270915,-116.953610
+21909,Valley Center Rd & Mazzetti Ln,  33.277369,-116.953585
+21910,Valley Center Rd & Tribal Rd,  33.273732,-116.953595
+21911,Hwy 78 & San Pasqual Academy,  33.090456,-116.948499
+21912,Hwy 78 & Mountain View Church,  33.061941,-116.871653
+21917,Stuart Mesa & Donald Cook Rd,  33.257162,-117.421532
+21926,Coast Hwy & Eaton St,  33.170442,-117.358041
+21927,Carlsbad Bl & Cypress Av,  33.161687,-117.353992
+21930,Marron Rd & Monroe St,  33.176656,-117.338715
+21932,Marron Rd & Monroe St (Sears),  33.177361,-117.334131
+21934,Hwy 101 & Bishops Gate Rd,  33.078665,-117.307162
+21935,Barnard Dr & Glaser Dr (Miracosta College),  33.191186,-117.304352
+21936,Barnard Dr & Barnard Dr,  33.189359,-117.301213
+21937,College Bl & Plaza Dr,  33.180603,-117.295710
+21938,Hwy 101 & A St,  33.050460,-117.294651
+21940,Yarrow Dr & 6231,  33.121754,-117.273849
+21942,N Santa Fe Av & Guajome Park,  33.240795,-117.273677
+21943,El Camino Real & Cassia Rd,  33.113479,-117.271790
+21944,El Camino Real & La Costa Towne Ctr,  33.081363,-117.266621
+21946,El Camino Real & Pointsettia Ln,  33.107811,-117.268685
+21947,El Camino Real & Campus Point,  33.132231,-117.269350
+21948,El Camino Real & Costa Del Mar Rd,  33.089014,-117.269481
+21949,El Camino Real & Garden View Rd,  33.058042,-117.262894
+21950,El Camino Real & Camino Encinitas Plaza (318),  33.054390,-117.261931
+21954,Via De La Valle & San Andres Dr,  32.980963,-117.248890
+21955,S Mission Rd & Clemmens Ln,  33.368661,-117.250650
+21957,Park Center Dr & 1330,  33.140785,-117.238695
+21958,Bobier Dr & Heidi Cir,  33.221429,-117.238715
+21959,S Santa Fe Av & Monte Vista Dr (1070),  33.190930,-117.227870
+21960,Foothill Dr & E Vista Way,  33.217377,-117.224258
+21961,Via De La Valle & Caminito Porta Delgada,  32.983942,-117.220454
+21963,Shadowridge Dr & Watson Way (780),  33.166417,-117.221367
+21965,S Santa Fe Av & Azalea Dr,  33.167919,-117.205842
+21966,S Santa Fe Av & Poinsettia Av (2430),  33.164854,-117.205217
+21968,Mission Rd & San Marcos Senior Ctr,  33.143039,-117.163683
+21969,Mission Rd & Mission Hills HS,  33.143287,-117.142538
+21971,Mission Rd & Enterprise St (1564),  33.126812,-117.113707
+21972,Country Club Ln & Montego Av,  33.157576,-117.103497
+21975,Midway Dr & Valley Pkwy,  33.139201,-117.052748
+21976,Hwy 76 & Agua Tibia Ranch,  33.354988,-117.031689
+21977,Hwy 76 & Grassy Meadow Rd,  33.322362,-116.995557
+21978,Hwy 78 & SD Archaeological Ctr,  33.088649,-116.981530
+21979,Hwy 76 & Lazy H Ranch Restaurant,  33.290053,-116.967280
+21980,Hwy 78 & San Pasqual Academy,  33.090646,-116.950499
+21981,Hwy 78 & Turnout (18990 Hwy 78),  33.088798,-116.937454
+21985,Stuart Mesa & Edson Range,  33.258650,-117.414291
+21996,Mesa Dr & Hoover St,  33.204339,-117.350360
+21997,El Camino Real & Villa Mesa,  33.210792,-117.333279
+22000,Vista Way & 3330 (Auto Club),  33.180764,-117.314723
+22002,El Camino Real & W Ranch St,  33.151780,-117.303926
+22004,Vista Way & Tri-City Medical Center,  33.183933,-117.290909
+22005,Santa Fe Dr & Scripps Hospital,  33.036355,-117.284125
+22006,N Santa Fe Av & Alamosa Park Dr,  33.243250,-117.278633
+22007,Hwy 101 & Solana Beach City Hall,  32.983562,-117.269925
+22008,El Camino Real & La Costa Towne Ctr,  33.082216,-117.266680
+22009,San Rodolfo Dr & Plaza West,  32.994151,-117.259783
+22013,Park Center Dr & 1280 (Watkins),  33.142678,-117.236222
+22014,Park Center Dr & Avenida Chelsea,  33.143326,-117.233729
+22015,Hwy 76 & Via Montellano,  33.275783,-117.233435
+22017,Rancho Santa Fe Rd & Security Pl,  33.134486,-117.206446
+22018,Del Dios Hwy & Via Cuatro Caminos,  33.034924,-117.175520
+22020,CSUSM Craven Circle,  33.128589,-117.160085
+22022,Country Club Ln & Abby Ln,  33.156690,-117.123431
+22023,Mission Rd & Andreasen Dr,  33.124651,-117.107935
+22025,Morning View Dr & Morning View Ter,  33.140367,-117.097250
+22028,Morning View Dr & Riverwalk Apts,  33.138184,-117.096519
+22032,Hwy 76 & Fox Raceway,  33.363925,-117.059467
+22033,Hwy 76 & Agua Tibia Ranch,  33.355071,-117.031466
+22034,Hwy 78 & Cloverdale Rd,  33.097688,-117.021368
+22035,Hwy 76 & 14970,  33.338216,-117.007011
+22036,San Diego Safari Park (Inside gate),  33.099950,-117.001837
+22037,Hwy 76 & Roberts Ranch,  33.322463,-116.995361
+22038,Hwy 76 & Pauma Valley Dr,  33.303435,-116.978338
+22039,Hwy 78 & FAH Medical Station,  33.089934,-116.976199
+22040,Hwy 76 & Pauma Valley Community Ctr,  33.293430,-116.969173
+22042,Hwy 78 & Ash St,  33.060483,-116.871437
+22043,Basilone Rd & Bldg 53346 (Phone Ctr),  33.377173,-117.479138
+22049,Basilone Rd & Bldg 52540,  33.393852,-117.513825
+22050,Basilone Rd & Vicinity Bldg 520593,  33.391911,-117.509787
+22051,Basilone Rd & Horno Em Club,  33.378722,-117.481583
+22053,Stuart Mesa & Las Flores,  33.288321,-117.440953
+22054,Edson Range & Bldg 31498,  33.256626,-117.420701
+22055,Main Gate & Edson Range,  33.258627,-117.414885
+22056,Brown St & Opp 43532 (Las Pulgas),  33.349781,-117.412686
+22058,Brown St & Bldg 43410,  33.347265,-117.411467
+22059,Brown St & Henderson,  33.344261,-117.410752
+22061,Monroe St & Ave Of Trees,  33.169634,-117.334104
+22065,Vandegrift Bl & Base Stables,  33.289193,-117.306740
+22066,El Camino Real & Cannon Rd,  33.149055,-117.296461
+22067,Vandegrift Bl & San Luis Rey Gate,  33.279748,-117.298792
+22069,N Torrey Pines Rd & Torrey Pines State Beach,  32.935521,-117.260572
+22070,Stevens Av & Nardo Av (La Colonia Park),  32.985903,-117.260068
+22071,Stevens Av & Valley Av,  32.983674,-117.259043
+22073,N Torrey Pines Rd & State Beach Reserve,  32.929042,-117.259684
+22074,Melrose Dr & Cannon Rd (Ralphs),  33.173425,-117.253305
+22076,La Mirada Dr & Poinsettia Av,  33.148236,-117.216337
+22079,Escondido Bl & Washington Av,  33.125087,-117.087664
+22081,Coast Hwy & Morse St,  33.178545,-117.365123
+22082,Douglas Dr & Country Villas Apts,  33.233061,-117.324869
+22084,Vandegrift Bl & 13 St,  33.304893,-117.312065
+22086,College Bl & 2797,  33.197533,-117.290943
+22087,Hwy 101 & Cardiff Beach,  33.013007,-117.279850
+22088,Stevens Av & San Rodolfo Dr,  32.993286,-117.262108
+22089,Stevens Av & Academy Dr,  32.991042,-117.261434
+22090,Stevens Av & Genevieve St,  32.989089,-117.260619
+22091,Valley Av & Waterford Dr,  32.981163,-117.257948
+22093,Melrose Dr & Shadowridge Meadows Apts,  33.169329,-117.250768
+22094,N Torrey Pines Rd & NU System Drwy,  32.910339,-117.244715
+22096,Oak Dr & 1506 (MHP),  33.221288,-117.221881
+22097,S Santa Fe Av & Bosstick Bl (2907),  33.159148,-117.203274
+22098,Valley Pkwy & Citracado Pkwy,  33.097473,-117.111124
+22103,Carlsbad Bl & Army Navy Academy,  33.161804,-117.353767
+22106,Hwy 101 & Cardiff Beach,  33.013181,-117.279598
+22112,S Mission Rd & Fairbrook Farms (4949),  33.301283,-117.226025
+22118,Broadway & 1160,  33.137208,-117.088235
+22122,Basilone Rd & Bldg 53332,  33.377349,-117.479442
+22123,Las Flores & Bldg 41398,  33.288570,-117.441369
+22128,Vandegrift Bl & Commissary,  33.227132,-117.391738
+22129,Coast Hwy & Las Salinas MHP,  33.180164,-117.366229
+22130,11th St & E Av,  33.298248,-117.346140
+22134,Vandegrift Bl & 13th St (Main Px),  33.303550,-117.311999
+22135,Vandegrift Bl & 14th St,  33.306026,-117.311663
+22138,Sunset Dr & Sky Haven Ln,  33.184461,-117.279093
+22139,Hwy 101 & Cliff St,  32.997116,-117.273332
+22142,Stevens Av & Nardo Av,  32.986323,-117.259833
+22143,Valley Av & Highland Dr,  32.980329,-117.257325
+22145,Melrose Dr & 1510 (Sr Heights Apt),  33.168770,-117.249273
+22147,La Mirada Dr & Poinsettia Av,  33.148192,-117.215754
+22150,Hale Av & Parkdale Apts,  33.111230,-117.107743
+22151,9th Av & Windsor Pl,  33.111446,-117.105560
+22152,Carlsbad Village Dr & Highland Dr,  33.165869,-117.338123
+22153,Mission Av & 3671 (Paul's Place),  33.223968,-117.332984
+22156,Sunset Dr & Escondido Bl,  33.100961,-117.070012
+22157,E Vista Way & Monte Mar Rd,  33.219177,-117.226274
+22162,Oceanside Blvd & El Camino Real W,  33.201688,-117.333673
+22165,Stuart Mesa & Las Pulgas Rd (Scout Camp),  33.300161,-117.456070
+22166,Las Flores & Boy Scout Camp,  33.299999,-117.456105
+22168,Hwy 101 & Chesterfield Dr,  33.019541,-117.282446
+22169,Encinitas Bl & Vulcan Av,  33.048751,-117.293200
+22170,Encinitas Station Park and Ride,  33.047185,-117.292909
+22171,Hwy 101 & Chesterfield Dr,  33.018560,-117.282219
+22172,Plaza St & Highway 101,  32.991703,-117.272093
+22193,Carlsbad Poinsettia Station,  33.109718,-117.319024
+22198,Mission Rd & Aberdeen Av,  33.145906,-117.177638
+22199,Mission Rd & Aberdeen Av,  33.146227,-117.178445
+22201,Stuart Mesa & Yamanaka,  33.255260,-117.407895
+22203,Stuart Mesa & Yamanaka,  33.255137,-117.407961
+22205,El Camino Real & Town Center Dr,  33.063906,-117.262384
+22206,El Camino Real & Camino Colony Apts,  33.204915,-117.333729
+22210,Sycamore Av & Sycamore Hills Apts,  33.159124,-117.221703
+22211,Park Center Dr & Avenida Chelsea,  33.143179,-117.233668
+22220,Valley Pkwy & La Terraza Bl,  33.116059,-117.097622
+22349,Vista Rey & Vista Bella,  33.218362,-117.331296
+22350,Hwy 78 & Zoo Rd,  33.095782,-117.009065
+22351,Hwy 78 & Bandy Canyon Rd,  33.091416,-116.953967
+22352,Hwy 78 & Zoo Rd,  33.095967,-117.009048
+22353,Valley Pkwy & Juniper St,  33.123853,-117.079793
+22360,Melrose Dr & Hacienda Dr,  33.191785,-117.253865
+22361,Poinsettia Av & Business Park Dr,  33.134777,-117.228662
+22362,Melrose Dr & Hacienda Dr,  33.192818,-117.253353
+22363,Poinsettia Av & Business Park Dr,  33.134574,-117.228618
+22364,Sky Haven Ln & Sundown Ln,  33.180699,-117.280029
+22371,El Camino Real & Garden View Rd (499),  33.057641,-117.262482
+22372,El Camino Real & Tobria Ter,  33.116090,-117.270552
+22375,Rancho Santa Fe Rd & 7th St,  33.043442,-117.235284
+22376,Rancho Santa Fe Rd & Calle Acervo,  33.060702,-117.239538
+22378,Camino De Los Coches & Maverick Way,  33.075303,-117.231857
+22381,Camino De Los Coches & Stagecoach Park,  33.075042,-117.232674
+22382,Rancho Santa Fe Rd & Avenida La Posta,  33.060592,-117.239628
+22383,Rancho Santa Fe Rd & Ranch View Ter,  33.043788,-117.235394
+22384,Mission Av & Rock Springs Rd,  33.126626,-117.097037
+22385,Mission Av & Rock Springs Rd,  33.126582,-117.097821
+22386,Mission Rd & Falcon Pl (456),  33.144200,-117.153266
+22387,Las Posas Rd & Descanso Av,  33.145649,-117.190504
+22403,Vista Village Dr & Main St,  33.204013,-117.239197
+22404,Valley Pkwy & Avenida Del Diablo,  33.102848,-117.105576
+22407,9th Av & Windsor Pl,  33.111561,-117.105361
+22408,Hale Av & Casa Grande MHP,  33.109907,-117.108705
+22415,Loker Av West & 2788,  33.131993,-117.254890
+22416,Loker Av West & 2731,  33.134288,-117.257790
+22417,Loker Av West & Palomar Airport Rd,  33.131525,-117.259623
+22432,Thunder Dr & Jonathon St,  33.196197,-117.288264
+22442,Carlsbad Bl & Avenida Encinas,  33.092002,-117.313826
+22443,Carlsbad Bl & Island Way,  33.112170,-117.322454
+22446,Carlsbad Bl & Island Way,  33.111837,-117.322831
+22449,Carlsbad Bl & Avenida Encinas,  33.091826,-117.314365
+22450,Main Av & Ivy St,  33.384014,-117.251216
+22461,Rancho Santa Fe Rd & Olivenhain Rd,  33.067176,-117.245550
+22465,Lincoln Av & Goldenrod St,  33.146852,-117.059960
+22466,Lincoln Av & Daisy St,  33.145313,-117.062521
+22467,Lincoln Av & Rose St,  33.142998,-117.066387
+22468,Lincoln Av & Rose St,  33.143528,-117.065226
+22469,Lincoln Av & Begonia St,  33.145075,-117.062656
+22470,Lincoln Av & Goldenrod St,  33.147112,-117.059224
+22475,N Torrey Pines Rd & NU System Drwy,  32.910518,-117.244322
+22476,Jefferson St & Vista Way,  33.182945,-117.339798
+22477,El Camino Real & Calle Barcelona,  33.073704,-117.262544
+22479,Douglas Dr & Vandegrift Bl,  33.273407,-117.296831
+22480,Douglas Dr & Pilgrim Way,  33.271552,-117.301959
+22481,Douglas Dr & Via Cibola,  33.265579,-117.306893
+22482,Douglas Dr & Catalina Dr,  33.256447,-117.313760
+22484,Douglas Dr & Festival Dr,  33.253011,-117.318086
+22485,Douglas Dr & Point Degada,  33.249961,-117.322785
+22486,Douglas Dr & Westport Dr,  33.247147,-117.322751
+22487,El Camino Real & Calle Barcelona,  33.072752,-117.262754
+22488,El Camino Real & Leucadia Bl,  33.067083,-117.262512
+22489,Stuart Mesa & Ortiz,  33.256353,-117.410261
+22491,Morning View Dr & El Norte Pkwy,  33.142758,-117.096625
+22496,Mission Av & Parish Way,  33.230753,-117.316012
+22499,Town Center North & Walmart,  33.241762,-117.292888
+22503,Palomar Airport Rd & Paseo Del Norte,  33.121884,-117.318374
+22504,Palomar Airport Rd & Armada Dr,  33.121823,-117.313099
+22506,Palomar Airport Rd & Hidden Valley Rd,  33.123494,-117.305511
+22508,Palomar Airport Rd & Aviara Pkwy,  33.123884,-117.301077
+22509,Palomar Airport Rd & Palomar Oaks Way,  33.120083,-117.289975
+22511,Palomar Airport Rd & El Camino Real (East),  33.129818,-117.264758
+22515,Palomar Airport Rd & White Sands Dr,  33.131353,-117.227485
+22516,San Marcos Bl & Acacia Dr,  33.132148,-117.219504
+22517,San Marcos Bl & Viewpoint Dr,  33.132761,-117.212083
+22518,San Marcos Bl & Rancho Santa Fe Rd,  33.131886,-117.209907
+22519,San Marcos Bl & Knights Realm,  33.131221,-117.204194
+22520,San Marcos Bl & Discovery St,  33.131377,-117.200484
+22521,Las Posas Rd & San Marcos Bl,  33.134470,-117.194289
+22522,Las Posas Rd & Linda Vista Dr,  33.137808,-117.194115
+22524,Las Posas Rd & La Mirada Dr,  33.139777,-117.193394
+22525,Las Posas Rd & Linda Vista Dr,  33.136900,-117.194846
+22526,Las Posas Rd & San Marcos Bl,  33.134398,-117.194516
+22527,San Marcos Bl & Pacific St,  33.132405,-117.197480
+22528,San Marcos Bl & Discovery St,  33.131499,-117.201817
+22529,San Marcos Bl & Knights Realm,  33.131490,-117.204497
+22530,San Marcos Bl & Rancho Santa Fe Rd,  33.132241,-117.209999
+22531,San Marcos Bl & Viewpoint Dr,  33.133184,-117.212920
+22532,San Marcos Bl & Avenida Cielo,  33.132793,-117.217514
+22533,Palomar Airport Rd & Business Park Dr,  33.131320,-117.230187
+22534,Palomar Airport Rd & Melrose Dr,  33.130310,-117.247145
+22538,Palomar Airport Rd & Loker Av West,  33.130702,-117.260005
+22539,Faraday Av & El Camino Real,  33.136054,-117.274745
+22542,Palomar Airport Rd & Camino Vida Roble,  33.120173,-117.282373
+22543,Palomar Airport Rd & Palomar Oaks Way,  33.120808,-117.290866
+22544,Palomar Airport Rd & College Bl,  33.124304,-117.302128
+22545,Palomar Airport Rd & The Crossings Dr,  33.123461,-117.306785
+22548,Avenida Encinas & Palomar Airport Rd,  33.120638,-117.324847
+22549,Avenida Encinas & 6200 (Opp Sewage Treatment),  33.116490,-117.322256
+22550,Palomar Airport Rd & Melrose Dr,  33.129842,-117.244313
+22551,Palomar Airport Rd & Paseo Valindo,  33.128781,-117.237538
+22552,Palomar Airport Rd & Eagle Dr,  33.128969,-117.238572
+22556,Douglas Dr & Pala Rd,  33.237604,-117.322812
+22557,Mission Av & Frontier Dr,  33.219554,-117.339708
+22558,Mission Av & Frontier Dr,  33.219919,-117.338750
+22560,N Santa Fe Av & California Av,  33.207931,-117.244830
+22561,N Santa Fe Av & Melrose Dr (2465),  33.234709,-117.253186
+22562,S Mission Rd & Hellers Bend (South),  33.313185,-117.230255
+22563,Hwy 76 & Via Montellano,  33.275436,-117.234289
+22564,N Santa Fe Av & Mesa Dr,  33.241282,-117.275239
+22565,N Santa Fe Av & Melrose Dr,  33.235687,-117.260764
+22568,Mission Av & Francesca Dr,  33.231311,-117.302571
+22574,College Bl & Salk Av,  33.140656,-117.283681
+22575,Vulcan Av & G St,  33.042742,-117.292251
+22589,Auto Park Way & Alpine Way,  33.125190,-117.119055
+22591,Avenida Ricardo & Knob Hill Park,  33.137579,-117.120760
+22599,Valley Pkwy & Pennsylvania Av,  33.126693,-117.075022
+22600,El Camino Real & Faraday Av,  33.135797,-117.272762
+22601,Loker Av West & El Fuerte St (2796),  33.131501,-117.253132
+22608,Grand Av & Ash St,  33.126836,-117.066550
+22609,Broadway & Hwy 78,  33.132262,-117.086272
+22620,S Mission Rd & Air Park Rd,  33.352893,-117.246182
+22622,E Vista Way & Barsby St,  33.234727,-117.226105
+22623,S Mission Rd & Stage Coach Ln,  33.349844,-117.244330
+22624,S Mission Rd & Sterling Br,  33.352497,-117.245582
+22629,College Bl & Salk Av,  33.140096,-117.283917
+22631,Douglas Dr & N River Rd,  33.245953,-117.322586
+22632,Douglas Dr & Point Degada,  33.250127,-117.322644
+22633,Douglas Dr & Festival Dr,  33.253238,-117.317621
+22635,Douglas Dr & Catalina Dr,  33.257150,-117.312575
+22636,Douglas Dr & Via Cibola,  33.266214,-117.306619
+22637,Douglas Dr & Via Malaguena,  33.271357,-117.301983
+22638,Seagaze Dr & Ditmar St,  33.195803,-117.377397
+22641,Via Rancho Rd & Sabadell Dr,  33.220589,-117.314620
+22642,Via Rancho Rd & Ivey Ranch Rd,  33.220281,-117.309689
+22647,Old Grove Rd & Red Maple Way,  33.234926,-117.308435
+22648,Frazee Rd & Montrose Way,  33.240690,-117.300616
+22649,Frazee Rd & Mission Av,  33.237743,-117.296831
+22650,College Blvd & Silver Bluff Dr,  33.238933,-117.291608
+22651,Frazee Rd & Oleander Dr,  33.241148,-117.301407
+22652,Frazee Rd & Pala Rd,  33.238813,-117.307452
+22653,Old Grove Rd & Red Maple Way,  33.234458,-117.308714
+22658,Via Rancho Rd & Mission Gate Dr,  33.220522,-117.309948
+22663,Mission Av & Douglas Dr,  33.227985,-117.325286
+22664,Mission Av & Avenida Calafia,  33.233814,-117.300250
+22665,Mission Av & Frazee Rd,  33.237383,-117.296435
+22666,Mission Av & Frazee Rd,  33.237317,-117.296755
+22667,Mission Av & Avenida Calafia,  33.233736,-117.300521
+22668,Mission Av & Peyri Dr,  33.230403,-117.319361
+22689,Midway Dr & E Valley Pkwy,  33.136907,-117.051300
+22691,El Norte Pkwy & Kaile Ln,  33.150185,-117.038280
+22695,Washington Av & Midway Dr,  33.141323,-117.054267
+22696,Washington Av & Begonia St,  33.139109,-117.058004
+22697,Washington Av & Harding St,  33.134756,-117.065069
+22698,Washington Av & Rose St,  33.137521,-117.060439
+22699,Washington Av & Begonia St,  33.139119,-117.057739
+22703,El Norte Pkwy & Washington Av,  33.150272,-117.043485
+22704,Valley Pkwy & Wanek Rd,  33.145766,-117.036023
+22706,El Norte Pkwy & Conway Dr,  33.145760,-117.074371
+22707,El Norte Pkwy & Ash St,  33.143661,-117.078650
+22708,El Norte Pkwy & Ivy St,  33.140917,-117.086222
+22710,Ash St & Montros Pl,  33.137640,-117.071469
+22711,Midway Dr & Oak Hill Dr,  33.130662,-117.047424
+22712,Lincoln Av & Awana Glen,  33.140077,-117.071306
+22713,Fig St & Lincoln Av (Kenwood Townhomes),  33.134793,-117.078126
+22714,Escondido Bl & El Norte Pkwy,  33.138682,-117.092626
+22715,Escondido Bl & Decatur Way,  33.136139,-117.092585
+22716,Escondido Blvd & Lincoln Av,  33.131609,-117.090565
+22717,Valley Pkwy & Elm St,  33.127957,-117.072262
+22718,Valley Pkwy & Harding St,  33.132184,-117.063021
+22719,Valley Pkwy & Rose St,  33.133981,-117.059212
+22724,Main St & 11th St,  33.041450,-116.869776
+22725,Main St & 14th St,  33.038474,-116.875220
+22726,Day St & Main St,  33.035742,-116.881188
+22727,Main St & 11th St,  33.040831,-116.870443
+22740,Midway Dr & Oak Hill Dr,  33.131490,-117.047801
+22741,Valley Pkwy & Rose St,  33.133935,-117.059805
+22742,Valley Pkwy & Harding St,  33.131905,-117.064193
+22743,Valley Pkwy & Elm St,  33.127835,-117.072968
+22750,Vandegrift Bl & Bldg 14117 (19th St),  33.317659,-117.308884
+22751,Vandegrift Bl & Wire Mountain Rd,  33.216782,-117.388620
+22752,Valley Pkwy & Avenida Del Diablo,  33.102395,-117.105414
+22756,Main St & Montecito Rd,  33.037150,-116.877244
+22757,Main St & Day St,  33.034787,-116.881293
+22758,Auto Park Way & Mission Rd,  33.129470,-117.122962
+22759,Avenida Ricardo & Center Dr,  33.137022,-117.121476
+22763,Valley Pkwy & 9th Av,  33.109449,-117.103938
+22764,Main St & Montecito Rd,  33.037392,-116.877197
+22765,Frazee Rd & Pala Rd,  33.238766,-117.307152
+22768,Carlsbad Bl & Ponto Rd,  33.098936,-117.316791
+22769,Carlsbad Bl & Breakwater Rd,  33.106465,-117.320131
+22771,Carlsbad Blvd & Beach Tower 32,  33.141388,-117.340708
+22772,Mesa Dr & Mission Av,  33.208170,-117.358425
+22773,Barnes St & Mission Av,  33.201342,-117.366281
+22774,Barnes St & Maxson St,  33.199920,-117.365873
+22775,Barnes St & Maxson St,  33.200046,-117.365723
+22776,Barnes St & Mission Av,  33.201719,-117.366384
+22777,Mission Av & 1863,  33.203451,-117.365414
+22779,S Mission Rd & Winterhaven Rd,  33.346162,-117.242078
+22780,S Mission Rd & Almond St,  33.366458,-117.249855
+22781,Vandegrift Bl & Papagallo Rd,  33.278368,-117.297846
+22782,Vandegrift Bl & Basilone Rd,  33.305904,-117.342511
+22783,Pala Casino,  33.363909,-117.085958
+22784,Pala Mission Rd & Portillo Rd,  33.364849,-117.084286
+22785,Pala Mission Rd & Mission St,  33.365163,-117.074917
+22786,Pala Mission Rd & Temecula Rd,  33.365073,-117.072192
+22787,Main St & 14th St,  33.038898,-116.873925
+22788,Hwy 78 & Bandy Canyon Rd,  33.091706,-116.954069
+22790,Old Grove Rd & Frazee Rd,  33.236877,-117.309002
+22791,Old Grove Rd & Frazee Rd,  33.236542,-117.309095
+22792,Mission Av & Valley Heights Dr,  33.232307,-117.300988
+22793,S Mission Rd & Fairbrook Farms (4949),  33.302380,-117.226493
+22794,Valley Pkwy & Target,  33.113994,-117.100979
+22795,Valley Pkwy & Home Depot Center,  33.108920,-117.104560
+22796,Marron Rd & El Camino Real (2375),  33.177246,-117.328369
+22805,Olivenhain Rd & Camino Alvaro,  33.068474,-117.246815
+22806,Olivenhain Rd & Amargosa Dr,  33.067198,-117.255818
+22807,Olivenhain Rd & El Camino Real,  33.067666,-117.261065
+22815,Harding St & Carlsbad Village Dr,  33.162461,-117.344931
+22821,Highland Dr & Tamarack Av,  33.155674,-117.330918
+22822,Highland Dr & Tamarack Av,  33.155813,-117.331167
+22832,Avenida Encinas & 6200,  33.117052,-117.322299
+22833,Leucadia Bl & Sidonia St,  33.065148,-117.280077
+22834,Leucadia Bl & Sidonia St,  33.065280,-117.281430
+22835,Leucadia Bl & Town Center Pl,  33.067714,-117.264256
+22836,Leucadia Bl & Town Center Pl,  33.068174,-117.265344
+22837,Olivenhain Rd & El Camino Real,  33.067398,-117.261548
+22838,Olivenhain Rd & Amargosa Dr,  33.066954,-117.255525
+22839,Santa Fe Dr & Mackinnon Av,  33.036198,-117.275802
+22840,Santa Fe Dr & Balour Dr,  33.036180,-117.268672
+22842,Santa Fe Dr & Monterey Vista Way,  33.036342,-117.267490
+22843,Santa Fe Dr & Bonita Dr,  33.036344,-117.274094
+22844,Santa Fe Dr & Gardena Rd,  33.036361,-117.279664
+22875,Emerald Dr & West Dr,  33.191068,-117.279448
+22876,Emerald Dr & West Dr,  33.190904,-117.279629
+22877,Emerald Dr & Promanade Pl,  33.194471,-117.279410
+22895,San Marcos Bl & Via Vera Cruz,  33.134766,-117.188566
+22896,San Marcos Bl & Bent Av (844),  33.136158,-117.183335
+22905,Carlsbad Village Dr & Highland Dr (E),  33.166500,-117.337297
+22906,Emerald Dr & Lewis St,  33.195836,-117.279586
+22911,San Marcos Bl & Pacific St,  33.132387,-117.196579
+22914,Las Posas Rd & Grand Av,  33.143343,-117.191219
+22915,Las Posas Rd & Grand Av,  33.142559,-117.192000
+22916,San Marcos Bl & Avenida De Las Rosas,  33.132187,-117.221119
+22917,Palomar Airport Rd & Armada Dr,  33.122129,-117.311744
+22920,Auto Park Wy & Ross Dr,  33.126501,-117.121538
+22921,Auto Park Wy & Ross Dr,  33.126712,-117.121481
+22922,Rancho Santa Fe Rd & O.M.W.D.,  33.067261,-117.245288
+22923,Craven Rd & Rush Dr,  33.127260,-117.167441
+22925,Monroe St & Carlsbad HS Stadium,  33.165665,-117.329145
+22930,Douglas Dr & Teal Way,  33.273007,-117.298309
+22937,Frazee Rd & Hwy 76,  33.239698,-117.298907
+22940,Mission Av & Rancho Del Oro Dr,  33.229988,-117.319843
+22941,Oceanside Blvd & Melrose Dr,  33.219965,-117.260478
+22942,Poinsettia Av & Activity Dr,  33.143356,-117.217012
+22943,Melrose Dr & Cannon Rd,  33.172207,-117.252204
+22947,Oceanside Blvd & Corporate Centre Dr,  33.204039,-117.306104
+22950,San Marcos Bl & Via Vera Cruz,  33.134810,-117.187250
+22953,Grand Av & Harding St,  33.129727,-117.059822
+22954,Midway Dr & E Valley Pkwy,  33.136569,-117.051316
+22955,Hwy 76 & Lazy H Dr,  33.293426,-116.969381
+24000,Avenida De La Plata & Avenida Del Oro,  33.208992,-117.293672
+24001,Avenida Del Oro & Avenida De La Plata,  33.208342,-117.293742
+24002,Avenida De La Plata & Plaza Real (South),  33.210492,-117.291260
+24004,Avenida De La Plata & College Blvd,  33.213045,-117.288772
+24006,College Blvd & Old Grove Rd,  33.217645,-117.287578
+24007,College Blvd & Old Grove Rd,  33.216634,-117.287284
+24008,College Blvd & Avenida Empressa,  33.222425,-117.290567
+24009,College Blvd & Avenida Empressa,  33.221621,-117.290390
+24010,College Blvd & Mesa Dr,  33.225554,-117.292531
+24011,College Blvd & Mesa Dr,  33.224753,-117.292357
+24012,College Blvd & Frazee Rd,  33.234748,-117.292492
+24013,College Blvd & Frazee Rd,  33.236358,-117.293049
+24014,Oceanside Blvd & Avenida Del Oro,  33.206246,-117.288844
+24015,College Blvd & Oceanside Blvd,  33.206203,-117.285115
+24025,El Norte Pkwy & Ash St,  33.144272,-117.076867
+24026,El Norte Pkwy & Conway Dr,  33.146322,-117.072649
+24027,El Norte Pkwy & Rose St,  33.147460,-117.070333
+24028,El Norte Pkwy & Donald Way,  33.149606,-117.065370
+24043,Marron Rd & El Camino Real (2375),  33.176725,-117.329447
+24044,Carlsbad Village Dr & Tamarack Av,  33.167402,-117.299764
+24045,Carlsbad Village Dr & Glasgow Dr,  33.167908,-117.298028
+24046,College Bl & Carlsbad Village Dr,  33.168717,-117.295062
+24047,College Bl & Tamarack Av (South),  33.171120,-117.292987
+24048,College Bl & Tamarack Av (North),  33.174322,-117.291863
+24049,Lake Bl & College Bl,  33.178743,-117.293021
+24050,College Blvd & Marron Rd,  33.177895,-117.293994
+24051,College Bl & Tamarack Av (North),  33.173311,-117.292450
+24052,College Bl & Tamarack Av (South),  33.170290,-117.293988
+24053,Carlsbad Village Dr & College Bl,  33.168225,-117.296356
+24054,Carlsbad Village Dr & Harwich Dr,  33.167808,-117.299261
+24074,Highland Dr & Magnolia St,  33.157211,-117.331888
+24075,Highland Dr & Magnolia St,  33.157177,-117.332028
+24083,Craven Dr & Twin Oaks Valley Rd,  33.127229,-117.164466
+24084,Las Posas Rd & Los Vallecitos Bl,  33.146162,-117.189849
+24086,Citrus Av & Valley Pkwy,  33.140317,-117.043945
+24087,Carlsbad Bl & Breakwater Rd,  33.104952,-117.319670
+24088,Rancho Santa Fe Rd & Camino Junipero,  33.087897,-117.225504
+24089,Rancho Santa Fe Rd & Camino Junipero,  33.087094,-117.226341
+24127,Camino Vida Roble & Palomar Airport Rd (East),  33.119728,-117.281652
+24128,Camino Vida Roble & Corte Del Nogal,  33.118356,-117.279909
+24129,Camino Vida Roble & Las Palmas Dr,  33.117866,-117.276832
+24130,Camino Vida Roble & Corte Del Abeto,  33.118270,-117.276337
+24131,El Camino Real & ViaSat West Campus,  33.126995,-117.266189
+24135,Loker Av West & Palomar Airport Rd,  33.131297,-117.259392
+24136,Loker Av West & 2748,  33.134132,-117.257448
+24137,Loker Av West & 2765,  33.132734,-117.255626
+24138,Loker Av West & El Fuerte St (2793),  33.131353,-117.253258
+24144,Rancho Santa Fe Rd & Camino De Los Coches,  33.075847,-117.239426
+24145,Rancho Santa Fe Rd & San Elijo Rd,  33.100607,-117.221783
+24146,Rancho Santa Fe Rd & Melrose Dr,  33.108482,-117.225181
+24147,Rancho Santa Fe Rd & Meadowlark Ranch Rd,  33.109318,-117.225569
+24148,Rancho Santa Fe Rd & Camino De Los Coches,  33.075267,-117.239959
+24150,Scholars Dr South & Revelle College Dr,  32.872031,-117.241766
+24151,Scholars Dr South & Revelle College Dr,  32.871734,-117.242210
+24153,San Rodolfo Dr & Stevens Av,  32.993949,-117.260273
+24156,Douglas Dr & Teal Way,  33.272878,-117.299554
+24157,El Camino Real & Poinsettia Ln,  33.110028,-117.269944
+24158,El Camino Real & College Bl,  33.143530,-117.283698
+24159,El Camino Real & Social Security Office,  33.188559,-117.328103
+24161,Mission Rd & Mission Hills HS,  33.142669,-117.141930
+24162,Hwy 101 & Dahlia Dr,  32.987918,-117.270621
+24165,Sycamore Av & Grand Av,  33.155138,-117.224656
+24166,Business Park & Scott St,  33.139898,-117.230228
+24167,Poinsettia Av & Corporate View,  33.135140,-117.225061
+24173,Melrose Dr & Park Center Dr,  33.140861,-117.244055
+24178,Robelini Dr & El Valle Opulento,  33.173144,-117.209994
+24188,Foothill Dr & E Vista Way,  33.217253,-117.224919
+24189,Oak Dr & Foothill Dr,  33.216761,-117.221769
+24190,Oak Dr & Monte Mar Rd,  33.219653,-117.221776
+24191,Oak Dr & Palomar Pl,  33.222797,-117.221771
+24193,Bobier Dr & Marabou Ln,  33.221348,-117.253283
+24194,Bobier Dr & Marabou Ln,  33.221114,-117.253281
+24195,Ivey Ranch Rd & Justina Dr,  33.217220,-117.310555
+24196,Rancho Del Oro Dr & Mesa Dr,  33.214166,-117.317768
+24198,Rancho Del Oro Dr & El Corazon Dr,  33.209221,-117.312831
+24199,Rancho Del Oro Dr & Seagate Way (North),  33.207433,-117.311556
+24201,Corporate Center & Ocean Ranch Blvd,  33.212251,-117.303325
+24202,Corporate Centre Dr & Ocean Ranch Blvd,  33.211728,-117.302779
+24204,Corporate Centre & Oceanic Dr,  33.206060,-117.305136
+24206,Marron Rd & Quarry Creek Center,  33.177866,-117.296982
+24207,Tamarack Av & Polly Ln,  33.154571,-117.331354
+24211,El Camino Real Station,  33.200011,-117.332188
+24213,Rancho Del Oro Station,  33.202362,-117.311316
+24246,Old Grove Rd & Ocean Ranch Bl,  33.218627,-117.296537
+24247,Avenida Del Oro & Old Grove Rd,  33.216235,-117.294072
+24248,Avenida Del Oro & US Post Office,  33.211612,-117.295047
+24276,Sycamore Av & University Dr,  33.170449,-117.212195
+24279,Via Rancho Rd & Rancho Del Oro,  33.219718,-117.318129
+24280,Mission Rd & Barham Ln,  33.131378,-117.124340
+24327,Rancho Del Oro Rd & Via Rancho Rd,  33.220161,-117.319168
+24329,Avenida Del Oro & Windansea St,  33.214110,-117.294054
+24330,Lake Bl & Esplanade St,  33.179768,-117.290772
+24334,Mission Av & Quince St,  33.127833,-117.094016
+24335,Rancho Santa Fe Rd & San Elijo Rd,  33.099415,-117.222113
+24336,El Norte Pkwy & E Valley Pkwy,  33.149583,-117.034484
+24337,Arcadia Av & Oak Dr,  33.224914,-117.222428
+24338,Las Posas Rd & La Mirada Dr,  33.140440,-117.192739
+24339,Valley Pkwy & Beven Rd,  33.155080,-117.031834
+24340,Avenida Encinas & 6030,  33.119856,-117.324176
+24341,Vista Way & Italia Way,  33.181205,-117.312916
+24346,Oceanside Blvd & Melrose Dr,  33.220592,-117.259967
+24349,Rancho Santa Fe Rd & Avenida Soledad,  33.096322,-117.222960
+24350,Rancho Santa Fe Rd & Avenida Soledad,  33.095937,-117.223806
+24351,Rancho Santa Fe Rd & Capalina Rd,  33.151616,-117.197388
+24352,S Santa Fe Av & Buena Creek Rd,  33.173172,-117.207867
+24353,Corporate Centre Dr & Avenida De La Plata,  33.209016,-117.301872
+24361,Oceanside Bl & Ord Way,  33.210765,-117.277619
+24362,Auto Park Way & Mission Rd,  33.130225,-117.123164
+24363,Mission Rd & Bennett Av,  33.136046,-117.129963
+24366,Longhorn Dr & Crystal Ridge Way,  33.163721,-117.249870
+24367,2nd Av & Centre City Pkwy,  33.118384,-117.085372
+24369,El Camino Real & Camino Vida Roble,  33.120412,-117.266862
+24373,Mesa Dr & Rancho Del Oro,  33.214706,-117.317065
+24375,Mesa Dr & St Cloud Way,  33.218658,-117.299873
+24382,Barham Dr & La Moree Rd,  33.134778,-117.154594
+24383,Valley View Casino,  33.218748,-116.972844
+24386,Thibodo St & Thibodo Ct,  33.167874,-117.218647
+24801,Mission Rd & Brandon Rd,  33.384479,-117.243689
+24802,Alvarado St & Brandon Rd,  33.382092,-117.245254
+24803,Alvarado St & 388,  33.382136,-117.248197
+24804,Mission & Alvarado,  33.381773,-117.253687
+24837,S Mission Rd & Fallbrook St,  33.375860,-117.253814
+24840,Valley Center Rd & Mirar De Valle Rd,  33.210940,-117.033480
+24842,Valley Center Rd & Woods Valley Rd,  33.206240,-117.033514
+24843,Grand Av & 1501 Grand Av,  33.129693,-117.059648
+24844,Rancho Del Oro Dr & Oceanside Blvd,  33.203714,-117.310938
+24845,S Main Av & Ammunition Rd,  33.371600,-117.251211
+24846,Buena Creek Station,  33.173356,-117.207406
+24847,Primrose Av & Palmyra Dr,  33.170520,-117.207733
+24848,Mission Rd & Las Posas Rd,  33.149227,-117.190013
+24849,Mission Rd & Val Preda Rd,  33.142003,-117.157008
+24850,Lobelia Dr & Sycamore Av,  33.169448,-117.212267
+24851,Ocean Ranch Blvd & Rancho Del Oro Dr,  33.209801,-117.312311
+24853,Rancho Santa Fe Rd & La Costa Av,  33.081921,-117.236265
+24854,Rancho Santa Fe Rd & La Costa Av,  33.081143,-117.237522
+24855,Basilone Rd & 4th St,  33.351973,-117.408421
+24856,Las Pulgas & C St,  33.342815,-117.409613
+24857,Las Pulgas Rd & A St,  33.345392,-117.407948
+24858,El Camino Real & ViaSat East Campus,  33.125290,-117.266067
+24859,El Camino Real & Town Garden Rd,  33.122767,-117.266872
+24861,Mission Rd & Hill Av,  33.384781,-117.253286
+24862,San Pasqual Valley Rd & 2nd Av,  33.126131,-117.065128
+24863,San Pasqual Valley Rd & Grand Av,  33.126951,-117.065333
+24864,Town Center North & Vons,  33.240646,-117.292170
+24865,Ivy St & Vine St,  33.383771,-117.250672
+24866,Main Av & Fallbrook St,  33.375822,-117.251362
+24867,S Main Av & Elder St,  33.379742,-117.251318
+24868,S Mission Rd & Beech St,  33.378559,-117.253742
+24870,Faraday Av & Rutherford Rd,  33.134268,-117.283307
+24871,Faraday Av & 2251,  33.134160,-117.278181
+24872,Faraday Av & 2244,  33.134170,-117.278875
+24873,Faraday Av & Rutherford Rd,  33.134466,-117.282645
+24876,Emerald Dr & Wildflower Ct,  33.199281,-117.279430
+24877,Emerald Dr & Chasin St,  33.199530,-117.279583
+24878,Seagate Way & VA Clinic,  33.207163,-117.310786
+24881,Emerald Dr & Silverfox Ln,  33.203649,-117.279605
+24882,Watson Way & Thibodo Rd,  33.168308,-117.221681
+24883,Watson Way & Thibodo Rd,  33.168203,-117.221851
+24884,Thibodo Rd & Thibodo Ct,  33.167540,-117.218037
+24885,Thibodo Rd & Sycamore Av,  33.166538,-117.217051
+24886,Thibodo Rd & Sycamore Av,  33.166662,-117.216915
+24887,Del Dios Hwy & Bing Crosby Blvd,  33.037745,-117.163522
+24888,Del Dios Hwy & Bing Crosby Blvd,  33.038056,-117.162147
+24889,Rancho Del Oro Dr & Ocean Ranch Blvd,  33.209892,-117.313056
+24890,Rancho Del Oro Dr & Hwy 76,  33.228729,-117.318127
+24891,Los Arbolitos Blvd & Coconut Way,  33.233148,-117.337508
+24893,Pala Rd & Fredricks Av,  33.236153,-117.335342
+24895,Pala Rd & Christina Ct,  33.237633,-117.329843
+24896,Pala Rd & Rio Vista Dr,  33.237963,-117.324709
+24897,Pala Rd & Douglas Dr,  33.238151,-117.323188
+24898,Pala Rd & Rio Vista Dr,  33.238162,-117.325810
+24899,Pala Rd & School Entrance,  33.238032,-117.329414
+24901,Pala Rd & Oakleaf Dr,  33.236356,-117.334831
+24904,Los Arbolitos Blvd & Peach Tree Way,  33.233055,-117.337744
+24915,Citracado Pkwy & Auto Park Wy,  33.123515,-117.118517
+24916,Citracado Pkwy & Stone Brewing,  33.115964,-117.119455
+24917,Citracado Pkwy & Makena Medical Center,  33.112610,-117.120314
+24918,Andreasen Dr & 1040,  33.110941,-117.118387
+24919,Andreasen Dr & Enterprise St,  33.111701,-117.116200
+24920,Harmony Grove Rd & Symphony Pl,  33.108986,-117.110922
+24922,Andreasen Dr & 1031,  33.111292,-117.117878
+24923,Citracado Pkwy & Makena Medical Center,  33.113410,-117.119796
+24924,Citracado Pkwy & Lupulin Ln,  33.115497,-117.119166
+24926,El Norte Pkwy & Washington Av,  33.150619,-117.044868
+24927,Red Blush Rd,  33.149968,-117.052080
+24928,El Norte Pkwy & Lincoln Av,  33.151561,-117.054798
+24929,El Norte Pkwy & Estrada Glen,  33.152011,-117.057665
+24930,El Norte Pkwy & Midway Dr,  33.150958,-117.062581
+24931,El Norte Pkwy & Fig St,  33.142481,-117.081004
+24932,Broadway & Park Av,  33.128006,-117.084408
+24933,Washington Av & Escondido Bl,  33.126051,-117.086912
+24934,Washington Av & Quince St,  33.124778,-117.090681
+24935,Washington Av & 245,  33.125815,-117.087318
+24936,El Norte Pkwy & Broadway,  33.139985,-117.088366
+24937,El Norte Pkwy & Ivy St,  33.140844,-117.085612
+24938,El Norte Pkwy & Fig St,  33.142306,-117.080889
+24939,El Norte Pkwy & Midway Dr,  33.151205,-117.061348
+24940,El Norte Pkwy & La Honda Dr,  33.151695,-117.056884
+24941,El Norte Pkwy & Lincoln Av,  33.150952,-117.054233
+24942,Citrus Av,  33.149466,-117.050936
+24943,Mission Av & Old Grove Market Way,  33.229955,-117.311264
+24944,Encinitas Station Stall 3,  33.045531,-117.292692
+24945,Encinitas Station Stall 2,  33.045350,-117.292670
+24948,Encinitas Station Stall 5,  33.045384,-117.292830
+24949,Encinitas Station Stall 6,  33.045560,-117.292855
+24953,Carlsbad Village Station Stall 6,  33.161198,-117.351371
+24954,Carlsbad Village Station Stall 4,  33.160922,-117.351168
+24955,Carlsbad Village Station Stall 5,  33.161072,-117.351288
+24958,Palomar Medical Center,  33.120546,-117.120858
+24959,N Torrey Pines Rd & John J Hopkins Dr,  32.897798,-117.242093
+24960,Midway & Washington Av,  33.141812,-117.054007
+24963,Los Arbolitos & Orchard Way,  33.231174,-117.337542
+24964,Los Arbolitos & Orchard Way,  33.231283,-117.337775
+24965,Rancho Del Oro Dr & Oceanside Blvd,  33.204320,-117.311419
+24967,Valley Pkwy & Claudan Rd,  33.095627,-117.112071
+24968,Valley Pkwy & Claudan Rd,  33.095308,-117.111926
+24969,Midway Dr & E. Grand Ave,  33.135030,-117.050107
+24970,E. Grand Av & Rose St,  33.130740,-117.057587
+24971,Hwy 76 & Pala Transfer Station,  33.363844,-117.059830
+24974,Bear Valley Pkwy & Oak Hill Dr,  33.132255,-117.045067
+24978,Vista Way & Italia Way,  33.180613,-117.313576
+24979,Casino Pauma,  33.329271,-116.991986
+24981,Avenida De La Plata & Across from Genentech,  33.208411,-117.296719
+24982,Del Dios Hwy & Toyon Canyon Rd,  33.061003,-117.124631
+24983,Del Dios Hwy & Mt Israel Rd,  33.063250,-117.124086
+24986,Citracado Pkwy & Scenic Trail Way,  33.096657,-117.102904
+24987,Cannon Rd & El Camino Real,  33.150345,-117.296894
+24988,College Bl & Cannon Rd,  33.155699,-117.287500
+24989,El Camino Real & Palomar Airport Rd,  33.130174,-117.266918
+24991,Cannon Rd & College Bl,  33.154678,-117.287806
+24992,Naval Hospital Camp Pendleton,  33.220387,-117.389374
+24993,Arcadia Av & E Vista Way,  33.224831,-117.225273
+24995,College Blvd & Silver Bluff Dr,  33.239720,-117.290342
+24996,Mission Rd & Marcos St,  33.144734,-117.170597
+25002,San Luis Rey Transit Center  Stall 2,  33.254522,-117.298539
+25003,San Luis Rey Transit Center  Stall 3,  33.254510,-117.298316
+25004,San Luis Rey Transit Center  Stall 4,  33.254495,-117.298094
+25005,San Luis Rey Transit Center  Stall 5,  33.254478,-117.297881
+25008,San Luis Rey Transit Center  Stall 8,  33.254333,-117.298049
+25009,San Luis Rey Transit Center  Stall 9,  33.254348,-117.298272
+25010,San Luis Rey Transit Center  Stall 10,  33.254363,-117.298481
+25013,El Camino  Real & Lisa St,  33.151434,-117.303655
+25014,Andreasen Dr & Enterprise St,  33.111957,-117.116227
+25016,Hwy 76 & Magee Rd,  33.363774,-117.057136
+25038,Rancho Santa Fe Rd & Via Mercato,  33.083845,-117.230690
+25040,Rancho Santa Fe Rd & Paseo Lupino,  33.084017,-117.232013
+25042,Mission Av & Roymar Rd,  33.215452,-117.345107
+25043,Vandegrift Bl & Granite Pl,  33.269758,-117.296463
+25044,Carlsbad Blvd & Ponto Rd,  33.098720,-117.317103
+25046,Melrose Dr & Breeze Hill Rd,  33.187079,-117.253665
+25047,Poinsettia Av & W Linda Vista Dr,  33.144499,-117.216064
+25048,El Camino Real FS Cannon,  33.149894,-117.297966
+25049,El Camino Real & Cassia Rd,  33.114615,-117.271131
+25050,College Blvd & Faraday Av,  33.135561,-117.285602
+25051,Rancho Del Oro Dr & Seagate Way (South),  33.205844,-117.311398
+25053,Avenida De La Plata & Avenida De Oro,  33.208634,-117.295056
+25055,S Santa Fe Av & Broadway,  33.200655,-117.242669
+25056,Santa Fe Ave & Broadway,  33.200402,-117.242762
+25057,Rancho Santa Fe & 9th St,  33.144944,-117.201126
+25059,Broadway & Mission Av,  33.129977,-117.085316
+25060,N Santa Fe Ave & Adobe Estates Dr,  33.228659,-117.247849
+25063,Rush Dr & Craven Rd,  33.127730,-117.167780
+25064,Discovery St & Rush Dr,  33.131640,-117.166220
+25066,San Marcos Blvd & Tiger Way,  33.140720,-117.166350
+25067,San Marcos Blvd & Knoll Rd,  33.139170,-117.172270
+25070,San Marcos Blvd & Bent Ave,  33.136480,-117.181100
+25071,San Marcos Blvd & Knoll Rd,  33.138890,-117.172130
+25072,San Marcos Blvd & Tiger Way,  33.140420,-117.166380
+25074,Cannon Rd & Wind Trail Wy,  33.151584,-117.296118
+25075,Flanders Dr & Mesa Rim Rd,  32.903748,-117.176171
+25076,Sequence Dr & Flanders Dr,  32.908110,-117.177942
+25077,Sequence Dr & Genetic Center Dr,  32.908070,-117.181584
+25078,Sequence Dr & Mira Mesa Blvd,  32.905754,-117.185492
+25080,Vista Sorrento Pkwy & Directors Pl,  32.893571,-117.211358
+25081,Vista Sorrento Pkwy & 10385,  32.895868,-117.215025
+25082,Morehouse Dr & 5525,  32.894550,-117.198146
+25083,Pacific Mesa Blvd & Pacific Mesa Ct,  32.902282,-117.191383
+25084,Morehouse Dr & 5775,  32.895890,-117.197042
+25086,Regents Rd & Health Sciences Dr,  32.878870,-117.218513
+25087,Encinitas Bl & Vulcan Av,  33.048805,-117.292263
+25088,Vandergrift Blvd & Santa Margarita Rd,  33.321916,-117.324436
+25089,Vandergrift Blvd & De Luz Rd,  33.320201,-117.310626
+25090,Vandergrift Blvd & De Luz Rd,  33.320656,-117.310819
+25091,Sycamore Ave & Shadowridge Dr,  33.164745,-117.216451
+25092,Valley Pkwy & N Ash St,  33.130360,-117.067505
+25093,Citracado Parkway and Health Center Driveway South,  33.119197,-117.120171
+25094,Valley Blvd & Grand Ave,  33.124600,-117.076563
+26000,San Pasqual Valley Rd & Oak Hill Dr,  33.124392,-117.063000
+26001,San Pasqual Valley Rd & Oak Hill Dr,  33.123545,-117.062680
+26002,Vandegrift Blvd & Comfort Way,  33.223221,-117.391459
+26003,Vandegrift Blvd & Comfort Way,  33.222786,-117.391802
+27000,Oceanside Transit Center,  33.190875,-117.378350
+27001,Coast Hwy Station,  33.181788,-117.368851
+27002,Crouch St Station,  33.194612,-117.353514
+27003,El Camino Real Station,  33.199656,-117.332478
+27004,Rancho Del Oro Station,  33.201460,-117.311470
+27005,College Blvd Station,  33.204546,-117.288143
+27006,Melrose Dr Station,  33.219553,-117.259087
+27007,Vista Transit Center,  33.202950,-117.244950
+27008,Civic Center - Vista Station,  33.190535,-117.237476
+27009,Buena Creek Station,  33.173500,-117.207393
+27010,Palomar College Station,  33.146953,-117.185314
+27011,San Marcos Civic Center Station,  33.142267,-117.161995
+27012,Cal State San Marcos Station,  33.134771,-117.153585
+27013,Nordahl Rd Station,  33.131112,-117.124154
+27014,Escondido Transit Center,  33.118419,-117.092160
+27025,WEST RING RD & WEST RING RD,  33.220637,-117.389979
+27026,Civic Center - Vista Station,  33.190220,-117.236970
+27027,Vista Transit Center,  33.203170,-117.244950
+27028,College Blvd Station,  33.204550,-117.288250
+27029,Rancho Del Oro Station,  33.201580,-117.311300
+27030,El Camino Real Station,  33.199720,-117.332300
+27031,Los Arbolitos Bl & Fireside St,  33.228400,-117.336790
+27032,Los Arbolitos Bl & El Camino Real,  33.228030,-117.332090
+27033,Rancho del Oro Dr & Vista del Oro Dr,  33.196910,-117.309450
+27034,Rancho Del Oro Dr & Vizcaya Way,  33.192300,-117.309220
+27035,Rancho Del Oro Dr & Cameo Dr,  33.193160,-117.309330
+27036,Rancho del Oro Dr & Vista Del Oro,  33.197460,-117.308740
+27037,Los Arbolitos Bl & El Camino Real,  33.228210,-117.332390
+27038,Los Arbolitos Bl & Fireside St,  33.228890,-117.337090
+27039,Mesa Dr & Ivey Ranch Rd,  33.213930,-117.309970
+27040,Mesa Dr & Pacifica Way,  33.216640,-117.302690
+27041,Old Grove Rd & Godwit Dr,  33.223880,-117.301320
+27042,Old Grove Rd & Mission Ave,  33.228340,-117.305770
+27043,Old Grove Rd & Avenida Soledad,  33.230840,-117.306750
+27044,Old Grove Rd & Avenida Soledad,  33.230750,-117.307050
+27045,Old Grove Rd & Mission Ave,  33.228630,-117.306220
+27046,Old Grove Rd & Spoon Bill Wy,  33.223160,-117.301320
+27047,Mesa Dr & Old Grove Rd,  33.219620,-117.299200
+27048,Mesa Dr & Pacifica Way,  33.216860,-117.302760
+27049,Mesa Dr & Ivey Ranch Rd,  33.213790,-117.311120
+27050,Plaza Dr & Tri City Crossroads,  33.182310,-117.292550
+27051,Thunder Dr & Serenidad Pl,  33.182930,-117.287980
+27052,College Blvd & Lake Blvd,  33.179000,-117.294020
+28000,Oceanside Transit Center Platform 3,  33.190552,-117.378206
+28001,Carlsbad Village Station,  33.161787,-117.351867
+28002,Carlsbad Poinsettia Station,  33.109794,-117.319613
+28003,Encinitas Station,  33.047927,-117.293357
+28004,Solana Beach Station,  32.994933,-117.272046
+28005,Sorrento Valley Station,  32.903369,-117.225677
+28006,San Diego - Old Town,  32.755277,-117.199754
+28007,San Diego - Santa Fe Depot,  32.718870,-117.170070
+28100,Oceanside Transit Center,  33.188560,-117.376487
+28101,Carlsbad Village Station,  33.160539,-117.350616
+28102,Carlsbad Poinsettia Station,  33.107188,-117.318487
+28103,Encinitas Station,  33.046285,-117.293125
+28104,Solana Beach Station,  32.992200,-117.271459
+28105,Sorrento Valley Station,  32.902257,-117.224498
+28106,San Diego - Old Town,  32.753434,-117.199258
+28107,San Diego - Santa Fe Depot,  32.716895,-117.170069
+88962,VA Hospital,  32.874894,-117.233477
+88985,Morehouse Dr & Scranton Rd,  32.893739,-117.199976
+88988,VA Hospital,  32.874753,-117.233834
+89006,Villa La Jolla Dr & Villa Norte,  32.870108,-117.233962
+89007,Villa La Jolla Dr & Holiday Ct,  32.870182,-117.233738
+89012,John Jay Hopkins Dr & General Atomics Ct,  32.894482,-117.239430
+91112,Sorrento Valley COASTER Station,  32.902729,-117.224881
+92020,Coast Hwy & Civic Center Dr,  33.197516,-117.380767
+92021,Plaza Camino Real,  33.178328,-117.336914
+92022,Plaza Camino Real Transit Center Stall 2,  33.178329,-117.336735
+92023,Plaza Camino Real Transit Center Stall 3,  33.178331,-117.336539
+92024,Plaza Camino Real Transit Center Stall 4,  33.178327,-117.336372
+92025,Plaza Camino Real Transit Center Stall 5,  33.178334,-117.336185
+92026,Plaza Camino Real Transit Center Stall 6,  33.178264,-117.336283
+92027,Plaza Camino Real Transit Center Stall 7,  33.178279,-117.336482
+92029,Vista Transit Center Stall 4,  33.202954,-117.245093
+92030,Vista Transit Center Stall 5,  33.203141,-117.245194
+92031,Vista Transit Center Stall 6,  33.203246,-117.245283
+92032,Vista Transit Center Stall 7,  33.203375,-117.245383
+92033,Vista Transit Center Stall 8,  33.203523,-117.245451
+92036,Vista Transit Center Stall 10,  33.203828,-117.245593
+92037,Palomar College Transit Center Stall 1,  33.147694,-117.185682
+92038,Palomar College Transit Center Stall 2,  33.147747,-117.185890
+92039,Palomar College Transit Center Stall 3,  33.147802,-117.186092
+92040,Palomar College Transit Center Stall 4,  33.147913,-117.185931
+92041,Palomar College Transit Center Stall 5,  33.147850,-117.185732
+92044,Escondido Transit Center Stall 4,  33.118741,-117.090442
+92045,Escondido Transit Center Stall 5,  33.118669,-117.090621
+92046,Escondido Transit Center Stall 6,  33.118711,-117.090915
+92047,Escondido Transit Center Stall 7,  33.118811,-117.091043
+92048,Escondido Transit Center Stall 8,  33.118973,-117.091084
+92049,Escondido Transit Center Stall 9,  33.119178,-117.090946
+92050,Escondido Transit Center Stall 10,  33.119240,-117.090652
+92051,Escondido Transit Center Stall 11,  33.119159,-117.090400
+92052,Escondido Transit Center Stall 12,  33.119093,-117.090092
+92053,Escondido Transit Center Stall 13,  33.119201,-117.089852
+92054,Escondido Transit Center Stall 14,  33.119353,-117.089765
+92055,Escondido Transit Center Stall 15,  33.119516,-117.089662
+92090,Washington Av & Ash St,  33.133499,-117.067187
+92092,Mission Av & Broadway,  33.130418,-117.084889
+92100,Valley Center Rd & Morningstar Rd,  33.249497,-116.963190
+92102,Yarrow Dr & Camino Vida Roble (6351),  33.120159,-117.273751
+92122,Westfield North County,  33.071112,-117.062915
+92123,Westfield North County,  33.072164,-117.064548
+92124,Oceanside Transit Center Stall 2,  33.193937,-117.379857
+92125,Oceanside Transit Center Stall 3,  33.193787,-117.379744
+92127,Oceanside Transit Center Stall 4,  33.193624,-117.379582
+92128,Oceanside Transit Center Stall 5,  33.193487,-117.379465
+92131,Oceanside Transit Center Stall 8,  33.193507,-117.379675
+92132,Oceanside Transit Center Stall 9,  33.193655,-117.379791
+92133,Oceanside Transit Center Stall 10,  33.193802,-117.379921
+92200,Vandegrift Bl & A St,  33.302541,-117.344963
+93229,Center Dr & Avenida Ricardo,  33.135926,-117.121602
+93231,El Norte Pkwy & E Valley Pkwy,  33.149833,-117.033990
+93234,El Camino Real & Circle K,  33.087286,-117.268791
+93235,El Norte Pkwy & Rose St,  33.148104,-117.069504
+93244,Ivey Ranch Rd & Justina Dr,  33.217208,-117.310384
+93248,Mission Av & Broadway,  33.130201,-117.086194
+93254,Rancho Santa Fe Rd & 11th St,  33.052421,-117.232633
+93255,Rancho Santa Fe Rd & Grandon Av,  33.135592,-117.205511
+93274,Valley Pkwy & Tulip St,  33.117673,-117.093637
+94063,Del Lago Transit Station,  33.072198,-117.070413
+95000,Rancho Del Oro Dr & Craven Rd,  33.226374,-117.318144
+95035,UTC Transit Center,  32.868324,-117.213439
+96011,El Camino Real & Encinitas Bl,  33.044819,-117.259413
+96023,El Camino Real & Island Way,  33.230611,-117.326895
+96030,El Camino Real & Encinitas Blvd,  33.047423,-117.259778
+98504,Pacific Center Ct & 10455,  32.907250,-117.188790
+98507,Lusk Blvd & Vista Sorrento Pkwy,  32.899854,-117.216143
+98508,Lusk Blvd & Waterridge Circle,  32.900390,-117.209408
+98509,Lusk Blvd & Telisis Ct,  32.900583,-117.207244
+98510,Lusk Blvd & Pacific Center Blvd,  32.901702,-117.201509
+98517,Pacific Heights Blvd & Mira Mesa Blvd,  32.899151,-117.188905
+98522,Oberlin Dr & 5871,  32.895618,-117.192386
+98525,Nancy Ridge Dr & 6310,  32.887670,-117.183771
+98526,Nancy Ridge Dr & 6748,  32.886450,-117.178087
+98527,Nancy Ridge Dr & 6868,  32.885668,-117.174972
+98543,Science Center Dr & 10777 (Nw Side Of Turnaround),  32.898907,-117.229240
+98544,Science Center Dr & 10350,  32.893330,-117.230701
+98545,John Hopkins Ct & General Atomics (Building Entran,  32.894127,-117.237303
+98546,Science Park Rd & 3033,  32.901781,-117.240487
+98547,Torreyana Rd & Road To The Cure & Science Park Rd,  32.902136,-117.238630
+98548,11099 Callan Rd,  32.904805,-117.240655
+98549,Pacific Center Blvd & Pacific Center Ct,  32.904703,-117.189825
+98551,Pacific Heights Bl & Cornerstone Ct,  32.896612,-117.189279
+98552,Brown Deer Rd & Ferris Sq,  32.889410,-117.179568
+98553,Brown Deer Rd & 9275,  32.888583,-117.177372
+98554,Carroll Park Dr & 9369,  32.888140,-117.175226
+98557,Nancy Ridge Dr & 5810,  32.888300,-117.191147
+98558,Carroll Canyon Rd & Nancy Ridge Dr,  32.891758,-117.192921
+98559,Youngstown Wy & Oberlin Dr,  32.892130,-117.195425
+98560,Oberlin Dr & 5825,  32.893860,-117.193288
+98561,Sorrento Valley Rd & Carroll Canyon Rd,  32.890863,-117.210542
+98564,Torreyana Rd & Callan Rd (Before Turn),  32.904316,-117.238195
+99159,Towne Center Dr & Executive Dr,  32.877022,-117.207659
+99183,Eastgate Mall & Easter Wy,  32.878155,-117.211492
+99184,Eastgate Mall & Towne Centre Dr,  32.879070,-117.208029
+99197,La Jolla Village Dr & Towne Center Dr,  32.874095,-117.207614
+99202,Mira Mesa Bl & Lusk Bl,  32.895922,-117.193617
+99270,Barnes Canyon Rd & Pacific Heights Bl,  32.901313,-117.193767
+99369,Sorrento Valley COASTER Station,  32.902155,-117.225252
+99382,Camino Santa Fe & Mira Mesa Bl,  32.906708,-117.170935
+99454,Pacific Center Bl & Mckellar Ct,  32.902613,-117.199173
+99455,Pacific Center Bl & Pacific Heights Bl,  32.904031,-117.195317
+99458,Pacific Heights Blvd & Pacific Mesa Blvd,  32.901311,-117.191965
+99931,Villa La Jolla Dr & La Jolla Village Dr,  32.872489,-117.233946
+99990,College Bl & El Camino Real,  33.142326,-117.283777
+99991,Palomar Airport Rd & El Fuerte St,  33.129494,-117.251932
+cpsta,Carlsbad Poinsettia Station,  33.109140,-117.319270
+cvsta,Carlsbad Village Station,  33.160860,-117.350960
+encsta,Encinitas Station,  33.045418,-117.292782
+esctc,Escondido Transit Center,  33.118829,-117.090838
+octc,Oceanside Transit Center,  33.193669,-117.379713
+oldttc,Old Town Transit Center,  32.754665,-117.199654
+palctc,Palomar College Transit Center,  33.147810,-117.185820
+pcrtc,Plaza Camino Real Transit Center,  33.178276,-117.336525
+slrtc,San Luis Rey Transit Center,  33.254410,-117.298129
+solsta,Solana Beach Station,  32.992937,-117.271067
+svsta,Sorrento Valley Station,  32.902813,-117.225088
+visttc,Vista Transit Center,  33.203240,-117.245070
