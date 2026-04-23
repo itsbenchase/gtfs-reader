@@ -1,1 +1,10 @@
+cttransit;
 lacmta;https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip
+lrta;
+mbta;
+meva;
+muni;
+pvta;
+septa;
+wmata;
+wta;
