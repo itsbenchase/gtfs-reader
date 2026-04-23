@@ -471,7 +471,10 @@ public class gtfs2
                         }
                         else
                         {
-                            String [] data = s.nextLine().split(",");
+                            String rawLine = s.nextLine();
+                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                            String [] data = cleanLine.split(",");
                         
                             stopID.add(data[idIndex]);
                             stopName.add(data[nameIndex]);
