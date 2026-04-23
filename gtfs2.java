@@ -77,7 +77,13 @@ public class gtfs2
                     {
                         if (z == 0)
                         {
-                            headers2 = s.nextLine().split(",");
+                            String rawLine = s.nextLine();
+                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
+
+                            System.out.println(cleanLine);
+                            
+                            headers2 = cleanLine.split(",");
                             List<String> headers = Arrays.asList(headers2);
                             serviceIndex = headers.indexOf("service_id");
                             monIndex = headers.indexOf("monday");
@@ -93,7 +99,10 @@ public class gtfs2
                         }
                         else
                         {
-                            String[] data = s.nextLine().split(",");
+                            String rawLine = s.nextLine();
+                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                            String [] data = cleanLine.split(",");
                             
                             int calStartData = Integer.parseInt(data[startIndex]);
                             int calEndData = Integer.parseInt(data[endIndex]);
@@ -200,7 +209,11 @@ public class gtfs2
                     while (s.hasNextLine()) {
                         if (z == 0)
                         {
-                            headers2 = s.nextLine().split(",");
+                            String rawLine = s.nextLine();
+                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                            
+                            headers2 = cleanLine.split(",");
                             List<String> headers = Arrays.asList(headers2);
                             idIndex = headers.indexOf("route_id");
                             nameIndex = headers.indexOf("route_short_name");
@@ -211,7 +224,10 @@ public class gtfs2
                         }
                         else
                         {
-                            String [] data = s.nextLine().split(",");
+                            String rawLine = s.nextLine();
+                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                            String [] data = cleanLine.split(",");
 
                             routeID.add(data[idIndex]);
                             routeName.add(data[nameIndex]);
@@ -262,6 +278,7 @@ public class gtfs2
                         {
                             String rawLine = s.nextLine();
                             String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
                             
                             headers2 = cleanLine.split(",");
                             List<String> headers = Arrays.asList(headers2);
@@ -276,7 +293,10 @@ public class gtfs2
                         }
                         else
                         {
-                            String [] data = s.nextLine().split(",");
+                            String rawLine = s.nextLine();
+                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                            String [] data = cleanLine.split(",");
                             String serviceID = data[serviceIndex];
 
                             // add only if service ID is in list of valid service IDs
@@ -345,7 +365,9 @@ public class gtfs2
 
                     while ((line = br.readLine()) != null) {
                         
-                        String[] columns = line.split(",");
+                        String cleanLine = line.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                        cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                        String [] columns = cleanLine.split(",");
 
                         if (count == 0)
                         {
@@ -432,7 +454,11 @@ public class gtfs2
                         
                         if (z == 0)
                         {
-                            headers2 = s.nextLine().split(",");
+                            String rawLine = s.nextLine();
+                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                            
+                            headers2 = cleanLine.split(",");
                             List<String> headers = Arrays.asList(headers2);
                             idIndex = headers.indexOf("stop_id");
                             nameIndex = headers.indexOf("stop_name");
@@ -458,7 +484,7 @@ public class gtfs2
             }
             
             if (found) {
-                System.out.println("Routes loaded from web ZIP");
+                System.out.println("Stops loaded from web ZIP");
             } else {
                 System.out.println("Error: stops.txt not found inside the ZIP.");
             }
