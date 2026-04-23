@@ -1,0 +1,218 @@
+2327016,Sandwich High School,41.735451,-70.45821
+2383148,Broad Reach Health Care,41.701178,-69.9674171
+2383149,Mashpee Village,41.62117326325486,-70.50501056825895
+2455476,Barnstable Municipal Airport,41.6670222955064,-70.2871813174101
+2455477,US Social Security Administration,41.672521,-70.298275
+2455545,JFK Memorial Beach,41.6409589819537,-70.27811298401852
+2483595,Bucatino Restaurant - Route 151,41.6463767531079,-70.6119965680684
+2483886,DTA @ North St,41.652068,-70.28924
+2483887,Clipper Ship Apartments,41.5718877633889,-70.5865771898863
+2535997,"Homeport,,41.561702
+2535998,Falmouth Hospital,41.563949,-70.621415
+2536007,Falmouth District Court,41.561771,-70.613769
+2536010,Bourne Recreation Area,41.746766,-70.588715
+2537677,Resort and Conference Center at Hyannis,41.645999,-70.297572
+2537678,Kalmus Beach,41.635764,-70.280799
+2558941,Falmouth Public Library,41.553127,-70.615238
+2577258,Tataket Apartments,41.564403,-70.597429
+2577259,Yarmouth Commons,41.652887,-70.212057
+2577260,Cape Cod Five (HQ),41.680164,-70.318736
+2577261,Cape Cod Five,41.680616,-70.3201836
+2577900,Cape Cod Five (HQ),41.67922088123427,-70.31962963482496
+2577901,Cape Cod Five,41.67971754086568,-70.32081801366748
+2611957,Rte 28 @ Jones Rd (Stop & Shop),41.56109795954376,-70.5988726883437
+2615660,Stone Horse Motel,41.675239,-70.048881
+2615662,Adventure Camping Ground,42.04469375697147,-70.07994603528168
+2615663,Provincetown Visitor Center,42.073719,-70.205676
+2615664,Sea Gull Motel,42.061075,-70.143566
+2615665,Hyannis Conference Center,41.64603,-70.296655
+2615666,Bismore Park,41.649087,-70.2797
+2615667,Beech Forest Parking Lot,42.066341,-70.193634
+2615668,Provincetown Airport,42.076014,-70.21704
+2615669,Race Point Beach,42.07937341328619,-70.21950157776224
+2615670,Herring Cove Beach,42.04859648333763,-70.21978687389323
+2615671,Provincetown Inn,42.037395,-70.195489
+2618268,Hampton Inn Bourne,41.746422,-70.602805
+2618269,Keystone Place,41.747599,-70.604648
+2618270,Bourne Town Hall,41.74815,-70.601635
+2629091,Perry Avenue & Main Street,41.749675,-70.603486
+2629092,Tudor House Apartments,41.743531,-70.5922
+2629093,One Trowbridge Place,41.740819,-70.598003
+2750519,Adventure Bound,42.03808,-70.075076
+2750520,Cumberland Farms Provincetown,42.053727,-70.195977
+2750521,Truro Vineyards,42.029779,-70.079091
+2754712,Sunny Pines,41.733166,-70.004592
+2754713,Theophilus F. Smith Road,41.691833,-70.151472
+2754714,Bourne Recreation Area,41.746515,-70.588223
+2754715,Maplewood Brewster,41.739050589092045,-70.08210410784598
+2754718,Island Queen,41.552091,-70.600106
+2754721,Sea Crest Hotel,41.625852,-70.638325
+3451954,Cape Organization for Rights of the Disabled,41.6746324,-70.2971568
+4148990,Serenity Housing,41.73764061832714,-70.079312353975
+4148991,Brewster Woods Housing,41.751836509759244,-70.08853449695059
+4208566,Megansett Crossing,41.652952,-70.612546
+4211526,Nauset Green Way,41.855237,-69.984765
+4223980,High School Road Ext @ Main St,41.653862,-70.287043
+4223981,Bearses Way @ Stevens Street,41.653862,-70.289059
+4223982,Lambert's Rainbow Fruit,41.657354,-70.330094
+4223983,Sandwich Center – Active Living,41.69812,-70.485862
+4245823,North Truro Camping Area,42.038004,-70.074941
+4245824,Clipper Ship apartments,41.572006,-70.5866
+4245825,Cape Cod National Golf Club,41.733166,-70.004592
+4245826,Barnstable Municipal Airport,41.660937,-70.27391
+4245827,Falmouth Hospital,41.654906,-70.619532
+4245828,Provincetown Inn,42.037177848470066,-70.195521500087
+4245829,Baers Pet Depot,41.618503,-70.491017
+4245830,Prince of Whales Cottages,42.037559,-70.089558
+4247506,"Cape Cod Mall (Food Court),,41.667836
+4250820,Family table collaborative,41.66738,-70.18524
+4250821,Sandwich Town Hall,41.76423,-70.49955
+4254438,Housing Assistance Corporation,41.677290651654054,-70.29864293273636
+4254454,540 Main Street,41.651010670372564,-70.28898467802841
+4254455,Nonno's Pizza,41.64895660404042,-70.29166365342793
+800551,Hyannis Transportation Center (HTC),41.656589,-70.280176
+800552,"Steamship Authority Ferry Docks,,41.650733
+800553,Hyannis Youth & Community Center,41.654563,-70.292781
+800554,"Cape Cod Mall (Mens Warehouse),,41.667836
+800555,"Capetown Plaza,,41.670189
+800556,"Southwind Plaza,,41.675083
+800557,"Festival Mall,,41.675976
+800558,"Wilkens Outpatient Medical Complex,,41.678282
+800559,"Super Stop & Shop (Liberty Square),,41.6759
+800560,"Cape Codder Resort,,41.675375
+800561,"Cape Cod Community College,,41.690621
+800562,"Courthouse Complex,,41.70032
+800563,Barnstable Harbor,41.708668,-70.298027
+800564,"Cape Cod Mall Entrance/Route 28,,41.664885
+800565,"West Main Street & Route 28,,41.657707
+800566,Centerville (Old Stage Road & Main Street),41.64973,-70.348551
+800567,Osterville (Tower Hill Road & Main Street),41.627971,-70.383099
+800568,Marstons Mills Marketplace,41.647959,-70.426437
+800569,Mashpee Commons (Stop & Shop),41.61852,-70.49051
+800570,"South Cape Village (Marshalls),,41.611493
+800571,Community Health Center of Cape Cod,41.607559,-70.48999
+800572,East Falmouth Dunkin Donuts,41.578656,-70.560741
+800573,"Route 28 @ Jones Road,,41.561
+800574,Falmouth Mall,41.561321,-70.594186
+800575,Falmouth Bus Depot,41.556834,-70.623239
+800576,"Steamship Authority Ferry Docks,,41.52303
+800577,"St. Francis/Pope John Paul,,41.648343
+800578,"Sturgis Charter School -- Main Street,,41.652118
+800579,"Sturgis Charter School @ South Street,,41.650688
+800580,"Sturgis Charter School -- West Main Street,,41.647759
+800581,"Cape Cod Hospital (Bayview Street),,41.652859
+800582,"Higgins Crowell Road,,41.650629
+800583,"Stop & Shop,,41.658091
+800584,"Shaw's,,41.662202
+800585,"Main Street,,41.666857
+800586,"Patriot Square,,41.695061
+800587,"Municipal Lot A,,41.668344
+800588,"Star Market,,41.672995
+800589,"Route 28,,41.668043
+800590,"Morton Road,,41.678759
+800591,"Anchorage/Crowell Road,,41.691424
+800592,Veterans Field Rd,41.682656,-69.961949
+800593,"Route 39,,41.752914
+800594,"Main Street/Land Ho,,41.78824
+800595,"Main Street/CVS/Mobil,,41.787854
+800596,"Skaket Corners,,41.78023
+800597,"Old Colony Village,,41.785393
+800598,"Stop & Shop,,41.796182
+800599,Harwich Community Center/High School,41.692133,-70.069797
+800600,"Stop & Shop,,41.706445
+800601,"Cape Cod Lighthouse Charter School,,41.711126
+800602,"Underpass Road & Snow Road,,41.756593
+800603,Brewster Senior Housing/COA,41.756823,-70.090138
+800604,"Nickerson State Park,,41.77519
+800605,Eastham Town Hall/Superette,41.829763,-69.973642
+800606,"Salt Pond Visitor Center,,41.838034
+800607,"Four Points,,41.846504
+800608,"Seaman's Bank @ Route 6,,41.854667
+800609,"Nauset Regional High School,,41.858374
+800610,"Blackfish Variety (Farrell's Market),,41.917199
+800611,Wellfleet Center (Bank Street),41.937534,-70.030784
+800612,"Jam's Store,,41.993412
+800613,"Whitmanville Road @ Route 6,,42.013719
+800614,Truro Central Village Plaza @ Route 6,42.013924,-70.070861
+800615,"Highland Road & Route 6,,42.035359
+800616,"MacMillan Pier,,42.050958
+800617,"Stop & Shop,,42.050534
+800619,Falmouth Plaza,41.556172,-70.599781
+800620,"Colonial Plaza,,41.555067
+800621,Falmouth Library,41.552095,-70.614071
+800622,"Shining Sea Bike Path,,41.551519
+800623,"Oyster Pond Road,,41.54374
+800624,Woods Hole Oceanographic Institution,41.534499,-70.653101
+800625,Falmouth Chamber of Commerce,41.552334,-70.616674
+800626,"Water Street/Luscombe Avenue,,41.523854
+800627,"Horton's Camping Resort,,42.035918
+800628,"P&B Bus Stop/Dutra's Market,,42.0341
+800629,"Highland Museum & Lighthouse,,42.038762
+800631,"Beech Forest,,42.06563
+800632,"Herring Cove Beach,,42.043813
+800633,"First Pilgrims Park/Provincetown Inn,,42.037244
+800634,"Race Point,,42.07931
+800635,"Province Lands Visitor Center,,42.073859
+800636,Provincetown Municipal Airport,42.076165,-70.217163
+800637,"JFK Museum,,41.652577
+800638,"Bassett Lane,,41.650143
+800639,"Hy-Line Ferry Docks,,41.64814
+800640,"Ocean State Job Lot,,41.751686
+800641,Sagamore Park & Ride,41.780954,-70.542438
+800642,"Canal View Apartments,,41.773428
+800643,"Shawme Heights,,41.763273
+800644,"Stop & Shop, Sandwich",
+800645,Sandwich Town Hall,41.75825,-70.500533
+800646,"Spaulding Rehabilitation,,41.733048
+800647,Sandwich COA,41.7214,-70.460636
+800648,"Heritage Park,,41.710793
+800649,"Sandwich Housing Authority, Sandwich",
+800650,"Canterbury Plaza,,41.708328
+800651,"Stop & Shop, Sandwich",
+800652,"Cape Side Convenience,,41.742638
+800653,"County Road @ Beach Street,,41.718044
+800654,"Bourne Housing Authority, Pocasset",
+800655,"Cape Cod Senior Residences,,41.686205
+800656,Cataumet Motel/Steamship Authority Cataumet Parking Lot,41.666721,-70.60299
+800657,"Route 151 & Route 28A,,41.646696
+800658,"Sandwich Road @ Route 151,,41.62477
+800659,"Algonquin Avenue @ Route 151,,41.616256
+800660,"Market Basket,,41.771161
+800661,"Heritage Museums,,41.748896
+800662,"Sea Crest Hotel,,41.626129
+800663,"Cotuit Road & Farmersville Road,,41.696464
+800664,"Race Lane/Farmersville Road & Great Hill Road,,41.690338
+800665,"Race Lane & Osterville-West Barnstable Road,,41.677082
+800666,"Bell Tower Mall,,41.657134
+800667,"West Main Street @ Star Market,,41.652074
+800668,"LeCount Hollow Road,,41.916323
+800669,"Head of the Meadow Beach,,42.038066
+800670,"Province Land Road,,42.04638
+800671,"Old Cobb Library,,41.994787
+800672,"Harmony Hill Road,,41.713514
+800673,"Seacoast Shores Boulevard,,41.580442
+800674,"Island Queen Ferry,,41.552181
+800675,Buzzards Bay Train Station,41.744823,-70.615218
+800676,"Brackett Road @ Route 6,,41.856591
+800677,"Outer Cape Health Services/Maushop Senior Housing,,42.058487
+800678,"Payomet Tent,,42.031289
+800679,"Continental Housing Authority,,41.7574
+800680,"Bourne Oaks Housing Authority,,41.753072
+800681,Bourne Scenic Park,41.751672,-70.590949
+800682,Bourne COA,41.749455,-70.604325
+800683,Cranberry Plaza,41.758072,-70.663379
+800684,Dennis Commons/Elder Services,41.669815,-70.148058
+800685,S Yarmouth TownHall,41.66399,-70.199049
+800686,Town Hall Lawton Bus Shelter,41.664041,-70.19749
+800687,Wellfleet Dunkin Donuts,41.92921,-70.017518
+805265,Clipper Ship Apartments,41.5719785318351,-70.5866734683769
+805266,Harbor Community Health Center,41.6754,-70.297805
+805279,Department of Transitional Assistance @ North Street,41.65213490611305,-70.2892572305622
+805280,Career Opportunities,41.649505,-70.294797
+805281,Barnstable Senior Center,41.659945,-70.3171
+805282,Village Green Apartments,41.682972,-70.283463
+805283,Trinity Christian Academy,41.684081,-70.280904
+811989,Maurice's Market,41.879435,-69.987613
+811990,Gill Road,41.879706,-69.988264
+831902,"Marconi Beach Road,,41.904744
+845491,Brewster Town Hall,41.763765,-70.074382

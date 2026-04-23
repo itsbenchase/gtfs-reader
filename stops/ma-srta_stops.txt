@@ -1,0 +1,1016 @@
+1,"Hillman St and Ash St",41.638774,-70.936436
+2,"State Rd and Cross Rd",41.640847,-71.007645
+3,"State Rd at King's Inn",41.639699,-71.019154
+4,"State Rd at Persy's Restaurant",41.639397,-71.025889
+6,"Acushnet Ave and Wing St",41.627343,-70.923821
+7,"Brock Ave and Abalone St",41.600199,-70.908865
+8,"Brock Ave and Emma St",41.611476,-70.914205
+9,"Brock Ave and Hudson St",41.597644,-70.907800
+10,"Brock Ave and Portland St",41.598965,-70.908155
+11,"Brock Ave and Ricketson St",41.601897,-70.909218
+12,"Umass SMAST",41.596790,-70.907255
+13,"Rodney French Blvd and Welcome St",41.615436,-70.919182
+14,"Ann & Hope Plaza",41.645528,-70.985190
+15,"654 State Rd",41.639991,-71.019129
+16,"Fairhaven Stop & Shop",41.640227,-70.879291
+17,"Belleville Ave and Perry St",41.675395,-70.920296
+19,"Big Value Outlet Plaza",41.599432,-70.940072
+21,"Ashley Blvd and Victoria St",41.696880,-70.935344
+22,"Ashley Blvd and Hathaway St",41.665123,-70.930690
+24,"AFC Cable Systems",41.728191,-70.957121
+25,"Aerovox",41.726356,-70.964334
+26,"Parker St and Park St",41.643364,-70.939928
+27,"Rockdale Ave and Union St",41.632201,-70.948524
+28,"Rockway St and Sherwood St",41.648833,-70.961422
+29,"Cottage St and Austin St",41.648173,-70.935227
+30,"Cottage St and Durfee St",41.649724,-70.935569
+31,"Cottage St and Robeson St",41.646876,-70.935503
+32,"Sawyer St and Brook St",41.657173,-70.931328
+33,"Hawthorn St and Palmer St",41.628266,-70.945227
+34,"Dartmouth St Stop & Shop",41.615705,-70.935487
+35,"Mill St and Lindsey St",41.636767,-70.942926
+36,"Pleasant St and Sixteenth St",41.697191,-71.143481
+37,"Pleasant St and Choate St",41.688655,-71.131764
+39,"Xfinity Store by Comcast",41.668663,-70.943702
+40,"Union St and Sixth St",41.633955,-70.927887
+41,"State Rd and Slocum Rd",41.637883,-70.969592
+42,"New Bedford Market Basket",41.656919,-70.921268
+43,"Purchase St and Hazard St",41.648055,-70.928546
+44,"Purchase St and Austin St",41.648899,-70.928579
+45,"Purchase St and Franklin St",41.646061,-70.927932
+46,"Purchase St and Hazard St",41.647821,-70.928318
+47,"Purchase St and Pearl St",41.644316,-70.927580
+48,"Purchase St and Pope St",41.645311,-70.927769
+49,"Purchase St and Pope St",41.645051,-70.927819
+50,"Purchase St and Austin St",41.649130,-70.928733
+51,"Purchase St and Pearl St",41.644254,-70.927661
+52,"Mt Pleasant St and Clark St",41.651784,-70.936571
+53,"Mt Pleasant St and England St",41.674277,-70.944786
+54,"State Rd and Davis Rd",41.662115,-71.086076
+55,"State Rd and Pine Tree Ave",41.655114,-71.074249
+57,"Acushnet Ave and Bullard St",41.660573,-70.927496
+58,"Belleville Ave and Belleville Rd",41.669240,-70.920496
+59,"Grape St and Brownell St",41.624120,-70.943211
+60,"Park St and Maxfield St",41.639601,-70.939269
+61,"Potter St and Cherokee Ct",41.649931,-70.948309
+62,"Rockdale Ave and Court St",41.632922,-70.948658
+63,"Rockdale Ave and Kempton St",41.635138,-70.949096
+64,"Rockdale Ave and Kempton St",41.635101,-70.948879
+65,"Cottage St and Hillman St",41.638993,-70.933988
+66,"Mt Pleasant St and Nauset St",41.661584,-70.942123
+67,"Kempton St and Cornell St",41.636046,-70.954771
+68,"Cross Rd and Duane Ave",41.634739,-71.005367
+69,"State Rd and Gifford Ave",41.640132,-70.996899
+70,"Dartmouth St and Coolidge St",41.605101,-70.940919
+71,"Dartmouth St and Rockdale Ave",41.614246,-70.937998
+75,"Dartmouth St and Thompson St",41.621813,-70.934460
+76,"Dartmouth St and Orchard St",41.626100,-70.930193
+77,"St Luke's Hospital",41.626917,-70.937092
+78,"Acushnet Ave and Bradford St",41.715859,-70.934939
+79,"Church St and Staron St",41.700317,-70.942791
+80,"Alden Rd and Huttleston Ave",41.641924,-70.885210
+81,"Huttleston Ave and Main St",41.642383,-70.906260
+82,"Huttleston Ave at Gene's Seafood",41.643673,-70.891359
+83,"Huttleston Ave and Bridge St",41.645104,-70.894702
+84,"Huttleston Ave Rite Aid",41.644439,-70.898302
+85,"Main St and Hedge St",41.650381,-70.909162
+86,"Main St and Massasoit Ave",41.646316,-70.908557
+87,"Main St and Wood St",41.651860,-70.909143
+88,"Ashley Blvd and Dewey St",41.693432,-70.935085
+89,"Ashley Blvd and Wood St",41.678884,-70.933505
+90,"Ashley Blvd and Appleton St",41.685430,-70.934377
+91,"Ashley Blvd and Irvington St",41.672672,-70.932297
+92,"N Front St and Coggeshall St",41.655844,-70.925268
+93,"Acushnet Ave and Irvington St",41.672759,-70.924758
+94,"Ashley Blvd and Tallman St",41.658881,-70.929459
+95,"Acushnet Ave and Brooklawn St",41.677317,-70.923514
+96,"Acushnet Ave and Perry St",41.675355,-70.923200
+97,"Acushnet Ave and Earle St",41.664753,-70.928893
+98,"Acushnet Ave and Hathaway St",41.665113,-70.928734
+99,"Acushnet Ave and Belleville Rd",41.668744,-70.928071
+100,"Acushnet Ave and Duncan St",41.674190,-70.923558
+101,"Purchase St and Weld St",41.651926,-70.929612
+102,"Acushnet Ave and Sawyer St",41.657840,-70.927280
+103,"Dartmouth St and Jenkins St",41.617041,-70.936729
+104,"County St and Kempton St",41.637526,-70.930898
+105,"Allen St and Oak St",41.626015,-70.935107
+106,"Brock Ave and Aquidneck St",41.603321,-70.909790
+107,"Brock Ave and Aquidneck St",41.603007,-70.909537
+108,"Acushnet Ave and Belleville Rd",41.668561,-70.928049
+109,"Hawthorn St and Rockdale Ave",41.628144,-70.947230
+110,"S Main St and Woodman St",41.679071,-71.179025
+111,"Pleasant St and Thirteenth St",41.698284,-71.145533
+112,"Pleasant St and Notre Dame St",41.689481,-71.132753
+115,"Rockdale Ave and Court St",41.632430,-70.948359
+116,"Rockdale Ave and Union St",41.631822,-70.948239
+117,"Ashley Blvd and Florida St",41.686568,-70.934502
+119,"White's of Westport",41.679511,-71.115040
+120,"Pleasant St and Webster St",41.687765,-71.130918
+121,"Brock Ave and Valentine St",41.608905,-70.912543
+122,"Dartmouth St and Webster St",41.604014,-70.940989
+123,"Union St and Tremont St",41.632744,-70.940937
+125,"Main St and Wilding St",41.654525,-70.908697
+126,"Ashley Blvd and Query St",41.669984,-70.931725
+127,"Fall River Walmart",41.686377,-71.142498
+128,"Hillman St and Cedar St",41.638869,-70.935545
+129,"Cottage St and Campbell St",41.642118,-70.934646
+130,"Acushnet Ave and Westland St",41.689027,-70.928044
+131,"Hawthorn St and Page St",41.629104,-70.937759
+132,"Pleasant St and Flint St",41.692341,-71.136048
+133,"Acushnet Ave and Bullard St",41.660449,-70.927402
+134,"Kempton St and Liberty St",41.636316,-70.940900
+135,"Pleasant St and Seventeenth St",41.696597,-71.142302
+137,"Theodore H. Rice Blvd",41.726485,-70.953457
+138,"Linden St and Pine St",41.703543,-71.147972
+139,"Lord Phillips Apartments",41.723327,-70.948772
+140,"Park St and Smith St",41.641833,-70.939693
+141,"Stan and Paul's Appliances",41.639059,-70.978840
+142,"Dartmouth Mall",41.640800,-70.990377
+144,"Bedford St and Eighth St",41.700942,-71.149813
+145,"Bedford St and Twelfth St",41.700331,-71.146429
+146,"Potter St and Cherokee Ct",41.650109,-70.948086
+147,"Pleasant St and Quequechan St",41.693166,-71.137285
+148,"King's Highway Stop & Shop",41.679432,-70.942477
+150,"Brock Ave and Ruth St",41.613637,-70.917247
+151,"Shawmut Ave and Robeson St",41.646557,-70.939894
+153,"Rockdale Ave and North St",41.636433,-70.949155
+155,"Rockdale Ave and Arnold St",41.630168,-70.948074
+157,"Allen St and Cottage St",41.626437,-70.931638
+158,"Allen St and Cottage St",41.626328,-70.931973
+159,"Acushnet Ave and Elaine Ave",41.740120,-70.944022
+160,"Acushnet Ave and Fox St",41.703731,-70.934326
+161,"Ashley Blvd and Shaw St",41.671328,-70.931955
+162,"Acushnet Ave and Coffin Ave",41.662112,-70.928073
+163,"Dartmouth St and Rogers St",41.607200,-70.940616
+164,"Ashley Blvd and Collette St",41.663163,-70.930231
+165,"Hawthorn Medical",41.672621,-70.987689
+166,"Pleasant St and Quequechan St",41.693177,-71.137066
+167,"Greenwood Terrace",41.658026,-71.079263
+169,"Pleasant St and Flint St",41.691890,-71.135802
+170,"Pleasant St and Harrison St",41.692658,-71.136686
+171,"Pleasant St and Madison St",41.690451,-71.134147
+172,"Westport Plaza",41.657931,-71.079429
+173,"Acushnet Ave and Elliot St",41.691932,-70.929950
+174,"Tripp Towers",41.615277,-70.911858
+175,"Cross Rd and Faunce Corner Rd",41.651772,-70.988355
+176,"Union St and Tremont St",41.632648,-70.940919
+177,"Dartmouth St and Swift St",41.619551,-70.935456
+179,"Cross Rd and Fenton St",41.639085,-71.005900
+180,"Kempton St and Hussey St",41.635493,-70.950231
+181,"State Rd and Wolcott Ave",41.640464,-71.001739
+182,"Rockdale Ave and Lake St",41.633751,-70.948837
+183,"Dartmouth St and Rockland St",41.623096,-70.933525
+185,"Logan St and N Front St",41.651580,-70.924698
+187,"State Rd and Bower Ave",41.645055,-71.057035
+188,"Pleasant St and Choate St",41.688652,-71.132026
+189,"Union St and County St",41.633718,-70.930098
+190,"County St and North St",41.638664,-70.931075
+191,"Cottage St and Campbell St",41.642335,-70.934855
+192,"Rockdale Ave and North St",41.636771,-70.949370
+193,"Rotch St and Arnold St",41.630785,-70.942604
+195,"Rockdale Ave and Arnold St",41.630028,-70.947861
+196,"State Rd and Wilbur Ave",41.637431,-70.966159
+197,"Acushnet Ave and Grinnell St",41.625759,-70.923548
+198,"Navajo Court",41.649204,-70.950629
+199,"W Hill Rd and Oakdale St",41.646651,-70.963073
+200,"Allen St and Rockdale Ave",41.624659,-70.946214
+202,"Union St and Cottage St",41.633542,-70.932961
+203,"Ashley Blvd and Hersom St",41.679294,-70.933392
+204,"Ashley Blvd and Nye St",41.659737,-70.929699
+207,"State Rd and Chase Rd",41.639387,-70.985703
+208,"Parker St and Shawmut Ave",41.643424,-70.938196
+209,"Umass Dartmouth Flag Poles",41.632041,-71.006689
+211,"Kempton St and Cottage St",41.637042,-70.934003
+212,"Shawmut Ave and Parker St",41.643653,-70.938204
+213,"Dartmouth St and Cove St",41.609767,-70.939817
+214,"County St and Rivet St",41.620701,-70.924349
+215,"Hillman St and Cottage St",41.638997,-70.934207
+216,"High St and Locust St",41.705793,-71.151060
+219,"County St and Division St",41.618138,-70.922770
+220,"Marx Auto Center",41.614641,-70.936479
+221,"Hillman St and Summer St",41.639197,-70.932544
+224,"Cottage St and Hillman St",41.639183,-70.934177
+225,"Pleasant St and Eastern Ave",41.687363,-71.130540
+226,"State Rd and Arcadia Ave",41.640609,-71.011321
+227,"740 State Rd",41.639458,-71.028489
+228,"Brock Ave and Coral St",41.600937,-70.908883
+229,"Kempton St and Cedar St",41.636911,-70.935209
+230,"Mill St and Liberty St",41.636995,-70.940756
+231,"Pleasant St Post Office",41.688047,-71.130953
+232,"Cove St and County St",41.616690,-70.922189
+233,"Dartmouth St and Washington St",41.624776,-70.931670
+234,"County St and Nelson St",41.617072,-70.922454
+235,"Cross Rd and York St",41.639500,-71.006158
+236,"State Rd and Anderson Way",41.639621,-70.982539
+237,"Acushnet Ave and Granite Dr",41.742800,-70.943129
+238,"Cove St and Margin St",41.616492,-70.921706
+239,"Hawthorn St and Tremont St",41.628952,-70.940028
+240,"Rockdale Ave and Nemasket St",41.644181,-70.952435
+241,"Shawmut Ave and Robeson St",41.646364,-70.939701
+242,"Kempton St and Jenny Lind St",41.635821,-70.951579
+243,"Acushnet Ave and Holbrook St",41.718146,-70.936014
+244,"Eastern Ave and McGowan St",41.682701,-71.130086
+245,"State Rd and Elmwood Ave",41.653955,-71.072693
+246,"Mill St and Cedar St",41.637618,-70.935005
+247,"Mill St and Hill St",41.638117,-70.928365
+248,"Dartmouth St and W Bliss St",41.612211,-70.938829
+249,"State Rd Shaw's",41.636751,-70.960717
+250,"Dartmouth St and Norwell St",41.613345,-70.938208
+251,"Brock Ave and Ruth St",41.613679,-70.917948
+252,"State Rd and Connecticut Ave",41.639868,-71.021604
+253,"Dartmouth St and Rockdale Ave",41.615641,-70.937318
+254,"Dartmouth St and Rockdale Ave",41.615521,-70.937269
+255,"Kempton St Walgreens",41.636301,-70.955389
+256,"Dartmouth St and Borden St",41.624788,-70.931769
+257,"W Hill Rd and Bryant Ln",41.644244,-70.962165
+258,"Holiday Lanes Bowling",41.673285,-71.104820
+259,"Pleasant St and Harrison St",41.692677,-71.136484
+260,"State Rd and Hillcrest St",41.640228,-71.016703
+261,"Shawmut Ave and Mt Vernon St",41.651253,-70.942744
+262,"County St and Winsor St",41.619370,-70.923451
+263,"State Rd and Carrollton Ave",41.638468,-70.973808
+264,"Dartmouth St and Bliss St",41.611911,-70.938849
+265,"Shawmut Ave and Tilton St",41.645333,-70.939123
+266,"Shawmut Ave and Locust St",41.644710,-70.938710
+267,"State Rd and Reed Rd",41.639001,-71.037219
+268,"Howland Green Library",41.615925,-70.919507
+269,"Rockdale Ave and Granite Ave",41.649002,-70.956007
+270,"NBHS Hathaway Blvd Entrance",41.644141,-70.948408
+271,"State Rd and Leonard Ave",41.637171,-70.964025
+272,"Dartmouth St and Bay St",41.626046,-70.930357
+273,"Allen St and Oak St",41.625957,-70.935135
+274,"Mt Pleasant St and Buchanan St",41.657202,-70.939692
+275,"New Bedford Career Center",41.643901,-70.926461
+276,"Purchase St and Merrimac St",41.646890,-70.928110
+277,"Mt Pleasant St and Coggeshall St",41.654720,-70.938395
+278,"Mt Pleasant St and Peckham St",41.653923,-70.937838
+279,"Mt Pleasant Post Office",41.670691,-70.944085
+280,"Acushnet Ave and Wood St",41.678413,-70.923468
+281,"Huttleston Ave and Adams St",41.643871,-70.900677
+282,"SRTA New Bedford Terminal",41.635924,-70.927556
+283,"Acushnet Ave and Maplewood St",41.693589,-70.931393
+284,"Acushnet Ave and Marion St",41.690855,-70.929167
+285,"County St and Rockland St",41.623052,-70.924900
+286,"Acushnet Ave and Shaw St",41.671616,-70.925553
+287,"Acushnet Ave and Tallman St",41.659193,-70.927396
+288,"Ashley Blvd and Davis St",41.663911,-70.930433
+289,"Ashley Blvd and Deane St",41.660885,-70.929829
+290,"Ashley Blvd and Earle St",41.664280,-70.930446
+291,"Ashley Blvd and Jarry St",41.684008,-70.934086
+292,"Ashley Blvd and Jarry St",41.683995,-70.934246
+293,"Ashley Blvd and Bullard St",41.660165,-70.929680
+294,"Ashley Blvd and Coffin Ave",41.661748,-70.929949
+295,"Ashley Blvd and Nash Rd",41.666657,-70.931166
+296,"Ashley Blvd and Tinkham St",41.665583,-70.930711
+297,"Purchase St and Linden St",41.650034,-70.928903
+301,"Rockdale Ave and Maple St",41.628926,-70.947539
+302,"Union St and Cottage St",41.633417,-70.933245
+303,"Sawyer St and Jean St",41.657166,-70.930427
+304,"Xfinity Store by Comcast",41.668606,-70.943811
+305,"Ashley Blvd and Sawyer St",41.657248,-70.929701
+306,"Mt Pleasant St and Newcomb St",41.664471,-70.942729
+307,"Acushnet Ave and Howard Ave",41.675924,-70.923223
+308,"Acushnet Ave and Shaw St",41.671500,-70.925900
+309,"Mt Pleasant St Post Office",41.670602,-70.944246
+310,"Acushnet Ave and Phillips Ave",41.662836,-70.928417
+311,"Acushnet Ave and Nash Rd",41.666555,-70.928693
+312,"Acushnet Ave and Nash Rd",41.666780,-70.928814
+313,"Cottage St and Austin St",41.648338,-70.935367
+314,"Cottage St and Robeson St",41.647046,-70.935544
+315,"Sawyer St and Brook St",41.656986,-70.931554
+316,"Hawthorn St and Palmer St",41.628370,-70.945125
+317,"Brandon Woods",41.610859,-70.939338
+318,"Purchase St and Hillman St",41.640217,-70.926955
+319,"Acushnet Ave and Earle St",41.664578,-70.928711
+321,"Belleville Ave and Hadley Ave",41.673741,-70.920569
+322,"Belleville Ave and Hatch St",41.672085,-70.920615
+323,"Purchase St and Coggeshall St",41.655772,-70.931686
+324,"Ashley Blvd and Holly St",41.658262,-70.929599
+325,"Cottage St and Maxfield St",41.639994,-70.934321
+326,"Cottage St and North St",41.638134,-70.933945
+327,"Cottage St and Parker St",41.643672,-70.934890
+328,"Mt Pleasant St and Buchanan St",41.657477,-70.940075
+329,"Mt Pleasant St and Nauset St",41.661511,-70.942168
+330,"Presidential Heights",41.658871,-70.940779
+331,"Mt Pleasant St and Coggeshall St",41.654913,-70.938567
+332,"Mt Pleasant St and Peckham St",41.654032,-70.937994
+333,"Mt Pleasant St and Penniman St",41.652606,-70.937025
+334,"Purchase St and Willis St",41.643185,-70.927318
+335,"Shawmut Ave and Durfee St",41.649308,-70.941705
+336,"Dartmouth St and Fair St",41.624305,-70.932292
+338,"Main St and Hedge St",41.650522,-70.909302
+339,"Oxford Terrace",41.652453,-70.908936
+340,"N Front St and Coggeshall St",41.655665,-70.925309
+341,"Huttleston Ave and Green St",41.642937,-70.903829
+342,"Sawyer St and N Front St",41.657926,-70.925588
+343,"State Rd and Gifford Ave",41.640339,-70.996661
+344,"State Rd and Wolcott Ave",41.640684,-71.001616
+345,"Cross Rd and Fenton St",41.639052,-71.006118
+346,"Eastern Ave and Jepsen St",41.683556,-71.129904
+347,"Watson Elementary School",41.684445,-71.130260
+348,"Brock Ave and Allord St",41.604109,-70.909902
+349,"Brock Ave and Annette St",41.606166,-70.910687
+350,"Brock Ave and Apponegansett St",41.605087,-70.910211
+351,"Brock Ave and Butler St",41.607380,-70.911370
+352,"Brock Ave and Butler St",41.607336,-70.911632
+353,"Brock Ave and Capitol St",41.604735,-70.910263
+354,"Brock Ave and David St",41.612536,-70.915505
+355,"Brock Ave and Dudley St",41.610141,-70.913329
+356,"Brock Ave and Emma St",41.611643,-70.914203
+357,"Brock Ave and Frederick St",41.609071,-70.912459
+358,"Brock Ave and Lucas St",41.606081,-70.910770
+359,"Brock Ave and Mott St",41.611099,-70.913729
+360,"Brock Ave and Ricketson St",41.601636,-70.909302
+361,"S Main St and Globe St",41.687243,-71.171298
+362,"S Main St and King Phillip St",41.682901,-71.176008
+363,"Jefferson St and Chicago St",41.677786,-71.146265
+364,"Acushnet Ave and Coffin Ave",41.661975,-70.927940
+365,"Acushnet Ave and Collette St",41.663345,-70.928445
+366,"Acushnet Ave and Conduit St",41.672566,-70.924777
+367,"Acushnet Ave and Query St",41.670180,-70.926737
+368,"Acushnet Ave and Tallman St",41.659138,-70.927324
+369,"Acushnet Ave and Wood St",41.678339,-70.923332
+370,"Dartmouth St and Rogers St",41.606901,-70.940529
+372,"Union St and Ash St",41.633205,-70.935538
+373,"Union St and Ash St",41.633300,-70.935191
+374,"Union St and Orchard St",41.633593,-70.931699
+375,"Union St and Park St",41.633026,-70.937865
+376,"Union St and Park St",41.632951,-70.938229
+377,"Ashley Blvd and Nash Rd",41.666315,-70.930731
+378,"Ashley Blvd and Eugenia St",41.667670,-70.931083
+381,"Rockdale Ave and Hemlock St",41.614374,-70.934782
+382,"Rockdale Ave and Hemlock St",41.614374,-70.935337
+383,"Union St and County St",41.633805,-70.930628
+384,"Pleasant St and Massasoit St",41.693991,-71.138009
+385,"Rockway St and Carriage Dr",41.648556,-70.962653
+386,"Rockway St and W Hill Rd",41.647978,-70.963735
+387,"Cottage St and Locust St",41.645281,-70.935319
+388,"Cottage St and Locust St",41.645141,-70.935166
+389,"Mt Pleasant St and Downey St",41.672011,-70.944479
+390,"Mt Pleasant St and England St",41.674456,-70.945012
+391,"Bedford Towers",41.637259,-70.931762
+392,"Kempton St and Rockdale Ave",41.635426,-70.948607
+393,"Kempton St and Lindsey St",41.636058,-70.943210
+394,"Kempton St and Park St",41.636551,-70.938860
+395,"Kempton St and Rounds St",41.635787,-70.945826
+396,"Mill St and Beech St",41.636252,-70.947166
+397,"Mill St and Florence St",41.636521,-70.944713
+398,"Mill St and Hunter St",41.636404,-70.945959
+399,"Third District Court",41.637498,-70.929654
+400,"Mill St and Chancery St",41.637382,-70.937523
+401,"Mill St and Cottage St",41.637760,-70.933733
+402,"Mill St and Newton St",41.637065,-70.939998
+403,"Mill St and Park St",41.637221,-70.938630
+404,"Mill St and Summer St",41.637926,-70.932038
+405,"Pleasant St and Fifteenth St",41.697578,-71.144285
+406,"Pleasant St and Sixteenth St",41.697192,-71.143481
+407,"Pleasant St and Eighteenth St",41.696299,-71.141373
+408,"Pleasant St and Quarry St",41.695664,-71.140353
+409,"Mt Pleasant St and Durfee St",41.650092,-70.935811
+410,"Purchase St and Franklin St",41.646214,-70.928036
+411,"Purchase St and Merrimac St",41.647067,-70.928238
+412,"Purchase St and Willis St",41.643351,-70.927478
+413,"State Rd and Macomber Ave",41.637361,-70.964189
+414,"Acushnet Ave and Madison St",41.631168,-70.924444
+415,"Acushnet Ave and Walnut St",41.631964,-70.924533
+416,"Fairhaven Village",41.654729,-70.908857
+417,"Acushnet Ave and Harwich St",41.679837,-70.922702
+418,"N Front St and Sawyer St",41.657782,-70.925659
+419,"Sawyer St and Belleville Ave",41.657954,-70.924076
+421,"W Hill Rd and Cherry Tree Ln",41.645827,-70.962777
+422,"Mt Pleasant St and Sawyer St",41.656397,-70.939461
+423,"Potter St and Gayhead Ct",41.648540,-70.952082
+424,"Kempton St and Jenny Lind St",41.635725,-70.951894
+425,"State Rd and Slocum Rd",41.638122,-70.969994
+426,"Rotch St and Maple St",41.629486,-70.942352
+427,"Rotch St and Union St",41.632381,-70.942809
+431,"Rotch St and Hawthorn St",41.628751,-70.942326
+432,"Dartmouth St and Oak St",41.623369,-70.933289
+433,"Dartmouth St and Thompson St",41.621863,-70.934530
+440,"Allen St and Brigham St",41.625342,-70.940633
+441,"Park St and Hillman St",41.638373,-70.938953
+442,"Park St and Smith St",41.641655,-70.939536
+443,"Dartmouth St and Sidney St",41.618532,-70.935925
+445,"County St and Rivet St",41.620995,-70.924439
+447,"Parker St and Park St",41.643174,-70.939836
+448,"Rockdale Ave and Bluefield St",41.615413,-70.938017
+451,"Park St and Maxfield St",41.639376,-70.939143
+452,"Main St and Huttleston Ave",41.642561,-70.906816
+453,"Howland Rd and Sycamore St",41.656119,-70.911566
+454,"State Rd and Tucker Rd",41.639421,-70.982849
+455,"State Rd Shaw's",41.636861,-70.960459
+456,"Dartmouth St and Weaver St",41.620723,-70.935043
+457,"Acushnet Ave and Ingraham St",41.674653,-70.923099
+458,"Acushnet Ave and Query St",41.670377,-70.926745
+459,"Huttleston Ave and Adams St",41.643548,-70.901158
+460,"Huttleston Ave and Green St",41.643210,-70.903493
+461,"Hawthorn St and Brigham St",41.628691,-70.941739
+463,"New Bedford Police Headquarters",41.638324,-70.949676
+464,"Dartmouth St and Edward St",41.619516,-70.935579
+465,"Dartmouth St and Rivet St",41.620325,-70.935132
+466,"Dartmouth St and Stowell St",41.618853,-70.935876
+467,"Grape St and Rural St",41.624220,-70.940978
+468,"Purchase St and Weld St",41.651669,-70.929421
+469,"Union St and Rotch St",41.632497,-70.942787
+470,"Shawmut Ave and Austin St",41.647805,-70.940776
+471,"Shawmut Ave and Potter St",41.651540,-70.944049
+472,"County St and South St",41.624321,-70.925169
+473,"Cottage St and Parker St",41.643926,-70.935032
+474,"New Bedford Career Center",41.643979,-70.926551
+475,"Rotch St and Arnold St",41.630517,-70.942492
+476,"Boa Vista Towers",41.630721,-70.923359
+478,"State Rd and Rt 88",41.664861,-71.090709
+479,"State Rd and Borden St",41.677219,-71.111768
+480,"State Rd and Elmwood Ave",41.654008,-71.072408
+481,"State Rd and Highland Ave",41.640146,-71.048806
+482,"State Rd and Sanford Rd",41.675771,-71.109496
+483,"Mid City Steel Corp",41.671921,-71.103029
+484,"White's of Westport",41.679121,-71.114739
+485,"SRTA Fall River Terminal",41.698339,-71.154380
+486,"UMass CIE",41.680876,-71.127758
+487,"UMass CIE",41.681021,-71.127277
+488,"Pleasant St and Cash St",41.690817,-71.134570
+489,"Pleasant St and Eastern Ave",41.656485,-71.076539
+490,"State Rd and Maine Ave",41.639620,-71.025561
+491,"1011 State Rd",41.646408,-71.059852
+492,"783 State Rd",41.638887,-71.032490
+493,"State Rd and Arlington Ave",41.654822,-71.074151
+494,"State Rd and Berryman St",41.649808,-71.065096
+495,"State Rd and Borden St",41.677534,-71.111875
+496,"State Rd and Bower Ave",41.644650,-71.056877
+497,"State Rd and E Briggs Rd",41.657228,-71.078391
+498,"State Rd and E Quarry Ave",41.639304,-71.030590
+499,"State Rd and Forge Rd",41.642251,-71.052179
+500,"State Rd and Forge Rd",41.641642,-71.051925
+501,"State Rd and Gifford Rd",41.660220,-71.083406
+502,"State Rd and Reed Rd",41.638834,-71.035940
+503,"State Rd and Rock St",41.658855,-71.080605
+504,"State Rd and Sanford Rd",41.675974,-71.109361
+505,"State Rd and Union St",41.647876,-71.062342
+506,"State Rd and Wilbur Ave",41.637674,-70.966779
+507,"992 State Rd",41.646924,-71.060272
+508,"Caddy Shack",41.638601,-71.043849
+509,"Dartmouth Motor Inn",41.640228,-71.012484
+510,"Dartmouth Community Corrections",41.638609,-71.040194
+511,"Moby Dick Motel",41.639646,-71.022072
+512,"Monument Company",41.670562,-71.100696
+513,"Martine St and Brayton Ave",41.681525,-71.130056
+514,"Martine St and Brayton Ave",41.681245,-71.129821
+515,"Town Donuts",41.638788,-71.040188
+516,"State Rd and Washington St",41.651631,-71.068249
+517,"State Rd and Berryman St",41.649661,-71.065420
+518,"State Rd and Washington St",41.651497,-71.068481
+519,"LePage's Seafood",41.680232,-71.122917
+520,"Acushnet Ave and Ohio St",41.684074,-70.922904
+521,"Acushnet Ave and Araujo Ct",41.723069,-70.938194
+522,"Acushnet Ave and Chaffee St",41.695485,-70.932989
+523,"Acushnet Ave and Giseles Way",41.713763,-70.933823
+524,"Acushnet Ave and Mill Rd",41.685566,-70.923559
+525,"Acushnet Ave and Victoria St",41.697284,-70.934459
+526,"Acushnet Ave and Phillips Rd",41.699878,-70.935587
+527,"Church St and Amanda Ave",41.698620,-70.942406
+528,"Acushnet Ave and Russell St",41.629441,-70.924147
+529,"Brock Ave and Bream St",41.598833,-70.908278
+530,"Pleasant St and Spring St",41.633415,-70.926520
+533,"Cross Rd and Crossroads Dr",41.652967,-71.001825
+534,"Dartmouth Wal-Mart",41.642818,-71.006873
+535,"Fairhaven Staples",41.640263,-70.885307
+536,"Bridge St and Fairhaven Commons",41.645730,-70.888735
+537,"Bridge St and Mill Rd",41.649599,-70.880468
+538,"Phoenix Rail Trail",41.638866,-70.881582
+539,"Fairhaven Commons",41.641552,-70.886125
+540,"Huttleston Ave and Alden Rd",41.641259,-70.884012
+541,"Huttleston Ave and Bridge St",41.644807,-70.892821
+542,"Huttleston Ave and Holcomb St",41.644758,-70.897302
+543,"Mill Rd and Bridge St",41.651101,-70.880242
+544,"Purchase St and Penniman St",41.653567,-70.930226
+545,"Purchase St and Coggeshall St",41.655546,-70.931335
+546,"Purchase St and Penniman St",41.653638,-70.930167
+547,"Purchase St and Sawyer St",41.656860,-70.932135
+548,"Edgeworth St and Dartmouth St",41.602846,-70.940896
+549,"Sol E Mar Apartments",41.599106,-70.938015
+550,"174 Duchaine Blvd",41.722981,-70.953399
+552,"Ashley Blvd and Brooklawn St",41.677014,-70.932929
+553,"Ashley Blvd and Carlisle St",41.675551,-70.932639
+554,"Ashley Blvd and Brooklawn Ave",41.677518,-70.933245
+555,"Ashley Blvd and Carlisle St",41.675388,-70.932803
+556,"Ashley Blvd and Chaffee St",41.694886,-70.935022
+557,"Ashley Blvd and Chaffee St",41.695338,-70.935272
+558,"Ashely Blvd and Daniel St",41.680401,-70.933592
+559,"Ashley Blvd and Dewey St",41.693238,-70.934872
+560,"Ashley Blvd and Irvington St",41.672864,-70.932124
+561,"Ashley Blvd and Oregon St",41.685781,-70.934277
+562,"Ashley Blvd and Query St",41.670083,-70.931541
+563,"Ashley Blvd and Tarkiln Hill Rd",41.681887,-70.934089
+564,"GNB Voc. Tech High School",41.688459,-70.934684
+565,"Ashley Blvd and York St",41.686875,-70.934356
+566,"GNB Voc. Tech High School",41.690185,-70.934626
+568,"Ashley Blvd and Clifford St",41.671582,-70.931848
+569,"Chaffee St and Church St",41.693581,-70.941331
+570,"Vertente Blvd and Barnet Blvd",41.720123,-70.963021
+571,"Phillips Rd and Heritage Ct",41.720196,-70.948187
+572,"Phillips Rd and Morton St",41.700645,-70.938397
+573,"Trucchis",41.700146,-70.936408
+574,"Staron St and Phillips Rd",41.701172,-70.941290
+575,"Theodore H. Rice Blvd",41.726270,-70.953582
+576,"Granite Ave and Rockdale Ave",41.649005,-70.956326
+577,"Hillman St and County St",41.639321,-70.931400
+578,"Pamela Dr and Carriage Dr",41.646728,-70.960627
+579,"Pamela Dr and Sandstone Dr",41.647713,-70.957140
+580,"Potter St and Hathaway Blvd",41.649692,-70.949148
+582,"Potter St and Oakland St",41.650642,-70.946419
+586,"Rockdale Ave and Hapwell St",41.645961,-70.953419
+588,"Rockdale Ave and Maxfield St",41.638172,-70.949471
+590,"Sandstone Dr and Pamela Dr",41.648037,-70.957010
+591,"Shawmut Ave and Austin St",41.647495,-70.940506
+592,"Shawmut Ave and Durfee St",41.648955,-70.941397
+593,"W Hill Rd and Bayberry Rd",41.644900,-70.962419
+594,"Cottage St and Kempton St",41.637223,-70.933824
+595,"Cottage St and Maxfield St",41.639695,-70.934115
+596,"Mt Pleasant St and Downey St",41.671845,-70.944347
+597,"Mt Pleasant St and Sawyer St",41.656086,-70.939087
+598,"Bedford St and N Main St",41.701926,-71.155055
+600,"Kempton St and Chancery St",41.636645,-70.937719
+601,"Mill St and Rockdale Ave",41.636056,-70.948958
+602,"Dartmouth Best Western",41.639281,-71.027603
+603,"State Rd and Davis Rd",41.660747,-71.083844
+604,"Lincoln Park",41.638417,-71.043029
+605,"Dartmouth Wal-Mart",41.641010,-71.007894
+606,"Hillman St and Acushnet Ave",41.640054,-70.924412
+607,"Hillman St and Tower Dr",41.639863,-70.926666
+608,"Hillman St and Purchase St",41.639960,-70.926547
+609,"N Front St and Kilburn St",41.652408,-70.924497
+610,"N Front St and Logan St",41.652002,-70.924584
+611,"Lund's Corner",41.682386,-70.922147
+612,"Mill St and County St",41.638058,-70.930822
+613,"Pleasant St and Rocliffe St",41.693898,-71.138135
+614,"Barry's Dartmouth Nissan",41.640816,-71.005880
+615,"St Luke's Hospital",41.627074,-70.937042
+616,"Dartmouth St and Edgeworth St",41.603188,-70.941138
+617,"Potter St and Rockdale Ave",41.647616,-70.954521
+618,"Purchase St and Maxfield St",41.640783,-70.926984
+619,"Purchase St and Linden St",41.650280,-70.929088
+620,"Acushnet Ave and Hadley St",41.673331,-70.924004
+621,"Ashley Blvd and Phillips Ave",41.662667,-70.930206
+622,"N Main St and Cove St",41.723134,-71.144285
+623,"Brandon Woods",41.610991,-70.939409
+625,"NBHS - Liberty St Entrance",41.645943,-70.946251
+626,"Fairhaven South Coast Health",41.654595,-70.883519
+627,"MacArthur Dr and South St",41.625512,-70.920028
+630,"County St and Linden St",41.649861,-70.931259
+631,"Keith Middle School",41.646994,-70.949699
+647,"County St and Rockland St",41.623043,-70.924774
+648,"Union St and Acushnet Ave",41.634345,-70.924839
+649,"Pleasant St and Union St",41.633984,-70.926708
+650,"Pleasant St and Grinnell St",41.625438,-70.925151
+651,"Pleasant St and Mason St",41.630840,-70.926078
+652,"Pleasant St and Russell St",41.629069,-70.925810
+653,"S Second St and School St",41.632891,-70.923691
+654,"Pleasant St and Wing St",41.626995,-70.925435
+656,"County St and South St",41.624285,-70.924991
+658,"Pleasant St and Bedford St",41.628113,-70.925633
+659,"Jefferson St and Baird St",41.682037,-71.144787
+660,"Quarry St and Quequechan St",41.688950,-71.139256
+661,"Rodman St and Hartwell St",41.696184,-71.153872
+662,"Rodman St and Lowell St",41.693594,-71.150549
+663,"Jefferson St and Denver St",41.678923,-71.145700
+664,"Rodman St and Chicago St",41.678740,-71.151605
+665,"Swansea Crossing",41.754619,-71.213095
+666,"Swansea Walmart",41.754983,-71.219933
+667,"Mariano Bishop Blvd Stop & Shop",41.674519,-71.164528
+668,"Fall River Shopping Plaza",41.676909,-71.164321
+669,"Stafford Rd and America St",41.677881,-71.155300
+670,"Stafford Rd and Anthony St",41.673140,-71.153522
+671,"Bedford St and Johnson St",41.698361,-71.136456
+673,"S Main St and King Phillip St",41.683259,-71.175992
+674,"N Main St at Auto Zone",41.713591,-71.153089
+675,"Laurel St and Mitchell Dr",41.675347,-71.166222
+676,"Laurel St and Tower St",41.680487,-71.165103
+677,"Broadway and Middle St",41.693827,-71.168999
+678,"Broadway and Center St",41.690542,-71.169763
+679,"Brayton Point Ave and Merton St",41.735815,-71.168922
+680,"Brayton Point Ave and Winslow Ave",41.734613,-71.169939
+681,"Read St and Hot & Cold Ln",41.736984,-71.169421
+682,"Read St and Seaver Ave",41.738178,-71.175122
+684,"South Winds",41.756683,-71.118529
+685,"Columbia St and Eagle St",41.699544,-71.166128
+686,"William St and Howard St",41.698699,-71.171316
+687,"William St and Beach St",41.698232,-71.169030
+688,"New Boston Rd and Farnham St",41.710089,-71.138983
+689,"New Boston Rd and Kenyon St",41.710039,-71.128670
+690,"Bedford St and Seabury St",41.700650,-71.147939
+692,"E Main St and Palmer St",41.687457,-71.167065
+694,"Bristol Community College",41.720931,-71.121679
+695,"S Main St and Morgan St",41.697740,-71.159675
+696,"Columbia St and Washington St",41.698758,-71.160936
+697,"Shove St and Vernon St",41.676537,-71.179950
+698,"Rodman St and Grinnell St",41.685130,-71.149235
+699,"Brayton Ave and Lane St",41.684456,-71.156093
+700,"Bedford St and Seventeenth St",41.699401,-71.141929
+702,"S Main St and Slade St",41.685754,-71.173575
+703,"President Ave McDonald's",41.711975,-71.126863
+704,"E Main St and Globe St",41.685641,-71.167501
+705,"E Main St and Palmer St",41.687158,-71.166966
+706,"S Main St and Rockland St",41.690990,-71.165734
+707,"Fall River Walmart",41.686211,-71.142948
+708,"Brayton Point Ave and Lepes Rd",41.732693,-71.171783
+709,"Read St and Pleasant View Ave",41.739166,-71.179652
+710,"President Ave and Ray St",41.712927,-71.134868
+711,"Robeson St and President Ave",41.713883,-71.140865
+712,"N Main St and Pine St",41.704487,-71.154892
+713,"Columbia St and Union St",41.698603,-71.160050
+714,"S Main St and Division St",41.696464,-71.162102
+715,"S Main St and Hicks St",41.681235,-71.177457
+716,"Durfee St and Maple St",41.708737,-71.155862
+717,"Stafford Rd and Stockton St",41.674457,-71.153877
+718,"Four Winds",41.762561,-71.109307
+719,"Broadway and Griffin St",41.688854,-71.170446
+720,"Broadway and Middle St",41.693814,-71.168818
+722,"Laurel St and Aetna St",41.681807,-71.164908
+723,"Laurel St and Tucker St",41.678086,-71.165235
+724,"S Main St and Middle St",41.693482,-71.165002
+725,"Bay St and Morse Pl",41.688271,-71.182496
+726,"Rodman St and S Main St",41.698044,-71.158052
+727,"Dexter St and Highland Ave",41.727578,-71.134548
+728,"Bedford St and Covel St",41.698263,-71.135753
+729,"N Main St and Lincoln Ave",41.713128,-71.153246
+730,"Robeson St and Milton St",41.723949,-71.134864
+731,"S Main St and Osborne St",41.692206,-71.165174
+732,"Shove St and Broad St",41.674219,-71.180684
+733,"Rodman St and Albert St",41.681097,-71.150761
+734,"Robeson St and New Boston Rd",41.710997,-71.142031
+735,"Stafford Rd and Wood St",41.665605,-71.153801
+736,"Bedford St and Quarry St",41.699061,-71.140159
+737,"Pleasant St and Eastern Ave",41.687317,-71.130024
+738,"Laurel St and Dwelly St",41.682518,-71.164671
+739,"Save A-Lot",41.689984,-71.170184
+740,"John F Kennedy Terrace",41.737915,-71.173123
+741,"Robeson St and Bigelow St",41.709585,-71.142176
+742,"Robeson St and Walnut St",41.705743,-71.143686
+743,"Bay St and Chace St",41.690820,-71.177703
+744,"Bay St Turn Around",41.675468,-71.192032
+745,"S Main St and Sullivan Dr",41.700768,-71.155497
+746,"S Main St and Cottage St",41.695795,-71.162768
+747,"Robeson St and Hood St",41.716398,-71.139906
+748,"Jefferson St and Brayton Ave",41.682518,-71.144547
+749,"Rodman St and Brayton Ave",41.683587,-71.149727
+750,"Central St and Durfee St",41.702506,-71.156676
+751,"S Main St and Spring St",41.698937,-71.157756
+752,"Stafford Rd and Bright St",41.681278,-71.156668
+753,"Eastern Ave and County St",41.695254,-71.130668
+754,"S Main St and Middle St",41.693014,-71.164629
+755,"Columbia St and Canal St",41.699058,-71.162165
+756,"Linden St and Walnut St",41.706358,-71.147141
+757,"Columbia St and Mulberry St",41.699208,-71.164045
+758,"Dexter St and Robeson St",41.727050,-71.132873
+759,"Bedford St and Tremont St",41.699888,-71.144642
+760,"Highland Ave and Maple St",41.707615,-71.150026
+761,"Hanover St and Summerfield St",41.709406,-71.144333
+762,"Fall River Justice Center",41.699870,-71.156638
+763,"Robeson St and Mt Pleasant St",41.729443,-71.130839
+764,"Rodman St and Snell St",41.689590,-71.147574
+765,"Swansea Target",41.748849,-71.206789
+766,"3671 N Main St",41.745817,-71.126567
+767,"Stafford Rd and Tucker St",41.676436,-71.154778
+768,"John F Kennedy Terrace",41.737804,-71.173070
+769,"Bay St and Middle St",41.695461,-71.175936
+770,"Bay St and Shaw St",41.693355,-71.176967
+771,"N Main St and Hood St",41.717995,-71.148972
+772,"Warren St and Congress St",41.688190,-71.153914
+773,"S Main St and Middle St",41.693583,-71.165033
+774,"E Main St and Hamlet St",41.689711,-71.166159
+775,"Warren St and Foster St",41.688716,-71.156641
+776,"New Boston Rd and Garden St",41.709772,-71.135918
+777,"N Main St and Odd St",41.711027,-71.154376
+778,"Laurel St and Dwelly St",41.682429,-71.164863
+779,"Stafford Rd and Orswell St",41.679298,-71.155808
+780,"Bedford St and Wall St",41.698727,-71.138333
+781,"Broadway and Osborn St",41.692415,-71.169460
+782,"Robeson St and Locust St",41.704363,-71.143907
+784,"N Main St and Bank St",41.703014,-71.154984
+785,"New Boston Rd and Charlotte St",41.709795,-71.131622
+786,"S Main St and Osborne St",41.691605,-71.165253
+787,"E Main St and Peckham St",41.688151,-71.166699
+788,"Truesdale Clinic",41.713754,-71.139578
+789,"Robeson St and Albany St",41.722140,-71.136110
+790,"Bay St and Bradford Ave",41.697389,-71.174566
+791,"Durfee High School",41.714068,-71.127982
+792,"New Boston Rd and Robeson St",41.710549,-71.142302
+793,"Highland Ave and Calvin St",41.728399,-71.132367
+794,"Bedford St and Sixteenth St",41.699512,-71.142680
+795,"S Main St and Dwelly St",41.685265,-71.174337
+796,"S Main St and Hall St",41.686684,-71.172248
+797,"263 Stanley St",41.714691,-71.138269
+798,"Robeson St and Prospect St",41.707896,-71.142826
+799,"New Boston Rd and Elsbree St",41.709867,-71.129229
+800,"High St and Pine St",41.703986,-71.151599
+801,"Stafford Rd and Brayton Ave",41.684648,-71.157941
+802,"New Boston Rd and Garden St",41.709588,-71.136240
+803,"County St and Alsop St",41.684591,-71.123980
+804,"Globe St and Vale St",41.684972,-71.165195
+805,"Jefferson St and Cambridge St",41.684606,-71.143919
+806,"Bay St and Birch St",41.685666,-71.184469
+807,"William St and Broadway",41.698052,-71.167732
+808,"Robeson St and Summerfield St",41.708761,-71.142500
+809,"S Main St and Park St",41.694597,-71.163825
+810,"Jefferson St and Chicago St",41.677485,-71.146218
+811,"S Main St and Walter St",41.679988,-71.178341
+812,"Rodman St and Plymouth Ave",41.695766,-71.152710
+813,"Hanover St and Bigelow St",41.710141,-71.144122
+814,"Slades Ferry Blvd",41.726368,-71.158833
+815,"S Main St and Bradford Ave",41.695308,-71.163227
+816,"Lapham St and Cambridge St",41.686470,-71.153196
+817,"Lapham St and Cambridge St",41.686694,-71.153311
+818,"Broadway and Osborn St",41.692362,-71.169277
+819,"N Main St and Dewey St",41.742389,-71.128226
+820,"President Village",41.714336,-71.136350
+821,"New Boston Rd and Robeson St",41.710510,-71.141999
+822,"Linden St and Maple St",41.707247,-71.146835
+823,"Rodman St and Warren St",41.687145,-71.148485
+824,"Bedford St and Robeson St",41.700093,-71.145063
+825,"N Main St and Haskell St",41.734880,-71.133415
+826,"Cardinal Medeiros Towers",41.714871,-71.139360
+827,"Gold Medal Bakery",41.683274,-71.186390
+828,"Rodman St and Plymouth Ave",41.695654,-71.152785
+829,"Robeson St and Florence St",41.719213,-71.137913
+830,"Highland Ave and Belmont St",41.708990,-71.148414
+831,"Bay St and Globe St",41.689644,-71.180552
+832,"S Main St and Mt Hope Ave",41.677131,-71.180513
+833,"Quequechan St and Alden St",41.689699,-71.138212
+834,"Warren St and Plymouth Ave",41.689239,-71.159177
+835,"Catholic Social Services",41.680597,-71.188237
+836,"Elsbree St and Langley St",41.718327,-71.124321
+837,"N Main St and President Ave",41.715542,-71.151440
+838,"Laurel St and Amity St",41.672896,-71.167024
+839,"Amity St and McMahon St",41.672405,-71.164106
+840,"Mechanics Cooperative Bank",41.701733,-71.153912
+841,"Canning Blvd and Aquidneck Dr",41.663979,-71.154955
+842,"Jefferson St and Grinell St",41.683895,-71.143887
+843,"Brayton Point Ave and Merton St",41.735872,-71.169063
+844,"Robeson St and Albany St",41.721779,-71.136217
+845,"Robeson St and Dexter St",41.726815,-71.132725
+846,"Robeson St and Valentine St",41.725599,-71.133556
+847,"Bay St and Mt Hope Ave",41.679069,-71.189568
+848,"Bay St and Woodman St",41.680559,-71.188462
+849,"William St and Broadway",41.698186,-71.167966
+850,"New Boston Rd and Eastern Ave",41.709352,-71.125263
+852,"Ray St and Stanley St",41.713909,-71.134175
+854,"Robeson St and Langley St",41.720592,-71.136948
+855,"Rodman St and Hartwell St",41.696077,-71.153354
+856,"Rodman St and Lowell St",41.693574,-71.150357
+857,"Broadway and Globe St",41.687779,-71.171168
+859,"Lapham St and Warren St",41.687799,-71.152903
+860,"S Main St and Benjamin St",41.683989,-71.175286
+861,"S Main St and Broad St",41.674619,-71.183279
+862,"S Main St and Charles St",41.682157,-71.176575
+863,"S Main St and Dwelly St",41.684771,-71.174497
+865,"S Main St and Hart St",41.679009,-71.178825
+866,"S Main St and Hicks St",41.681232,-71.177248
+867,"S Main St and Howe St",41.679585,-71.178460
+868,"S Main St and Howland St",41.675974,-71.181711
+869,"S Main St and Slade St",41.685629,-71.173420
+870,"Jefferson St and Denver St",41.679109,-71.145826
+871,"Jefferson St and Glasgow St",41.680641,-71.145249
+872,"Kennedy St and Jefferson St",41.676162,-71.146907
+873,"Jefferson St and Russell St",41.680251,-71.145209
+874,"Kennedy St and Jefferson St",41.676021,-71.146969
+875,"Kennedy St and Renaud St",41.676525,-71.149071
+876,"Kennedy St and Renaud St",41.676418,-71.149094
+877,"Kennedy St and Rodman St",41.677061,-71.151789
+878,"Rodman St and Albert St",41.680831,-71.150683
+879,"Rodman St and Brayton Ave",41.683669,-71.149482
+880,"Rodman St and Buffinton St",41.688123,-71.148010
+881,"Rodman St and Chicago St",41.678383,-71.151469
+882,"Rodman St and Grinnell St",41.684764,-71.149158
+883,"Rodman St and Kennedy St",41.677153,-71.152121
+884,"Rodman St and Salem St",41.691133,-71.147925
+885,"S Main St and Rockland St",41.690944,-71.165599
+886,"Globe St and Plymouth Ave",41.684851,-71.163869
+887,"Laurel St and Tower St",41.680499,-71.165266
+888,"Brayton Ave and Grace St",41.684114,-71.154230
+889,"Brayton Ave and Nancy St",41.684710,-71.156153
+890,"Stafford Rd and Anthony St",41.673328,-71.153727
+891,"Stafford Rd and Ames St",41.674736,-71.154166
+892,"Stafford Rd and Bright St",41.681077,-71.156399
+893,"Stafford Rd and Chicago St",41.679274,-71.155606
+894,"Stafford Rd and Dickinson St",41.669303,-71.153875
+895,"Stafford Rd and Globe St",41.684133,-71.157896
+896,"Stafford Rd and Grattan St",41.676466,-71.154588
+897,"Stafford Rd and Hancock St",41.664296,-71.153530
+898,"Stafford Rd and Hawthorne St",41.667426,-71.154008
+899,"Stafford Rd and Kennedy St",41.677913,-71.155102
+900,"Quarry St and Hargraves St",41.692062,-71.139539
+902,"Bedford St and Davis St",41.699617,-71.142752
+904,"Bedford St and N Quarry St",41.699121,-71.139949
+905,"Bedford St and Orange St",41.699794,-71.143608
+906,"Bedford St at 17th St",41.699437,-71.141750
+907,"Bedford St and Wall St",41.698815,-71.138151
+908,"County St and Barnes St",41.689989,-71.126964
+909,"County St and Eaton St",41.687205,-71.125217
+910,"County St and Horton St",41.688762,-71.126132
+911,"County St and McClosky St",41.692701,-71.129273
+912,"County St and Middlesex St",41.688007,-71.125701
+913,"County St and Pleasant St",41.682584,-71.123560
+915,"Eastern Ave and Downing St",41.695614,-71.131074
+919,"Pleasant St and Barlow St",41.685526,-71.127812
+920,"Pleasant St and Irving St",41.685918,-71.128270
+921,"Pleasant St and Roper St",41.684224,-71.126162
+922,"S Main St and Middle St",41.693212,-71.164721
+923,"Pleasant St and Quarry St",41.695204,-71.139935
+924,"Pleasant St Price Rite",41.695976,-71.141122
+925,"Laurel St and Tucker St",41.678343,-71.165310
+926,"N Main St and Weetmoe St",41.719235,-71.147520
+927,"Bay St and Sachem St",41.694466,-71.176679
+928,"400 Stanley St",41.714192,-71.134829
+929,"Bishop Connolly High School",41.716812,-71.125592
+930,"Bay St and Friendship St",41.690314,-71.179362
+931,"Bay St and Slade St",41.687715,-71.183184
+932,"Broadway and Freedom St",41.689741,-71.170098
+933,"New Boston Rd and Acacia St",41.709720,-71.133120
+935,"New Boston Rd and Farnham St",41.709994,-71.139172
+937,"E Main St and Peckham St",41.688352,-71.166752
+938,"Highland Ave and Herman St",41.730836,-71.129553
+939,"Robeson St and Weetamoe St",41.717269,-71.139156
+940,"Bay St and Birch St",41.685812,-71.184589
+941,"Gold Medal Bakery",41.683697,-71.186312
+942,"Truesdale Clinic",41.713951,-71.139745
+943,"E Main St and Globe St",41.685571,-71.167649
+944,"Warren St and Foster St",41.688662,-71.156805
+945,"Plymouth Ave and Second St",41.690635,-71.158858
+946,"E Main St and Hamlet St",41.689715,-71.166340
+947,"Laurel St and Aetna St",41.681992,-71.165092
+948,"Plymouth Ave and Nashua St",41.694287,-71.153935
+949,"Warren St and Oxford St",41.688078,-71.153927
+950,"Broadway and Griffin St",41.689138,-71.170590
+951,"Globe St and Vale St",41.685116,-71.165169
+952,"Warren St and Plymouth Ave",41.689056,-71.159186
+953,"Jefferson St and Brayton Ave",41.682131,-71.144559
+954,"South Coast Marketplace",41.671165,-71.155493
+955,"Quarry St and Lebanon St",41.690802,-71.139395
+956,"Seabra Market",41.682167,-71.155381
+957,"Broadway and Center St",41.690816,-71.169938
+958,"Broadway and Rockland St",41.691327,-71.169558
+959,"Broadway and Rockland St",41.691610,-71.169683
+960,"Rodman St and Buffinton St",41.688168,-71.148141
+961,"Rodman St and Warren St",41.686777,-71.148418
+962,"Brayton Point Ave and Anelia Ave",41.733887,-71.170754
+963,"Brayton Point Ave and Winslow Av",41.734759,-71.169997
+966,"Read St and Antrim St",41.738495,-71.176592
+967,"Read St and Chateau Dr",41.738564,-71.176368
+968,"Read St and Franklin Rd",41.737386,-71.170587
+969,"Read St and Franklin Rd",41.737214,-71.170696
+970,"Read St and Hot & Cold Ln",41.736971,-71.169011
+971,"Read St and Pleasant View Ave",41.739239,-71.179406
+972,"Read St and Sherman Rd",41.738301,-71.174583
+974,"Somerset Stop & Shop",41.729870,-71.170804
+975,"3555 N Main St",41.744140,-71.126953
+976,"Airport Rd Holiday Inn Express",41.752500,-71.117050
+977,"Durfee St and Cedar St",41.709554,-71.155801
+978,"Durfee St and Cherry St",41.705871,-71.156219
+979,"Durfee St and Elm St",41.704041,-71.156439
+980,"Durfee St and Odd St",41.711209,-71.155489
+981,"Durfee St and Walnut St",41.707714,-71.155921
+982,"N Main St Shopping Plaza",41.753081,-71.120513
+983,"N Main St and Ashley St",41.739439,-71.130578
+984,"N Main St and Canedy St",41.733487,-71.135037
+985,"N Main St and Baldwin St",41.736488,-71.132896
+986,"N Main St and Baldwin St",41.736630,-71.132974
+987,"N Main St and Brownell St",41.716936,-71.150083
+988,"N Main St and Brownell St",41.716728,-71.150053
+989,"N Main St and Canedy St",41.733585,-71.134661
+990,"N Main St and Cove St",41.723180,-71.144056
+991,"N Main St and Dewey St",41.742431,-71.127907
+992,"N Main St and Haskell St",41.734917,-71.133638
+993,"N Main St and Herman St",41.732529,-71.136287
+994,"N Main St and Herman St",41.732353,-71.136168
+995,"N Main St and Hood St",41.717794,-71.149020
+996,"N Main St and Jones St",41.725196,-71.141903
+997,"N Main St and Maple St",41.708346,-71.154443
+998,"N Main St and Pearce St",41.714586,-71.152034
+999,"N Main St and President Ave",41.715742,-71.151026
+1000,"N Main St and Saint James St",41.721768,-71.145280
+1001,"N Main St and Sidney St",41.737736,-71.132070
+1002,"N Main St and Sidney St",41.737557,-71.132461
+1003,"N Main St and Turner St",41.712217,-71.153961
+1004,"N Main St and Weaver St",41.727220,-71.139688
+1005,"N Main St and Weetmoe St",41.719143,-71.147888
+1006,"N Main St and Wilson Rd",41.741063,-71.129338
+1007,"N Main St and Wilson Rd",41.740555,-71.129590
+1010,"N Main St at Clearview Pl",41.749965,-71.123546
+1011,"N Main St and Saint James St",41.721717,-71.145433
+1012,"N Main St and Country Club Rd",41.752466,-71.121195
+1013,"N Main St Shaw's",41.751048,-71.121094
+1015,"S Main St and Morgan St",41.697321,-71.160072
+1016,"S Main St and Park St",41.694214,-71.163965
+1017,"Highland Apartments",41.727956,-71.133677
+1018,"Cardinal Medeiros Towers",41.714933,-71.138772
+1019,"Dexter St and Highland Ave",41.727453,-71.134570
+1021,"Highland Ave and Mt Pleasant St",41.729773,-71.130745
+1022,"Highland Apartments",41.728051,-71.133769
+1023,"Highland Ave at Royal Crest Estates",41.733735,-71.127690
+1024,"Highland Ave at Royal Crest Estates",41.733695,-71.128003
+1025,"Ship's Watch Apartments",41.749477,-71.123684
+1026,"Ray St and President Ave",41.713093,-71.134531
+1027,"Robeson St and Bedford St",41.700703,-71.145112
+1028,"Robeson St and Bedford St",41.700588,-71.145448
+1030,"Robeson St and Florence St",41.719531,-71.137860
+1031,"Robeson St and Hood St",41.716152,-71.139873
+1032,"Robeson St and Locust St",41.704301,-71.144053
+1033,"Robeson St and Maple St",41.706654,-71.143478
+1034,"Robeson St and Maple St",41.706357,-71.143276
+1035,"Robeson St and Pearce St",41.712409,-71.141338
+1036,"Robeson St and Pine St",41.702955,-71.144642
+1037,"Robeson St and President Ave",41.713731,-71.141094
+1039,"Robeson St and Stanley St",41.715473,-71.140497
+1040,"Robeson St and Summerfield St",41.709140,-71.142573
+1041,"Robeson St and Valentine St",41.725944,-71.133502
+1042,"Robeson St and Walnut St",41.705404,-71.143615
+1043,"Robeson St and Weetamoe St",41.717528,-71.139165
+1044,"Stanley St and Robeson St",41.715173,-71.140079
+1045,"Lapham St and Brayton Ave",41.684425,-71.153843
+1046,"Plymouth Ave and Lyons St",41.692243,-71.157644
+1047,"258 Quequechan St",41.691331,-71.137769
+1048,"Bay St and Prince St",41.677181,-71.190939
+1049,"William St and Almond St",41.698553,-71.170550
+1050,"Bay St and Bradford Ave",41.697449,-71.174676
+1051,"Bay St and Byron St",41.677851,-71.190389
+1052,"Bay St and Charles St",41.683967,-71.185931
+1053,"Bay St and Friendship St",41.690256,-71.179191
+1054,"Bay St and Globe Mills Ave",41.691575,-71.177587
+1055,"Bay St and Globe St",41.689832,-71.180535
+1056,"Bay St and Middle St",41.695647,-71.176018
+1057,"Bay St and Morse Pl",41.688339,-71.182621
+1058,"Bay St and Mt Hope Ave",41.678655,-71.189621
+1059,"Bay St and Slade St",41.687357,-71.183212
+1060,"President Ave McDonald's",41.711849,-71.126897
+1061,"Charlton Memorial Hospital",41.710150,-71.147143
+1062,"Linden St and Locust St",41.705421,-71.147466
+1064,"New Boston Rd and Hanover St",41.710848,-71.143931
+1065,"Charlton Memorial Hospital",41.708766,-71.146074
+1066,"N Main St and Locust St",41.706369,-71.154674
+1067,"Durfee St and Bank St",41.703253,-71.156615
+1068,"N Main St and Weaver St",41.727287,-71.139878
+1069,"S Main St and Birch St",41.684161,-71.175388
+1071,"Ocean State Job Lot",41.671799,-71.162114
+1074,"Amazon",41.761698,-71.097762
+1075,"Riggenbach Rd and Currant Rd",41.745020,-71.101640
+1076,"Catholic Memorial Home",41.734678,-71.127682
+1077,"Rodman St Stop and Shop",41.694472,-71.151447
+1078,"Rodman St Stop and Shop",41.694462,-71.151230
+1079,"Plymouth Ave and Slade St",41.683718,-71.164170
+1105,"County St and Division St",41.618051,-70.922659
+1106,"County St and Winsor St",41.619381,-70.923339
+1108,"Fairhaven Walmart",41.645071,-70.887739
+1111,"Atlantic Charter School",41.670215,-71.144809
+1113,"Plymouth Ave and Tecumseh St",41.692160,-71.157319
+1114,"Hartwell St and Brow St",41.697306,-71.153004
+1115,"Dartmouth St and Palmer St",41.601157,-70.941399
+1138,"PrimaCare Medical Center Somerset",41.726338,-71.158859
+1139,"Park St and Hillman St",41.638640,-70.939073
+1143,"Huttleston Ave and Holcomb St",41.644786,-70.897678
+1144,"Acushnet Ave and Medeiros Ct",41.725247,-70.939139
+1145,"Church St and Amanda Ave",41.698429,-70.942600
+1146,"Shawmut Ave and Mt Vernon St",41.651223,-70.942807
+1149,"Robeson St and Pine St",41.702563,-71.144518
+1150,"N Main St Elks Lodge",41.755267,-71.119406
+1151,"New Boston Rd and Burke St",41.709841,-71.133339
+1152,"Elsbree St and Langley St",41.718618,-71.124348
+1153,"South Coast Landings",41.759798,-71.114020
+1154,"N Main St and Ashley St",41.739325,-71.130507
+1155,"N Main St and Jones St",41.725156,-71.142159
+1156,"New Boston Rd and Robeson St",41.710594,-71.141979
+1157,"Airport Rd and Sykes Rd",41.747518,-71.114247
+1159,"Airport Rd and Graham Rd",41.745820,-71.106910
+1161,"Currant Rd and Graham Rd",41.741546,-71.107868
+1163,"Logan St and Acushnet Ave",41.651387,-70.927588
+1164,"Logan St and Acushnet Ave",41.651481,-70.927441
+1165,"Acushnet Co. Ball Plant 2",41.720080,-70.970507
+1166,"Commerce Dr",41.757700,-71.108190
+1167,"Parker St and Hathaway Blvd",41.642460,-70.948365
+1169,"Acushnet Ave and Beverly St",41.720867,-70.937001
+1170,"Seabury St and Pine St",41.703109,-71.147118
+1173,"Columbia St and Eagle St",41.699608,-71.165768
+1174,"Columbia St and Mulberry St",41.699300,-71.163667
+1177,"Bank St and High St",41.702321,-71.152143
+1178,"S Main St and Rodman St",41.698117,-71.158844
+1180,"Southcoast Marketplace",41.672080,-71.158842
+1181,"Sawyer St and Acushnet Ave",41.657771,-70.926950
+1188,"Cleveland St and Fredrick St",41.609937,-70.910223
+1189,"Bay St and Prince St",41.676845,-71.191029
+1190,"Durfee High School Gymnasium",41.714958,-71.129244
+1194,"NB11 End of Line Stop",41.640793,-70.878591
+1198,"David St End of Line",41.613639,-70.912169
+1199,"Child and Family Services",41.692909,-70.941452
+1203,"Martin Court",41.747828,-71.194751
+1204,"David St and Brock Ave",41.612731,-70.915637
+1205,"Swansea Mall Exit",41.752110,-71.214664
+1206,"Read St and Lees River Ave",41.739671,-71.181793
+1207,"Brock Ave and Harmony St",41.613965,-70.918189
+1208,"Route 6 & North St",41.663731,-70.812630
+1209,"Route 6 & North St",41.663911,-70.812711
+1210,"Route 6 & Front St",41.715187,-70.770048
+1211,"Route 6 & Front St",41.715283,-70.770220
+1212,"Cranberry Plaza",41.758076,-70.663381
+1213,"Wareham Multi-Service Center",41.759483,-70.722965
+1214,"Shaws - Wareham",41.759247,-70.729130
+1215,"Ann & Hope Plaza",41.642547,-70.988281
