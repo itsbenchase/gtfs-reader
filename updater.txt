@@ -1,1 +1,1 @@
-ca-nctd;https://lfportal.nctd.org/staticGTFS/google_transit.zip
+mts;https://www.sdmts.com/google_transit_files/google_transit.zip

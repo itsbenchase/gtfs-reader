@@ -2,6 +2,8 @@ ca-bbb;https://gtfs.bigbluebus.com/current.zip
 ca-culver;https://www.culvercity.org/files/assets/public/documents/information-technology/maps/gtfsexport.zip
 ca-foothill;https://foothilltransit.rideralerts.com/myStop/GTFS-Zip.ashx
 ca-gtrans;https://ridegtrans.com/gtfs.zip
+mts;https://www.sdmts.com/google_transit_files/google_transit.zip
+ca-nctd;https://lfportal.nctd.org/staticGTFS/google_transit.zip
 ca-octa;https://www.octa.net/current/google_transit.zip
 cta;
 cttransit;
