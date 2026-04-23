@@ -62,8 +62,8 @@ async function getAllAgencies()
 
 // --- 3. DATA LOADING ---
 async function loadAgency(agencyId) {
-    const tripUrl = `https://localtransit.app/${agencyId}_trips.txt`;
-    const stopUrl = `https://localtransit.app/${agencyId}_stops.txt`;
+    const tripUrl = `https://localtransit.app/trips/${agencyId}_trips.txt`;
+    const stopUrl = `https://localtransit.app/stops/${agencyId}_stops.txt`;
 
     // Fetch Trips
     const tripText = await fetch(tripUrl).then(r => r.text());

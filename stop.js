@@ -32,7 +32,7 @@ function funct()
   agency = parsedUrl.searchParams.get(paramName2);
 
   // 1. Define the URL for your agency's trips file
-  const testAgencyUrl = (agency + "_trips.txt");
+  const testAgencyUrl = ("trips/" + agency + "_trips.txt");
   
   fetch(testAgencyUrl)
     .then(r => r.text())
@@ -78,7 +78,7 @@ function funct()
 }
 
 function getStops(result) {
-  const stopUrl = (agency + "_stops.txt");
+  const stopUrl = ("stops/" + agency + "_stops.txt");
   fetch(stopUrl)
     .then(r => r.text())
     .then((text) => {

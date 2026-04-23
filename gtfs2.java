@@ -463,7 +463,7 @@ public class gtfs2
         // this is where the new reader formatting begins
 
         // new trip file - trip_id, route, headsign, days of week, stop_ids, stop_times --- other code would need reference to names and locations?
-        try (BufferedWriter tripFileWriter = new BufferedWriter(new FileWriter(agency + "_trips.txt"))) {
+        try (BufferedWriter tripFileWriter = new BufferedWriter(new FileWriter("trips/" + agency + "_trips.txt"))) {
             
             // --- STEP 1: MAP SERVICE DAYS (OUTSIDE LOOP) ---
             Map<String, List<Integer>> serviceToDays = new HashMap<>();
@@ -522,7 +522,7 @@ public class gtfs2
 
         // new route file - route_id, trip_ids, days of week
         try {
-            File routeFile = new File(agency + "_routes.txt");
+            File routeFile = new File("routes/" + agency + "_routes.txt");
             // Use BufferedWriter for significantly better performance
             BufferedWriter writer = new BufferedWriter(new FileWriter(routeFile));
 
@@ -595,7 +595,7 @@ public class gtfs2
 
         // new stop file - id, name, lat, lon
         try {
-            File stopsFile = new File(agency + "_stops.txt");
+            File stopsFile = new File("stops/" + agency + "_stops.txt");
             // Use BufferedWriter for significantly better performance
             BufferedWriter writer = new BufferedWriter(new FileWriter(stopsFile));
 

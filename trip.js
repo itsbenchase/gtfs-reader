@@ -29,7 +29,7 @@ function funct()
   var paramName2 = 'agency';
   agency = parsedUrl.searchParams.get(paramName2);
   
-  const testAgencyUrl = (agency + "_trips.txt"); // provide file location
+  const testAgencyUrl = ("trips/" + agency + "_trips.txt"); // provide file location
     fetch(testAgencyUrl)
       .then(r => r.text())
       .then((text) => {
@@ -63,7 +63,7 @@ function funct()
 }
 
 function getStops(result) {
-  const stopUrl = (agency + "_stops.txt");
+  const stopUrl = ("stops/" + agency + "_stops.txt");
   fetch(stopUrl)
     .then(r => r.text())
     .then((text) => {
