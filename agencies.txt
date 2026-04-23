@@ -1,7 +1,5 @@
 ma-brta;https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip
 ma-bat;https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
-ma-cata;https://data.trilliumtransit.com/gtfs/capeann-ma-us/capeann-ma-us.zip
 ma-ccrta;https://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip
 ma-frta;https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip
-ma-mart;https://data.trilliumtransit.com/gtfs/montachusett-ma-us/montachusett-ma-us.zip
 ma-srta;https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
