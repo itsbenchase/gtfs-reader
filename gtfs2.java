@@ -366,7 +366,15 @@ public class gtfs2
                             
                             if (index != null && columns[timeIndex].length() > 0) {
                                 tripIDtimes.add(tripID);
-                                departuretimes.add(columns[timeIndex].substring(0, 5));
+
+                                if (columns[timeIndex].substring(4, 5) == ":") // times before 10 am that agencies don't put leading zero for
+                                {
+                                    departuretimes.add("0" + columns[timeIndex].substring(0, 4));
+                                }
+                                else
+                                {
+                                    departuretimes.add(columns[timeIndex].substring(0, 5));
+                                }
                                 stopIDtimes.add(columns[stopIndex]);
 
                                 if (stopHeadIndex != -1 && columns[stopHeadIndex].length() > 1)

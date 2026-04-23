@@ -12,7 +12,7 @@ public class Update
 
     try
     {
-      Scanner s = new Scanner(new File("agencies.txt"));
+      Scanner s = new Scanner(new File("updater.txt"));
       while (s.hasNextLine())
       {
         String data = s.nextLine();
