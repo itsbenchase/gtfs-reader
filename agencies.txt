@@ -9,6 +9,7 @@ ca-nctd;https://lfportal.nctd.org/staticGTFS/google_transit.zip
 ca-octa;https://www.octa.net/current/google_transit.zip
 cta;
 cttransit;
+kcm;http://metro.kingcounty.gov/GTFS/google_transit.zip
 lacmta;https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip
 lrta;
 ma-brta;https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip
