@@ -12,6 +12,7 @@ import java.net.URL;
 import java.util.zip.ZipInputStream;
 import java.util.zip.ZipEntry;
 import java.time.LocalDate;
+import java.util.Comparator;
 
 // 2026 reader style update
 // version connected to the web
@@ -388,6 +389,8 @@ public class gtfs2
             tripIndexMap.put(tripIDtrip.get(i), i);
         }
 
+        List<StopTime> stopTimeList = new ArrayList<>();
+
         try {
             URL url = new URL(zipUrl);
             ZipInputStream zis = new ZipInputStream(url.openStream());
@@ -409,8 +412,8 @@ public class gtfs2
                     int stopIndex = -999;
                     int stopHeadIndex = -999;
 
-                    while ((line = br.readLine()) != null) {
-                        
+                    while ((line = br.readLine()) != null)
+                    {    
                         String cleanLine = line.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
                         cleanLine = cleanLine.replace("\"", ""); // replace quotes
                         String [] columns = cleanLine.split(",");
@@ -427,36 +430,46 @@ public class gtfs2
 
                             count++;
                         }
-                        else
-                        {
+                        else {
                             String tripID = columns[tripIndex];
                             Integer index = tripIndexMap.get(tripID);
                             
                             if (index != null && columns[timeIndex].length() > 0) {
-                                tripIDtimes.add(tripID);
-
-                                if (columns[timeIndex].substring(4, 5).equals(":")) // times before 10 am that agencies don't put leading zero for
-                                {
-                                    departuretimes.add("0" + columns[timeIndex].substring(0, 4));
+                                String formattedTime;
+                                
+                                // Your existing time formatting logic
+                                if (columns[timeIndex].substring(4, 5).equals(":")) {
+                                    formattedTime = "0" + columns[timeIndex].substring(0, 4);
+                                } else {
+                                    formattedTime = columns[timeIndex].substring(0, 5);
                                 }
-                                else
-                                {
-                                    departuretimes.add(columns[timeIndex].substring(0, 5));
-                                }
-                                stopIDtimes.add(columns[stopIndex]);
 
-                                if (stopHeadIndex != -1  && columns.length > stopHeadIndex && columns[stopHeadIndex].length() > 1)
-                                {
+                                // Add to our object list instead of 3 separate lists
+                                stopTimeList.add(new StopTime(tripID, formattedTime, columns[stopIndex]));
+
+                                // Handle the headsign update as you were before
+                                if (stopHeadIndex != -1 && columns.length > stopHeadIndex && columns[stopHeadIndex].length() > 1) {
                                     headsigntrip.set(index, columns[stopHeadIndex]);
                                 }
                             }
-
                             count++;
                             if (count % 10000 == 0) { // Increased frequency for large files
+
                                 System.out.println("Stop times processed: " + count);
+
                             }
                         }
                     }
+
+                    stopTimeList.sort(Comparator.comparing(StopTime::getDepartureTime));
+
+                    // Optional: If you strictly need those original separate lists for the rest of your app:
+                    for (StopTime st : stopTimeList) {
+                        tripIDtimes.add(st.tripId);
+                        departuretimes.add(st.departureTime);
+                        stopIDtimes.add(st.stopId);
+                    }
+
                     break; // Found and processed the file, exit loop
                 }
             }
@@ -704,5 +717,21 @@ class TripData {
         this.id = id;
         this.time = time;
         this.days = days;
+    }
+}
+
+class StopTime {
+    String tripId;
+    String departureTime;
+    String stopId;
+
+    StopTime(String tripId, String departureTime, String stopId) {
+        this.tripId = tripId;
+        this.departureTime = departureTime;
+        this.stopId = stopId;
+    }
+
+    public String getDepartureTime() {
+        return departureTime;
     }
 }
