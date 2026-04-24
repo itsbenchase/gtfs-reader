@@ -18,6 +18,7 @@ ma-frta;https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip
 ma-srta;https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
 mbta;
 meva;
+metromsp;https://svc.metrotransit.org/mtgtfs/gtfs.zip
 muni;
 njt;
 pace;

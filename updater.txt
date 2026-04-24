@@ -1,1 +1,1 @@
-ca-torrance;https://transit.torranceca.gov/home/showdocument?id=16673
+metromsp;https://svc.metrotransit.org/mtgtfs/gtfs.zip
