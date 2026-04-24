@@ -17,47 +17,43 @@ const CHUNK_SIZE = 1000;
 
 // --- 2. INITIALIZATION FLOW ---
 async function init() {
-
     var parsedUrl = new URL(document.URL);
-    console.log(parsedUrl);
-
-    var paramName2 = 'agency';
-    var agencyString = parsedUrl.searchParams.get(paramName2);
+    var agencyString = parsedUrl.searchParams.get('agency');
     
-    if (agencyString == "all")
-    {
+    if (agencyString === "all") {
+        // Correctly wait for the file to be fetched and parsed
         await getAllAgencies();
+    } else if (agencyString) {
+        agencies = agencyString.split(",");
     }
-    else { agencies = agencyString.split(","); } // agencies from URL as agency1,agency2,agency3
 
-    // Loop through each agency and wait for data to load
+    // Now agencies will actually have data
     for (const agencyId of agencies) {
         console.log(`Loading ${agencyId}...`);
         await loadAgency(agencyId);
     }
     
-    console.log("All data loaded. Indexing...");
     createMasterIndex();
-    
-    console.log("Starting Map...");
     mapFunct();
 }
 
-async function getAllAgencies()
-{
-    const agenciesTxt = ("agencies.txt"); // provide file location
-    fetch(agenciesTxt)
+async function getAllAgencies() {
+    const agenciesTxt = "agencies.txt"; 
+    // Return the fetch promise so we can await it
+    return fetch(agenciesTxt)
       .then(r => r.text())
       .then((text) => {
         const agencyUrlFile = text.split("\n");
-        agencyUrlFile.pop();
+        // Clear agencies to be safe
+        agencies = []; 
 
-        for (let i = 0; i < agencyUrlFile.length; i++)
-        {
-          var data = agencyUrlFile[i];
-          agencies.push(data.substring(0, data.indexOf(";")));
+        for (let i = 0; i < agencyUrlFile.length; i++) {
+          var data = agencyUrlFile[i].trim();
+          if (data.includes(";")) {
+            agencies.push(data.substring(0, data.indexOf(";")));
+          }
         }
-      })
+      });
 }
 
 // --- 3. DATA LOADING ---
