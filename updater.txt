@@ -1,1 +1,1 @@
-metromsp;https://svc.metrotransit.org/mtgtfs/gtfs.zip
+ca-octa;https://www.octa.net/current/google_transit.zip
