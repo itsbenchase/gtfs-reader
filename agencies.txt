@@ -4,6 +4,7 @@ ca-foothill;https://foothilltransit.rideralerts.com/myStop/GTFS-Zip.ashx
 ca-gtrans;https://ridegtrans.com/gtfs.zip
 ca-montebello;https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx
 mts;https://www.sdmts.com/google_transit_files/google_transit.zip
+ca-lbt;https://drive.google.com/uc?export=download&id=1869EVa1z6m_iD6QmvRXyTHtYiaSUBROl
 ca-nctd;https://lfportal.nctd.org/staticGTFS/google_transit.zip
 ca-octa;https://www.octa.net/current/google_transit.zip
 cta;

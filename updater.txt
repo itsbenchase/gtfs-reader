@@ -1,1 +1,1 @@
-ca-montebello;https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx
+ca-torrance;https://transit.torranceca.gov/home/showdocument?id=16673
