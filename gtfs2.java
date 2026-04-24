@@ -305,9 +305,13 @@ public class gtfs2
                                 String routeIDtemp = data[routeIndex];
                                 for (int x = 0; x < routeID.size(); x++)
                                 {
-                                    if (routeIDtemp.equals(routeID.get(x)))
+                                    if (routeIDtemp.equals(routeID.get(x)) && routeName.get(x).length() > 0)
                                     {
                                         routeIDtrip.add(routeName.get(x));
+                                    }
+                                    else
+                                    {
+                                        routeIDtrip.add(routeIDtemp);
                                     }
                                 }
 

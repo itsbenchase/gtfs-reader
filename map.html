@@ -2,7 +2,7 @@
 <!-- css for the legend -->
 <style>
 
-a, span
+a, span, div
 {
   font-family: sourcesans;
   font-size: 16px;
@@ -36,12 +36,12 @@ a, span
     width: 10px;
 }
 </style>
-<title>ben made a gtfs reader</title>
+<title>localtransit.app</title>
 <link href='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css' rel='stylesheet' />
 <script src='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js'></script>
 <script src="shared.js"></script>
 <script src="map.js"></script>
-<body onload=funct()>
+<body onload=init()>
 
 <div id="map" style="height: 100%; width: 100%;"></div>
 <div id="state-legend" class="legend">
