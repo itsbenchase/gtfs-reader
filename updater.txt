@@ -1,1 +1,1 @@
-mts;https://www.sdmts.com/google_transit_files/google_transit.zip
+ca-montebello;https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx

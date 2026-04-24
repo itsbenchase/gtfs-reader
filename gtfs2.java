@@ -134,6 +134,12 @@ public class gtfs2
                     // Formatter for GTFS date format: YYYYMMDD
                     DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyyMMdd");
 
+                    // Track the overall date range found in the file
+                    int minDateFound = Integer.MAX_VALUE;
+                    int maxDateFound = Integer.MIN_VALUE;
+
+                    Map<String, boolean[]> serviceDayMap = new HashMap<>();
+
                     while (s.hasNextLine()) {
                         String line = s.nextLine();
                         if (z == 0) {
@@ -144,37 +150,51 @@ public class gtfs2
                             z++;
                         } else {
                             String[] data = line.split(",");
+                            String serviceId = data[serviceIndex];
                             String rawDate = data[dateIndex];
+                            int dateValue = Integer.parseInt(rawDate);
                             int type = Integer.parseInt(data[exceptionIndex]);
 
-                            // We only care about type 1 (service added) for date-based schedules
+                            if (rawDate.equals("20260525")) // skipping holiday service
+                            {
+                                continue; 
+                            }
+
+                            // Only process "service added" entries
                             if (type == 1) {
+                                // Update the dynamic range based on current agency feed
+                                if (dateValue < minDateFound) minDateFound = dateValue;
+                                if (dateValue > maxDateFound) maxDateFound = dateValue;
+
                                 try {
-                                    // Convert GTFS string to a Date object to find the day of week
                                     LocalDate date = LocalDate.parse(rawDate, formatter);
-                                    int dayOfWeek = date.getDayOfWeek().getValue(); // 1 (Mon) to 7 (Sun)
-                                    
-                                    serviceIDcal.add(data[serviceIndex]);
-                                    calStart.add(Integer.parseInt(rawDate));
-                                    calEnd.add(Integer.parseInt(rawDate));
+                                    int dayIdx = date.getDayOfWeek().getValue() - 1; // 0=Mon, 6=Sun
 
-                                    // Initialize all days to "0" first
-                                    String[] weekStatus = {"0", "0", "0", "0", "0", "0", "0"};
-                                    
-                                    // Set "1" only for the specific day this date falls on
-                                    // LocalDate uses 1 for Monday, so we use dayOfWeek - 1 for your 0-indexed array
-                                    weekStatus[dayOfWeek - 1] = "1";
-
-                                    for (int i = 0; i < 7; i++) {
-                                        days[i].add(weekStatus[i]);
-                                    }
-                                    
+                                    serviceDayMap.putIfAbsent(serviceId, new boolean[7]);
+                                    serviceDayMap.get(serviceId)[dayIdx] = true;
                                 } catch (Exception e) {
-                                    System.out.println("Error parsing date: " + rawDate);
+                                    System.out.println("Invalid date format: " + rawDate);
                                 }
                             }
                         }
                     }
+
+                    // Check if we actually found any dates to avoid adding MAX_VALUE to your lists
+                    if (minDateFound != Integer.MAX_VALUE) {
+                        for (Map.Entry<String, boolean[]> entry1 : serviceDayMap.entrySet()) {
+                            serviceIDcal.add(entry1.getKey());
+                            boolean[] activeDays = entry1.getValue();
+                            
+                            for (int i = 0; i < 7; i++) {
+                                days[i].add(activeDays[i] ? "1" : "0");
+                            }
+                            
+                            // Assign the dynamic range detected from this specific feed
+                            calStart.add(minDateFound);
+                            calEnd.add(maxDateFound);
+                        }
+                    }
+
                     System.out.println("calendar_dates.txt processed as schedule");
                 }
             }
@@ -222,16 +242,30 @@ public class gtfs2
                             System.out.println("routes: " + idIndex + " / " + nameIndex + " / " + fullIndex);
                             z++;
                         }
-                        else
-                        {
+                        else {
                             String rawLine = s.nextLine();
-                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
-                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
-                            String [] data = cleanLine.split(",");
+                            
+                            // 1. Split the RAW line using a limit of -1. 
+                            // This ensures empty columns (like "") don't get collapsed.
+                            String[] data = rawLine.split(",", -1);
 
-                            routeID.add(data[idIndex]);
-                            routeName.add(data[nameIndex]);
-                            routeFull.add(data[fullIndex]);
+                            // 2. Clean only the specific piece of data you need
+                            String currentID = data[idIndex].replace("\"", "").trim();
+                            String currentShortName = data[nameIndex].replace("\"", "").trim();
+                            String currentLongName = data[fullIndex].replace("\"", "").trim();
+
+                            // Add the ID to your ID list
+                            routeID.add(currentID);
+
+                            // 3. Logic for the fallback
+                            if (currentShortName.length() > 0) {
+                                routeName.add(currentShortName); 
+                            } else {
+                                // This will now correctly add "20", "30", etc.
+                                routeName.add(currentID); 
+                            }
+                            
+                            routeFull.add(currentLongName);
                         }
                     }
                     break; // We found the file, no need to look at other entries
@@ -291,38 +325,46 @@ public class gtfs2
                             System.out.println("trips: " + tripIndex + " / " + serviceIndex + " / " + routeIndex + " / " + headsignIndex);
                             z++;
                         }
-                        else
+                        else 
                         {
                             String rawLine = s.nextLine();
-                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
-                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
-                            String [] data = cleanLine.split(",");
-                            String serviceID = data[serviceIndex];
+                            // Split with -1 to ensure we don't drop empty trailing columns
+                            String[] data = rawLine.split(",", -1);
 
-                            // add only if service ID is in list of valid service IDs
-                            if (serviceIDcal.contains(serviceID))
-                            {
-                                String routeIDtemp = data[routeIndex];
-                                for (int x = 0; x < routeID.size(); x++)
-                                {
-                                    if (routeIDtemp.equals(routeID.get(x)) && routeName.get(x).length() > 0)
-                                    {
-                                        routeIDtrip.add(routeName.get(x));
-                                    }
-                                    else
-                                    {
-                                        routeIDtrip.add(routeIDtemp);
+                            // Clean only the fields we need to check
+                            String serviceID = data[serviceIndex].replace("\"", "").trim();
+                            
+                            if (serviceIDcal.contains(serviceID)) {
+                                String routeIDtemp = data[routeIndex].replace("\"", "").trim();
+                                String tripID = data[tripIndex].replace("\"", "").trim();
+                                
+                                // 1. Find the correct Route Name fallback
+                                String finalRouteName = routeIDtemp; // Default fallback to the ID (20, 30, etc.)
+                                
+                                for (int x = 0; x < routeID.size(); x++) {
+                                    if (routeIDtemp.equals(routeID.get(x))) {
+                                        // If we found a match and the short name isn't empty, use it
+                                        if (routeName.get(x).length() > 0) {
+                                            finalRouteName = routeName.get(x);
+                                        }
+                                        break; // Stop looking once we find the matching route
                                     }
                                 }
-
+                                
+                                // 2. Add to lists (Only once per trip!)
+                                routeIDtrip.add(finalRouteName);
                                 serviceIDtrip.add(serviceID);
-                                tripIDtrip.add(data[tripIndex]);
-                                if (headsignIndex != -1 && data[headsignIndex].length() > 1)
-                                {
-                                    headsigntrip.add(data[headsignIndex]);
-                                }
-                                else
-                                {
+                                tripIDtrip.add(tripID);
+
+                                // 3. Robust Headsign handling
+                                if (headsignIndex != -1 && headsignIndex < data.length) {
+                                    String headsign = data[headsignIndex].replace("\"", "").trim();
+                                    if (headsign.length() > 0) {
+                                        headsigntrip.add(headsign);
+                                    } else {
+                                        headsigntrip.add("no headsign");
+                                    }
+                                } else {
                                     headsigntrip.add("no headsign");
                                 }
                             }
@@ -393,7 +435,7 @@ public class gtfs2
                             if (index != null && columns[timeIndex].length() > 0) {
                                 tripIDtimes.add(tripID);
 
-                                if (columns[timeIndex].substring(4, 5) == ":") // times before 10 am that agencies don't put leading zero for
+                                if (columns[timeIndex].substring(4, 5).equals(":")) // times before 10 am that agencies don't put leading zero for
                                 {
                                     departuretimes.add("0" + columns[timeIndex].substring(0, 4));
                                 }
