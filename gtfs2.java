@@ -387,7 +387,7 @@ public class gtfs2
                             String tripID = columns[tripIndex];
                             Integer index = tripIndexMap.get(tripID);
                             
-                            if (index != null && columns[timeIndex].length() > 0) {
+                            if (index != null && columns[timeIndex].length() > 2) {
                                 String formattedTime;
                                 
                                 // Your existing time formatting logic

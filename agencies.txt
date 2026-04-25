@@ -24,6 +24,7 @@ muni;
 njt;
 pace;
 pvta;
+ripta;https://www.ripta.com/system/files/gtfs_file/RIPTA-GTFS.zip
 septa;
 wmata;
 wta;

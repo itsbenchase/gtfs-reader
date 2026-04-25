@@ -1,0 +1,3538 @@
+5,Westerly Town Hall,41.377000,-71.829771
+10,Grove before Wilcox,41.378328,-71.826680
+20,Westerly Railroad Station,41.381108,-71.829808
+25,High after Grove,41.381039,-71.825720
+30,Park Row West (Drop-off Only),41.829038,-71.412128
+40,Boston Neck at Casey Farms,41.511541,-71.422331
+45,Boston Neck opposite Casey Farms,41.511628,-71.422138
+130,Narragansett (Salt Pond Plaza) at Stop & Shop,41.428201,-71.483328
+310,399 Main,41.437289,-71.501033
+315,396 Main,41.437213,-71.500964
+335,Main opposite River,41.440298,-71.497280
+340,Main opposite Robinson,41.438867,-71.498868
+395,Main after Cleveland,41.440995,-71.494139
+405,Main before Holley,41.441449,-71.489655
+415,Main before RI-108,41.441356,-71.489258
+425,Old Tower Hill before RI-108,41.441867,-71.486656
+430,Old Tower Hill after Narragansett,41.441923,-71.484458
+435,Old Tower Hill Rd at Wakefield Mall,41.442358,-71.482531
+440,Old Tower Hill Rd at Wakefield Mall,41.442288,-71.481756
+445,High opposite Cemetery,41.441832,-71.502313
+475,High after Tucker,41.445317,-71.502806
+485,High after Oakdell,41.446838,-71.502613
+505,High before Church,41.449314,-71.501386
+535,Park & Ride (RI-3 - Ashaway),41.450179,-71.786067
+540,Kingstown & High,41.450397,-71.500848
+545,High before RI-108,41.450600,-71.500577
+550,Kingstown before Sweet Fern,41.452159,-71.502018
+570,Opposite 1428 Kingstown,41.454184,-71.505059
+585,Kingstown before Meadowbrook,41.456750,-71.508331
+595,Kingstown before Samuel Rodman,41.459516,-71.508756
+605,Marble House (on Bellevue),41.462387,-71.306671
+615,Kingstown after Saugatucket,41.462456,-71.509463
+650,Opposite 541 Bellevue,41.465813,-71.306847
+655,Opposite Rosecliff,41.465500,-71.306946
+670,Kingstown before Greenwood,41.467617,-71.512248
+685,Kingstown opposite Greenwood,41.467638,-71.512128
+730,Bellevue & Ruggles (opposite Stoneacre House),41.468062,-71.305747
+735,Ruggles at Carey Mansion,41.468288,-71.304314
+740,Bellevue & Ruggles (at Stoneacre House),41.468216,-71.305710
+745,Ruggles at Wetmore,41.468426,-71.302917
+750,Ruggles opposite Carey Mansion,41.468357,-71.304352
+755,Ruggles opposite Wetmore,41.468494,-71.302956
+760,Ruggles before Ochre Point,41.468605,-71.299660
+775,Ochre Point before Ruggles,41.468830,-71.299553
+790,Ochre Point before Victoria,41.470005,-71.299744
+805,Kingstown before Rolens,41.469874,-71.513576
+815,Kingstown opposite Rolens,41.469970,-71.513763
+820,Salve Regina University (Ochre Point/Sheppard),41.470470,-71.299696
+830,Salve Regina University (Ochre Point/O'Hare Ctr),41.471004,-71.299942
+845,Ochre Point opposite Mcauley Hall,41.472290,-71.300186
+850,Ochre Pont at Mcauley Hall,41.472301,-71.300026
+875,Ochre Point before Leroy,41.473066,-71.300188
+880,Ochre Point after Leroy,41.472927,-71.300285
+910,Ochre Point before Webster,41.474142,-71.300131
+915,Ochre Point before Webster,41.474495,-71.300247
+925,Kingstown opposite Wayside,41.474617,-71.517515
+935,Kingstown opposite Farm,41.472152,-71.515620
+940,Bellevue before Narragansett,41.475525,-71.307938
+950,Narragansett before Bellevue,41.475361,-71.307228
+955,Ochre Point before Narragansett,41.475548,-71.300102
+965,Narragansett opposite Newport Hall,41.475494,-71.302834
+985,Narragansett at Narragansett Hall,41.475616,-71.302795
+1010,Bellevue after Dixon,41.477150,-71.308090
+1035,Kingstown after Wayside,41.474451,-71.517491
+1040,Bellevue after Perry,41.478981,-71.308609
+1075,Kingstown after Old North,41.480017,-71.522925
+1080,Kingstown after RI-138,41.479607,-71.520794
+1085,Kingstown opposite Potter,41.480217,-71.524341
+1090,Kingstown After Potter,41.480080,-71.524150
+1095,Bellevue before Bowery,41.481147,-71.308579
+1100,Bellevue at Bellevue Plaza,41.481094,-71.308456
+1120,Upper College before RI-138,41.481191,-71.525551
+1125,Kingstown at Graduate Village Apartments,41.482005,-71.535882
+1140,Lower College before Bayberry,41.482183,-71.529691
+1145,Bellevue & Memorial Blvd (at Tennis Hall Of Fame),41.482517,-71.308556
+1150,Bellevue & Memorial Blvd (at Tennis Hall Of Fame),41.482735,-71.308434
+1175,Kingstown after Independence,41.482872,-71.540778
+1190,Campus at College of Pharmacy,41.483385,-71.528185
+1195,Upper College opposite Bayberry,41.481443,-71.525411
+1200,Memorial before Cliff Walk,41.484757,-71.298914
+1205,Kingstown before Waites Corner,41.482979,-71.551555
+1210,Bellevue after Downing,41.485195,-71.308685
+1215,Bellevue after Pelham,41.485096,-71.308769
+1220,Memorial before Gibbs,41.485010,-71.299030
+1225,URI Kingston (Memorial Union),41.484315,-71.529311
+1230,Kingston Railroad Station,41.484102,-71.560243
+1255,Aquidneck after Purgatory,41.490216,-71.284071
+1260,Aquidneck before Purgatory,41.490185,-71.284337
+1265,Aquidneck after Newport,41.493888,-71.284402
+1270,Aquidneck before Newport,41.493973,-71.284549
+1275,Bellevue After Parker,41.477394,-71.308022
+1300,Bellevue before Church,41.487160,-71.309387
+1305,Bellevue after Catherine,41.487183,-71.309288
+1315,Touro before High,41.488670,-71.311165
+1330,Touro before Clarke,41.489786,-71.313883
+1340,Marlborough before Thames,41.490833,-71.315613
+1345,Marlborough opposite Duke,41.490967,-71.315254
+1365,Marlborough before Farewell,41.491325,-71.313499
+1375,Newport City Hall,41.491852,-71.311566
+1380,Newport Transit Center (Stop A),41.491168,-71.317681
+1381,Newport Transit Center (Stop D),41.491792,-71.317643
+1382,Newport Transit Center (Stop B),41.491319,-71.317594
+1384,Newport Transit Center (Stop C),41.491606,-71.317616
+1395,Boston Neck after Ferry,41.492365,-71.437984
+1400,Boston Neck before Bridgetown,41.492409,-71.438150
+1420,Third after Bridge,41.492409,-71.318505
+1430,Broadway & Collins (Newport Police Department),41.492751,-71.310805
+1435,Broadway after Ayrault,41.493536,-71.309679
+1450,Boston Neck before Edgewater,41.494847,-71.437896
+1455,Boston Neck opposite Edgewater,41.494794,-71.437764
+1460,Tower Hill Park & Ride,41.495006,-71.456327
+1461,RI-1 after Gilbert Stuart,41.522685,-71.463332
+1465,Third before Walnut,41.494671,-71.318955
+1475,Broadway before Cranston,41.495030,-71.308822
+1480,Broadway opposite Equality Park,41.494197,-71.309200
+1495,Narragansett after Howland,41.496155,-71.371926
+1505,North before Narragansett,41.496546,-71.374767
+1510,Broadway before Clinton,41.496348,-71.308342
+1515,20 Narragansett,41.496371,-71.368745
+1520,Narragansett after Grinnell,41.496315,-71.371732
+1526,Jamestown Ferry Landing,41.496596,-71.367009
+1530,Third before Lasalle,41.497507,-71.319305
+1535,Boston Neck after Banfield,41.497986,-71.436300
+1540,Broadway before Friendship,41.497991,-71.307340
+1545,Boston Neck before Pettaquamscutt Lake,41.497968,-71.436521
+1555,Broadway opposite Friendship,41.498142,-71.307410
+1565,North before Valley,41.497866,-71.374603
+1575,Jamestown Ferry Landing,41.496774,-71.367207
+1590,Broadway before Summer,41.499798,-71.306406
+1595,Broadway before Gibbs,41.499905,-71.306231
+1610,Boston Neck opposite Riverdell,41.500947,-71.433596
+1615,Boston Neck before Riverdell,41.500993,-71.433797
+1625,Broadway before Brooks,41.501179,-71.305113
+1640,Newport Park & Ride,41.502695,-71.317679
+1645,Third Street at Bayside Village,41.501711,-71.319863
+1650,Third Street at Bayside Village,41.502116,-71.320053
+1660,Boston Neck before Indian,41.502256,-71.432130
+1665,Broadway before County,41.502906,-71.303693
+1670,Broadway after Thurston,41.503164,-71.303639
+1695,Third opposite Dyres,41.503582,-71.320243
+1715,Third opposite Naval Health Clinic,41.504382,-71.320194
+1720,Broadway opposite Canonicus,41.505018,-71.301968
+1725,Boston Neck after Miner,41.504953,-71.428414
+1730,Boston Neck before Miner,41.505015,-71.428620
+1735,Broadway after Canonicus,41.504846,-71.302301
+1745,Conanicus before Mt Hope,41.504757,-71.364472
+1755,Admiral Kalbfus opposite Rolling Green,41.506675,-71.319356
+1760,Broadway & Admiral Kalbfus (before Rowland),41.506191,-71.302662
+1770,Broadway & Admiral Kalbfus (opposite Rowland),41.506187,-71.302274
+1775,178 JT Connell,41.508865,-71.317866
+1776,Conanicus before Mt Hope,41.504880,-71.364623
+1777,E Shore before Freebody (RI Turnpike Authority),41.511100,-71.365260
+1810,Admiral Kalbfus at Newport Grand,41.507610,-71.313013
+1820,W Main before Dudley,41.507229,-71.301742
+1835,Opposite 166 JT Connell,41.508102,-71.317583
+1840,Girard after Admiral Kalbfus,41.508446,-71.311673
+1850,Girard before Admiral Kalbfus,41.508196,-71.311691
+1855,Girard opposite Sunset,41.512696,-71.313353
+1860,Girard before Sunset,41.512960,-71.313280
+1865,222 JT Connell,41.511546,-71.318059
+1870,Newport Towne Center (Laundromat),41.511921,-71.317341
+1875,Boston Neck before Ferry,41.507795,-71.424688
+1880,Boston Neck after Ferry,41.507661,-71.425119
+1890,Newport Towne Center (Walmart),41.510790,-71.316869
+1895,Newport Towne Center (Stop & Shop),41.508532,-71.316415
+1900,W Main before Dudley,41.506577,-71.301524
+1905,Miantonomi Park (Hillside & Eisenhower),41.509760,-71.307770
+1915,Hillside before Beacon,41.512078,-71.308832
+1921,W Main opposite Linden Park,41.510012,-71.302205
+1922,W Main At Linden Park,41.510412,-71.302097
+1945,Park & Ride (Wyoming),41.511929,-71.689852
+1975,Hillside opposite Sergeant Greene,41.512833,-71.309546
+1976,Hillside before W Evans,41.514642,-71.309741
+1980,W Main after Beacon,41.513742,-71.301746
+1990,W Main opposite Beacon,41.513882,-71.301579
+2000,Girard before Festival Field Apartments,41.511778,-71.313000
+2005,Hillside after W Evans,41.514646,-71.309865
+2010,Girard after Festival Field Apartments,41.511750,-71.313139
+2015,W Main opposite Connecticut,41.515144,-71.301354
+2020,JT Connell & Maple,41.515054,-71.316041
+2025,JT Connell & Maple,41.515038,-71.316217
+2035,West Main & East Main (after Smythe),41.515631,-71.300957
+2040,Maple before Girard,41.515778,-71.313933
+2055,Maple before John Chaffee,41.515920,-71.312632
+2060,Maple at Head Start Center,41.516109,-71.312361
+2065,Boston Neck opposite Charlotte,41.516749,-71.423412
+2070,Boston Neck after Charlotte,41.516702,-71.423240
+2075,West Main & East Main (at Bank of Newport),41.517222,-71.300606
+2080,Aquidneck Shopping Center (E Main),41.517094,-71.299326
+2085,West Main & East Main (at Newport Market),41.517364,-71.298806
+2090,Coddington before John Chaffee,41.518131,-71.313698
+2100,E Main opposite Rego,41.517743,-71.297003
+2105,Coddington before W Main,41.518233,-71.300648
+2125,E Main & Valley,41.518367,-71.294824
+2140,Opposite 372 Coddington,41.519376,-71.311716
+2145,Coddington before Niagara,41.518636,-71.303115
+2155,Coddington after Sherman,41.518879,-71.305875
+2170,Coddington opposite Sherman,41.518973,-71.305804
+2175,Newport Garage (on Coddington),41.519275,-71.309746
+2185,E Main & Valley,41.519101,-71.293092
+2195,W Main before Maplewood,41.519281,-71.299718
+2200,Newport Garage (on Coddington),41.519474,-71.309638
+2205,E Main opposite Enterprise,41.519548,-71.290906
+2210,E Main after Enterprise,41.519677,-71.291209
+2215,351 E Main,41.520210,-71.288669
+2220,Opposite 351 E Main,41.520400,-71.288541
+2230,Valley opposite Chestnut Hill,41.520791,-71.294159
+2235,W Main before Oakwood,41.521651,-71.298915
+2240,E Main opposite Forest,41.521047,-71.285532
+2245,Boston Neck after Homestead,41.521254,-71.424046
+2250,Boston Neck opposite Snuff Mill,41.522420,-71.423628
+2260,2299 Tower Hill,41.514921,-71.461385
+2265,E Main before Aquidneck,41.521684,-71.283372
+2270,E Main opposite Aquidneck,41.521665,-71.284070
+2280,Opposite 15 Valley,41.521899,-71.294747
+2285,E Main opposite Johnson,41.524240,-71.279175
+2290,E Main after Wyatt,41.522861,-71.281137
+2295,Middletown Public Library (on W Main),41.521907,-71.299019
+2310,W Main opposite Valley,41.524021,-71.298223
+2315,W Main after Woolsey,41.524878,-71.297680
+2320,Opposite 1865 Boston Neck,41.524558,-71.423991
+2325,Boston Neck before Barbers Heights,41.524298,-71.424082
+2335,W Main before Chases,41.525923,-71.297526
+2340,E Main before Turner,41.525880,-71.276159
+2345,E Main opposite Turner,41.526101,-71.276117
+2360,Park & Ride (RI-1A & RI-138) on Boston Neck,41.526992,-71.425556
+2361,Tashtassuc after Helm,41.525593,-71.385276
+2365,W Main at All Saints Academy,41.527305,-71.296415
+2370,Boston Neck before RI-138 West On-Ramp,41.530551,-71.428171
+2380,Naval Undersea Warfare Center (Gate 23),41.529333,-71.307741
+2385,W Main after Access,41.528018,-71.296217
+2390,E Main opposite Meadow,41.530277,-71.272915
+2395,E Main before Meadow,41.529704,-71.273136
+2405,999 W Main,41.529581,-71.294749
+2410,Opposite 999 W Main,41.529656,-71.294937
+2415,W Main after Forest,41.531289,-71.293672
+2425,W Main opposite Forest,41.530991,-71.293983
+2430,E Main opposite Oliphant,41.531860,-71.271331
+2435,E Main before Oliphant,41.532157,-71.271246
+2440,W Main before Vanicek,41.534253,-71.292922
+2445,1259 W Main,41.533765,-71.292864
+2470,West Main at Stop & Shop (on W Main),41.537421,-71.291981
+2475,Stop & Shop (West Main - Middletown),41.536688,-71.293476
+2480,1397 W Main,41.537388,-71.291786
+2485,John H Chafee - Rome Point Preserve,41.537313,-71.437687
+2495,E Main opposite Mitchell,41.538485,-71.265638
+2500,E Main after Mitchell,41.538409,-71.265528
+2505,Boston Neck opposite Gilbert Stuart,41.538759,-71.438657
+2510,Boston Neck before Gilbert Stuart,41.538893,-71.438993
+2515,W Main after Oliphant,41.539573,-71.291406
+2520,W Main before Squantum,41.540952,-71.291684
+2525,E Main before Woodland,41.541306,-71.263527
+2530,E Main opposite Randall,41.540818,-71.264046
+2540,E Main after Paquins,41.544757,-71.261342
+2545,E Main after Selina,41.545418,-71.260693
+2550,W Main before Thelma,41.543599,-71.291582
+2555,Boston Neck after Weaver,41.543740,-71.441227
+2560,Boston Neck opposite Weaver,41.544070,-71.441132
+2570,Oxbow Farms Apartments,41.543702,-71.292799
+2580,324 E Main,41.546485,-71.260125
+2585,RI-4 after W Allenton,41.545562,-71.477161
+2595,1776 W Main,41.546547,-71.292033
+2600,1761 W Main,41.546223,-71.291778
+2605,Greene Lane (Middletown),41.548527,-71.292177
+2610,Boston Neck after Weaver/Hamilton Allenton,41.548186,-71.441464
+2615,Boston Neck before Salisbury,41.548244,-71.441313
+2620,Greene Lane (Middletown),41.548535,-71.291961
+2625,E Main before Sandy Point,41.550809,-71.257660
+2630,E Main opposite Sandy Point,41.550787,-71.257789
+2640,Boston Neck before Waldron,41.552524,-71.440770
+2650,Boston Neck opposite Earle,41.554690,-71.441097
+2660,Boston Neck opposite Duck Cove,41.557389,-71.443037
+2665,E Main opposite Union,41.558022,-71.255320
+2666,E Main before Linden,41.554072,-71.256748
+2667,E Main opposite Linden,41.554152,-71.256923
+2670,E Main before Union,41.558492,-71.255379
+2675,Boston Neck after Earle,41.554835,-71.440886
+2680,429 Boston Neck,41.558567,-71.443893
+2685,W Main before Union,41.558869,-71.287668
+2695,Boston Neck after Duck Cove,41.557598,-71.442932
+2700,392 Boston Neck,41.559494,-71.444361
+2705,Boston Neck before Fairway,41.560443,-71.445238
+2715,E Main before Glen,41.561010,-71.254190
+2720,Boston Neck before Wamponaug,41.562045,-71.446391
+2725,Boston Neck after Beach,41.565577,-71.448756
+2730,270 Boston Neck,41.562424,-71.446428
+2735,2243 W Main,41.562712,-71.286128
+2740,E Main opposite Glen,41.561225,-71.254288
+2745,Boston Neck opposite Reynolds,41.566591,-71.449903
+2750,Boston Neck before Beach,41.565429,-71.448489
+2760,Bayview Apartments,41.566189,-71.284417
+2765,Boston Neck before Reynolds,41.566625,-71.449812
+2770,E Main before Eyler,41.568237,-71.251126
+2775,E Main before Beaupre,41.565429,-71.252620
+2780,Wickford (Boston Neck opposite Oakland),41.567678,-71.451148
+2785,W Main after Raytheon Entrance,41.569880,-71.277513
+2810,W Main opposite Raytheon Entrance,41.570219,-71.276891
+2870,E Main before McCorrie,41.572289,-71.250954
+2875,E Main opposite McCorrie,41.572631,-71.251185
+2890,W Main opposite Scotty,41.575766,-71.271670
+2900,Post after Summit View,41.572507,-71.462092
+2910,E Main opposite Martens,41.575164,-71.251429
+2915,W Main before John,41.575631,-71.271932
+2920,Post opposite Juniper,41.575557,-71.461085
+2925,Post before Juniper,41.575742,-71.461147
+2930,W Main opposite Stringham,41.578012,-71.270907
+2935,Post after Halls Rock,41.577912,-71.460353
+2940,W Main after Stringham,41.577796,-71.271175
+2945,Post after Intrepid,41.577688,-71.460236
+2955,E Main opposite Wyatt,41.522687,-71.281717
+2960,E Main after Sherwood,41.578243,-71.251991
+2970,E Main before Marvel,41.574725,-71.251519
+2975,E Main after Fairview,41.580506,-71.252359
+2985,E Main before Stubtoe,41.580418,-71.252507
+2995,RI-2 after Home Depot Entrance,41.585120,-71.501380
+29966,RI-2 before Home Depot Entrance,41.584442,-71.500986
+3005,E Main before Pine Tree,41.583889,-71.252424
+3010,Post before Huling,41.585390,-71.458818
+3030,W Main opposite Melville Elementary,41.583198,-71.269433
+3035,E Main after Ethel,41.584348,-71.252172
+3040,Opposite 7805 Post,41.585783,-71.458554
+3045,Opposite 7760 Post,41.586856,-71.458450
+3055,W Main before Bradford,41.583362,-71.269629
+3060,Post opposite Huling,41.588263,-71.457887
+3070,W Main after King Charles,41.591311,-71.266769
+3075,W Main before King Charles,41.591358,-71.266927
+3080,Post after Oakdale,41.590327,-71.457211
+3085,Post before Oakdale,41.590321,-71.457545
+3095,E Main before Hedly,41.590421,-71.253780
+3100,E Main at Portsmouth Police HQ,41.592158,-71.253521
+3105,E Main at Portsmouth Town Hall,41.589825,-71.253454
+3110,Post opposite Mulberry,41.592593,-71.456677
+3115,Post after Mulberry,41.592485,-71.456840
+3120,W Main opposite Hedly,41.594100,-71.264963
+3130,Post opposide Seawynds,41.595082,-71.455897
+3145,Opposite 2451 E Main,41.596762,-71.251760
+3150,2451 E Main,41.596877,-71.251507
+3155,Post after Camp,41.597600,-71.455157
+3170,7260 Post,41.599779,-71.454724
+3175,East Main & Turnpike,41.600319,-71.250208
+3180,7277 Post,41.600791,-71.454867
+3190,E Main before Freeborn,41.601262,-71.249477
+3195,E Main before Bradley,41.604018,-71.247344
+3210,W Main after Freeborn,41.604163,-71.258605
+3215,2732 E Main,41.603776,-71.247521
+3225,E Main before Power,41.606115,-71.247038
+3230,E Main opposite Power,41.606126,-71.247203
+3235,Park & Ride (RI-2 & RI-4) Curbside,41.611758,-71.492429
+3250,Post before Devils Foot,41.607346,-71.455929
+3255,E Main before Hargraves,41.594755,-71.252345
+3280,E Main after Village,41.610547,-71.246440
+3285,Opposite 372 W Main,41.605576,-71.259010
+3290,E Main opposite Village,41.610829,-71.246568
+3295,Post before Yorktown,41.612827,-71.457649
+3300,Before 6946 Post,41.608967,-71.456226
+3310,RI-2 before Waites Corner,41.495237,-71.569583
+3315,W Main opposite Anselmo,41.611053,-71.260148
+3320,W Main opposite Willow,41.613465,-71.258178
+3330,W Main before Willow,41.613561,-71.258247
+3335,6802 Post Rd,41.612759,-71.457349
+3340,E Main opposite Sprague,41.614856,-71.245859
+3345,E Main after Sprague,41.614634,-71.246041
+3355,Opposite 3302 E Main,41.617523,-71.246125
+3360,Bristol Ferry after Sprague,41.615385,-71.256218
+3370,E Main before Oliveira,41.617327,-71.246244
+3375,Post after Kingstown Plaza Entrance,41.616003,-71.457993
+3385,Portsmouth Senior Center (Bristol Ferry/Brownell),41.618022,-71.256829
+3400,6669 Post,41.616754,-71.457783
+3415,E Main before Park,41.619967,-71.245353
+3420,E Main after Basin,41.620027,-71.245514
+3430,6530 Post,41.620094,-71.458086
+3435,Post opposite Peachtree,41.621530,-71.458508
+3440,Post after Peachtree,41.621955,-71.458258
+3445,E Main before Echo,41.621496,-71.244826
+3455,Bristol Ferry opposite Corys,41.619745,-71.256794
+3460,Portsmouth Senior Center (Bristol Ferry/Brownell),41.617924,-71.256983
+3465,Bristol Ferry after Corys,41.619542,-71.256959
+3470,E Main after Founders,41.623382,-71.243862
+3475,E Main opposite Founders,41.623305,-71.243701
+3485,Bristol Ferry opposite Schooner,41.621113,-71.256892
+3490,Bristol Ferry opposite Botelho,41.624208,-71.256236
+3495,Opposite 6356 Post,41.624624,-71.459199
+3510,E Main after Sunset,41.625436,-71.242934
+3515,309 Bristol Ferry,41.623392,-71.256264
+3520,Bristol Ferry after Mitchell,41.626572,-71.255615
+3525,Post opposite Essex,41.627417,-71.461362
+3530,Post before Essex,41.627134,-71.460971
+3535,531 Bristol Ferry,41.628847,-71.254782
+3545,Boyds before Anthony,41.630210,-71.245770
+3550,Boyds after RI-24,41.627384,-71.243343
+3555,6145 Post,41.629580,-71.463350
+3560,Post after Austin,41.630653,-71.464234
+3565,Boyds opposite Linda,41.631486,-71.249853
+3570,Boyds after Bristol Ferry,41.632203,-71.252939
+3575,Bristol Ferry after Boyds,41.631785,-71.253916
+3585,Post & Frenchtown (at 6000 Post),41.632051,-71.466070
+3590,Boyds before Linda,41.631323,-71.249742
+3595,Opposite 6000 Post,41.632251,-71.466835
+3600,Post opposite Franklin,41.635455,-71.467982
+3605,Post & Frenchtown (after Frenchtown),41.633667,-71.468373
+3610,5804 Post,41.637661,-71.468383
+3615,Post before Franklin,41.635591,-71.468260
+3620,5805 Post,41.637544,-71.468649
+3630,5732 Post,41.639642,-71.468654
+3635,Post after Victory,41.643158,-71.465820
+3637,Post after Grandview,41.639686,-71.468924
+3640,Post before Overfield,41.645988,-71.463324
+3642,5627 Post,41.641867,-71.467425
+3645,Post before Pierce,41.642618,-71.466120
+3650,Post after Crossways,41.647525,-71.461489
+3655,Post after Overfield,41.645890,-71.463222
+3660,Roger Williams University (Bristol),41.647682,-71.262140
+3665,Before 5329 Post,41.648470,-71.459995
+3670,Roger Williams University (Bristol),41.647994,-71.261906
+3675,Post before Old Forge,41.648401,-71.459790
+3690,Opposite 1001 Main,41.650909,-71.457277
+3695,After 1003 Main,41.650827,-71.457636
+3715,Main after Sixth,41.652498,-71.455939
+3720,Main before Sixth,41.652498,-71.456194
+3725,Ferry before Ambrose,41.653553,-71.264391
+3730,Ferry opposite Ambrose,41.653478,-71.264526
+3740,Main before Third,41.654247,-71.454834
+3745,Main before Upland,41.653996,-71.454770
+3750,Ferry after Sidney,41.655401,-71.265098
+3755,Ferry opposite Sidney,41.655229,-71.265166
+3760,First & Main (at 640 Main),41.655664,-71.453570
+3765,First & Main (before First),41.655688,-71.453711
+3775,First & Main (opposite Cliff),41.655911,-71.455198
+3800,Main after Vine,41.656561,-71.452678
+3805,Main opposite Bridge,41.656881,-71.452515
+3810,Park & Ride (Exit 21 - West Greenwich),41.656918,-71.551444
+3815,Ferry opposite Griswold,41.657380,-71.265976
+3820,Ferry before Griswold,41.657244,-71.265779
+3835,Main before Union,41.657862,-71.451207
+3840,Main after Union,41.657920,-71.451392
+3860,Main after London,41.658913,-71.450137
+3865,Ferry before Fairview,41.659288,-71.266539
+3875,Ferry opposite Fairview,41.659244,-71.266699
+3885,Main before Pierce,41.658975,-71.450268
+3890,Main after Queen,41.660848,-71.449877
+3910,Hope opposite High,41.661262,-71.270400
+3915,Hope before High,41.661277,-71.270102
+3920,Main after Church,41.661607,-71.450069
+3930,Main before King,41.661751,-71.449917
+4015,Main after Division,41.663729,-71.450203
+4020,Hope after Burton,41.664021,-71.273609
+4025,Main before Division,41.663764,-71.450020
+4030,Hope opposite Burton,41.663577,-71.273451
+4035,Post after Ladd,41.665390,-71.450107
+4040,Hope after Union,41.665402,-71.274596
+4055,4575 Post,41.666283,-71.450005
+4060,Hope before Constitution,41.667045,-71.275186
+4065,Hope opposite Union,41.665390,-71.274740
+4070,Post opposite Corey,41.667296,-71.449485
+4075,Arnold opposite Gay,41.663731,-71.543640
+4076,Arnold before Gay,41.664028,-71.544151
+4080,Arnold after Larch,41.668370,-71.551410
+4081,Tiogue & Arnold (opposite Hazel),41.682674,-71.558868
+4082,Tiogue & Arnold (after Hazel),41.682350,-71.558830
+4083,Arnold after Twin Lakes,41.677962,-71.556775
+4084,Arnold opp Forest,41.673603,-71.554478
+4086,Arnold opp West Shore,41.671280,-71.553170
+4088,Arnold after Crestwood,41.667968,-71.550990
+4090,Hope before Constitution,41.667198,-71.275394
+4091,Arnold before Florida,41.671870,-71.553340
+4092,Arnold before Forest,41.673885,-71.554486
+4093,1738 Main St,41.683020,-71.525050
+4094,1745 Main St,41.683110,-71.525150
+4095,Hope & State (Bristol),41.670281,-71.276412
+4100,Hope & State (Bristol),41.670509,-71.276669
+4105,Post opposite Bayview,41.670154,-71.448286
+4115,Metacom after Mt Hope,41.670430,-71.258442
+4120,Metacom opposite Mt Hope,41.671295,-71.258444
+4135,4372 Post,41.672057,-71.447974
+4140,210 Woodland,41.672429,-71.591296
+4175,Hope before Franklin,41.673592,-71.277604
+4180,Hope before Franklin,41.673772,-71.277844
+4190,Woodland Manor,41.673582,-71.594275
+4195,Woodthrush opposite Goldfinch,41.674461,-71.591534
+4200,Post opposite Wolverstone,41.674529,-71.448218
+4205,Post before Wolverstone,41.674470,-71.448359
+4225,Tiogue opposite Lantern,41.679401,-71.535358
+4235,1395 Nooseneck Hill,41.675236,-71.592809
+4236,Tiogue after James,41.680287,-71.530502
+4237,Tiogue before James,41.680233,-71.530039
+4240,Hope after Washington,41.677398,-71.278625
+4245,Tiogue FS Lantern,41.679565,-71.535157
+4250,Hope before Washington,41.677271,-71.278797
+4255,Post after Neptune,41.676846,-71.448458
+4260,Post after Highpoint,41.676914,-71.448622
+4275,Nooseneck opposite Wisteria,41.677900,-71.588267
+4290,Nooseneck Hill after Wisteria,41.677895,-71.588632
+4295,1193 Tiogue,41.678871,-71.585379
+4300,1072 Tiogue,41.679127,-71.579319
+4305,Hope before Creek,41.679288,-71.278529
+4310,837 Hope,41.679252,-71.278734
+4315,Metacom before Hopeworth,41.680806,-71.260513
+4320,Tiogue before Gilles,41.679590,-71.538190
+4321,Tiogue opposite Gilles,41.679490,-71.538440
+4325,Opposite 1100 Tiogue,41.679195,-71.579574
+4330,Metacom before Bayview,41.679964,-71.260486
+4335,Post after Crestwood,41.679097,-71.449273
+4345,Job Lot (Coventry),41.680647,-71.582989
+4350,4100 Post,41.679114,-71.449123
+4360,S Main after Lowell,41.680398,-71.574417
+4365,S Main & Tiogue (before Bielers),41.680538,-71.573586
+4370,4042 Post,41.680679,-71.449817
+4375,Hope opposite Hillside,41.681233,-71.278813
+4385,S Main opposite Ian,41.681041,-71.571584
+4395,Hope before Hillside,41.681262,-71.278639
+4400,Opposite 4060 Post,41.680266,-71.449851
+4420,S Main before Hopkins Hill,41.682148,-71.568912
+4435,Post after Highland,41.682586,-71.451006
+4440,Post opposite Highland,41.682821,-71.450953
+4445,Hope opposite Sheffield,41.683128,-71.278884
+4450,Hope opposite Usher,41.682845,-71.278714
+4460,S Main opposite Rathbun,41.683521,-71.567778
+4465,Post before Island View,41.684262,-71.452354
+4475,Main after Cowesett,41.685070,-71.523411
+4495,S Main opposite Manor,41.684237,-71.567541
+4500,Post after Valentine,41.685522,-71.453673
+4505,Metacom opposite 467 Metacom,41.684929,-71.261429
+4510,Metacom opposite Veterans Home,41.685190,-71.261669
+4545,Hope after Vantage Point,41.685127,-71.278967
+4555,S Main before Stone,41.685943,-71.567241
+4565,Tiogue after Pilgrim,41.684828,-71.547013
+4566,Tiogue opposite Pilgrim,41.684605,-71.546975
+4567,Tiogue opposite Forestdale,41.683829,-71.555751
+4568,Tiogue after Forestdale,41.683956,-71.555927
+4570,Hope before Chestnut,41.685723,-71.278874
+4575,Post opposite Cowesett,41.685728,-71.453689
+4580,3791 Post,41.686872,-71.454709
+4590,Cowesett Corners (at Stop & Shop),41.686489,-71.498611
+4595,S Main before Wood,41.685948,-71.567145
+4600,Oakland Beach & Suburban Pkwy,41.686589,-71.398131
+4610,Main before Brown,41.690245,-71.521554
+4620,Crompton (Main before Nestor),41.687674,-71.522418
+4630,Oakland Beach after Mohawk,41.688101,-71.398312
+4635,Hope opposite Pond Brook,41.688164,-71.279149
+4640,Hope after Colt,41.688559,-71.279005
+4645,Post before Shenandoah,41.689158,-71.455900
+4650,Cowesett Corners @ Petco,41.687810,-71.498118
+4655,742 Oakland Beach,41.688743,-71.398102
+4660,Post opp Shenandoah,41.689013,-71.455724
+4670,S Main before Cady,41.688297,-71.566786
+4685,Main opposite Manchester,41.688976,-71.521956
+4690,S Main after Parker,41.689758,-71.566594
+4720,1527 Main,41.692572,-71.521039
+4725,Main after S Main,41.690329,-71.566130
+4730,Oakland Beach before Hazard,41.690668,-71.398289
+4735,Main opposite S Main,41.690463,-71.565979
+4740,Post before Clyde,41.691446,-71.456256
+4750,1070 Main,41.690526,-71.561842
+4755,Main before Holden,41.690835,-71.563884
+4760,Washington & Sandy Bottom,41.690692,-71.559267
+4765,Post after Robin Hill,41.690778,-71.456403
+4770,Washington & Sandy Bottom,41.690740,-71.558884
+4775,Oakland Beach before Kenway,41.691568,-71.398071
+4780,Hope before Fales,41.691728,-71.279345
+4785,Hope at Bristol Shopping Center,41.691884,-71.279198
+4790,1548 Main,41.691370,-71.521088
+4795,Washington before Knotty Oak,41.692390,-71.556284
+4805,Opposite 1475 Main,41.694892,-71.521744
+4820,Oakland Beach before Coburn,41.692524,-71.398330
+4840,1520 Main,41.692819,-71.521019
+4850,1050 Main,41.690608,-71.561758
+4855,Oakland Beach after Holt,41.693342,-71.398233
+4860,Hope before Bliven,41.693440,-71.279288
+4865,Post before Brand,41.693622,-71.456414
+4870,770 Washington,41.693005,-71.555149
+4875,Hope after Mulberry,41.694019,-71.279421
+4880,Washington before Contentment,41.694176,-71.553476
+4890,Washington after Mapledale,41.694091,-71.553473
+4895,699 Washington,41.694799,-71.550978
+4900,Main before West Warwick,41.697014,-71.522072
+4905,Hope at Bristol County Medical Center,41.695249,-71.279411
+4920,Washington after Pulaski,41.695368,-71.536985
+4925,Washington opposite MacArthur,41.695304,-71.538929
+4935,Oakland Beach opposite Pinehurst,41.695729,-71.398478
+4940,Warwick Neck & Barton,41.695293,-71.379216
+4945,Post opposite Brand,41.693736,-71.456644
+4950,Washington opposite Edward,41.695882,-71.541549
+4955,Washington after Edward,41.696441,-71.542022
+4960,1475 Main,41.694764,-71.521640
+4965,Washington opposite Read,41.695503,-71.533665
+4970,Hope opposite Bristol County Medical Center,41.695457,-71.279547
+4980,Oakland Beach opposite Orms,41.695417,-71.398637
+4990,3414 Post,41.696122,-71.458744
+5000,Metacom before Gooding,41.694703,-71.263794
+5005,Metacom before Narrows,41.694153,-71.263496
+5015,Washington before Laurel,41.696006,-71.547673
+5020,Washington opposite Laurel,41.696105,-71.547689
+5035,Washington opposite Anthony,41.696796,-71.546976
+5040,Washington opposite Andrews,41.696374,-71.531988
+5045,1445 Main,41.697851,-71.522230
+5055,Washington opposite Hazard,41.697092,-71.543219
+5060,Washington after Fairview,41.697381,-71.543988
+5065,Hope before Gibson,41.697288,-71.279678
+5070,Hope opposite Gibson,41.697283,-71.279503
+5075,Warwick Neck before Crossroad,41.696548,-71.379252
+5085,Park & Ride (RI-117 - Warwick),41.697457,-71.473905
+5090,Washington opposite RI-117,41.695601,-71.534341
+5105,Warwick Neck after Capen,41.697909,-71.379623
+5110,1425 Main,41.698701,-71.522341
+5120,Warwick Neck after Studley,41.698329,-71.379760
+5130,Apponaug (Post before Centerville),41.698098,-71.459684
+5140,Apponaug (Post after Centerville),41.698343,-71.459964
+5145,Oakland Beach opposite Limestone,41.698303,-71.398677
+5155,Main before Epworth,41.698326,-71.522187
+5165,Hope opposite Jefferson,41.699135,-71.279608
+5170,Apponaug (Centerville & Post)/Warwick City Hall,41.698822,-71.458789
+5200,Hope before Jefferson,41.699005,-71.279770
+5205,Tollgate opposite Emily,41.700078,-71.467570
+5210,3210 Post,41.699238,-71.455888
+5230,Oakland Beach before Gordon,41.699769,-71.399017
+5235,W Shore after George Arden,41.699665,-71.447420
+5245,W Shore opposite George Arden,41.699648,-71.447020
+5250,Tollgate before Emily,41.700053,-71.467092
+5255,1387 Main,41.700009,-71.522725
+5270,3388 W Shore,41.700242,-71.443073
+5275,Oakland Beach before Barbara,41.700133,-71.398898
+5280,Washington before East,41.699954,-71.529316
+5285,Samuel Gorton before Palmer,41.701141,-71.376072
+5290,3395 W Shore,41.700330,-71.443400
+5295,Samuel Gorton before Fairhaven,41.700527,-71.378615
+5300,Washington before Baker,41.700377,-71.528729
+5305,W Shore opposite Normandy,41.700625,-71.440683
+5310,W Shore before Groveland,41.700688,-71.440927
+5320,W Shore after Wesleyan,41.701147,-71.438047
+5325,215 Tollgate,41.701137,-71.470469
+5330,250 Tollgate,41.701448,-71.471762
+5345,375 Samuel Gorton,41.701134,-71.376478
+5360,3238 W Shore,41.700969,-71.438382
+5365,Roberts before Brookside,41.701301,-71.525683
+5370,Oakland Beach before Victory,41.702800,-71.398886
+5380,Hope after Colonial,41.701530,-71.279912
+5385,W Shore opposite Arrow,41.701374,-71.435868
+5395,Post before Lockhart,41.701861,-71.454479
+5410,Apponaug (Centerville & Post) after Pleasant,41.701102,-71.459400
+5415,Hope opposite Colonial,41.701970,-71.279790
+5420,W Shore opposite W Shore Terrace,41.701938,-71.432911
+5425,W Shore after W Shore Terrace,41.701892,-71.432680
+5426,W Shore before MacArthur,41.702423,-71.429374
+5450,W Shore after Buttonwoods,41.702260,-71.430931
+5485,Main before Epworth,41.700112,-71.522586
+5500,Oakland Beach opposite Victory,41.702612,-71.398785
+5505,Tollgate after Craig,41.702769,-71.474700
+5510,W Shore after Mystic,41.702789,-71.427156
+5530,W Shore opposite Keystone,41.702696,-71.428311
+5540,Washington before Crawford,41.702987,-71.525847
+5570,W Shore after Main,41.703250,-71.424840
+5575,W Shore at Halcyon,41.703565,-71.422985
+5580,W Shore before Sunny Cove,41.703449,-71.423023
+5610,330 Tollgate,41.703121,-71.475256
+5620,Hope after Sullivan,41.703749,-71.280157
+5635,Hope after Tupelo,41.704477,-71.280007
+5645,430 Tollgate,41.704076,-71.477304
+5655,Arctic Center (Main before Washington),41.704106,-71.524565
+5670,2680 W Shore,41.704705,-71.419202
+5680,Metacom before Tupelo,41.705309,-71.265841
+5690,2677 W Shore,41.705049,-71.418987
+5695,Oakland Beach at Bishop Hendricken,41.705330,-71.398308
+5710,Oakland Beach before Stanfield,41.705567,-71.398463
+5715,Kent Hospital (on Tollgate),41.705063,-71.479111
+5720,Metacom after Tupelo,41.705008,-71.265946
+5740,Kent Hospital (on Tollgate),41.704926,-71.478663
+5750,1155 Main,41.706460,-71.523259
+5780,Sandy before Clorane,41.706613,-71.416038
+5785,Tollgate after Hilary,41.706366,-71.481785
+5800,Hope after Echo Farm,41.707064,-71.280164
+5810,Tollgate opposite Hilary,41.706484,-71.481850
+5825,Sandy after W Shore,41.706206,-71.416615
+5845,Main after Providence,41.707830,-71.522455
+5850,Oakland Beach after Woguagonet,41.707675,-71.398123
+5865,1125 Main,41.707945,-71.522589
+5870,SANDY LANE AT ARMY RESERVE,41.707827,-71.412647
+5875,Sandy after Frawley,41.707720,-71.412611
+5880,Commonwealth after Tollgate,41.708402,-71.484467
+5930,Commonwealth before Tollgate,41.708272,-71.484494
+5935,Sandy after Joshua,41.709778,-71.406876
+5940,SANDY LANE OPP TRENT,41.708873,-71.409970
+5945,SANDY LANE BEFORE TRENT,41.708739,-71.409934
+5975,Sandy after Cedar Swamp,41.709735,-71.407498
+5980,Warwick opposite Stop & Shop,41.710078,-71.398393
+5990,Main before Potter,41.710628,-71.523122
+5995,Warwick opposite Woguagonet,41.707646,-71.398002
+6000,Main opposite Youngs,41.710563,-71.522977
+6005,Tollgate opposite Senior City,41.710109,-71.492384
+6050,Hope after Elmwood,41.710799,-71.280390
+6075,Sandy before Social,41.711156,-71.403269
+6080,Main before Walker,41.711998,-71.523363
+6085,Providence after Nichols,41.710866,-71.520325
+6090,22 Providence St,41.708695,-71.521505
+6105,Sandy opposite Social,41.710976,-71.403488
+6110,997 Tollgate,41.710650,-71.494980
+6115,25 Providence St,41.708657,-71.521371
+6120,67 Providence St,41.710746,-71.520275
+6125,Sandy after Warwick Ave,41.712513,-71.399556
+6140,979 Toll Gate Rd,41.710698,-71.495083
+6145,1060 Tollgate,41.711141,-71.497923
+6150,Providence & Tollgate (at 1060 Tollgate),41.711288,-71.497845
+6160,Providence & Tollgate (after New London),41.711444,-71.501945
+6175,Providence opposite Newell,41.711854,-71.500104
+6180,Hope opposite Elmwood,41.710667,-71.280523
+6185,Providence & Tollgate,41.711816,-71.500452
+6200,Main after Brayton,41.713415,-71.523760
+6205,Jefferson before Gillmore,41.712330,-71.448791
+6210,Warwick after Sandy,41.711497,-71.398978
+6225,Warwick before Sandy,41.712104,-71.398828
+6275,268 Providence St,41.713213,-71.507063
+6280,Providence opposite Westcott Terrace,41.712302,-71.504878
+6305,Main opposite Brayton,41.713604,-71.523863
+6310,Church before W Shore,41.713219,-71.380329
+6320,Church after Lovell,41.713482,-71.380524
+6325,CCRI Warwick (Stop B),41.712537,-71.479991
+6330,CCRI Warwick (Stop C),41.712420,-71.480054
+6335,CCRI Warwick (Stop D),41.712279,-71.480109
+6345,Main before Fatima,41.713608,-71.280653
+6350,CCRI Warwick (Stop A),41.712635,-71.479947
+6360,Jefferson after Echo,41.713408,-71.448385
+6365,230 Providence St,41.713976,-71.509750
+6370,Jefferson opposite Echo,41.713841,-71.448069
+6375,Providence after Tanglewood,41.713582,-71.508281
+6380,229 Providence,41.713865,-71.509761
+6385,E Main after Elm,41.713795,-71.517833
+6390,516 Providence,41.714191,-71.496245
+6410,199 Providence St,41.714098,-71.511701
+6415,Main after Bagy Wrinkle,41.713405,-71.280747
+6420,519 Providence,41.713998,-71.496285
+6425,Opposite 199 Providence,41.713972,-71.511650
+6435,Providence before Hay,41.714596,-71.515272
+6440,Opposite 186 Providence,41.714440,-71.515795
+6460,Providence after Junior,41.713900,-71.517663
+6465,E Main before Bridge,41.713903,-71.520529
+6485,After 54 E Main,41.714355,-71.521440
+6495,W Shore after Damon,41.714597,-71.377552
+6520,W Shore after Tidewater,41.714579,-71.377327
+6525,Church before Howard,41.715148,-71.383251
+6545,920 Bald Hill Rd,41.713221,-71.488668
+6555,New England Tech (Post Rd),41.715240,-71.444382
+6565,E Main before Main,41.715206,-71.523159
+6575,Church opposite Nash,41.715493,-71.383616
+6580,Main before Maple,41.715662,-71.523747
+6585,Providence before Burns,41.715691,-71.495049
+6610,W Shore opposite Economy,41.715600,-71.375908
+6620,945 Bald Hill Rd,41.712906,-71.489125
+6630,567 Providence,41.715814,-71.494787
+6635,Church opposite Aquarius,41.716538,-71.385130
+6640,948 Main,41.716121,-71.523467
+6650,Church before Beach,41.716291,-71.384962
+6670,Main after Locust,41.716460,-71.281013
+6680,2426 Post,41.716286,-71.444802
+6690,Main before Seymour,41.715819,-71.280784
+6695,Warwick before Amsterdam,41.716915,-71.400594
+6700,Providence before O'Donnell,41.717198,-71.493542
+6705,W Shore before Bush,41.716769,-71.375613
+6710,Warwick opposite Amsterdam,41.716891,-71.400312
+6715,Providence before Gage,41.717084,-71.493878
+6725,Opposite 914 Main,41.717892,-71.523946
+6735,Main after Clyde,41.717726,-71.523731
+6740,W Shore before Morris,41.717376,-71.375812
+6745,2332 Post,41.718531,-71.443416
+6750,Opposite 1150 Jefferson,41.717416,-71.447132
+6755,Before 1150 Jefferson,41.716902,-71.447028
+6760,234 Church,41.717228,-71.386385
+6765,Post before Elaine,41.718221,-71.443808
+6775,Main after Almy,41.718257,-71.280932
+6785,Warwick opposite Greylawn,41.718528,-71.401908
+6790,Greenwich before Rome,41.718285,-71.463652
+6800,Church opposite Overbrook,41.718554,-71.388532
+6810,900 Main,41.719088,-71.524759
+6815,W Shore before Stokes,41.718267,-71.376261
+6820,Church before Overbrook,41.718316,-71.388016
+6845,W Shore opposite Stokes,41.718404,-71.376557
+6850,885 Main,41.719594,-71.525521
+6860,Church after Kenwood,41.719549,-71.391359
+6865,Church after Warwick,41.719628,-71.402233
+6870,Warwick after Brendard,41.719049,-71.402620
+6875,Church before Warwick,41.719737,-71.402118
+6880,Providence before Market,41.719392,-71.491610
+6885,Jefferson after Williamsburg,41.719553,-71.446465
+6890,690 Providence,41.719074,-71.491999
+6895,Warwick after Church,41.719899,-71.403183
+6900,Rhode Island Mall,41.719637,-71.482534
+6905,Main before Dyer,41.719704,-71.281019
+6915,642 Church,41.720035,-71.399727
+6925,Church opposite Killey,41.720273,-71.393943
+6930,Main after Wakefield,41.720700,-71.527150
+6935,Church opposite Old Homestead,41.720443,-71.395440
+6945,W Shore before Winter,41.720205,-71.378002
+6950,Main opposite Coomer,41.718919,-71.281122
+6955,Church after Bugbee,41.720489,-71.397144
+6960,Greenwich after Naples,41.719973,-71.464537
+6965,Church opposite Bugbee,41.720526,-71.397473
+6985,800 Main,41.720826,-71.528635
+6995,2248 Post,41.720608,-71.442125
+7000,771 Main,41.721013,-71.531472
+7005,Opposite 2222 Post,41.721547,-71.441825
+7010,W Shore before Fulton,41.721169,-71.378498
+7015,Main before Bridge,41.721494,-71.281292
+7020,Warwick before Yucatan,41.721360,-71.404096
+7025,Opposite 1000 Jefferson,41.721345,-71.445834
+7035,Warwick before Vernon,41.721269,-71.403808
+7045,Highland before Parker,41.721350,-71.528720
+7050,Phenix Hotel (Main before Pleasant),41.721354,-71.532318
+7055,Providence before River,41.721263,-71.490985
+7060,798 Providence,41.722622,-71.491214
+7065,Main after Vernon,41.721950,-71.281162
+7070,555 Greenwich,41.721011,-71.465792
+7075,Warwick Mall (Villa Del Rio Apartments),41.721933,-71.474838
+7095,W Shore opposite Woodbury,41.722467,-71.380289
+7120,Greenwich after Shalom,41.723331,-71.468532
+7125,Metacom & Franklin (before Beejay),41.723327,-71.269754
+7130,Warwick at O.S.C.I.L.,41.723367,-71.404450
+7135,Warwick before Stanmore,41.723529,-71.404694
+7145,Conimicut (W Shore after Jennison),41.723779,-71.382375
+7165,Greenwich opposite Shalom,41.723013,-71.468461
+7170,Post at DoubleTree,41.724855,-71.439835
+7180,Providence & Wakefield (before Wakefield),41.723743,-71.491273
+7195,Main after Haile,41.723139,-71.281416
+7200,Providence & Wakefield (after Wakefield),41.724163,-71.491402
+7205,Warwick opposite Edgehill,41.724754,-71.404864
+7225,Opposite 300 Lambert Lind,41.725103,-71.471803
+7230,300 Lambert Lind,41.725114,-71.471628
+7235,Jefferson before Brownell,41.724850,-71.444538
+7245,Conimicut (W Shore before Allard),41.723958,-71.382405
+7250,Warwick opposite Rosemere,41.725769,-71.405353
+7265,TF Green Airport (Arrivals),41.725802,-71.436997
+7270,Metacom & Franklin (before Libby),41.725045,-71.269934
+7275,W Shore opposite Royal,41.724752,-71.384058
+7280,W Shore after Royal,41.724913,-71.383929
+7285,Main opposite Franklin,41.725437,-71.281551
+7300,Park & Ride (Franklin St - Warren),41.725753,-71.280701
+7305,W Shore opposite Cambridge,41.727065,-71.388244
+7315,Post at Sky Bridge,41.726765,-71.438901
+7335,Lambert Lind opposite Warwick Mall,41.727180,-71.475037
+7340,W Shore before Cambridge,41.726997,-71.387868
+7345,Warwick opposite Lyndale,41.727464,-71.405829
+7350,W Shore before Linbrook,41.728470,-71.391579
+7355,Lambert Lind at Macy's,41.727228,-71.475554
+7365,Opposite 931 Jefferson,41.720884,-71.445794
+7375,Warwick between Dayton & Lyndale,41.727657,-71.405694
+7385,Opposite 700 Jefferson,41.727256,-71.443624
+7395,Main & Joyce (Warren) before Croade,41.728374,-71.282020
+7430,Airport Interlink (Jefferson after Thurber),41.728410,-71.443196
+7435,Main & Joyce (Warren) before Washington,41.728599,-71.282228
+7445,456 W Shore,41.728531,-71.391317
+7450,Warwick after Dixie,41.729319,-71.406021
+7475,Opposite 319 Metacom,41.730141,-71.269570
+7495,Lambert Lind before Greble,41.729408,-71.476974
+7505,W Shore after Circuit,41.729880,-71.394684
+7510,W Shore opposite Circuit,41.729750,-71.394620
+7520,Main before Child,41.730320,-71.282474
+7525,Warwick opposite Glendale,41.730024,-71.406395
+7560,Post before Airport Rd (opposite Elkland),41.730564,-71.437119
+7570,Opposite 639 Jefferson,41.730530,-71.442304
+7580,W Shore after Glenwood,41.730994,-71.397531
+7585,Warwick after Magnolia,41.731343,-71.406451
+7595,Main before Miller,41.731165,-71.282789
+7600,Jefferson before Quimby,41.731359,-71.442128
+7605,W Shore before Twin Oak,41.731424,-71.398145
+7640,1600 Warwick,41.732720,-71.406741
+7645,W Shore after Delwood,41.732034,-71.399931
+7650,Main after Wood,41.732349,-71.282959
+7660,Post between Guilford & Airport Rd,41.732385,-71.436698
+7665,Main before Liberty,41.732407,-71.283046
+7670,W Shore opposite Delwood,41.732495,-71.400523
+7680,Opposite 555 Jefferson,41.732583,-71.441581
+7690,555 Jefferson,41.732704,-71.441609
+7710,Oaklawn after Bateman,41.732949,-71.477142
+7715,Oaklawn opposite Bateman,41.732892,-71.477327
+7725,Warwick before Airport Rd,41.735062,-71.407737
+7735,W Shore after Moore,41.733464,-71.403867
+7745,W Shore after Moore,41.733628,-71.404553
+7750,Warwick & West Shore (at 27 W Shore),41.733466,-71.405847
+7760,Mayfield after Oaklawn,41.734011,-71.476916
+7765,Warwick & West Shore (at 1543 Warwick),41.734493,-71.407268
+7770,Mayfield before Oaklawn,41.734141,-71.476787
+7781,Mayfield opposite Woodhaven,41.734295,-71.472800
+7785,Main opposite Warren,41.734531,-71.283849
+7795,480 Jefferson,41.734327,-71.440943
+7800,Mayfield before Woodhaven,41.734426,-71.472332
+7805,Oaklawn after Oak Hill,41.735399,-71.477659
+7810,Main after Warren,41.734465,-71.283941
+7825,Mayfield After East,41.734987,-71.468347
+7845,East opposite Mayfield,41.735065,-71.468402
+7850,Post at Barden,41.735376,-71.435047
+7855,1279 Oaklawn,41.734527,-71.477651
+7860,443 Jefferson,41.735388,-71.440718
+7865,Main after Water,41.735375,-71.285156
+7870,Main opposite Water,41.735434,-71.285058
+7880,Post opposite Barden,41.735521,-71.435261
+7885,County opposite Joyce,41.736173,-71.300424
+7890,County after Joyce,41.736260,-71.300930
+7900,East after Bicknell,41.736340,-71.466604
+7905,County opposite Police Cove (Park & Ride),41.736452,-71.298390
+7910,Main opposite Mill,41.736628,-71.286720
+7915,Warwick before Squantum,41.736386,-71.407941
+7920,Warwick after Squantum,41.736677,-71.408151
+7925,Jefferson after Service,41.736482,-71.440274
+7930,County before Bosworth,41.736593,-71.303683
+7945,County before New Meadow,41.737020,-71.293358
+7950,380 Jefferson,41.736920,-71.439999
+7955,Main before Crescent,41.736849,-71.286910
+7960,County before Barton,41.736918,-71.293324
+7965,East before Castle,41.736259,-71.466529
+7985,County after Tyler Point,41.737222,-71.290969
+7990,County after Sowams,41.737293,-71.290975
+7995,County opposite Barrington Shopping Center,41.737509,-71.304154
+8010,230 County,41.738211,-71.305755
+8020,East after Foster,41.738819,-71.463301
+8025,Jefferson opposite Bay State,41.738203,-71.439529
+8030,Opposite 230 County,41.738389,-71.305735
+8035,Jefferson after Bay State,41.738297,-71.439628
+8040,Warwick before Manor,41.738570,-71.408084
+8045,Post & Lincoln (before Lincoln),41.738468,-71.433326
+8050,Post & Lincoln (after Lincoln),41.738511,-71.433560
+8060,Oaklawn & New London,41.739019,-71.478586
+8065,East opposite Foster,41.739063,-71.462698
+8070,Warwick opposite Manor,41.738603,-71.408267
+8075,Oaklawn & New London,41.739120,-71.478446
+8085,Jefferson before Vermont,41.739230,-71.439126
+8095,County before Maple,41.739948,-71.308163
+8100,County opposite Maple,41.739840,-71.307816
+8105,Jefferson before Vermont,41.739851,-71.439109
+8135,222 Jefferson,41.740972,-71.438469
+8140,1309 Warwick,41.740840,-71.408080
+8145,245 Jefferson,41.741114,-71.438565
+8150,Warwick before Namquid,41.741137,-71.407827
+8160,County before Cady,41.741875,-71.310257
+8175,Opposite 308 County,41.741891,-71.309984
+8200,County opposite Hilltop,41.742843,-71.312185
+8215,Howard before West,41.743174,-71.463464
+8225,Jefferson after Lincoln,41.743315,-71.437656
+8230,Jefferson after Lincoln,41.742724,-71.437983
+8245,Warwick after Miantonomo,41.743717,-71.407144
+8250,Howard before Regan,41.744004,-71.464058
+8255,Pontiac & Power (opposite Kenney),41.743950,-71.456485
+8265,Pontiac & Power (before Kenney),41.743580,-71.456612
+8270,Warwick before Scranton,41.744088,-71.407211
+8275,Oaklawn opposite Scenic,41.744942,-71.479324
+8280,Post before Ethan,41.744579,-71.428455
+8285,Oaklawn after Scenic,41.744962,-71.479131
+8290,Post between Elm & Chestnut,41.744846,-71.428289
+8295,Opposite 1106 Warwick,41.745767,-71.406247
+8300,Narragansett before Warwick,41.745201,-71.406061
+8305,Narragansett before Stoddard,41.745178,-71.405759
+8330,Narragansett before Creed,41.745474,-71.403913
+8345,100 Jefferson,41.745756,-71.436699
+8355,Narragansett opposite Thor,41.745875,-71.401843
+8365,Opposite 100 Jefferson,41.745986,-71.436824
+8370,Narragansett after Kearns,41.746094,-71.399959
+8375,Narragansett opposite Kendall,41.746281,-71.399377
+8380,Elmwood & Post (before Majestic),41.747597,-71.424225
+8385,County opposite Lincoln,41.746638,-71.316552
+8390,Post between Pettaconsett & Noorwood,41.746700,-71.426020
+8395,Pontiac after Slater,41.746957,-71.453756
+8400,Narragansett before Elks,41.746505,-71.397355
+8405,Narragansett opposite Elks,41.746633,-71.397125
+8410,Oaklawn before Brayton,41.746700,-71.478865
+8415,Howard before Cherrydale,41.746653,-71.466493
+8420,Howard opposite Cherrydale,41.746577,-71.466552
+8425,County before Lincoln,41.746469,-71.316588
+8445,Narragansett before Spring Green,41.746818,-71.395409
+8455,New London after Howard,41.747932,-71.468295
+8460,Oaklawn before Wilbur,41.747206,-71.478947
+8465,Narragansett before Spring Green,41.747018,-71.394657
+8475,1375 Pontiac,41.747366,-71.453681
+8510,Traffic Tribunal,41.748214,-71.467149
+8520,Park & Ride (White Church - Barrington),41.747976,-71.318030
+8530,Park & Ride (White Church - Barrington),41.748065,-71.317928
+8545,Narragansett before Howie,41.748571,-71.391115
+8550,Narragansett after Howie,41.748730,-71.391009
+8555,Elmwood & Post (before Harrington),41.748344,-71.423346
+8565,Warwick before N Country Club,41.748264,-71.404619
+8570,Warwick opposite Independence,41.748172,-71.404853
+8575,Oaklawn before Weaver,41.748648,-71.478429
+8585,Narragansett before Parkside,41.748741,-71.387351
+8600,Narragansett after Alvira,41.748824,-71.388053
+8610,Jefferson before Maple,41.748899,-71.435760
+8615,Elmwood before Post,41.749567,-71.422972
+8630,Elmwood after Post,41.749511,-71.422770
+8635,Jefferson before Sargent,41.749018,-71.435583
+8640,Narragansett before Carrie Brown,41.748792,-71.385099
+8645,Narragansett before Carrie Brown,41.748870,-71.384603
+8660,Post after Elmwood,41.748832,-71.422182
+8665,Post opposite Rosewood,41.749695,-71.421014
+8680,Warwick opposite Urban,41.750779,-71.404095
+8695,Narragansett before Country Club,41.750108,-71.383491
+8700,Oaklawn before Miles,41.750456,-71.477815
+8705,Narragansett between Audubon and Country Club,41.750534,-71.383664
+8710,Jefferson before Chestnut,41.750850,-71.435047
+8715,Post after Mowry,41.750558,-71.419271
+8720,Oaklawn opposite Miles,41.750739,-71.477860
+8745,Jefferson after Chestnut,41.750596,-71.434989
+8750,509 County,41.751984,-71.321692
+8765,901 Post,41.751687,-71.417281
+8770,Jefferson & I-95 (before Cypress),41.752742,-71.435568
+8775,Narragansett opposite Gillooly,41.752268,-71.383611
+8780,Pontiac opposite Sockanosset Cross,41.752578,-71.450736
+8785,Narragansett before Gillooly,41.752466,-71.383744
+8805,Post at Fairfax Village,41.751356,-71.417490
+8810,Oaklawn after Garden Hills,41.752350,-71.477277
+8815,Elmwood before Sixth,41.751899,-71.423164
+8820,Jefferson & I-95 (before Jefferson Park),41.752702,-71.435255
+8830,741 Oaklawn,41.752821,-71.477299
+8835,County after Manning,41.752442,-71.324051
+8840,Opposite 1150 Pontiac,41.753024,-71.450327
+8850,Elmwood before Fifth,41.755129,-71.423957
+8870,Pontiac after Pettaconsett,41.753586,-71.449001
+8880,Oaklawn before Blossom,41.754045,-71.476735
+8895,Pontiac opposite Pettaconsett,41.753720,-71.449005
+8900,Narragansett after Bentley,41.754093,-71.385485
+8905,Narragansett before Bentley,41.753944,-71.385454
+8915,Post before Walmart Entrance,41.753601,-71.414324
+8925,Post opposite Walmart,41.754079,-71.413990
+8930,Pontiac before Zinnia,41.755137,-71.447357
+8950,Warwick before Washington,41.754678,-71.404236
+8955,Post opposite Chambly,41.755080,-71.412218
+8980,Narragansett after Naushon,41.755464,-71.387961
+8985,Narragansett before Naushon,41.755304,-71.387681
+9015,Warwick before Atlantic,41.755980,-71.404535
+9020,Post after Spofford,41.755459,-71.411870
+9025,1884 Elmwood,41.756268,-71.424124
+9040,655 Oaklawn,41.755697,-71.476041
+9050,630 Oaklawn,41.756102,-71.475669
+9065,Narragansett before Cononchet,41.756822,-71.388744
+9070,Narragansett after Longwood,41.756750,-71.388619
+9075,Elmwood before Second,41.759446,-71.424686
+9090,Midway after Sockanossett,41.757293,-71.457898
+9095,Wampanoag at East Bay Center,41.754475,-71.326199
+9100,Elmwood before Third,41.756865,-71.424036
+9105,Post opposite Tennyson,41.756977,-71.409506
+9110,Post before Tennyson,41.757186,-71.409424
+9125,988 Pontiac,41.757573,-71.445425
+9130,995 Pontiac,41.757641,-71.445458
+9145,Oaklawn opposite Sherman,41.758023,-71.474514
+9150,Crescent View opposite Providence,41.758096,-71.358289
+9155,Narragansett before Manchester,41.758542,-71.389176
+9165,Midway before Sockanossett,41.757233,-71.458256
+9175,Crescent View before Providence,41.758255,-71.357948
+9180,Oaklawn before Sherman,41.758341,-71.474523
+9190,Crescent View before Carousel,41.758366,-71.356600
+9195,Bullocks Point & Crescent View,41.758468,-71.359866
+9240,Crescent View after Beacon Park,41.758633,-71.355430
+9245,Elmwood before Second,41.758798,-71.424370
+9255,Bullocks Point & Crescent View (after Beacon),41.758776,-71.360118
+9275,935 Pontiac,41.759454,-71.443776
+9290,Crescent View opposite Glen,41.759613,-71.350943
+9300,Crescent View before Peck,41.759450,-71.347859
+9315,Oaklawn before Fernbrook,41.759746,-71.474010
+9320,Crescent View after Alden,41.759725,-71.348701
+9325,Oaklawn after Fernbrook,41.759978,-71.473771
+9330,Warwick after Harding,41.760090,-71.404624
+9335,Narragansett before Bayside,41.760364,-71.389483
+9340,Post before Frost,41.759719,-71.405809
+9345,Shaw's (Willett Ave - Riverside),41.759567,-71.343641
+9350,Pontiac & Garden City Drive,41.760252,-71.442922
+9355,Warwick & Post (at 557 Warwick),41.760745,-71.404868
+9360,Warwick & Post (opposite Scott),41.761042,-71.404671
+9365,Bullocks Point at Oldham Elementary School,41.760741,-71.360235
+9370,Wampanoag opposite Primrose Hill,41.760222,-71.323314
+9380,Bullocks Point opposite Sunset,41.759976,-71.360271
+9385,Wampanoag after Primrose Hill,41.760193,-71.323947
+9390,Elmwood opposite First,41.761009,-71.424955
+9400,Garden City (Midway Rd),41.762554,-71.457072
+9410,Midway after Cypress,41.760689,-71.456831
+9415,Narragansett after Spring Garden,41.761373,-71.389581
+9420,Oaklawn before Merit,41.761129,-71.473667
+9440,Elmwood before First,41.760982,-71.424729
+9480,Bullocks Point before Bates,41.761801,-71.360583
+9490,Narragansett after East View,41.762200,-71.389860
+9495,Narragansett after View,41.762532,-71.389821
+9515,Elmwood opposite Wellington,41.762388,-71.424996
+9535,Elmwood before Wellington,41.762369,-71.425180
+9540,Pontiac & Garden City Dr (opposite Hershey),41.762712,-71.442412
+9570,468 Warwick,41.763380,-71.404837
+9585,Opposite 435 Oaklawn,41.762918,-71.473729
+9590,435 Oaklawn,41.762949,-71.473786
+9615,Bullocks Point before Sherman,41.763599,-71.360692
+9630,Bullocks Point after Sherman,41.763319,-71.360834
+9640,Warwick after Quinton,41.764529,-71.404907
+9650,Warwick after Laura,41.764266,-71.405113
+9660,Pontiac before Holburn,41.764239,-71.441427
+9680,Elmwood before Third,41.764814,-71.425574
+9695,Elmwood before Second,41.764837,-71.425423
+9705,Bullocks Point before River,41.765180,-71.361069
+9715,Wampanoag before Pinetop,41.764594,-71.321269
+9720,Wampanoag opposite Pinetop,41.764820,-71.320995
+9755,Pawtuxet Bridge (Broad opposite Sheldon),41.765973,-71.390992
+9760,Pontiac opposite Holburn,41.764470,-71.441501
+9765,Oaklawn opposite King,41.766003,-71.472096
+9785,Pontiac opposite Keith,41.766565,-71.440423
+9800,Oaklawn & Dean (before Dean),41.766860,-71.471760
+9805,Elmwood before Burbank,41.766829,-71.424911
+9810,Elmwood before Bedson,41.766552,-71.425172
+9815,Oaklawn & Dean (before Tupelo Hill),41.767319,-71.471507
+9820,Warwick Ave opposite Shaw's (on-street),41.766584,-71.405216
+9830,Shaw's (Warwick) - Warwick Ave,41.767311,-71.405103
+9835,Reservoir after Woodbridge (Chelo's),41.766703,-71.457859
+9850,396 Bullocks Point,41.767999,-71.361148
+9855,Elmwood opposite Sharon,41.768372,-71.424568
+9865,Broad after Rhodes,41.767874,-71.391888
+9870,Bullocks Point before North,41.767695,-71.361189
+9875,Broad after Circuit,41.768028,-71.391892
+9895,Elmwood after Sharon,41.768803,-71.424204
+9900,Pontiac before Rockland,41.768380,-71.439197
+9905,1200 Reservoir,41.768399,-71.455966
+9955,Reservoir before Rangely,41.769468,-71.455112
+9960,Bullocks Point before Lincoln,41.770921,-71.361589
+9970,Oaklawn after Ralls,41.769993,-71.470379
+9980,Warwick at Stop & Shop,41.769616,-71.405410
+9990,Pontiac after Forest,41.769385,-71.438628
+9995,Reservoir before Aqueduct,41.771648,-71.452757
+10005,Oaklawn opposite Freedom,41.770389,-71.470381
+10030,Elmwood Ave opposite Job Lot (Cranston),41.770964,-71.423465
+10045,Warwick opposite Stop & Shop,41.769546,-71.405217
+10055,Elmwood Ave at Job Lot (Cranston),41.771058,-71.423531
+10075,Broad before Berwick,41.771178,-71.394366
+10080,Broad after Berwick,41.770943,-71.394397
+10085,Wampanoag opposite Argyle,41.771831,-71.324882
+10105,Broad opposite Glen,41.772294,-71.395810
+10120,Reservoir before Bridgton,41.773109,-71.451340
+10145,Broad opposite Alhambra,41.772517,-71.395991
+10155,Pontiac after Colonial,41.771695,-71.436972
+10190,Pontiac before Hodsell,41.772175,-71.436888
+10215,Bullocks Point after Washington,41.772704,-71.362886
+10220,Oaklawn before Woodstock,41.772876,-71.469073
+10230,1689 Wampanoag,41.766918,-71.322601
+10240,174 Warwick,41.772651,-71.404296
+10250,Oaklawn opposite Woodstock,41.772940,-71.469168
+10260,Warwick before Park,41.773554,-71.403845
+10300,1472 Wampanoag,41.774249,-71.326418
+10310,Reservoir after Aqueduct,41.771488,-71.453219
+10315,Opposite 1351 Elmwood,41.772999,-71.422666
+10320,Wampanoag after President,41.772461,-71.325534
+10345,Elmwood after Fenner,41.773657,-71.422585
+10360,Pontiac after Waterman,41.774041,-71.437338
+10370,22 Oaklawn,41.774543,-71.468484
+10380,Pontiac before Laurens,41.774305,-71.437240
+10390,Broad after Shaw,41.774879,-71.398444
+10395,Broad after Moorland,41.773991,-71.397891
+10405,Reservoir before Nowell,41.774793,-71.449719
+10415,Reservoir after Nowell,41.774389,-71.450430
+10440,Broad at Library Entrance,41.776125,-71.399418
+10455,Warwick after Villa,41.775513,-71.402105
+10460,Warwick after Villa,41.775134,-71.402630
+10465,55 Oaklawn,41.775349,-71.468533
+10475,Reservoir opposite Lockmere,41.776264,-71.448014
+10525,Elmwood after Park,41.775982,-71.421745
+10530,Reservoir after Brookwood,41.776643,-71.447648
+10540,Elmwood before Hathaway,41.776594,-71.421381
+10565,Rolfe after Auburn,41.777101,-71.436400
+10570,1375 Wampanoag,41.775831,-71.328304
+10585,Wampanoag before Mohawk,41.776975,-71.328889
+10620,Elmwood before Spooner,41.778190,-71.421015
+10630,Warwick before Bartlett,41.777484,-71.400780
+10640,Reservoir before Auburn,41.777785,-71.445905
+10660,Park & Rolfe (before Park),41.778294,-71.435852
+10685,Norwood & Broad (after Broad),41.778068,-71.399879
+10690,Norwood & Broad (before Broad),41.778233,-71.399938
+10695,Reservoir after Richland,41.778050,-71.445688
+10700,Broad after Norwood,41.778221,-71.400369
+10735,Cranston opposite Uxbridge,41.778667,-71.466972
+10740,Park & Rolfe (after Park),41.778478,-71.436012
+10750,Cranston before Uxbridge,41.778338,-71.467164
+10755,Norwood before Pawtuxet,41.778719,-71.396304
+10765,Norwood after Pawtuxet,41.778881,-71.396365
+10770,Pontiac before Park,41.779282,-71.435361
+10780,Pontiac after Park,41.779215,-71.435270
+10786,31 Bullocks Point,41.777733,-71.363255
+10790,90 Norwood,41.779128,-71.394174
+10810,Elmwood after Sawyer,41.778998,-71.420499
+10815,Broad after Wheeler,41.780539,-71.400849
+10830,Reservoir before Calaman,41.779890,-71.443226
+10840,Wampanoag after Forbes,41.779632,-71.333061
+10845,Wampanoag opposite Forbes,41.780065,-71.333227
+10850,Reservoir before Blaisdell,41.779610,-71.443209
+10875,1790 Cranston,41.780466,-71.465558
+10880,Cranston before Vervena,41.780510,-71.465648
+10885,Narragansett before Grand,41.780595,-71.393323
+10890,Narragansett after Grand,41.781005,-71.393224
+10900,Broad after Wheeler,41.780383,-71.400749
+10910,Elmwood before Dixon,41.780380,-71.420254
+10920,Pawtucket at Bank of America,41.780901,-71.363188
+10925,Park & Reservoir (at Reservoir after Leyden),41.781008,-71.441687
+10930,Elmwood after McKinley,41.781445,-71.419596
+10935,Park & Reservoir (at Reservoir before Norfolk),41.780851,-71.441576
+10940,Pontiac opposite Mauran,41.781261,-71.431801
+10950,Pontiac before Beckwith,41.780956,-71.432553
+10955,Pawtucket before Industrial,41.781872,-71.363474
+10975,Reservoir before High School Avenue,41.781805,-71.440172
+10985,Elmwood after Whitney,41.781914,-71.419648
+11015,Cranston before Park,41.782963,-71.464866
+11022,Broad before Armington,41.782933,-71.401042
+11030,3340 Pawtucket,41.783201,-71.363446
+11035,Cranston after Park,41.783031,-71.464727
+11040,Reservoir before Legion,41.783258,-71.438533
+11045,Narragansett before Armington,41.783425,-71.394260
+11060,Narragansett before Narragansett St,41.783962,-71.394186
+11065,Reservoir before Beckwith,41.783837,-71.437358
+11075,Elmwood opposite Carlisle,41.784101,-71.418695
+11080,Elmwood before Carlisle,41.784113,-71.418965
+11085,Pontiac opposite Brandon,41.784439,-71.431190
+11100,Broad opposite Armington,41.783000,-71.401249
+11110,Opposite 3348 Pawtucket,41.782987,-71.363563
+11135,Dyer after Park,41.784509,-71.457036
+11150,Reservoir before Sprague,41.785342,-71.435594
+11155,Pontiac after Brandon,41.784590,-71.431090
+11170,Reservoir after Preston,41.785148,-71.435549
+11185,Dyer before Park,41.784575,-71.457126
+11195,Cranston Industrial Park (Amflex & Comstock),41.785283,-71.515580
+11210,Narragansett after Harborside,41.785919,-71.394861
+11220,Pawtucket after Wheeler,41.786067,-71.363887
+11230,Broad St Terminus (Montgomery Ave),41.786181,-71.401962
+11240,Broad St Terminus (Montgomery Ave),41.786282,-71.401726
+11245,Reservoir before Pontiac,41.787439,-71.432456
+11250,Roger Williams Park (Elmwood Entrance),41.785939,-71.419630
+11255,Roger Williams Park (Elmwood Entrance),41.786542,-71.419695
+11260,Cranston before Connecticut,41.784889,-71.464222
+11265,Sailor Way before Amflex,41.786386,-71.509791
+11270,Cranston after Randall,41.784722,-71.464444
+11275,Narragansett after Montgomery,41.786041,-71.395084
+11285,Pawtucket opposite Village Green,41.786645,-71.364138
+11290,870 Dyer,41.787502,-71.455994
+11295,Dyer opposite Cedar,41.787024,-71.456100
+11310,Pontiac & Reservoir (after Rutherglen),41.787531,-71.431435
+11330,Pontiac before Richfield,41.786192,-71.431678
+11335,Eddy before Morton,41.789745,-71.403096
+11350,Eddy before Vermont,41.787740,-71.402504
+11355,Narragansett before Washington,41.787848,-71.395527
+11385,Cranston before Batcheller,41.788113,-71.463237
+11395,Cranston after Vigilant,41.787778,-71.463269
+11400,Pontiac & Reservoir (after Reservoir),41.787816,-71.431467
+11420,Eddy after California,41.788375,-71.402563
+11435,Pawtucket opposite Waterview,41.788205,-71.364326
+11440,Pawtucket opposite Bayview School,41.789271,-71.364873
+11465,Plainfield after Sailor,41.788703,-71.507889
+11485,900 Wampanoag,41.789608,-71.333318
+11490,Reservoir before Roger Williams,41.789246,-71.429915
+11495,Plainfield before Simmonsville,41.789181,-71.504541
+11510,Elmwood after Cadillac,41.789452,-71.421333
+11515,Haven before Cranston,41.789737,-71.462335
+11520,Cranston opposite Vallone,41.789387,-71.462614
+11530,Elmwood after Hempstead,41.789448,-71.421643
+11535,Carr Street,41.789458,-71.404666
+11540,Reservoir opposite Roger Williams,41.789267,-71.430208
+11550,Pawtucket at Bayview School,41.789583,-71.364829
+11555,Allens between California and Ohio,41.789668,-71.396096
+11570,Haven after Florida,41.789832,-71.459942
+11575,Eddy between Carolina & New York,41.790158,-71.402988
+11590,Haven opposite Florida,41.789974,-71.460074
+11610,Cranston before Dyer,41.790502,-71.456549
+11615,Cranston before Byron,41.790429,-71.456557
+11620,Plainfield before Independence,41.789674,-71.501118
+11650,Cranston after Cleveland,41.790751,-71.454296
+11655,Reservoir opposite Delmar,41.790413,-71.429027
+11670,Cranston before Cleveland,41.790639,-71.454250
+11680,Allens after Carolina,41.791689,-71.396783
+11695,Cranston & Gansett (before Gansett),41.791464,-71.452052
+11700,Citizens Bank Operations Center (East Providence),41.790655,-71.356380
+11720,Allens after California,41.789253,-71.396182
+11725,RIPTA - Elmwood Garage (Opposite 705 Elmwood),41.791990,-71.422752
+11730,Plainfield after Nardolillo,41.791098,-71.496822
+11735,Plainfield opposite Nardolillo,41.791011,-71.496814
+11740,RIPTA - Elmwood Garage (Elmwood opposite Thackery),41.791843,-71.422927
+11745,1260 Cranston,41.791436,-71.451882
+11750,1609 Plainfield,41.791479,-71.494034
+11760,Plainfield after Plainfield Circle,41.791451,-71.489921
+11770,Veterans Parkway & Pawtucket (before Bond),41.791767,-71.365686
+11775,Plainfield after Rachela,41.791555,-71.491780
+11780,Reservoir after Ardoene,41.791778,-71.427952
+11790,Eddy before Jillson,41.791835,-71.403629
+11810,Eddy between Chapman & Toronto,41.791869,-71.403495
+11815,Citizens before Tripps,41.791094,-71.354429
+11820,610 Wampanoag,41.791104,-71.336213
+11825,Tripps before Citizens,41.791341,-71.354289
+11835,Reservoir before Ardoene,41.791913,-71.428113
+11840,Cranston After Howard (D'Evan Manor),41.792847,-71.451001
+11860,Veterans Parkway & Pawtucket (at 3044 Pawtucket),41.792409,-71.365233
+11865,Plainfield after Pezzulo,41.792526,-71.488421
+11870,Allens before Georgia,41.792375,-71.397217
+11875,Tripps opposite Madeline,41.792115,-71.353956
+11880,Roger Williams Park,41.792075,-71.406893
+11885,Cranston before Puritan,41.792960,-71.451188
+11890,Roger Williams Park,41.792428,-71.407640
+11900,Elmwood opposite Warrington,41.793255,-71.423714
+11910,Plainfield opposite Yeoman,41.793703,-71.486798
+11925,Elmwood after Warrington,41.793573,-71.423611
+11945,Eddy before Johnson,41.793390,-71.404099
+11950,Plainfield after Yeoman,41.793605,-71.486724
+11960,Reservoir after Narragansett,41.794318,-71.426624
+11965,Reservoir before Downing,41.794066,-71.426915
+11970,15 Tripps,41.794193,-71.353347
+11975,Allens before Baker,41.793951,-71.397702
+11985,Colony House (at Cadillac opposite Rodman),41.794166,-71.416191
+11990,Cranston opposite Burnham,41.794086,-71.450399
+12005,Pawtucket opposite Mountain,41.794121,-71.364684
+12015,Tripps opposite Citizens Bank,41.794662,-71.353405
+12020,Patucket before Mountain,41.794619,-71.364651
+12050,Ernest & Allens (opposite Ellenfield),41.794334,-71.397665
+12055,Ernest & Allens (before Ernest),41.795272,-71.398220
+12065,Opposite 1141 Cranston,41.795076,-71.449655
+12070,Early Street,41.795970,-71.412016
+12105,Elmwood before Lenox,41.795032,-71.424457
+12110,Tripps before Wampanoag,41.795716,-71.352944
+12115,Wampanoag opposite Tripps,41.795849,-71.352768
+12120,Dyer & Chestnut Hill,41.795707,-71.457319
+12125,Dyer & Chestnut Hill (before Puritan),41.793960,-71.457810
+12135,Early Street,41.795721,-71.411413
+12140,Cranston after Seneca,41.795714,-71.449511
+12150,Elmwood & Reservoir (at 1 Reservoir),41.796896,-71.426094
+12155,Reservoir after Adelaide,41.796263,-71.425953
+12165,Laurel Hill before Lookout,41.796106,-71.452540
+12170,Cranston before Oneida,41.797368,-71.448413
+12180,Chestnut Hill before Princess,41.796029,-71.455352
+12185,Plainfield before Mill,41.795725,-71.483512
+12210,Atwood & Plainfield (before Clemence),41.796184,-71.482101
+12230,2838 Pawtucket Ave,41.796628,-71.363780
+12245,Alvarez School,41.794540,-71.429492
+12265,Elmwood & Reservoir (before Atlantic),41.796565,-71.425560
+12275,Plainfield after Tweed,41.796640,-71.480483
+12320,Plainfield opposite Fletcher,41.796929,-71.479772
+12325,642 Allens,41.796985,-71.398597
+12335,Allens opposite I-95 North (On-Ramp),41.800561,-71.400451
+12355,Plainfield opposite School,41.797291,-71.478887
+12365,Pawtucket before Heath,41.797495,-71.363713
+12370,Eddy at Pavilion,41.797287,-71.405042
+12385,Eddy after Pavilion,41.797335,-71.405205
+12395,Dyer opposite Riverbend,41.797761,-71.457684
+12400,Elmwood & Reservoir (before Ontario),41.797604,-71.425834
+12410,Dyer before Riverbend,41.797750,-71.457800
+12415,Cranston after Dover,41.797434,-71.448587
+12435,Pawtucket before Wampanoag,41.797731,-71.363434
+12450,Plainfield after Pocasset,41.798047,-71.475836
+12475,Plainfield before Pocasset,41.798145,-71.475960
+12480,Thurbers Avenue,41.798496,-71.414829
+12495,Eddy opposite Applegate,41.799085,-71.405488
+12500,Eddy & Thurbers (before Applegate),41.799185,-71.405701
+12560,Laurel Hill & Elwyn (before Elwyn),41.798355,-71.452258
+12570,Allens at Lehigh Metals Corporation,41.801888,-71.401020
+12575,Plainfield before Spruce,41.798657,-71.473367
+12580,Brewery Parkade (at Garfield before Stop & Shop),41.795587,-71.443918
+12581,85 Garfield,41.800024,-71.441678
+12582,Brewery Parkade (at Garfield before Lowe's),41.795793,-71.444103
+12585,Prairie opp Roger Williams Middle School,41.798374,-71.411779
+12590,Thurbers Avenue,41.798121,-71.414688
+12605,Pawtucket opposite Vincent,41.799442,-71.362796
+12625,Elmwood opposite Redwing,41.799626,-71.426425
+12630,Pawtucket after Vincent,41.799154,-71.363072
+12635,Prairie & Thurbers (at Prairie after Colfax),41.799407,-71.412233
+12645,Cranston opposite Weston,41.799234,-71.447661
+12660,Plainfield after Stimpson,41.799552,-71.472077
+12670,Cranston opposite Birch,41.799858,-71.446954
+12685,Laurel Hill & Elwyn (after Gladstone),41.799645,-71.452296
+12690,Eddy & Thurbers (after Thurbers),41.801876,-71.406243
+12695,Cranston before Birch,41.800112,-71.446991
+12710,Simmons Village,41.802157,-71.494767
+12720,Ontario Street,41.800271,-71.417353
+12725,Prairie & Thurbers (at Prairie before Colfax),41.799416,-71.412133
+12735,Laurel Hill before Argyle,41.800281,-71.452139
+12750,Garfield before New Depot,41.800871,-71.441511
+12760,Garfield after Cranston,41.801928,-71.441831
+12763,Cranston opposite Garfield,41.803026,-71.442373
+12770,Ontario Street,41.800409,-71.417228
+12775,Plainfield after Evans,41.800673,-71.470076
+12780,Martin after Pawtucket,41.800791,-71.362982
+12795,Laurel Hill after Wales,41.801306,-71.452015
+12800,Elmwood before Potters,41.801019,-71.426316
+12805,Laurel Hill after Bracken,41.801522,-71.452132
+12815,Cranston & Webster (after Whipple),41.801454,-71.445533
+12820,Pawtucket after Howland,41.801658,-71.362070
+12850,Opposite 481 Dyer,41.800447,-71.458173
+12855,Cranston & Webster (after Webster),41.801670,-71.445526
+12860,Prairie after Oxford,41.801902,-71.413219
+12885,Pawtucket before Unity,41.801931,-71.362073
+12895,Plainfield after Morgan,41.802060,-71.469323
+12905,Allens before Pleasure,41.803494,-71.401741
+12910,Allens at I-95 North (On-Ramp),41.800844,-71.400272
+12915,Plainfield opposite Morgan,41.802275,-71.468987
+12930,Eddy after Ashmont,41.802396,-71.406597
+12950,Laurel Hill after Maplewood,41.803202,-71.452027
+12960,South Broadway & Martin,41.802890,-71.374100
+12965,Laurel Hill after Heather,41.803020,-71.451955
+12995,Cranston before Garfield,41.802805,-71.442741
+13015,Jordan before Catamore,41.803367,-71.343370
+13025,Cranston after Washington,41.803155,-71.440771
+13035,Elmwood before Burnett,41.803271,-71.425915
+13050,Elmwood before Mawney,41.803576,-71.425615
+13060,Prairie before Potters,41.803761,-71.413975
+13075,Prairie after Potters,41.803738,-71.414088
+13080,Catamore before Jordan,41.803880,-71.343008
+13085,Public Street,41.804277,-71.419340
+13095,Evergreen Apartments (after Jordan),41.804211,-71.344770
+13100,Pawtucket before Walmer,41.803834,-71.361246
+13105,Plainfield opposite Coolidge,41.804632,-71.466949
+13110,307 Allens,41.804910,-71.402348
+13115,Cranston before Anthony,41.804186,-71.438722
+13120,Laurel Hill before Wakefield,41.804054,-71.451888
+13125,Allens before Lehigh,41.802181,-71.400865
+13130,Pawtucket opposite Walmer,41.803995,-71.361387
+13135,Public Street,41.804890,-71.419387
+13145,Cranston after Anthony,41.804204,-71.438785
+13165,Plainfield before Coolidge,41.804646,-71.466664
+13175,Laurel Hill before Farmington,41.805059,-71.452037
+13180,Dyer opposite Heather,41.803076,-71.458493
+13225,Broadway before Lee,41.804971,-71.373334
+13235,S Broadway opposite Lee,41.805509,-71.373240
+13240,Pawtucket before Brightridge,41.805683,-71.360785
+13245,Prairie after Saratoga,41.805247,-71.414593
+13250,Eddy before Swan,41.804516,-71.406944
+13265,Pawtucket before Gardiner,41.805916,-71.360550
+13270,Cranston before Benedict,41.805451,-71.437364
+13290,Cranston opposite Benedict,41.805663,-71.436904
+13295,Opposite 928 Plainfield,41.805692,-71.465225
+13310,Pocasset after Alto,41.806027,-71.457283
+13340,Eddy after Trask,41.804722,-71.407139
+13345,429 Union,41.806312,-71.451876
+13355,Union before Terrace,41.806286,-71.450046
+13360,Laurel Hill before Union,41.805878,-71.452174
+13365,Union before Terrace,41.806183,-71.450167
+13370,Pocasset before Prudence,41.805673,-71.457771
+13385,Parkis Avenue,41.809560,-71.420843
+13415,Webster & Union (before Webster),41.806727,-71.447773
+13425,Webester & Union (before Wesbter),41.806914,-71.447386
+13430,Allens after Pleasure,41.803501,-71.401474
+13435,S Broadway opposite Seth,41.807274,-71.372493
+13450,Plainfield before Farmington,41.806451,-71.464454
+13455,Plenty Street,41.807323,-71.420167
+13460,S Broadway after Seth,41.807196,-71.372641
+13470,Cranston after Linwood,41.807254,-71.435477
+13475,Cranston after Linwood,41.806771,-71.436026
+13480,Union opposite Priscilla,41.807256,-71.445845
+13485,Allens before O'Connell,41.807548,-71.403527
+13495,Eddy before Public,41.807583,-71.407306
+13505,Union before Priscilla,41.807380,-71.445713
+13525,Pocasset after Sophia,41.807410,-71.456492
+13535,Warren before Evergreen,41.807666,-71.343079
+13550,CCRI Providence,41.808186,-71.414651
+13555,Pocasset opposite Sophia,41.807373,-71.456389
+13565,Allens between Bay and O'Connell,41.807240,-71.403114
+13575,Plainfield after Prudence,41.808222,-71.463385
+13585,Union opposite Cumerford,41.808006,-71.442975
+13595,Pawtucket before Rice,41.807924,-71.359835
+13600,Pawtucket before Hillside,41.808175,-71.359956
+13610,Union before Atwood,41.808316,-71.442276
+13620,S Broadway after Fort,41.808550,-71.372187
+13635,Cranston before Waverly,41.808464,-71.434516
+13645,1192 S Broadway,41.808282,-71.372168
+13665,Pocasset opposite Westerly,41.808845,-71.455476
+13685,Cranston before Bellevue,41.808844,-71.434045
+13695,Union after Linwood,41.809000,-71.439278
+13700,Union opposite Linwood,41.809027,-71.439533
+13705,Waterman opposite State,41.808922,-71.341579
+13710,Parkis Avenue,41.809033,-71.420871
+13715,Waterman after State,41.809077,-71.341738
+13735,Pocasset opposite Daniel,41.809133,-71.455093
+13765,Warren & Pawtucket (opposite Baldwin),41.810116,-71.359261
+13770,Opposite 990 Waterman,41.809779,-71.343842
+13795,Elmwood after Friendship,41.810159,-71.423752
+13805,Ellery before Waverly,41.809928,-71.438424
+13815,Dudley after Gay,41.809978,-71.413785
+13825,Plainfield opposite Union,41.808391,-71.463552
+13830,Eddy after Blackstone,41.809934,-71.407303
+13835,Eddy before Blackstone,41.809902,-71.407173
+13840,Cranston after Superior,41.810401,-71.432758
+13845,Blackstone before Gay,41.809301,-71.413057
+13850,Gay before Dudley,41.809940,-71.412817
+13855,Pocasset after Laurel Hill,41.810775,-71.453811
+13860,Cranston before Superior,41.810344,-71.432698
+13870,Ellery before Rosedale,41.810339,-71.438210
+13880,Pocasset before Laurel Hill,41.810941,-71.453906
+13900,Warren & Pawtucket (before Warren),41.810604,-71.358924
+13905,Waterman opposite Rockaway,41.811062,-71.347138
+13920,900 Waterman,41.810947,-71.346566
+13945,Plainfield & Murray (opposite Murray),41.810248,-71.462464
+13960,865 Waterman,41.812135,-71.349166
+14000,Chapin before Ellery,41.811966,-71.438074
+14005,Hospital District (Northbound),41.811233,-71.407055
+14010,Rhode Island Hospital (Eddy St Entrance),41.811742,-71.408833
+14015,Cranston & Parade (after Parade),41.812054,-71.430596
+14025,Chapin before Messer,41.811766,-71.435778
+14035,Hospital District (Southbound),41.811967,-71.407130
+14070,Pocasset before Webster,41.811771,-71.450322
+14105,Cranston & Parade (before Parade),41.812059,-71.430928
+14120,Plainfield opposite Sanford,41.812397,-71.460957
+14125,Elmwood & Broad (before Bridgham),41.812445,-71.422221
+14130,Plainfield before Daniel,41.812355,-71.460281
+14135,Waterman before Commercial,41.812520,-71.349630
+14140,Elmwood & Broad (after Bridgham),41.812543,-71.422405
+14150,Commercial before Waterman,41.812847,-71.349748
+14155,Pocasset before Webster,41.812302,-71.449736
+14160,Pocasset opposite Dunford,41.812436,-71.449389
+14205,Plainfield opposite Merino,41.812854,-71.457538
+14210,Point & Prairie (at Prairie before Providence),41.812931,-71.415120
+14220,Commercial opposite J Medeiros,41.815670,-71.347795
+14230,Cranston before Harrison,41.812963,-71.428771
+14235,Plainfield before Merino,41.813098,-71.456955
+14255,Cranston opposite Harrison,41.813201,-71.428634
+14300,Plainfield after Rye,41.813316,-71.454244
+14305,Plainfield before Ralph,41.813580,-71.453266
+14310,Plainfield opposite Dewey,41.813532,-71.452358
+14320,Opposite 2289 Pawtucket,41.813000,-71.358049
+14330,Pawtucket before Grosvenor,41.813987,-71.357960
+14345,Plainfield before Webster,41.813611,-71.450968
+14350,Plainfield & Pocasset (after Pocasset),41.814151,-71.447291
+14355,Plainfield before Webster,41.813759,-71.450636
+14360,Plainfield & Pocasset (before Pocasset),41.814089,-71.447588
+14365,Trinity Square,41.813276,-71.421554
+14380,Trinity Square,41.813774,-71.421667
+14385,Cranston after Bridgham,41.813761,-71.427515
+14395,20 Commercial,41.813942,-71.348969
+14405,Prairie after Providence,41.813054,-71.415261
+14415,Warren & South Broadway (before Fraser),41.814054,-71.371889
+14420,Warren & South Broadway (before Sharon),41.814397,-71.372684
+14435,Cranston before Dodge,41.814467,-71.425921
+14441,Point between Beacon and Plain,41.814635,-71.414530
+14450,Cranston opposite Dodge,41.814662,-71.425890
+14460,Warren before Berkeley,41.814766,-71.374109
+14465,Warren before Carpenter,41.815009,-71.374564
+14470,Plainfield before Pilsudski,41.814852,-71.446447
+14475,Cranston after Thomas Whitten,41.816180,-71.423590
+14480,73 Commercial,41.818323,-71.347529
+14485,Commercial after J Medeiros,41.815783,-71.347427
+14515,Warren before Tenth,41.815629,-71.376591
+14520,Lockwood Street (Southbound),41.815198,-71.420822
+14525,Warren opposite Ninth,41.815794,-71.376913
+14535,Westminster before Messer,41.815767,-71.437746
+14540,1655 Westminster,41.815878,-71.437951
+14560,Warren before Eighth,41.816132,-71.378123
+14575,Pawtucket before Waterman,41.815481,-71.357159
+14580,Westminster before Service Road,41.816253,-71.440084
+14600,60 Commercial,41.816458,-71.346487
+14615,Westminster before Parade,41.816249,-71.433867
+14620,Pawtucket before Waterman,41.816845,-71.356597
+14625,Pawtucket after Waterman,41.816908,-71.356389
+14630,Warren opposite Seventh,41.816466,-71.378842
+14645,Westminster before Harkness,41.816364,-71.433711
+14655,Olneyville Square (Westminster after Manton),41.816645,-71.442574
+14660,Warren before Sixth,41.816648,-71.379614
+14670,Olneyville Square (Westminster before Manton),41.816806,-71.442800
+14675,Broadway after Valley,41.816779,-71.440687
+14685,Westminster after Harrison,41.816685,-71.430191
+14690,Westminster opposite Harrison,41.816786,-71.430215
+14700,Olneyville Square (at Hartford after Westminster),41.816892,-71.445121
+14715,Broadway before Valley,41.816938,-71.440865
+14750,70 Commercial,41.817975,-71.347106
+14765,Warren & Potter,41.817140,-71.380685
+14775,Cranston before Thomas Whitten,41.816550,-71.423370
+14780,Westminster before Knight,41.817210,-71.426180
+14785,Broad St after Cahir St,41.816830,-71.418436
+14790,Warren & Potter,41.817160,-71.380980
+14800,Westminster opposite Knight,41.817116,-71.425997
+14805,Hartford after Edna,41.816910,-71.446418
+14825,Broad St before Cahir St,41.816711,-71.418241
+14835,870 Westminster,41.817309,-71.422898
+14840,Hartford before Etna,41.817339,-71.450863
+14845,Westminster after Lafayette,41.817368,-71.423828
+14860,Hartford opposite Etna,41.817398,-71.450732
+14875,89 Commercial,41.820325,-71.348680
+14885,Hartford after Bodell,41.817596,-71.453751
+14890,Hartford before Bodell,41.817739,-71.453886
+14910,Manton opposite Delaine,41.817731,-71.444485
+14920,Manton after Delaine,41.818171,-71.444766
+14925,Cranston & Westminster (PVD School Dept),41.817820,-71.421282
+14930,Broadway after Barton,41.818008,-71.436570
+14940,Broadway opposite Barton,41.818159,-71.436816
+14945,95 Commercial,41.820286,-71.348848
+14950,Cranston & Westminster (before Cahir),41.818036,-71.420446
+14965,Dexter Manor,41.818200,-71.415921
+14970,Hartford before Laurel Hill,41.817974,-71.455688
+14975,Hartford before Flower,41.818295,-71.456736
+14995,Broadway before Tobey,41.818358,-71.435321
+15000,Westminster before John J Partington,41.818589,-71.419261
+15010,Broadway after Tobey,41.818477,-71.435333
+15020,Hartford before Merino,41.818604,-71.459327
+15025,Dexter Manor,41.818508,-71.415924
+15040,Dyer before Ship,41.819625,-71.408118
+15045,Broadway after Courtland,41.819438,-71.430609
+15050,Hartford opposite Alverson,41.818845,-71.459918
+15055,Hartford before Petteys,41.819007,-71.461962
+15060,Broadway after Almy,41.818984,-71.433314
+15075,Hartford before Bowlet,41.819125,-71.461923
+15080,Hartford after Hampton Pl.,41.823187,-71.494530
+15100,Hartford before Winfield,41.819279,-71.475019
+15110,Pawtucket opposite East Providence High School,41.818530,-71.355933
+15115,Waterman after Gurney,41.819569,-71.366810
+15120,Pawtucket after East Providence High School,41.820777,-71.356375
+15135,Hartford opposite King Philip,41.819517,-71.465601
+15145,Manton before Julian,41.819669,-71.446312
+15150,Taunton & Potter,41.819686,-71.379222
+15155,Wickenden before Thompson,41.819464,-71.397895
+15180,Hall after Kensington,41.819905,-71.363601
+15185,Hartford before King Philip,41.819600,-71.465263
+15205,Hartford before Williams,41.819471,-71.475507
+15215,Taunton & Potter (after Vine),41.819787,-71.377591
+15230,Broad before Chestnut,41.819912,-71.414460
+15240,Taunton opposite Grosvenor,41.819709,-71.374224
+15245,Taunton before Ivy,41.819725,-71.376071
+15250,Taunton opposite Alice,41.819643,-71.372252
+15265,Wickenden before Hope,41.819737,-71.395479
+15270,Wickenden after Hope,41.819662,-71.396063
+15280,Taunton & Waterman (opposite Russell),41.819913,-71.369337
+15285,E Franklin before Washington,41.819907,-71.418431
+15290,Broadway after Vinton,41.820165,-71.427550
+15295,Manton opposite Julian,41.819867,-71.446690
+15300,Hartford & Killingly (before Milo),41.819822,-71.467843
+15305,Broadway after Knight,41.819824,-71.429710
+15335,Hartford & Killingly,41.820030,-71.468400
+15340,Manton after Fruit Hill,41.833905,-71.467513
+15355,Wickenden after East,41.820086,-71.394342
+15365,Wickenden after Governor,41.820233,-71.393854
+15385,Fox Point (Wickenden & Ives),41.820207,-71.392074
+15395,Broadway after America,41.820468,-71.426856
+15410,Fox Point (Wickenden & Ives),41.820452,-71.391888
+15430,John before Russell,41.821086,-71.370629
+15440,956 Hartford,41.820638,-71.479681
+15455,Taunton & Waterman (at 314 Waterman),41.820838,-71.369040
+15460,Taunton opposite Cora,41.820600,-71.365674
+15475,Broadway before Battey,41.820546,-71.425848
+15495,985 Hartford,41.821079,-71.480976
+15500,S Main after James,41.820945,-71.403662
+15505,S Water opposite James,41.820620,-71.404336
+15530,994 Hartford,41.821380,-71.482108
+15540,Pawtucket before 585 Taunton,41.820549,-71.356603
+15545,Weybosset before Richmond,41.821043,-71.412815
+15565,Taunton opposite Goldsmith,41.820980,-71.362275
+15575,Westminster Street,41.821022,-71.415382
+15580,Taunton before Goldsmith,41.821198,-71.361798
+15600,Opposite 525 Taunton,41.821467,-71.359918
+15610,Washington before Greene,41.821126,-71.417253
+15615,Washington before Greene,41.821393,-71.417161
+15625,Broadway opposite Bradford,41.821663,-71.421307
+15630,525 Taunton,41.821389,-71.359551
+15650,Broadway before Dean,41.821550,-71.422371
+15670,Hartford after Dix,41.822291,-71.486154
+15675,Scituate Senior Center,41.817612,-71.664733
+15680,Hartford opposite Borden,41.821961,-71.483927
+15685,Danielson before RI-102,41.825538,-71.669228
+15690,Ives before Transit,41.822023,-71.392120
+15700,Ives after Transit,41.821870,-71.391950
+15705,Opposite 625 Taunton,41.821973,-71.354719
+15710,625 Taunton,41.821829,-71.354756
+15735,S Water opposite Power,41.822377,-71.406064
+15740,Park & Ride (Taunton Ave - E. Providence),41.822345,-71.351417
+15750,Hartford opposite Dix,41.822458,-71.486691
+15755,S Main before Power,41.822622,-71.405197
+15765,Park & Ride (Taunton Ave - East Providence),41.822505,-71.351121
+15770,La Salle Square (Broadway before Service Rd),41.822323,-71.419121
+15790,Manton opposite Pope,41.821837,-71.449101
+15805,Manton before Pope,41.821890,-71.448974
+15810,Commercial before Taunton,41.822060,-71.349334
+15815,Dorrance before Pine,41.822837,-71.410770
+15835,Commercial after Taunton,41.822339,-71.349499
+15850,Hartford before Wilson,41.822720,-71.488537
+15880,Weybosset & Eddy,41.822630,-71.411370
+15895,Atwells after Broadway,41.822821,-71.418845
+15935,Hartford after Dale,41.823054,-71.490534
+15940,Manton opposite Panay,41.823165,-71.450725
+15945,Manton after Panay,41.823098,-71.450845
+15955,Waterman before James,41.823200,-71.373506
+15960,Hartford before Tara,41.823067,-71.489870
+15975,Waterman after James,41.823276,-71.373396
+15985,Atwells opposite Enterprise,41.823124,-71.421134
+16000,Washington before Snow,41.822758,-71.415378
+16005,N Broadway before Sutton,41.823806,-71.366292
+16015,Hartford opp Elsie,41.823080,-71.492890
+16025,Atwells after Enterprise,41.823286,-71.421234
+16035,Rhode Island Convention Center (Sabin),41.823682,-71.416802
+16045,Atwells & Dean,41.823434,-71.425324
+16095,Atwells after Pequot,41.823394,-71.423040
+16105,Atwells before De Pasquale,41.823578,-71.427056
+16110,Atwells & Dean,41.823475,-71.424814
+16115,Hartford & Atwood (1357 Hartford),41.823619,-71.497234
+16120,Hartford after Atwood,41.823625,-71.497747
+16155,Atwells opposite De Pasquale,41.823675,-71.426826
+16165,N Broadway opposite Mowry,41.823602,-71.366641
+16175,Atwells after Sutton,41.823705,-71.429105
+16195,Atwells before Sutton,41.823832,-71.429155
+16200,Manton opposite Lynch,41.824243,-71.452376
+16205,Atwells before Ames,41.823846,-71.431262
+16210,Atwells after Bond,41.823275,-71.423057
+16235,Atwells before Hewitt,41.823913,-71.430266
+16240,Atwells before Knight,41.823953,-71.432641
+16250,Atwells opposite Knight,41.824115,-71.432541
+16255,Pawtucket before Blythe,41.824735,-71.354217
+16275,Atwells after Ames,41.823981,-71.431226
+16295,Manton after Lynch,41.824410,-71.452449
+16300,Fountain before Union,41.824173,-71.415185
+16310,S Water after Crawford,41.823955,-71.407386
+16335,Ives before Power,41.823631,-71.392215
+16355,Eagle Square (Atwells & Valley),41.824492,-71.438853
+16370,Atwells after Eagle,41.824569,-71.436244
+16385,Turks Head (Weybosset before Post Office),41.824459,-71.409638
+16395,Waterman before Birch,41.825596,-71.377503
+16400,Kennedy Plaza (Stop B),41.824650,-71.411773
+16405,Atwells after Cutler,41.824601,-71.441245
+16415,Atwells before Cutler,41.824725,-71.441140
+16425,N Broadway opposite Wilmarth,41.824986,-71.365655
+16435,Kennedy Plaza (Stop C),41.824873,-71.411466
+16460,N Broadway after Wilmarth,41.824958,-71.365828
+16465,Manton & Atwells (after Salmon),41.825036,-71.453874
+16475,Kennedy Plaza (Stop G),41.825058,-71.411761
+16480,Waterman before Summit,41.825158,-71.376988
+16485,Kennedy Plaza (Stop D),41.825110,-71.411145
+16510,Manton & Atwells (opposite Salmon),41.825123,-71.453887
+16525,Kennedy Plaza (Stop H),41.825282,-71.411448
+16530,Memorial after Westminster,41.825174,-71.408985
+16540,Westminster after Memorial,41.825351,-71.409223
+16565,Manton after Sisson,41.825616,-71.455794
+16585,Kennedy Plaza (Stop V),41.825002,-71.412375
+16590,Kennedy Plaza (Stop I),41.825429,-71.411248
+16610,Ives after E George,41.825891,-71.392570
+16620,Ives before E George,41.825767,-71.392715
+16630,Kennedy Plaza (Stop J),41.825567,-71.411054
+16640,Manton after Fairfield,41.825609,-71.456278
+16645,East Side Riverview Place,41.825725,-71.386757
+16690,Manton before Glenbridge,41.826005,-71.458565
+16710,Manton before Raritan,41.826122,-71.458792
+16720,Exchange Terrace (Kennedy Plaza - Stop X),41.825959,-71.412371
+16730,Mt Pleasant after Fairmount,41.826321,-71.448810
+16775,Memorial before Exchange,41.826556,-71.412720
+16785,588 Manton,41.826622,-71.460367
+16795,Pitman after Gano,41.826517,-71.391316
+16810,Pitman after Gano,41.826528,-71.389870
+16820,S Main before Waterman,41.826668,-71.408455
+16830,Pitman after Wayland,41.826766,-71.387444
+16845,Pitman before Wayland,41.826800,-71.388019
+16855,Tunnel after S Main,41.826915,-71.408253
+16860,Danielson opposite St Mary,41.826723,-71.639317
+16870,Massasoit after Sutton,41.827277,-71.375701
+16885,Massasoit opp Sutton,41.827682,-71.375304
+16890,Tunnel before S Main,41.826923,-71.408577
+16900,Roger Williams National Memorial,41.828989,-71.409710
+16905,Tunnel & Thayer (before Thayer),41.827607,-71.400742
+16910,Manton before Ridgeway,41.827182,-71.460842
+16920,Danielson before St Mary,41.826874,-71.639343
+16925,Pawtucket after Centre,41.828217,-71.352645
+16940,Francis after Finance,41.827697,-71.415246
+16960,Danielson after Suddard,41.827734,-71.647668
+16961,After 857 Danielson,41.827388,-71.653399
+16970,Waterman before Hope,41.827547,-71.397351
+16973,945 Danielson,41.825904,-71.660897
+16974,864 Danielson,41.827256,-71.653096
+16975,Danielson before Suddard,41.827704,-71.647185
+17000,Waterman after Governor,41.827613,-71.393682
+17005,652 Manton,41.828184,-71.461770
+17040,Providence Place Mall,41.828485,-71.415344
+17045,Tunnel & Thayer (after Thayer),41.827685,-71.400884
+17050,Waterman & Butler (after Butler),41.827972,-71.385182
+17055,Waterman after Gano,41.828230,-71.390443
+17070,N Broadway before Dewey,41.827463,-71.363605
+17075,N Broadway after Massasoit,41.829778,-71.362798
+17080,Mt Pleasant before Chaucer,41.828601,-71.449185
+17095,Waterman at Henderson Bridge On-Ramp,41.827561,-71.383075
+17100,Angell before Hope,41.828510,-71.397306
+17105,Waterman after Wayland,41.828514,-71.388173
+17110,Warren after First,41.817672,-71.382485
+17120,Brook after Angell,41.828539,-71.399451
+17135,Wayland Square (after Waterman),41.828922,-71.388232
+17145,Pawtucket opposite Centre,41.829091,-71.352300
+17155,Pawtucket before Centre,41.829941,-71.351978
+17165,Manton opposite Baltimore,41.829355,-71.462849
+17170,Angell opposite Ives,41.829213,-71.393314
+17180,Manton before Baltimore,41.829257,-71.462606
+17185,120 S Angell,41.829260,-71.383542
+17215,S Angell after Butler,41.829589,-71.385298
+17220,Hillcrest Village (Leander Street),41.829309,-71.460924
+17235,N Broadway after Rosemere,41.830205,-71.362470
+17250,N Broadway after Cadorna,41.827669,-71.363677
+17265,Gaspee at Providence Station,41.829352,-71.413805
+17266,Gaspee & Smith (before Smith),41.830810,-71.412641
+17270,Gaspee opposite Providence Station,41.829413,-71.413910
+17275,Hartford & Reservoir (before Reservoir),41.829486,-71.537110
+17280,N Main after Church,41.830930,-71.410340
+17285,Angell after Wayland,41.830135,-71.388391
+17290,Angell & Elmgrove (after Elmgrove),41.829907,-71.389875
+17295,Danielson before Gleaner Chapel,41.830655,-71.628416
+17300,Hartford after Corona,41.831860,-71.545336
+17310,ELMGROVE NS ADELPHI,41.830808,-71.389561
+17315,Opposite 493 Danielson,41.830549,-71.627772
+17325,Mt Pleasant before Beaufort,41.830614,-71.449489
+17330,Hartford after Belfield,41.830359,-71.530992
+17355,757 Manton,41.830901,-71.463590
+17385,N Broadway before Dunbar,41.831398,-71.361503
+17390,N Broadway before King Philip,41.831072,-71.361974
+17400,Canal after Smith,41.830981,-71.411328
+17405,Opposite 2151 Hartford,41.829991,-71.531539
+17420,Hartford before Earhart,41.831200,-71.543230
+17425,Brook before Hope,41.831214,-71.399805
+17435,770 Manton,41.831034,-71.463866
+17440,Opposite 449 Danielson,41.831399,-71.617023
+17460,Smith & Gaspee (before Smith),41.832360,-71.413401
+17480,Danielson & Rockland (after Elmdale),41.831784,-71.611910
+17485,Danielson at State Police Complex,41.831913,-71.604100
+17486,Danielson after Battey Meetinghouse,41.831301,-71.606475
+17490,Smith before Gaspee,41.831619,-71.414471
+17500,VA Hospital,41.832759,-71.434433
+17505,Danielson before Dexter,41.831523,-71.615514
+17510,Before 272 Danielson,41.832656,-71.600777
+17515,Danielson before Sholes,41.831747,-71.583625
+17520,449 Danielson,41.831575,-71.616911
+17530,263 Hartford,41.829667,-71.532747
+17540,Smith & Francis (after Park),41.831778,-71.416500
+17545,Danielson opposite Sholes,41.831831,-71.583935
+17555,Danielson & Rockland (before Elmdale),41.831960,-71.611727
+17556,Before 443 Danielson,41.831699,-71.615239
+17560,Smith & Francis (before Park),41.831883,-71.415620
+17565,N Broadway & Roger Williams,41.832609,-71.360764
+17580,155 Danielson,41.832353,-71.588693
+17590,Danielson opposite State Police Complex,41.831776,-71.604018
+17595,Danielson before Battey Meetinghouse,41.831126,-71.606525
+17600,Pawtucket before Blythe,41.832727,-71.348482
+17620,Chalkstone after Sisson,41.832089,-71.455393
+17625,32 Danielson,41.833947,-71.578733
+17635,Chalkstone before Berlin,41.832251,-71.441787
+17645,Chalkstone opposite Sisson,41.832260,-71.455446
+17655,Chalkstone before Berlin,41.832348,-71.441486
+17670,Smith opposite Common,41.832823,-71.419608
+17690,Chalkstone after Academy,41.832308,-71.443771
+17695,Chalkstone before Academy,41.832465,-71.444136
+17700,263 Hartford,41.829387,-71.534848
+17705,Danielson before Springbrook,41.832747,-71.601287
+17710,Chalkstone opposite Standish,41.832432,-71.452042
+17715,Chalkstone before Standish,41.832547,-71.452021
+17720,Chalkstone before Lawn,41.832801,-71.446567
+17730,Chalkstone & River (before Harold),41.832360,-71.439581
+17750,Chalkstone & Mt Pleasant,41.832803,-71.449341
+17760,Danielson before Institute,41.832232,-71.582295
+17765,Chalkstone after Hillcrest,41.832866,-71.458571
+17770,Danielson after Scituate Town Hall,41.832870,-71.591366
+17775,Stop & Shop (Manton Ave - Providence),41.832361,-71.466228
+17780,Chalkstone opposite Lawn,41.832685,-71.446567
+17790,Hartford after Brown,41.832796,-71.549487
+17795,Chalkstone & Mt Pleasant,41.832620,-71.450299
+17805,Chalkstone opposite Hillcrest,41.833013,-71.458629
+17810,Chalkstone & River (after River),41.832581,-71.438981
+17825,Smith after Common,41.832855,-71.419433
+17835,Hartford & Reservoir (before Reservoir),41.829321,-71.537558
+17845,Hope opposite Barnes,41.832911,-71.400831
+17855,Opposite 373 Thayer,41.832730,-71.401320
+17860,Chalkstone before Harmony,41.833140,-71.460647
+17870,Pawtucket before Barbara,41.832773,-71.348261
+17875,989 Manton,41.833156,-71.470112
+17890,Manton & Chalkstone (opposite 871 Manton),41.833394,-71.465759
+17905,Greenville opposite Lee,41.833144,-71.473695
+17910,Chalkstone after Obediah Brown,41.833127,-71.461577
+17920,Hartford opposite Corona,41.831647,-71.545366
+17925,Chalkstone after Fern,41.832961,-71.437422
+17936,State after Orms (State Offices),41.833822,-71.413928
+17940,Chalkstone opposite Roger Williams Hospital,41.833678,-71.435494
+17945,Opposite 985 Manton,41.833153,-71.469827
+17950,Hartford before Pine Grove,41.833069,-71.553352
+17960,Hartford after Rollingwood,41.833226,-71.553395
+17965,Fruit Hill after Huber,41.834494,-71.467970
+17970,Greenville opposite Cecil,41.833525,-71.475164
+17975,Smith after Orms,41.833972,-71.422262
+17980,1644 Chalkstone,41.833232,-71.463577
+17985,Elmgrove before University,41.833322,-71.390444
+17990,Manton & Chalkstone,41.833653,-71.465962
+18000,Chalkstone at Roger Williams Hospital,41.833795,-71.435484
+18005,Greenville before Cecil,41.833518,-71.474740
+18010,Manton opposite Westcott,41.833585,-71.468858
+18015,Smith after Orms,41.833588,-71.421658
+18025,After 2741 Hartford,41.833563,-71.558359
+18030,Pawtucket before Greenwood,41.834782,-71.348302
+18045,After 33 Danielson,41.834092,-71.578835
+18050,Manton before Westcott,41.833823,-71.468478
+18060,260 Mt Pleasant,41.833484,-71.450068
+18065,Hartford opposite Scituate Village,41.835255,-71.573381
+18070,2650 Hartford,41.833395,-71.558573
+18080,Hope before Alumni,41.834500,-71.401333
+18085,Chalkstone before Garfield,41.833956,-71.432120
+18090,Chalkstone & Smith (after Duke),41.834772,-71.424672
+18095,Chalkstone opposite Garfield,41.833817,-71.432266
+18105,Chalkstone after Raymond,41.834240,-71.429822
+18110,Fruit Hill before Huber,41.834732,-71.468150
+18125,Charles before Orms,41.834136,-71.411277
+18135,Charles after Orms,41.834439,-71.411499
+18140,Greenville opposite Rosemont,41.835545,-71.478231
+18145,2525 Hartford,41.833889,-71.561031
+18150,Opposite 2828 Hartford,41.834194,-71.561531
+18160,Chalkstone opposite Ayrault,41.834443,-71.429202
+18165,N Broadway & Roger Williams (at 20 Roger Williams),41.834062,-71.360766
+18180,Greenville opposite Becker,41.834937,-71.477192
+18200,Mt Pleasant before Bolton,41.835300,-71.450288
+18215,Hartford before Bishop Hill,41.834323,-71.563091
+18225,Douglas before Orms,41.835029,-71.417096
+18235,Douglas opposite Goddard,41.835152,-71.417229
+18240,Hartford after Hopkins,41.834999,-71.566916
+18245,Chalkstone & Smith (before Bath),41.835032,-71.426031
+18250,SMITH OPP DANFORTH,41.835611,-71.426718
+18255,Elmgrove before President,41.835181,-71.391071
+18260,Chalkstone & Smith (after Smith),41.835093,-71.426411
+18280,Opposite 525 Hartford,41.834816,-71.567538
+18285,Mt Pleasant after Canonchet,41.835316,-71.450488
+18290,Hope & Olney (before Carrington),41.836675,-71.401255
+18295,Chalkstone & Smith,41.835419,-71.425919
+18315,177 Greenville,41.836459,-71.480310
+18320,Hartford after Ridgewood,41.835058,-71.570322
+18325,Roger Williams before N Broadway,41.834271,-71.361073
+18330,Pawtucket before Miller,41.835438,-71.348332
+18335,1315 Pawtucket,41.837222,-71.348861
+18340,Hartford at Scituate Village,41.835483,-71.573208
+18345,Douglas before Bernon,41.835840,-71.419132
+18360,Opposite 177 Greenville,41.836154,-71.479796
+18380,Douglas before Chalkstone,41.835966,-71.419255
+18390,201 Charles,41.836706,-71.412645
+18395,Douglas before Chalkstone,41.836812,-71.421480
+18405,Roger Williams opposite Dalton,41.836900,-71.361812
+18410,Smith after Frederick,41.836092,-71.428763
+18435,Woonasquatucket before Klondike,41.836938,-71.469346
+18440,Greenville after Cherry Hill,41.836587,-71.481022
+18445,University Heights,41.836883,-71.409504
+18465,Mt Pleasant after Rialto,41.837358,-71.451233
+18470,University Heights,41.837060,-71.409882
+18475,Douglas opposite Crimea,41.837098,-71.421833
+18480,Roger Williams before Wilson,41.837333,-71.361801
+18485,Smith before Maude,41.837632,-71.433750
+18505,Douglas before Candace,41.837494,-71.423169
+18510,Smith opposite Maude,41.837621,-71.433420
+18525,Hope & Olney (opposite Carrington),41.836545,-71.401107
+18530,Elmgrove before Freeman,41.837719,-71.391875
+18535,Smith opposite Hilltop,41.838456,-71.435613
+18545,Greenville opposite Blaine,41.837594,-71.482123
+18550,George Waterman & Greenville,41.838901,-71.483247
+18555,Pawtucket & Newman (opposite Kenton),41.839782,-71.349512
+18565,Pawtucket before St Michaels,41.837690,-71.348845
+18585,Woonasquatucket at John E Fogarty Center,41.840637,-71.475585
+18600,Smith before Hilltop,41.838666,-71.435670
+18615,Charlesgate,41.838637,-71.409077
+18625,Hope after Doyle,41.838627,-71.400201
+18635,Charlesgate,41.838998,-71.409413
+18655,Woonasquatucket opposite Metcalf,41.839058,-71.473023
+18665,Woonasquatucket after Lyman,41.842475,-71.476577
+18670,Wilson before Washburn,41.838853,-71.360174
+18685,Wilson after Washburn,41.838750,-71.360133
+18690,George Waterman opposite Sheridan,41.840177,-71.484537
+18695,Hope before Observatory,41.839229,-71.399802
+18710,Douglas after Chad Brown,41.838989,-71.425569
+18715,Douglas after Chad Brown,41.839556,-71.426000
+18720,Mt Pleasant High School,41.839845,-71.452492
+18721,Mt Pleasant High School (on Mt Pleasant),41.839785,-71.452098
+18730,Smith before Wyndham,41.839594,-71.437866
+18750,Pawtucket before Kenton,41.839589,-71.349283
+18760,Charles before W River,41.839416,-71.416041
+18770,Elmgrove before Emeline,41.839702,-71.392392
+18780,Opposite 53 Ashburton,41.837774,-71.415479
+18795,Admiral & Charles (opposite Admiral),41.841090,-71.417434
+18800,Woonasquatucket at John E Fogarty Center,41.840668,-71.475666
+18805,Wilson opposite Duncan,41.840126,-71.357855
+18830,Wilson after Bourne,41.840418,-71.357520
+18835,Admiral before Filmore,41.840946,-71.420054
+18845,George Waterman opposite Armento,41.842437,-71.485484
+18850,George Waterman after Sheridan,41.840131,-71.484367
+18855,Smith before River,41.840618,-71.440223
+18860,Douglas & Eaton (opposite Suffolk),41.840756,-71.427271
+18870,Hope before Mount Hope,41.840526,-71.399289
+18885,Hope before Cypress,41.840939,-71.398944
+18895,Douglas & Eaton,41.840879,-71.427134
+18905,Pawtucket & Newman,41.840855,-71.349551
+18920,College before Mt Pleasant,41.841652,-71.453265
+18930,Pawtucket opposite Clifford,41.844338,-71.351420
+18935,Elmgrove & Savoy (after Sessions),41.841945,-71.392528
+18965,Smith before Jastram,41.841854,-71.443553
+18975,Smith & Academy (before Jastram),41.841845,-71.443266
+18990,Admiral before Huxley,41.846774,-71.432814
+18995,Rhode Island College (Roberts Hall),41.841629,-71.460627
+19000,Admiral opposite Huxley,41.846817,-71.432772
+19005,Woonasquatucket before Humbert,41.844251,-71.477039
+19010,Woonasquatucket opposite Lyman,41.842039,-71.476361
+19030,Admiral & Chad Brown (opposite Fillmore),41.841061,-71.419991
+19045,Mt Pleasant before College,41.842386,-71.452949
+19055,Wilson before Greenwood,41.841998,-71.356914
+19060,Douglas opposite Berkshire,41.841805,-71.427556
+19070,North Burial Ground,41.842258,-71.407565
+19080,Smith & Academy,41.842654,-71.445407
+19095,North Burial Ground,41.843187,-71.407388
+19100,Wilson before Greenwood,41.842657,-71.356757
+19105,Douglas after Berkshire,41.842167,-71.427500
+19115,Opposite 116 George Waterman,41.843541,-71.485546
+19140,Admiral & Chad Brown (before Pumgansett),41.842717,-71.422098
+19155,George Waterman opposite Rice,41.845320,-71.486604
+19175,Woonasquatucket before Oak,41.843356,-71.477189
+19190,Admiral before Suffolk,41.842731,-71.421950
+19210,Douglas before Mowry,41.843526,-71.427754
+19215,Douglas before Mowry,41.843721,-71.427919
+19220,Hope after Elgin,41.843540,-71.397749
+19235,Smith before Ardmore,41.844677,-71.449407
+19240,Providence College (Huxley Gate),41.844442,-71.433165
+19245,Butler Hospital,41.843353,-71.381404
+19250,Admiral before Berkshire,41.844285,-71.423846
+19260,Mt Pleasant before Old,41.845551,-71.453644
+19270,Mt Pleasant opposite Old,41.845787,-71.453857
+19300,Admiral before Berkshire,41.844162,-71.423584
+19315,Wilson before Hammond,41.844787,-71.355861
+19320,Woonasquatucket before Intervale,41.846578,-71.477059
+19340,Opposite 403 Charles,41.845635,-71.419029
+19345,George Waterman before Acorn,41.846455,-71.486682
+19350,Smith before Cathedral,41.844410,-71.449269
+19360,Wilson before Holbrook,41.844440,-71.355838
+19365,Charles after Silver Spring,41.845660,-71.418898
+19370,270 Admiral,41.845060,-71.424973
+19380,Admiral opposite Newcomb,41.845430,-71.426076
+19395,Admiral after Newcomb,41.845383,-71.426126
+19400,Hope after Dana,41.845277,-71.396959
+19415,Hope & Rochambeau (before Mayflower),41.845404,-71.396707
+19420,Douglas opposite Coggeshall,41.845259,-71.428624
+19430,Opposite 318 Admiral,41.845583,-71.426692
+19435,Silver Spring before Royal Little,41.846526,-71.416351
+19450,Walmart (Providence),41.845685,-71.417675
+19455,Douglas before Admiral,41.845683,-71.428719
+19460,Rochambeau before Blackstone,41.845542,-71.387306
+19475,Admiral opposite Tappan,41.845782,-71.427937
+19490,Admiral before Grape,41.846281,-71.430314
+19495,Smith before Compton,41.845638,-71.451253
+19500,West River & Branch,41.845328,-71.413527
+19505,Admiral before Hawkins,41.845903,-71.427892
+19515,Hoyt at Wilson,41.846365,-71.354725
+19520,Rochambeau before Cole,41.845872,-71.389364
+19530,Blackstone after Rochambeau,41.846121,-71.386708
+19540,Woonasquatucket opposite Intervale,41.846662,-71.477204
+19545,146 Silver Spring,41.847663,-71.415038
+19550,Butler Hospital Access Rd after Blackstone,41.845880,-71.383373
+19560,Woonasquatucket before Zipporah,41.848802,-71.478416
+19565,Charles opposite Lombardi,41.846810,-71.419375
+19570,Admiral before Dante,41.846634,-71.431747
+19580,Silver Spring opposite Royal Little,41.846687,-71.416328
+19585,Charles after Lombardi,41.847072,-71.419364
+19590,George Waterman before Garner,41.849029,-71.486640
+19595,Rochambeau Avenue,41.846669,-71.405409
+19605,Butler Hospital Access Rd before Blackstone,41.845933,-71.383297
+19615,Rochambeau Avenue,41.846623,-71.405064
+19625,Smith after Brightwood,41.847252,-71.454111
+19630,George Waterman opposite Vine,41.848461,-71.486811
+19635,Douglas after Corina,41.846827,-71.429811
+19655,Hope & Rochambeau,41.846692,-71.396237
+19660,Wilson before Pawtucket,41.846785,-71.354199
+19665,Hope after Rochambeau,41.847094,-71.395880
+19680,Smith opposite Brightwood,41.847151,-71.454208
+19695,Opposite 623 Douglas,41.847024,-71.430196
+19700,West River & Corliss,41.843420,-71.412224
+19710,Woonasquatucket after Chandler,41.850635,-71.479841
+19760,Douglas before Lancashire,41.848786,-71.432029
+19765,Douglas after Damon,41.849091,-71.432587
+19770,George Waterman before Allendale,41.850068,-71.486801
+19780,Smith after Dearborn,41.848658,-71.457662
+19785,Woonasquatucket opposite Zipporah,41.848909,-71.478662
+19790,Silver Spring before Branch,41.847676,-71.414798
+19800,Woonasquatucket after Peach Hill,41.852414,-71.480901
+19825,Hope before Burlington,41.848526,-71.395384
+19830,Hope after Lauriston,41.849210,-71.394863
+19845,George Waterman before Grant,41.850400,-71.486622
+19850,Smith after Wellesley,41.849684,-71.460309
+19865,Admiral before River,41.849323,-71.439287
+19870,Newport before Elmwood,41.848471,-71.354419
+19875,Newport opposite Elmwood,41.849188,-71.354503
+19885,Smith opposite Wellesley,41.849453,-71.460089
+19900,Silver Spring before Grafton,41.850000,-71.413536
+19910,High Service opposite Worcester,41.850338,-71.457003
+19915,Third Street,41.851356,-71.402151
+19920,Admiral before Crandall,41.849607,-71.439771
+19925,Charles & Branch,41.850000,-71.419874
+19935,Charles & Branch,41.849979,-71.420033
+19950,Opposite 511 Woonasquatucket,41.850789,-71.480143
+19955,George Waterman after Linden,41.852944,-71.487702
+19965,Douglas & Veazie,41.850684,-71.434419
+19970,Smith before Homewood,41.850501,-71.462538
+19975,Douglas & Veazie,41.850245,-71.433731
+19980,George Waterman opposite Milton,41.852620,-71.487320
+19985,Smith before Lookout,41.850728,-71.462697
+19995,Third Street,41.850748,-71.402831
+20000,Hope after Overhill,41.851161,-71.394010
+20010,Woonasquatucket opposite Peach Hill,41.852329,-71.480935
+20015,Hope before Overhill,41.851100,-71.393934
+20020,Admiral after Sharon,41.850649,-71.442809
+20030,Admiral before Phebe,41.850714,-71.442831
+20055,Newport & Ferris (opposite Vista),41.851536,-71.354331
+20075,Newport after Ferris,41.853583,-71.354306
+20085,Silver Spring before Felix Mirando,41.851411,-71.413034
+20095,Newport & Ferris (before Roger Williams),41.852639,-71.354444
+20105,Silver Spring before Northrup,41.851981,-71.413024
+20120,Admiral after Winona,41.852250,-71.445472
+20125,Smith & Fruit Hill (opposite Turcone),41.852264,-71.466026
+20135,Woonasquatucket opposite Stevens,41.854611,-71.481910
+20150,Smith & Fruit Hill (after Turcone),41.852407,-71.466114
+20155,George Waterman opposite Bradford,41.854204,-71.488097
+20160,Admiral opposite Winona,41.852278,-71.445333
+20175,George Waterman before Gano,41.854661,-71.488457
+20180,Douglas before River,41.852566,-71.436778
+20195,Silver Spring opposite Ledge,41.853444,-71.412502
+20215,Charles after Nahant,41.852710,-71.420385
+20220,Silver Spring before Ledge,41.853691,-71.412534
+20235,Admiral opposite Wanskuck,41.853383,-71.446185
+20250,Hope after North,41.853601,-71.392690
+20260,Branch before Woodward,41.853537,-71.427952
+20270,Branch after Woodward,41.853417,-71.428000
+20275,Charles after Ledge,41.853219,-71.420345
+20280,Hope before 9th,41.853719,-71.392814
+20285,George Waterman before Amber,41.856529,-71.489295
+20290,Douglas before Seamans,41.853819,-71.438833
+20295,Branch opposite Vandewater,41.853816,-71.428987
+20300,Douglas opposite Seamans,41.853903,-71.438825
+20305,Smith before Lantagne,41.854196,-71.468828
+20320,Admiral before Wanskuck,41.853375,-71.446270
+20330,Smith before Whipple,41.854332,-71.470645
+20345,Smith after Miles,41.854449,-71.470695
+20350,Branch opposite Hugo,41.854418,-71.431619
+20360,Branch before Abram,41.854116,-71.430806
+20370,Charles before Paul,41.854985,-71.420784
+20380,Smith after Atlantic,41.854556,-71.473291
+20385,Newport opposite Taylor,41.854987,-71.354507
+20390,East after Lafayette,41.858122,-71.390479
+20395,Smith before Gainer,41.854710,-71.473530
+20400,Branch & Veazie (after Veazie),41.854570,-71.433708
+20420,Branch & Veazie,41.854750,-71.434604
+20430,Woonasquatucket after Stevens,41.854698,-71.482068
+20435,649 Woonasquatucket,41.856337,-71.482722
+20445,Smith before Fenway,41.855186,-71.476828
+20465,Branch & Douglas (at 971 Branch),41.855138,-71.438082
+20470,Branch & Douglas (at 962 Branch),41.855083,-71.438558
+20475,Ninth Street,41.854790,-71.400234
+20480,Silver Spring before Swift,41.855720,-71.411225
+20490,Smith opposite Fenway,41.855286,-71.476757
+20505,High Service & Fatima Drive (at 167 High Service),41.854945,-71.457903
+20515,Newport opposite New,41.855576,-71.354343
+20525,Silver Spring opposite Swift,41.855304,-71.411380
+20530,Smithfield after Shaw's Entrance,41.855906,-71.448284
+20535,Ninth Street,41.854776,-71.400527
+20540,Douglas before Ainsworth,41.855656,-71.441478
+20545,Douglas before Lubec,41.855800,-71.441870
+20555,Smith after Ferncliff,41.855788,-71.478740
+20560,Smith before Ferncliff,41.855859,-71.478705
+20565,George Waterman after Brayton,41.857549,-71.489386
+20575,Charles before Amboy,41.855287,-71.420660
+20600,Smithfield opposite Palou,41.856180,-71.450736
+20610,N Main after Ann Mary,41.855833,-71.400080
+20615,Hope & Chace (NW corner),41.856312,-71.391573
+20620,Smithfield before Palou,41.856235,-71.450231
+20635,Woonasquatucket before Redfern,41.856221,-71.482802
+20640,High Service & Fatima Drive,41.856103,-71.458739
+20650,Hope & Chace (SE corner),41.855910,-71.391575
+20665,Shaw's (North Providence),41.856087,-71.447019
+20670,George Waterman after Serrel Sweet,41.857312,-71.489594
+20675,High Service before Stanley,41.857462,-71.460974
+20680,High Service opposite Fisher,41.856986,-71.460633
+20685,Charles after Smart,41.857510,-71.421196
+20720,Smith before Woonasquatucket,41.856790,-71.482333
+20725,Smithfield opposite Salem,41.857240,-71.454240
+20730,Smith before Steere,41.857244,-71.483640
+20740,Smithfield before Salem,41.857443,-71.454393
+20745,Opposite 1159 Douglas,41.857294,-71.444191
+20750,1159 Douglas,41.857354,-71.444125
+20755,East before Lafayette,41.857879,-71.390772
+20760,George Waterman opposite Taunton,41.859184,-71.488833
+20770,Smith opposite Centerdale Bypass,41.856732,-71.482428
+20780,250 Smithfield,41.858340,-71.457513
+20785,Pawtucket after Pidge,41.858436,-71.398398
+20795,Smithfield & Power (before Colfax),41.858634,-71.410817
+20815,Opposite 250 Smithfield,41.858347,-71.457223
+20830,Bypass & Mineral Spring (opposite Sweet),41.858415,-71.481666
+20835,Newport before Vermont,41.857930,-71.354537
+20840,Bypass & Mineral Spring (after Thomas),41.858375,-71.482404
+20845,Centerdale (at 2048 Smith),41.858175,-71.485611
+20850,Douglas opposite Shaw's Entrance,41.858763,-71.446224
+20860,2148 Mineral Spring,41.858777,-71.478915
+20865,Narragansett Park before Planet Fitness,41.858266,-71.350542
+20870,Charles after Raphael,41.859401,-71.421744
+20875,Smithfield before Power,41.860129,-71.411327
+20885,Charles after Leo,41.859616,-71.421988
+20910,Opposite 2148 Mineral Spring,41.858909,-71.478657
+20915,Grenville Street,41.859039,-71.398870
+20920,Pawtucket After Williams,41.858439,-71.398551
+20930,Mineral Spring before Brookside,41.859251,-71.476351
+20935,George Waterman opposite Vacca,41.858502,-71.489235
+20940,Mineral Spring before Brookside,41.859377,-71.475913
+20950,Newport & Beverage Hill (at 24 Newport),41.860067,-71.354598
+20960,East after Progress,41.860629,-71.389264
+20970,Mineral Spring before Pleasant,41.859747,-71.472547
+20980,Mineral Spring before Pleasant,41.859574,-71.472921
+20995,Douglas before Cushing,41.859301,-71.447011
+21000,Waterman before Centerdale Bypass,41.859477,-71.486228
+21005,East after Glenwood,41.859782,-71.389806
+21010,126 Smithfield,41.862410,-71.411856
+21030,Mineral Spring opposite McGuire,41.859781,-71.471001
+21045,Mineral Spring after McGuire,41.859957,-71.471061
+21050,Newport & Beverage Hill,41.861233,-71.354398
+21055,Beverage Hill before Dewey,41.860881,-71.359004
+21060,Beverage Hill & Prospect,41.860802,-71.367559
+21070,Newport & Beverage Hill (after Woodhaven),41.860917,-71.356516
+21080,Beverage Hill before Dodge,41.860678,-71.367402
+21095,Grenville Street,41.858771,-71.398996
+21110,Pawtucket & Dartmouth,41.861258,-71.395842
+21115,Mineral Spring opposite Sunset,41.860169,-71.468757
+21120,Mineral Spring after Marilyn,41.860943,-71.465385
+21125,Mineral Spring opposite Marilyn,41.860828,-71.465257
+21130,1307 Douglas,41.861093,-71.449629
+21140,Waterman opposite Helen,41.860973,-71.487048
+21155,Waterman before Helen,41.861017,-71.486917
+21160,Opposite 1830 Mineral Spring,41.861566,-71.461960
+21195,Mineral Spring before Longue Vue,41.861453,-71.462079
+21200,Charles before Brown,41.861920,-71.422653
+21215,Charles after Roosevelt,41.861826,-71.422846
+21225,Opposite 114 Smithfield,41.862239,-71.411707
+21240,Mineral Spring after Marblehead,41.862234,-71.457557
+21250,Hope Artiste Village,41.863001,-71.399278
+21270,Mineral Spring before Timber,41.862373,-71.457578
+21290,Hope Artiste Village,41.862649,-71.399160
+21300,East opposite Sayles,41.862705,-71.388231
+21305,Pawtucket before Waltham,41.863153,-71.394140
+21310,Waterman opposite Sawin,41.862862,-71.487981
+21315,Mineral Spring opposite Andover,41.862895,-71.455111
+21320,Mineral Spring after Douglas,41.863447,-71.452121
+21330,Waterman before Sawin,41.862899,-71.487920
+21335,East after Sayles,41.863203,-71.388099
+21340,Mineral Spring & Douglas (after Mineral Spring),41.862970,-71.452688
+21345,Charles after Hurdis,41.863292,-71.423310
+21350,Mineral Spring after Lee,41.863972,-71.450477
+21355,Charles before Macari,41.863427,-71.423222
+21360,Mineral Spring & Douglas (before Mineral Spring),41.862958,-71.452398
+21375,560 Prospect,41.862238,-71.369712
+21380,Pawtucket before Anthony,41.864217,-71.393321
+21385,Smithfield opposite Piave,41.864034,-71.412144
+21390,Smithfield before Piave,41.864125,-71.412297
+21395,Pawtucket before Sayles,41.864748,-71.392707
+21435,Douglas before Amelia,41.864835,-71.455308
+21445,Douglas opposite River,41.864416,-71.454862
+21450,Sayles Avenue,41.865188,-71.399179
+21455,Sayles Avenue,41.865100,-71.399325
+21460,500 Prospect,41.863147,-71.370663
+21465,Pawtucket before Boutwell,41.865415,-71.392198
+21475,East before Manning,41.865318,-71.387300
+21500,Mineral Spring before Coleman,41.865146,-71.445607
+21510,146 Waterman,41.864272,-71.488699
+21530,Prospect before Rhode Island,41.864662,-71.372372
+21550,Charles after Obed,41.866279,-71.424406
+21555,Pawtucket before Knowles,41.866529,-71.391220
+21560,Mineral Spring after Terry,41.866095,-71.442327
+21565,Waterman & Greystone,41.866382,-71.490310
+21570,Charles before Obed,41.866080,-71.424221
+21575,Mineral Spring before Terry,41.866307,-71.442134
+21585,Douglas opposite Fitzhugh,41.866742,-71.458179
+21590,Douglas after Fitzhugh,41.866642,-71.458267
+21595,Waterman after Greystone,41.866148,-71.490300
+21610,Mineral Spring after Woodward,41.866924,-71.439761
+21615,Mineral Spring before Woodward,41.867005,-71.439896
+21630,Prospect before Linwood,41.867552,-71.375221
+21635,Pawtucket before Waldo,41.867401,-71.390231
+21640,Pawtucket opposite Waldo,41.867807,-71.390039
+21650,East after Harvey,41.868171,-71.387099
+21670,Mineral Spring & Charles,41.868038,-71.425087
+21695,East opposite Harvey,41.867824,-71.387250
+21720,Mineral Spring & Charles,41.868188,-71.424994
+21735,Mineral Spring & Charles (opposite Cleveland),41.868594,-71.424397
+21740,Pawtucket & Randall,41.869358,-71.388620
+21745,Mineral Spring & RI-146 (before Ivan),41.868441,-71.432721
+21750,Waterman & Greystone (after Adams),41.868090,-71.491574
+21760,Prospect before Fruit,41.873623,-71.380629
+21770,Mineral Spring & RI-146 (opposite Ivan),41.868583,-71.432724
+21780,Mineral Spring & Charles (after Cleveland),41.868857,-71.424064
+21805,Smithfield before Grosvenor,41.867488,-71.412983
+21810,Mineral Spring after Campbell,41.869349,-71.421950
+21815,Douglas before Tanglewood,41.868890,-71.461410
+21820,Smithfield opposite Grosvenor,41.867453,-71.412897
+21830,Whitman Street,41.869395,-71.397408
+21835,Stop & Shop (Smithfield),41.868633,-71.532351
+21840,Mineral Spring before Dora,41.869691,-71.420053
+21845,Newport before Edendale,41.870849,-71.354295
+21850,Pawtucket & Randall,41.869322,-71.388527
+21855,Mineral Spring after Dorman,41.869756,-71.420146
+21860,Waterman before Gladstone,41.869703,-71.492720
+21865,Douglas opposite Tanglewood,41.868982,-71.461296
+21870,Whitman Street,41.869719,-71.397015
+21880,Columbus & George Bennett,41.870390,-71.364709
+21885,Columbus before Memorial,41.870489,-71.367298
+21900,Mineral Spring after Power,41.870387,-71.417104
+21930,Putnam opposite Apple Valley Mall,41.870077,-71.528222
+21940,458 Putnam,41.870128,-71.535354
+21945,Pawtucket & George (opposite Delaney),41.871099,-71.387646
+21950,Putnam before Sanderson,41.870114,-71.531672
+21960,1090 Charles,41.869493,-71.425691
+21965,Putnam opposite Danecroft,41.870043,-71.539043
+21985,Charles before Franklin,41.870530,-71.426353
+21990,Columbus opposite Memorial,41.870619,-71.367146
+21995,Putnam before Maplecrest,41.870228,-71.541801
+22015,Columbus before Hazard,41.870804,-71.368968
+22020,Putnam opposite Maplecrest,41.870347,-71.541785
+22025,School opposite Pond,41.870679,-71.380143
+22040,Putnam at Apple Valley Mall,41.870232,-71.529326
+22045,Putnam before Crestview,41.870337,-71.545237
+22050,Smithfield after W Lawn,41.870641,-71.413589
+22060,Douglas opposite Wenscott,41.870790,-71.463840
+22065,Columbus opposite Orth,41.871037,-71.369374
+22070,Waterman before Minoru,41.870976,-71.493638
+22075,Mineral Spring after Overland,41.870786,-71.415943
+22080,Mineral Spring before Smithfield,41.871114,-71.414095
+22090,Charles opposite Gillen,41.871354,-71.427560
+22095,Putnam before Cottage,41.870853,-71.549970
+22115,Charles before Gillen,41.871445,-71.427501
+22120,Pawtucket & George,41.870820,-71.387978
+22135,Mineral Spring opposite Fairlawn,41.871988,-71.410519
+22150,Putnam before Pleasant View,41.870961,-71.549715
+22155,Greenville (RI-44 & RI-116),41.871677,-71.553281
+22170,Greenville (RI-44 & RI-116),41.871427,-71.552353
+22180,Douglas before Wenscott,41.870849,-71.464101
+22190,Prospect opposite Chestnut,41.869562,-71.377005
+22200,George after Cedar,41.874882,-71.387179
+22205,Mineral Spring after Fairlawn,41.872076,-71.410744
+22210,Charles opposite Borah,41.872256,-71.429205
+22215,Charles before Borah,41.872310,-71.429157
+22230,Waterman opposite Arnold,41.872357,-71.494324
+22235,Columbus after Pond,41.871971,-71.371497
+22240,Waterman before Arnold,41.872290,-71.494400
+22245,Columbus opposite Stephanie,41.871844,-71.371177
+22265,Power & Anderton,41.872918,-71.419134
+22280,Opposite 545 Mineral Spring,41.873002,-71.407059
+22285,560 Mineral Spring,41.873174,-71.405996
+22290,Prospect after Meadow,41.872128,-71.379358
+22310,Putnam at St Philip School,41.873668,-71.558747
+22320,Putnam opposite St Philip School,41.873745,-71.558677
+22325,Power & Anderton,41.872633,-71.419204
+22345,400 Mineral Spring,41.873653,-71.402900
+22360,Waterman before Camp,41.873588,-71.495504
+22380,Mineral Spring after Hope,41.873802,-71.402771
+22400,Power before Oriole,41.873818,-71.419175
+22405,Lonsdale & Mineral Spring (opposite Hicks),41.874123,-71.399900
+22425,Lonsdale & Mineral Spring (Samuel Slater School),41.874234,-71.400294
+22445,Waterman opposite Esmond Mill,41.873860,-71.495685
+22450,Summit before Division,41.873915,-71.378356
+22465,Power after Oakdale,41.874831,-71.419317
+22470,Esmond before Penbryn,41.874759,-71.504445
+22475,Mineral Spring before Franklin,41.874847,-71.396269
+22480,Mineral Spring after Bagley,41.874762,-71.396122
+22485,Putnam before Arthur,41.874684,-71.562504
+22495,Charles after Azad,41.875931,-71.434242
+22500,Collyer Park,41.874945,-71.392559
+22505,Putnam opposite Arthur,41.874688,-71.562163
+22510,Charles before Miner,41.875293,-71.433942
+22540,Mineral Spring before Main,41.875405,-71.391960
+22545,Mineral Spring after Main,41.875572,-71.391695
+22590,Armistice before Felsmere,41.876640,-71.345450
+22600,Power after Chandler,41.876091,-71.419115
+22605,Esmond after Hill,41.874754,-71.504356
+22610,Power after Chandler,41.876422,-71.418618
+22615,Esmond before Thornton,41.876284,-71.503248
+22650,Weeden before Hancock,41.876920,-71.401585
+22655,Armistice after Daggett,41.876949,-71.346205
+22665,Weeden & Lonsdale (before Sturman),41.877009,-71.401534
+22670,Walcott before Arlington,41.876935,-71.377349
+22680,Weeden opposite Moshassuck,41.877157,-71.405481
+22695,Weeden before Leonard Jenard,41.877103,-71.404540
+22760,Armistice before Slater Park,41.877486,-71.349764
+22765,Visitor Center (Roosevelt & Main),41.877299,-71.383417
+22780,Weeden opposite Hazel,41.877532,-71.409014
+22785,329 Waterman,41.876455,-71.498835
+22790,Armistice after Orient,41.877679,-71.350005
+22795,Putnam before Greenville,41.877893,-71.571859
+22805,Weeden before Hazel,41.877575,-71.408858
+22810,Putnam opposite Greenville,41.877619,-71.570887
+22815,Armistice after Greenslitt,41.877750,-71.351194
+22825,10 Putnam,41.882516,-71.580512
+22835,Weeden before Columbia,41.877867,-71.411764
+22850,Weeden before Jane,41.878041,-71.411954
+22855,Armistice & Newport,41.878306,-71.354075
+22880,Weeden after Smithfield,41.878608,-71.414679
+22885,Armistice & Newport,41.878437,-71.353689
+22895,Newport opposite Whittier,41.879648,-71.354333
+22905,Weeden before Power,41.878362,-71.417417
+22910,Weeden before Smithfield,41.878677,-71.414834
+22915,Newport before Carter,41.881864,-71.354089
+22925,Armistice after Littlefield,41.878733,-71.355321
+22930,RI-246 opposite Woodward,41.878537,-71.435484
+22935,Waterman after Esmond,41.878211,-71.500896
+22945,Waterman & Esmond,41.878565,-71.501095
+22950,Armistice before Bloomfield,41.878908,-71.357032
+22955,Dexter before Bayley,41.878414,-71.387513
+22960,RI-246 after Woodward,41.878404,-71.435553
+22965,Dexter opposite Andrew Ferland,41.879854,-71.388846
+22980,Armistice before N Bend,41.879142,-71.372443
+22981,Armistice after N Bend,41.879034,-71.372465
+22985,Dexter after Main,41.878506,-71.387436
+22990,Armistice before Perrin,41.879103,-71.357082
+23005,Armistice & York (after Rosemont),41.879517,-71.359923
+23020,Broad after Barton,41.881916,-71.386691
+23035,Armistice after Schofield,41.879768,-71.369401
+23050,Armistice opposite Schofield,41.879812,-71.369650
+23070,Goff Avenue,41.879588,-71.386774
+23075,Opposite Slater Mill (Roosevelt & Main),41.877875,-71.383172
+23080,Pawtucket-Central Falls Transit Center (Stop B),41.878518,-71.391811
+23085,Pawtucket-Central Falls Transit Center (Stop A),41.878601,-71.391456
+23100,Weeden & Lonsdale (after Carpenter),41.877768,-71.399788
+23125,Roosevelt Avenue,41.879804,-71.382921
+23136,ARMISTICE NS YORK,41.880039,-71.361884
+23150,Exchange after Roosevelt,41.879967,-71.383041
+23160,Armistice & York (after Alden),41.880446,-71.363826
+23165,Armistice & George Bennett,41.880593,-71.365972
+23170,Armistice & George Bennett,41.880635,-71.366218
+23215,Dexter & Barton (after Barton),41.880443,-71.389649
+23220,Broadway before Blackstone,41.881817,-71.377789
+23225,Twin River & Douglas Pike (opposite Webster),41.878298,-71.472361
+23250,Dexter opposite Congress,41.882767,-71.392375
+23270,Broad before Barton,41.881941,-71.386495
+23280,RI-246 after Cobble Hill,41.884246,-71.438806
+23285,Lonsdale before Parker,41.884447,-71.400233
+23290,RI-246 after Kendall,41.884602,-71.439123
+23295,Broadway before Exchange,41.880154,-71.378611
+23320,Dexter after Rand,41.884651,-71.394728
+23325,Newport after Carter,41.881938,-71.354244
+23335,Dexter before Rand,41.884695,-71.394651
+23345,Broad & Barton (after Nickerson),41.882992,-71.386815
+23355,Lonsdale before Claremont,41.886027,-71.401247
+23370,Newport before Sweet,41.884820,-71.354061
+23375,Broad & Barton (opposite Nickerson),41.883254,-71.386666
+23435,Dexter before Garfield,41.885803,-71.395966
+23445,Dexter before Richardson,41.885794,-71.396107
+23450,Central before Freeman,41.885409,-71.365929
+23455,66 Putnam,41.884632,-71.584248
+23460,Central after Tweed,41.887311,-71.356538
+23471,Central before Makin,41.886588,-71.359520
+23475,Central before Mendon,41.885681,-71.363992
+23480,Newport before Central,41.887452,-71.354047
+23485,Broadway & Central (after Laurel),41.884821,-71.376346
+23490,Opposite 66 Putnam,41.884829,-71.584426
+23495,Broadway & Central (opposite Laurel),41.885108,-71.375936
+23505,Central before Harding,41.886306,-71.361456
+23510,Broad opposite Pacific,41.886246,-71.387165
+23530,Broad before Pacific,41.886580,-71.387056
+23540,Dexter before Cowden,41.887239,-71.397433
+23545,Central before Makin,41.886854,-71.358979
+23555,Broadway after Woodbine,41.886801,-71.375201
+23565,Broadway before Woodbine,41.886645,-71.375162
+23575,Newport before Robinson,41.885714,-71.354203
+23585,Central before Tweed,41.887477,-71.356493
+23590,Opposite 199 Putnam,41.887686,-71.596160
+23620,Broadway opposite Lilac,41.888453,-71.374291
+23625,Broad after Sacred Heart,41.888515,-71.387199
+23635,Lonsdale before W Hunt,41.888466,-71.401897
+23640,RI-246 after Twin River Casino Entrance,41.887548,-71.440696
+23645,Dexter & West Hunt (before Crossman),41.888857,-71.399235
+23650,185 Putnam,41.887661,-71.595558
+23655,Central before Liverpool,41.888966,-71.349708
+23660,Broad opposite Sacred Heart,41.888235,-71.387343
+23665,Twin River Casino,41.887001,-71.447213
+23690,Central before Daggett,41.889467,-71.347534
+23695,Broadway opposite Margaret,41.888203,-71.374518
+23705,Central & Daggett (before Draper),41.889246,-71.349070
+23715,Central opposite Farnum,41.890122,-71.344859
+23735,Central before Clarner,41.889856,-71.346532
+23740,Broadway before East,41.890044,-71.373403
+23745,Broadway after East,41.890390,-71.373398
+23760,Broad before Cowden,41.891406,-71.387515
+23765,401 Putnam,41.895105,-71.612435
+23775,Lonsdale & Dexter (opposite Mohassuck Cemetery),41.891464,-71.402567
+23790,Lonsdale opposite Richland,41.894077,-71.404115
+23800,Broadway before George Bennett,41.892081,-71.372363
+23850,Benefit before Cottage,41.892344,-71.357680
+23860,Benefit opposite Adin,41.892502,-71.361997
+23865,995 Broad,41.893566,-71.387737
+23870,Benefit before Emory,41.892447,-71.357870
+23875,Benefit before Mendon,41.892541,-71.364545
+23880,Benefit before Farnum,41.891579,-71.345367
+23890,Benefit before Bates,41.892605,-71.368042
+23905,Benefit after Adin,41.892604,-71.362137
+23915,Lonsdale & Dexter (at Mohassuck Cemetery),41.891325,-71.402634
+23920,Benefit & Broadway,41.892640,-71.370851
+23935,Benefit & Broadway,41.892731,-71.371491
+23936,Broadway after Amey,41.892236,-71.372551
+23945,Benefit after Bates,41.892696,-71.368124
+23950,Opposite 121 Benefit,41.892667,-71.366148
+23970,Lonsdale opposite Bindord,41.893133,-71.403343
+23975,100 Broad,41.893528,-71.387908
+23985,RI-246 before Twin River,41.893912,-71.446767
+23995,RI-246 at Lincoln Woods Tunnel,41.886220,-71.439646
+24015,Lonsdale before Richland,41.894117,-71.404012
+24040,Putnam before Absalona Hill,41.896208,-71.617391
+24045,Douglas before Whipple,41.889111,-71.488886
+24060,Before 617 Putnam,41.897236,-71.629107
+24065,Putnam opposite Absalona Hill,41.896106,-71.617496
+24075,Hunt & Broad (opposite 1190 Broad),41.896008,-71.388175
+24080,Hunt & Broad (at 1190 Broad),41.895999,-71.388336
+24120,Broad after High,41.898542,-71.389157
+24155,CCRI Lincoln,41.899629,-71.453411
+24205,Broad opposite Currier Playlot,41.901061,-71.390954
+24220,Broad before Chapel,41.902407,-71.391447
+24225,RI-246 after Jenckes Hill,41.901460,-71.451108
+24230,RI-246 before Jenckes Hill,41.901298,-71.450957
+24260,Broad opposite Jones,41.903285,-71.391780
+24285,Opposite 617 Putnam,41.897503,-71.629654
+24290,Broad & John (opposite 232 Broad),41.904350,-71.392141
+24295,Putnam after Terry,41.904951,-71.647324
+24310,Putnam before Pinewood Park,41.903630,-71.635914
+24320,Putnam after Lee,41.905101,-71.650989
+24330,Putnam after Lee,41.905214,-71.651517
+24350,Broad before Lusitania,41.900569,-71.390929
+24385,Broad before Church,41.906940,-71.393070
+24405,Broad opposite Bells,41.902339,-71.391516
+24410,1068 Putnam,41.907595,-71.666637
+24415,Broad & John (before Maple),41.904121,-71.392181
+24430,Putnam after Chestnut Hill,41.908684,-71.667703
+24435,Broad before Lafayette,41.908341,-71.393731
+24440,RI-44 & Douglas Hook (after Douglas Hook),41.912790,-71.669082
+24445,RI-44 & Douglas Hook (1116 Putnam),41.910062,-71.668357
+24455,Broad before Forest,41.910293,-71.395007
+24480,Broad after Dexter,41.912213,-71.396088
+24485,Broad opposite Bowen,41.912311,-71.396272
+24495,Mendon before Ann & Hope Way,41.912111,-71.403344
+24496,Stop & Shop (Cumberland),41.913654,-71.405715
+24500,Mendon after Ann & Hope Way,41.912798,-71.403343
+24520,Ann & Hope Way & Broad,41.914093,-71.398204
+24535,Broad after Ann & Hope Way,41.914021,-71.398349
+24540,Ann & Hope Way after Main,41.913621,-71.399755
+24555,Mendon before Railroad Tracks,41.914498,-71.403990
+24565,Mendon & Broad,41.915774,-71.404758
+24570,Mendon & Broad,41.915922,-71.404687
+24595,Mendon before Dorr,41.918833,-71.407083
+24601,Powder Hill after Jenckes Hill,41.916776,-71.479416
+24605,Mendon opposite Marshall,41.920161,-71.408541
+24620,Jenckes Hill at Lincoln Senior Center,41.909859,-71.471740
+24625,Jenckes Hill opposite Lincoln Senior Center,41.909918,-71.471667
+24630,Jenckes Hill after Stonybridge,41.906653,-71.467854
+24635,Jenckes Hill opposite Stonybridge,41.906800,-71.467854
+24641,North Central Industrial Park (opposite Crownmark),41.923832,-71.481148
+24645,Bryant University,41.921523,-71.539022
+24675,Mendon after Sunset,41.925370,-71.415003
+24680,Mendon opposite Cushing,41.927934,-71.420064
+24685,Mendon opposite Riverview,41.924751,-71.413344
+24690,Mendon before Martin,41.930227,-71.423273
+24695,Mendon opposite Martin,41.930238,-71.423162
+24705,28 Albion,41.930964,-71.482607
+24710,Mendon opposite Ryan,41.932460,-71.426265
+24720,Mendon before Ashton,41.935404,-71.428944
+24725,RI-116 opposite Blackstone Valley,41.934292,-71.457897
+24730,RI-116 after RI-126/Old River,41.934556,-71.449362
+24735,RI-116 after Blackstone Valley,41.934558,-71.457868
+24740,RI-116 after Old River,41.934658,-71.450929
+24745,RI-116 after Wake Robin,41.934962,-71.473838
+24755,Opposite 1 Albion,41.934337,-71.481668
+24756,1 Albion,41.934278,-71.481817
+24770,Bank of America (RI-116 - Lincoln),41.936170,-71.444046
+24775,Mendon before Store Hill,41.937356,-71.429522
+24785,20 Blackstone Valley,41.939405,-71.461828
+24810,Lincoln Mall (between Marshalls & 5 Below),41.937542,-71.476323
+24815,Ashton (RI-116 & RI-122),41.938817,-71.430889
+24820,Amica Insurance (Corporate Office),41.936453,-71.464583
+24840,Lapham Farm before Victory,41.942860,-71.658163
+24870,Victory before Sandhill,41.947762,-71.648949
+24875,Victory before Lapham Farm,41.943200,-71.657526
+24945,919 Victory,41.951837,-71.649344
+24972,Bridgeway before Sayles,41.957121,-71.702190
+24985,Central before Corrie,41.958838,-71.659908
+24990,Central before Corrie,41.958644,-71.658940
+24995,Main after Elm,41.960613,-71.699877
+25010,Main opposite Elm,41.960349,-71.700104
+25030,115 Central,41.962073,-71.669781
+25035,Central after Lynne,41.961224,-71.663451
+25085,Chapel after Main,41.966521,-71.679460
+25100,Chapel opposite Chum,41.966935,-71.690851
+25102,Chapel after Chum,41.966879,-71.691109
+25110,Chapel & Main (before Main),41.966402,-71.679487
+25125,Chapel before Foster,41.967508,-71.682559
+25335,Park Square (Park & RI-146A),41.982770,-71.514820
+25340,63 Eddie Dowling,41.980802,-71.513978
+25350,Park Square (Park & RI-146A),41.983247,-71.516304
+25405,Providence before RI-146A,41.986021,-71.522391
+25540,Providence after Ballou,41.991274,-71.521376
+25600,Providence opposite Vose,41.993656,-71.521259
+25605,Providence before Collins,41.993944,-71.521288
+25690,Providence before S Main,41.996000,-71.522350
+25695,S Main opposite Buxton,41.997122,-71.521323
+25705,S Main before Buxton,41.996936,-71.521445
+25735,S Main opposite South,41.998060,-71.519351
+25750,S Main after East,41.998144,-71.519400
+25885,Bernon opposite Allen,42.000102,-71.513985
+26000,North Central Industrial Park (after Crownmark),41.923692,-71.481251
+26015,Main Street (Municipal Parking Lot),42.003004,-71.513641
+26020,Powder Hill before Jenckes Hill,41.916662,-71.479792
+26155,Clinton St. Park & Ride Lot,42.003960,-71.511582
+26910,Smith opposite Frederick,41.836174,-71.429163
+26915,Smith before Pembroke,41.836661,-71.431184
+26935,High Service after Sherman,41.853359,-71.457346
+26945,High Service opposite Sherman,41.853234,-71.457448
+26965,High Service before Worcester,41.850328,-71.457182
+26970,Smith before Sunset,41.854254,-71.468409
+27045,Waterman & Esmond,41.877961,-71.501840
+27050,Waterman after Bypass,41.859574,-71.486127
+27055,Opposite 146 Waterman,41.864322,-71.488596
+27060,Opposite 170 Waterman,41.865513,-71.489571
+27065,Waterman after Nelson,41.867926,-71.491317
+27070,Waterman before Woodland,41.869816,-71.492694
+27075,Waterman opposite Minoru,41.870880,-71.493446
+27105,Opposite 329 Waterman,41.876368,-71.498987
+27115,Waterman before Esmond Mill,41.874685,-71.496877
+27125,Smith opposite Capital View,41.848016,-71.456230
+27140,Smith before Wyndham,41.839673,-71.438354
+27150,Smith opposite Pembroke,41.836562,-71.431335
+27155,Opposite 2 Esmond,41.877916,-71.501983
+27190,Admiral & Charles (opposite 356 Charles),41.841544,-71.417832
+27200,Allens opposite Motiva Enterprises,41.797996,-71.399299
+27210,Norwood after Narragansett,41.779476,-71.393398
+27215,Post after Elkland,41.730162,-71.437505
+27225,3399 Post,41.696412,-71.459086
+27230,Post before Hesper,41.669111,-71.448835
+27235,Atwells & Mt Pleasant,41.825691,-71.448544
+27245,Mt Pleasant before Dover,41.829562,-71.449162
+27250,Mt Pleasant before Roanoke,41.830731,-71.449350
+27255,Mt Pleasant before Chalkstone,41.832539,-71.449658
+28170,Pawtucket & Dartmouth,41.861291,-71.395923
+28605,Providence before Coe,41.995453,-71.522165
+28610,RI-146A before White,41.984545,-71.519611
+28620,Charles opposite Smart,41.857517,-71.421335
+29060,Bellevue after Lakeview,41.457626,-71.306252
+29075,Bellevue before Lakeview,41.457619,-71.306122
+29120,Galilee (Block Island Ferry),41.378971,-71.510451
+29140,Roger Wheeler Beach,41.374160,-71.498739
+29141,Roger Wheeler Beach,41.374050,-71.498932
+29145,Scarborough Beach (Ocean after Desano),41.389112,-71.475734
+29146,Scarborough Beach,41.390260,-71.473480
+29190,Dyer after Cranston,41.790583,-71.457149
+29215,Chestnut Hill after Princess,41.795859,-71.455072
+29225,711 Dyer,41.792871,-71.457664
+29235,Dyer after Cranston,41.790020,-71.457160
+29505,West House,41.522775,-71.287231
+29510,Kay after Brinley,41.489681,-71.308365
+29570,Jennings Manor,41.801451,-71.448730
+29600,Dexter before Moore,41.887557,-71.397945
+29610,School opposite Englewood,41.867495,-71.377351
+29615,School at Riverview Terrace,41.866669,-71.376619
+29620,School opposite Pearson,41.863562,-71.375517
+29630,Beverage Hill NS Charlton,41.860614,-71.370936
+29640,Beverage Hill before George Bennett,41.860821,-71.363604
+29675,Arlington Manor,41.800817,-71.448980
+29680,Harris House,41.799350,-71.445294
+30105,Atwells opposite Julian,41.824930,-71.444699
+30110,Atwells after Carleton,41.825093,-71.446993
+30115,Atwells before Carleton,41.824910,-71.446760
+30120,Atwells before Putnam,41.824797,-71.444243
+30126,Cahir & Westminster (after Westminster),41.817851,-71.419594
+30175,Stop & Shop (Pawtucket),41.888327,-71.367365
+30190,Newport before Charpentier,41.893029,-71.354121
+30195,Newport before Lee,41.891072,-71.354139
+30200,Newport before Cameron,41.889749,-71.354134
+30205,Armistice & Newport (after Newport),41.877319,-71.354325
+30210,Newport opposite Lanni,41.874412,-71.354352
+30215,Newport after Federal,41.872880,-71.354423
+30220,Newport before Columbus,41.870416,-71.354432
+30235,Newport before Monticello,41.866519,-71.354474
+30240,176 Newport,41.863476,-71.354508
+30250,191 Newport,41.863789,-71.354388
+30255,Newport before Gates,41.872736,-71.354252
+30260,Newport after Waterman,41.875666,-71.354244
+30265,Armistice & Newport,41.878133,-71.354182
+30270,Newport after Whittier,41.879482,-71.354164
+30280,Newport before Benefit,41.891749,-71.354019
+30285,Newport after Washburn,41.893497,-71.353984
+30295,1114 Douglas,41.924392,-71.530830
+30300,970 Douglas,41.915759,-71.519127
+30305,Opposite 945 Douglas,41.914146,-71.517775
+30320,RI-4 after Oak Hill,41.561054,-71.489529
+30325,RI-2 before Pleasant View,41.503963,-71.560829
+30350,Memorial Hospital,41.871395,-71.376437
+30352,Memorial Hospital,41.871525,-71.376384
+30415,Branch after Hawkins,41.851083,-71.421659
+30420,Branch before Langdon,41.852123,-71.424057
+30435,Branch opposite Langdon,41.852041,-71.424153
+30440,Branch before Hawkins,41.851133,-71.422062
+30460,RI-146A after Park,41.983509,-71.516838
+30465,RI-146A opposite White,41.984682,-71.519521
+30470,Providence after Fabien,41.986758,-71.522090
+30475,Providence before Piedmont,41.988884,-71.521727
+30485,Providence before Ballou,41.991249,-71.521249
+40010,Douglas before DeCotis Farm,41.919123,-71.522318
+45115,E Main opposite Sherwood,41.578311,-71.252218
+50000,Memorial Drive,41.996647,-71.532057
+50005,Memorial before Bourdon,41.997183,-71.532826
+50010,Mason opposite Tenth,41.998105,-71.533026
+50020,Fairmount after Ninth,42.000653,-71.532874
+50030,Fairmount after Fifth,42.001362,-71.529402
+50035,Fairmount after Third,42.001824,-71.527398
+50040,Second after Chestnut,42.003148,-71.527377
+50045,525 Second,42.004928,-71.528058
+50055,Second & River,42.006384,-71.528139
+50060,River after Second,42.006679,-71.527245
+50065,River opposite Blackstone,42.004871,-71.523894
+50070,Verry opposite YMCA,42.004492,-71.520467
+50075,Railroad before Arnold,42.004530,-71.517853
+50080,Opposite 147 Railroad,42.004061,-71.515452
+50085,100 Front,42.001195,-71.511139
+50090,Clinton opposite Veterans,42.005576,-71.509648
+50095,Clinton at Strip Mall,42.006389,-71.507343
+50105,Clinton at Kennedy Manor,42.007386,-71.504596
+50110,Cumberland after Clinton,42.007540,-71.502326
+50120,Cumberland before Kendrick,42.006351,-71.500929
+50125,Cass & Dulude,42.005211,-71.496682
+50130,Sweet opposite Stanley,42.006881,-71.493660
+50135,Elm opposite Winthrop,42.007752,-71.493129
+50140,Elm opposite Florida,42.008049,-71.491322
+50150,715 Robinson,42.009248,-71.488921
+50155,263 Morin Heights,42.010721,-71.487805
+50160,Linden before Hayes,42.012995,-71.488135
+50165,Linden before Diamond Hill,42.015323,-71.487112
+50170,Diamond Hill after Morris,42.015735,-71.483224
+50190,Walnut Hill Plaza (Savers),42.016791,-71.477596
+50195,Walnut Hill Plaza (Planet Fitness),42.016993,-71.478890
+50200,Diamond Hill opposite Walnut Hill,42.015673,-71.478130
+50205,Diamond Hill before Rock Ridge,42.015266,-71.473457
+50215,Diamond Hill Plaza (PriceRite),42.016803,-71.471261
+50220,Diamond Hill Plaza (Dollar Tree),42.016037,-71.472633
+50290,Diamond Hill at Diamond Hill Plaza,42.015216,-71.472045
+50305,1240 Diamond Hill,42.015822,-71.483623
+50315,Linden after Diamond Hill,42.015480,-71.487202
+50320,Linden before Fall,42.012879,-71.488304
+50325,Opposite 263 Morin Heights,42.010681,-71.487879
+50330,Robinson at Building 16,42.009113,-71.489406
+50335,Elm opposite Cote,42.008178,-71.491428
+50340,Elm after Winthrop,42.007927,-71.492988
+50345,Sweet after Stanley,42.007010,-71.493716
+50350,Opposite 219 Cass,42.005561,-71.494821
+50355,Cass & Dulude,42.005288,-71.497039
+50360,Cumberland before Locust,42.006491,-71.500861
+50365,Cumberland before Clinton,42.007908,-71.502568
+50370,Social after Cumberland,42.008750,-71.504750
+50375,Social before Adams,42.016160,-71.500022
+50380,334 Social,42.008158,-71.507615
+50385,Social before Pond,42.007468,-71.509765
+50390,Social after Earle,42.006559,-71.511309
+50395,Social after Adams,42.016218,-71.500225
+50400,967 Social,42.013831,-71.500959
+50405,Social after Privilege,42.013486,-71.501302
+50410,Social after Elm,42.010921,-71.501536
+50415,Social after Chester,42.010972,-71.501743
+50435,Fairmount before Third,42.001816,-71.527798
+50440,Fairmount opposite Fifth,42.001406,-71.529791
+50451,Mason before Tenth,41.998198,-71.532942
+50455,Ninth before Chapel,41.999709,-71.532780
+50456,Bourdon before Memorial,41.997717,-71.533223
+50480,Opp 40 S County Trail (RI-2),41.555552,-71.520313
+50485,RI-2 & Exeter Rd (RI Veterans Memorial Cemetery),41.545867,-71.534215
+50490,W Franklin before Westminster,41.819197,-71.419447
+50610,East opposite Manning,41.865503,-71.387351
+50630,RI-2 & Exeter Rd (RI Veterans Memorial Cemetery),41.545688,-71.534465
+50635,RI-2 opposite Yawgoo Valley,41.521710,-71.553896
+50645,RI-2 before Waites Corner,41.495404,-71.569591
+50650,RI-2 & RI-138,41.493119,-71.573104
+50655,Kingstown after W Kingstown Park,41.488602,-71.567539
+50665,Kingstown before Fairgrounds,41.485173,-71.561865
+50675,Kingstown after Watson,41.483611,-71.555325
+50685,Kingstown opposite Independence,41.482705,-71.540456
+50690,Kingstown opposite Ryan Center,41.482359,-71.538198
+50710,RI-2 opposite Pine View Apartments,41.524167,-71.552917
+50715,RI-2 at Pine View Apartments,41.524222,-71.553111
+50720,Kingstown before Plains,41.482103,-71.549827
+50725,Kingstown opposite Watson,41.483849,-71.555632
+50730,RI-2 before Hemsley,41.571331,-71.516877
+50735,Kingstown before Fairgrounds,41.485132,-71.561195
+50740,Kingstown opposite W Kingstown Park,41.488823,-71.567559
+50745,RI-2 opposite Silas Hill,41.536180,-71.543138
+50750,RI-2 & RI-138,41.493515,-71.572194
+50755,RI-2 opposite Barbers Pond,41.499017,-71.563931
+50760,RI-2 before Wolf Rock,41.511140,-71.556709
+50765,RI-2 opposite Oak Harbour Village,41.526621,-71.551301
+50770,RI-2 before Silas Hill,41.536083,-71.543068
+50775,RI-2 before Dry Bridge,41.558935,-71.518170
+50780,RI-2 after Beacon,41.571390,-71.516668
+50790,Main before Kenyon,41.712064,-71.523493
+50795,Washington after Boston,41.697192,-71.546474
+50800,S Main before Barber,41.681762,-71.569808
+50815,Garden City (Midway Rd),41.762559,-71.456916
+50825,1145 Tiogue,41.679115,-71.581181
+50830,Diamond Hill Plaza (McDonald's),42.015802,-71.471549
+51005,Park before Church,41.875908,-71.387349
+51010,George before Harrison,41.874358,-71.387516
+51030,County before Hilltop,41.742787,-71.312346
+51055,County after Police Cove (Park & Ride),41.736529,-71.298415
+51085,Opposite 16 Howard,41.742645,-71.462753
+51095,RI-102 opposite Pine Meadow,41.921280,-71.670457
+51105,RI-102 before RI-44,41.916273,-71.671686
+51110,1018 Putnam,41.906556,-71.660513
+51115,Putnam opposite Highland Lake,41.905391,-71.654335
+51120,Mapleville (Central before Victory),41.955002,-71.652040
+51125,Putnam after Austin,41.872729,-71.554786
+51140,Putnam after Highland Lake,41.905500,-71.654512
+51145,RI-102 after RI-44,41.916166,-71.671487
+51165,Memorial after Exchange,41.826820,-71.412824
+51170,Governor Apartments (after Preston),41.825137,-71.393916
+55070,Power opposite Prentice,41.870866,-71.418165
+55175,Governor Apartments (after Benevolent),41.825071,-71.393986
+55195,Longmeadow opposite Draper,41.704109,-71.373944
+55215,Warwick & West Shore (opposite Ninigret),41.732820,-71.406995
+55235,Olneyville Square (at Plainfield after Service Rd),41.815901,-71.445306
+55240,Atwood & Plainfield (opposite Clemence),41.796295,-71.482183
+55255,Sailor Way after Plainfield,41.787773,-71.509403
+55260,Amflex after Ninety-Nine Way,41.786167,-71.511674
+55285,Plainfield & Murray (opposite 675 Plainfield),41.810903,-71.461998
+55290,Post opposite Alhambra,41.728117,-71.438114
+55295,Ann & Hope Way before Mendon,41.912543,-71.402047
+55305,Ann & Hope Way after Mendon,41.912412,-71.402078
+55310,Ann & Hope Way & Broad,41.913594,-71.399637
+55315,Broad before High,41.898858,-71.389756
+55320,Opposite Collyer Park,41.874951,-71.392292
+55325,Pearl Street,41.871679,-71.395277
+55340,RI-2 at Aim High Academy,41.605486,-71.494735
+55345,Quaker (RI-2) after Stony,41.593613,-71.498572
+55350,RI-4 after Oak Hill,41.560208,-71.489664
+55360,Quaker (RI-2) after Stony,41.594658,-71.497542
+55365,RI-2 opposite Aim High Academy,41.605466,-71.494507
+55385,Opposite 400 Charles,41.843714,-71.418304
+55405,Ashburton before Randall,41.836124,-71.412326
+55500,Plainfield & Comstock,41.788141,-71.516290
+55505,Comstock before Scituate,41.780911,-71.515483
+55510,Scituate Vista Apartments,41.778774,-71.488351
+55515,Scituate Vista Apartments,41.778829,-71.488221
+55520,Comstock after Scituate,41.781364,-71.515307
+55525,Plainfield & Comstock,41.787980,-71.516042
+55530,151 Douglas,41.880465,-71.475715
+55535,Douglas opposite Ray,41.883963,-71.480879
+55540,373 Douglas,41.889315,-71.488920
+55545,Douglas before Maureen,41.894598,-71.495938
+55550,Douglas after Limerock,41.902218,-71.504642
+55560,Opposite 970 Douglas,41.916141,-71.519135
+55565,Douglas before Washington,41.919062,-71.522593
+55570,Douglas after Limerock,41.901724,-71.504253
+55575,206 Douglas,41.883203,-71.480010
+55580,Twin River & Douglas Pike (before Twin River),41.880248,-71.475612
+55585,Douglas before Webster,41.878512,-71.473023
+55640,1195 Oaklawn,41.736740,-71.478209
+55660,College opposite Cole,41.841379,-71.456924
+55685,Woonasquatucket before Ardwick,41.837152,-71.469527
+55690,Woonasquatucket opposite Tag,41.838340,-71.471581
+55695,Woonasquatucket after Metcalf,41.839263,-71.473274
+55710,George Waterman & Greenville,41.838904,-71.483073
+55720,Woonasquatucket opposite Humbert,41.844625,-71.477048
+55725,Woonasquatucket after Tag,41.838161,-71.471598
+55735,Broadway after Pallas,41.821040,-71.424375
+55745,Veterans Memorial before Greenwich,41.698631,-71.462598
+55780,Opposite 100 Bullocks Point,41.775562,-71.363470
+55785,Bullocks Point before Washington,41.772840,-71.363209
+55800,Bullocks Point before River,41.764708,-71.360851
+55805,110 Bullocks Point,41.775474,-71.363246
+55810,Bullocks Point after Willett,41.777805,-71.363138
+55815,Opposite 585 Taunton,41.821728,-71.358210
+55825,385 Newport,41.867778,-71.354338
+55845,Pawtucket after Clifford,41.843997,-71.351166
+55850,Pawtucket before Weeden,41.846205,-71.352643
+55860,Beverage Hill after George Bennett,41.860754,-71.363433
+55870,Beverage Hill before Green Lane,41.860790,-71.359149
+55880,Newport & Beverage Hill,41.860846,-71.355071
+55885,Pawtucket opposite Weeden,41.846341,-71.352984
+55895,Elmgrove before Woodbury,41.845002,-71.391836
+55900,Hope before Whiting,41.843297,-71.397779
+55930,Main between Ascension & Arnold,42.001217,-71.515840
+55931,River after S Main,41.999840,-71.517272
+55935,River after Sayles,42.000998,-71.517546
+55940,Opposite 252 River,42.002702,-71.517927
+55945,River opposite Canal,42.003664,-71.520338
+55955,Walmart (Providence),41.845887,-71.417196
+55965,Power before Prentice,41.870835,-71.418006
+55975,Lonsdale opposite Palm,41.879887,-71.400046
+55980,Lonsdale opposite Barber,41.882907,-71.400217
+55990,Exchange after Broad,41.879692,-71.385956
+55995,Dexter after Goff,41.879364,-71.388113
+56000,Dexter & West Hunt (before School),41.889057,-71.399262
+56030,Lonsdale before Front,41.906502,-71.403560
+56035,Lonsdale after Orchard,41.884866,-71.400547
+56045,Lonsdale before Barber,41.882997,-71.400325
+56050,Lonsdale before Ivy,41.880910,-71.400207
+56065,Dexter & Barton (before Court),41.881159,-71.390426
+56070,Mineral Spring after Smithfield,41.871170,-71.414163
+56075,Mineral Spring before Slater,41.874627,-71.396942
+56090,Opposite 1158 Lonsdale,41.895566,-71.404722
+56100,Lonsdale before Valley View,41.897559,-71.404341
+56105,Lonsdale opposite Edgehill,41.899641,-71.404915
+56120,Lonsdale opposite Lonsdale School St,41.908364,-71.403002
+56125,Mendon opposite Franklin,41.917497,-71.405973
+56130,Mendon after Marshall,41.920472,-71.408738
+56135,Opposite 300 Mendon,41.921990,-71.410403
+56140,593 Mendon,41.923204,-71.411703
+56145,Mendon before Ora Murphy,41.933403,-71.426692
+56150,Mendon opposite Ashton,41.935744,-71.428919
+56160,Mendon before Angell,41.937368,-71.429393
+56165,RI-116 after Blackstone River State Park,41.937087,-71.436240
+56170,640 George Washington,41.934652,-71.459804
+56175,RI-116 opposite Lincoln Mall Entrance,41.935066,-71.477274
+56176,RI-116 before Wake Robin,41.935132,-71.473729
+56185,Opposite 28 Albion,41.931029,-71.482710
+56195,695 George Washington,41.934859,-71.444902
+56200,RI-116 after Bank of America,41.935640,-71.440450
+56205,RI-116 opposite Blackstone River State Park,41.936993,-71.436053
+56215,Ashton (RI-116 & RI-122),41.939035,-71.431456
+56225,Mendon opposite Ora Murphy,41.933623,-71.427038
+56235,Mendon before Hunt,41.926678,-71.417666
+56240,Mendon at Berkeley Commons,41.922880,-71.411558
+56245,Mendon before Lenox,41.918386,-71.406891
+56250,Mendon after Franklin,41.917297,-71.405969
+56255,Mendon after Broad,41.913852,-71.403952
+56260,Lonsdale before Cook,41.909925,-71.402777
+56265,Lonsdale before Lonsdale School St,41.908281,-71.403197
+56310,Central after Mendon,41.885530,-71.364033
+56311,Central after Freeman,41.885282,-71.366046
+56335,Central after Chase,41.888860,-71.350611
+56435,Pond before Young,41.871853,-71.374677
+56500,Walcott after French,41.877299,-71.375125
+56515,Armistice after George Bennett,41.880270,-71.364101
+56525,Armistice before Littlefield,41.878543,-71.355252
+56530,Armistice opposite Parkside,41.875742,-71.342971
+56560,Walcott before Underwood,41.876972,-71.377645
+56565,Douglas opposite Maureen,41.894696,-71.496296
+56605,Smithfield opposite Colonial,41.858106,-71.459545
+56615,Smithfield before Colonial,41.857988,-71.460079
+56640,Smith after Academy,41.842844,-71.445560
+56655,Mineral Spring before Martin,41.864504,-71.448176
+56660,Mineral Spring at N Providence High School,41.861766,-71.460143
+56665,Mineral Spring before Andover,41.862685,-71.455398
+56670,Mineral Spring before Elmira,41.863888,-71.450300
+56675,Mineral Spring after Chenango,41.864305,-71.448539
+56680,Mineral Spring before Friendship,41.865109,-71.445303
+56695,Opposite 32 Main,42.000983,-71.515791
+56700,Providence before Avenue B,41.988949,-71.521810
+56705,Second before Van Zandt,41.498629,-71.320415
+56710,Second before Pine,41.496743,-71.320205
+56725,Second before Marsh,41.491484,-71.319480
+56750,Bellevue after Rough Point,41.456253,-71.306267
+56760,Bellevue opposite Rough Point,41.456268,-71.306389
+56765,120 Girard,41.514639,-71.313804
+56775,W Main opposite Maplewood,41.519450,-71.299852
+56795,Miantonomi Park (Hillside & Eisenhower),41.509751,-71.307886
+56805,W Main opposite Hart,41.517556,-71.300380
+56830,Boyds opposite Anthony,41.629983,-71.245701
+56835,E Main before Rego,41.518066,-71.296383
+56840,502 Bristol Ferry,41.628566,-71.255030
+56880,RI-3 before RI-216,41.423398,-71.786295
+56885,RI-3 opposite Maxson Hill,41.427378,-71.783669
+56890,RI-3 after Milrose,41.394876,-71.802549
+56895,Arnold before Twin Lake,41.678382,-71.556849
+56905,Ten Rod after Lang,41.578881,-71.507977
+56910,1675 Ten Rod (RI-2),41.576487,-71.514626
+56920,RI-2 opposite Wolf Rock,41.511531,-71.556922
+56930,Kingstown after Curtis Corner,41.462060,-71.509392
+56945,1436 Kingstown,41.454270,-71.505427
+56950,High after Allen,41.444983,-71.502939
+56965,Main before Robinson,41.438880,-71.498711
+56970,Main after Woodruff,41.440763,-71.495199
+56975,Old Tower Hill opposite Job Lot,41.441673,-71.486962
+56990,Point Judith after Sunnybrook Farm,41.421664,-71.481529
+56995,Point Judith opposite Old Point Judith,41.417617,-71.479815
+57000,Point Judith after Foddering Farm,41.412123,-71.478398
+57005,Point Judith after Palm Beach,41.402838,-71.479576
+57010,Point Judith after Martin,41.399290,-71.479989
+57025,Burnside before Ocean,41.392075,-71.471463
+57030,Ocean after Greenbrier,41.386992,-71.477278
+57035,Knowlesway after Ocean,41.386461,-71.477978
+57040,Knowlesway after Longview,41.386962,-71.480056
+57045,Knowlesway before Erie,41.387318,-71.481944
+57050,Knowlesway after Coffey,41.387825,-71.485034
+57055,Point Judith after Knowlesway,41.387328,-71.485800
+57065,Point Judith after Salty Acres,41.380880,-71.488065
+57075,Sand Hill Cove after Hemlock,41.375016,-71.491027
+57080,Sand Hill Cove before Chestnut,41.374395,-71.492440
+57105,Main before River,41.440731,-71.497062
+57115,Opposite 50 High,41.438122,-71.502026
+57120,High after Cemetery,41.441680,-71.502244
+57125,Kingstown & High,41.451400,-71.500687
+57136,RI-2 before Yawgoo Valley,41.521522,-71.553816
+57140,RI-2 before Fox Hollow,41.565093,-71.517419
+57165,Pond after Arch,41.872175,-71.373633
+57170,Summit before Johnson,41.874169,-71.378397
+57180,Summit before Walcott,41.876298,-71.379077
+57190,Summit after Walcott,41.875864,-71.379095
+57195,Great Island at Coast Guard,41.377935,-71.511657
+57205,Sand Hill Cove before Chestnut,41.373951,-71.493059
+57215,Point Judith opposite Saltaire,41.375682,-71.488519
+57220,Point Judith after Schooner Cove,41.378492,-71.488229
+57225,Point Judith at USAR Center,41.381459,-71.487498
+57235,Point Judith before Knowlesway,41.387555,-71.485485
+57245,Burnside before Desano,41.393056,-71.474361
+57250,Knowlesway before Ocean,41.386333,-71.477948
+57255,Ocean opposite Greenbrier,41.387522,-71.476590
+57260,Ocean before Burnside,41.391049,-71.471978
+57265,Burnside before Jamestown,41.394059,-71.480550
+57270,Burnside opposite Desano,41.393182,-71.474200
+57275,Burnside after Charlestown,41.394063,-71.479282
+57285,Opposite 707 Point Judith,41.396264,-71.481227
+57290,Point Judith after Lindsley,41.399781,-71.479569
+57295,Point Judith after Manning,41.404000,-71.479052
+57300,Point Judith after Windermere,41.413024,-71.478158
+57305,Point Judith before Old Point Judith,41.417035,-71.479115
+57310,Point Judith opposite Sunnybrook Farm,41.421807,-71.481264
+57315,Point Judith after Westmoreland,41.425895,-71.480895
+57320,90 Point Judith,41.429193,-71.480742
+57405,North opposite Longfellow,41.500859,-71.374804
+57510,Narragansett before Green,41.496246,-71.369390
+57520,Narragansett before North,41.496256,-71.374078
+57525,North before Longfellow,41.500719,-71.374613
+57526,North after Tashtassuc,41.525682,-71.374779
+57530,RI-138 before RI-1,41.494629,-71.456956
+57535,Park & Ride (RI-1 & RI-138) on Bridgetown,41.494588,-71.456001
+57540,Bridgetown after Riverside,41.488691,-71.446620
+57555,Bridgetown after Middlebridge,41.488056,-71.449366
+57560,Bridgetown before Walmsley,41.488291,-71.449408
+57565,Park & Ride (RI-1 & RI-138) at 61 Mooresfield,41.494603,-71.458699
+57660,Newport & Central,41.888025,-71.353617
+57665,Bradley before Benefit,41.891426,-71.344334
+57675,N Bend after Walcott,41.878110,-71.372851
+57680,Newport & Central,41.888116,-71.353627
+57685,N Bend before Walcott,41.878162,-71.372970
+57690,Walcott after Walnut,41.877327,-71.375563
+57705,Columbus & George Bennett (before Birch),41.870496,-71.365878
+57730,Arctic Center (Main before St Mary),41.703895,-71.524130
+57740,Arctic Center (Main before Washington),41.703611,-71.524116
+57760,Admiral Kalbfus before Rolling Green,41.506809,-71.319386
+57840,Coddington opposite Niagara,41.518491,-71.302965
+57870,Coddington opposite John Chaffee,41.518427,-71.313494
+58040,Underwood after Walcott,41.877392,-71.378397
+58045,Underwood before Grove,41.878527,-71.378151
+58050,Rochambeau after Cole,41.846061,-71.389531
+58060,Elmgrove after Woodbury,41.845182,-71.391926
+58070,Elmgrove & Savoy (before Sessions),41.842003,-71.392696
+58105,Opposite 327 Elmgrove,41.839972,-71.392556
+58110,Elmgrove before Freeman,41.837813,-71.392045
+58120,Elmgrove after President,41.834904,-71.391150
+58135,Marble House (on Bellevue),41.462471,-71.306515
+58140,Gate after Sam's Circle,41.605650,-71.447153
+58145,CCRI Newport,41.517298,-71.313119
+58150,Eddy & South,41.817852,-71.407281
+58165,446 Post,41.759671,-71.405608
+58175,Eddy after Eudora,41.807995,-71.407166
+58180,Warwick opposite Harding,41.759719,-71.404782
+58185,Meadowbrook (Warwick & Sandy Lane),41.713487,-71.399323
+58205,Samuel Gorton at Marina,41.699532,-71.380745
+58230,Warwick at Stop & Shop,41.709644,-71.397882
+58235,Warwick before Dawson,41.746042,-71.405843
+58240,Warwick after Urban,41.751061,-71.403953
+58245,706 Warwick,41.757421,-71.404418
+58250,W Franklin after Broad,41.816815,-71.416497
+58260,Prairie before Gallup,41.800081,-71.412539
+58290,Jefferson before Echo,41.715019,-71.447807
+58310,Putnam before Levi,41.870246,-71.521843
+58315,Opposite 668 Putnam,41.875946,-71.565998
+58320,711 Putnam,41.876701,-71.568568
+58325,Opposite 1018 Putnam,41.906577,-71.660221
+58330,Opposite 1116 Putnam,41.910059,-71.668163
+58335,545 Victory,41.944144,-71.655121
+58340,849 Victory,41.949893,-71.648367
+58345,Opposite 908 Victory,41.951463,-71.649122
+58350,Mapleville (520 Central),41.957761,-71.656284
+58360,Chapel & Main (before Chapel),41.965921,-71.676945
+58365,172 Chapel,41.968536,-71.687459
+58370,Main opposite Albee,41.958763,-71.701371
+58385,Putnam before Terry,41.904889,-71.647124
+58390,Putnam before Lake Harmony,41.885596,-71.587248
+58395,Putnam before Vernon,41.876675,-71.568805
+58415,Lockwood Street (Northbound),41.815222,-71.420668
+58420,GARDEN CITY DR AFTER HILLSIDE,41.764700,-71.457841
+58460,Washington after MacArthur,41.695440,-71.538999
+58465,S Main & Tiogue (after S Main),41.680004,-71.575397
+58485,Electric Boat/North (Quonset Rd before Dillabur),41.590067,-71.420920
+58495,3445 Post,41.695466,-71.458247
+58505,4365 Post,41.672067,-71.448136
+58525,Opposite 130 Post,41.570774,-71.461408
+58530,209 Post,41.568900,-71.461813
+58535,275 Tower Hill,41.567268,-71.463028
+58540,Phillips opposite Boone,41.567660,-71.456948
+58550,Boston Neck opposite Waldron,41.552471,-71.440993
+58575,Farewell after Long,41.499051,-71.317134
+58580,Farewell after Americas Cup,41.495458,-71.316665
+58590,Farewell opposite Long,41.499323,-71.317022
+58605,Boston Neck before Highland,41.520041,-71.423987
+58615,Boston Neck before Oakland),41.567762,-71.451154
+58620,Phillips after Boone,41.567582,-71.457368
+58630,319 Phillips,41.566252,-71.462854
+58635,Opposite 275 Tower Hill,41.567411,-71.462796
+58640,Post before Boone,41.569225,-71.461316
+58645,130 Post,41.571069,-71.461269
+58650,Post before Newcomb,41.606906,-71.455525
+58665,Devils Foot after Namcook,41.606826,-71.456472
+58760,Fairmount opposite Water,42.003728,-71.522269
+58765,Fairmount & Second (before First),42.002245,-71.525703
+58770,Sackett after Broad,41.795952,-71.412969
+58780,Douglas before Harris,41.903530,-71.506158
+58790,Fidelity Investments,41.927506,-71.531622
+58795,Douglas Pike/RI-7 & I-295 (after Thurber),41.912434,-71.516162
+58800,Opposite 387 Charles,41.843289,-71.418284
+58805,Fidelity Investments (Inner ring),41.927688,-71.531488
+58815,Wampanoag Mall (at Stop & Shop),41.823282,-71.356792
+58830,Boyds at Park & Ride (East Main - Portsmouth),41.627275,-71.243026
+58831,Park & Ride (East Main - Portsmouth),41.627459,-71.242650
+58835,Fidelity Investments at 900 Salem St,41.934653,-71.531685
+58840,Fidelity Investments at 500 Salem St,41.932008,-71.528083
+58845,URI Bay Campus (Pier after S Ferry),41.491985,-71.424052
+58870,Plenty Street,41.806897,-71.420167
+58880,Pawtuxet Bridge (Broad opposite Tucker),41.766132,-71.390903
+58910,Ives before Williams,41.823246,-71.392293
+58930,La Salle Square (Broadway opposite Atwells),41.822570,-71.418046
+58935,First & Main (after Cliff),41.656042,-71.455128
+58940,Lincoln Mall Park & Ride (Rear Lot),41.938688,-71.475118
+58945,Lincoln Mall at Target,41.937545,-71.478624
+58980,Prairie before Saratoga,41.805214,-71.414740
+58985,Hawthorne after Tennis Courts,41.789273,-71.412814
+58990,Roger Williams Park Zoo,41.789968,-71.415001
+58995,Hawthorne opposite Tennis Courts,41.789423,-71.412454
+59005,Prairie at Roger Williams Homes,41.796154,-71.410733
+59015,MET School (Public St - Providence),41.806343,-71.411652
+59025,Franklin before Bassett,41.815845,-71.412416
+59030,E Franklin before Broad,41.817616,-71.415562
+59035,Airport Interlink (700 Jefferson),41.727592,-71.443340
+59060,Slater Mill (Roosevelt & Main),41.877357,-71.383297
+59140,Elmwood before Sixth,41.752122,-71.423416
+59145,Atwells before Harris,41.824477,-71.434829
+59150,Atwells after Harris,41.824335,-71.434662
+59155,Opposite 1644 Chalkstone,41.833117,-71.463264
+59170,S Water opposite Tockwotton,41.817025,-71.400214
+59175,1950 Elmwood,41.754765,-71.423681
+59180,Elmwood after Dixon,41.780305,-71.420039
+59195,Pontiac opposite Howard,41.741010,-71.460502
+59210,Howard after Latham,41.743961,-71.464175
+59215,Pontiac after Paine,41.786196,-71.431528
+59220,Rolfe after Clarence,41.776585,-71.436481
+59240,Pawtucket at East Providence High School,41.819382,-71.356007
+59250,S Main at Superior Court,41.825220,-71.407400
+59275,Opposite 7 Valley,41.523669,-71.296706
+59280,Browns before Bennys,41.537856,-71.292398
+59305,Maple before Hillside,41.516098,-71.310314
+59315,Bristol Ferry after Barkers,41.630733,-71.254179
+59320,Hope opposite Thames,41.676135,-71.278545
+59325,Main before Franklin,41.725290,-71.281443
+59350,Elmwood before Westfield,41.810152,-71.423961
+59565,3111 E Main,41.613134,-71.246083
+59570,3104 E Main,41.613064,-71.246262
+59575,E Main after Henry Davis,41.594491,-71.252703
+59580,E Main before Crossings,41.585395,-71.252322
+59585,E Main before North,41.536076,-71.267720
+59605,Point & Prairie (at W Franklin before Maple),41.815452,-71.414732
+59610,Prairie before Early,41.796019,-71.410806
+59615,Prairie before Mystic,41.800354,-71.412507
+59620,Wampanoag before Socony,41.786522,-71.333883
+59630,Wampanoag at Forbes Field,41.782808,-71.334701
+59635,Hope after N Farm,41.707651,-71.280395
+59645,W Main after Rogers,41.543405,-71.291730
+59660,E Main before Johnson,41.524322,-71.278763
+59665,E Main opposite North,41.535829,-71.267747
+59675,East Main & Turnpike,41.600324,-71.250023
+59700,RI-2 opposite First,41.532703,-71.547438
+59705,535 S County Trail (RI-2),41.529361,-71.549706
+59710,2115 S County Trail (RI-2),41.502806,-71.561785
+59715,Kingstown after Allisons,41.465888,-71.511322
+59720,South Kingstown Public Safety Complex,41.463467,-71.510084
+59730,Kingstown opposite Allisons,41.465890,-71.511238
+59740,Kingstown before Farm,41.472122,-71.515400
+59745,Kingstown before RI-138,41.479637,-71.520653
+59750,3411 Kingstown,41.483402,-71.553139
+59755,290 Point Judith,41.418393,-71.480017
+59760,Opposite 2115 S County Trail (RI-2),41.502655,-71.561589
+59765,Opposite 535 S County Trail (RI-2),41.529316,-71.549498
+59770,RI-2 after First,41.532559,-71.547354
+59775,Opposite 165 S County Rail (RI-2),41.550027,-71.528892
+59780,730 S County Trail (RI-2),41.556170,-71.519225
+59785,RI-2 after Plain,41.576532,-71.513278
+59790,RI-2 before Autumn,41.578837,-71.507602
+59795,165 S County Trail (RI-2),41.549863,-71.529432
+59800,George between Marrin & Grace,41.872536,-71.387778
+59815,Dyer before Puritan,41.793619,-71.457630
+59825,Laurel Hill opposite Cliff,41.797182,-71.452351
+59830,Independence opposite Citizens Bank,41.789298,-71.500456
+59860,Mt Pleasant after Pomona,41.828120,-71.448919
+59865,Mt Pleasant at Our Lady of Providence,41.839738,-71.451912
+59875,Atwells & Mt Pleasant,41.825508,-71.448766
+59880,RI-246 after Twin River,41.893974,-71.446662
+59895,Mineral Spring after Power,41.870190,-71.418404
+59915,Walmart (Cranston),41.787757,-71.499067
+59920,Independence at Coastal1,41.788653,-71.500794
+59950,Broad before Ocean,41.767350,-71.391503
+59975,Meadowbrook (Warwick & Sandy Lane),41.713389,-71.399093
+59990,RI-102 before Cross,41.927199,-71.669337
+59995,56 RI-102,41.921386,-71.670556
+60000,208 Putnam,41.890280,-71.602121
+60005,120 Putnam,41.879106,-71.575233
+60010,672 Putnam,41.875869,-71.566254
+60015,Hartford before Salzillo,41.819749,-71.471052
+60025,Blackstone before Rochambeau,41.845893,-71.387265
+60030,Elmgrove & Angell (before Adelphi),41.830709,-71.389680
+60065,Newport after Narragansett,41.859091,-71.354423
+60075,Narragansett Park before Newport,41.858231,-71.353063
+60080,Exchange at Tolman High School,41.879877,-71.380628
+60085,Boston Neck after Snuff Mill,41.522244,-71.423840
+60090,Opposite 2080 Boston Neck,41.519246,-71.424093
+60095,255 Cass,42.005500,-71.494287
+60105,Powder Hill after Wellington,41.919245,-71.479563
+60115,RI-116 after Albion,41.935195,-71.480417
+60135,590 Putnam,41.872631,-71.554862
+60140,Opposite 781 Putnam,41.878918,-71.574405
+60145,777 Putnam,41.881990,-71.579460
+60150,RI-102 opposite Cross,41.926549,-71.669426
+60155,Opposite 172 Chapel,41.968196,-71.688117
+60165,Smithfield opposite Cushing,41.855964,-71.448852
+60170,945 Douglas,41.914358,-71.517679
+60175,Douglas before Harris,41.903702,-71.506506
+60180,40 Douglas,41.875545,-71.470110
+60190,1328 Douglas,41.860867,-71.449532
+60200,Walmart (North Smithfield),41.976635,-71.506905
+60211,W Hunt opposite Earle,41.889516,-71.400873
+60213,Lonsdale before Hendricks,41.888353,-71.402023
+60214,Lonsdale after Higginson,41.886425,-71.401597
+60216,Lonsdale opposite Sumner,41.877861,-71.399924
+60220,Smithfield & Power (at 458 Smithfield),41.858632,-71.411016
+60235,Benefit & Thurber,41.891536,-71.345849
+70135,Ten Rod Rd before Rodman,41.575833,-71.488367
+70140,Ten Rod Rd before Lafayette,41.575686,-71.488423
+70145,Ten Rod Rd opposite King,41.571452,-71.479611
+70150,Ten Rod Rd before King,41.571485,-71.479422
+70155,Ten Rod Rd opposite Dean,41.567435,-71.468585
+70160,Ten Rod Rd before Dean,41.567264,-71.468814
+70170,704 Washington,41.694719,-71.551339
+70175,676 Washington,41.695071,-71.548936
+70180,Washington after Ottawa,41.701412,-71.527678
+70185,Toll Gate after Bald Hill,41.709981,-71.491244
+70190,1020 Bald Hill Rd,41.711117,-71.489565
+70195,West Shore & Beach (before Transit St),41.721733,-71.384242
+70205,Gate before Iafrate,41.605977,-71.449669
+70210,Gate Rd at Kohl's,41.605761,-71.451412
+70220,320 Phillips,41.566098,-71.462826
+70265,Boston Neck opposite RI-138 West On-Ramp,41.530429,-71.427848
+70270,Wickford (Phillips after Brown),41.568592,-71.453315
+70280,Post opposite Summit View,41.572984,-71.462008
+70285,6188 Post,41.628944,-71.462496
+70290,4474 Post,41.669086,-71.448690
+70300,3775 Post,41.686996,-71.454682
+70310,Hope High School (after Alumni),41.834590,-71.401616
+70315,Thayer before Cushing,41.830131,-71.400938
+70330,Sayles Avenue (after Bridgeway),41.956494,-71.702677
+70340,Opposite 650 Beverage Hill,41.860811,-71.353233
+70345,Beverage Hill opposite Langdon,41.860798,-71.351380
+70350,Beverage Hill before Narragansett Park,41.860810,-71.350073
+70375,Mineral Spring before Douglas,41.863576,-71.452213
+70385,Esmond after Sebille,41.872973,-71.505268
+70390,Esmond & RI-44,41.868980,-71.507404
+70395,Smithfield Crossing (at American Eagle),41.873107,-71.518115
+70400,Smithfield Crossing (at Barnes & Noble),41.874078,-71.517031
+70405,Esmond & RI-44 (after Putnam),41.869099,-71.507212
+70410,Esmond before Dean,41.873408,-71.505071
+70445,Opposite 1748 Lonsdale,41.910229,-71.402567
+70450,Mendon after Old Mendon,41.925322,-71.414618
+70455,Mendon opposite Hunt,41.926603,-71.417356
+70460,Mendon before Cushing,41.927804,-71.419741
+70465,Mendon before Whipple,41.928941,-71.421022
+70470,RI-116 before Pauline,41.935816,-71.440740
+70475,Opposite 695 George Washington,41.935053,-71.445251
+70480,After 500 Mendon,41.921351,-71.409838
+70485,Lonsdale after Front,41.906554,-71.403679
+70490,Opposite 1501 Lonsdale,41.904189,-71.404339
+70500,Lonsdale before Edgehill,41.899665,-71.405045
+70505,Lonsdale after Valley View,41.897678,-71.404428
+70510,Lonsdale before Walker,41.895661,-71.404855
+70540,Wickford Train Station (Park & Ride),41.581094,-71.491828
+70545,Cottage before Benefit,41.892731,-71.356883
+70590,Cottage after Benefit,41.892715,-71.356521
+70595,Cottage before Newport,41.893610,-71.355053
+70600,Park & Ride (RI-1A & RI-138),41.527039,-71.425481
+70605,Wickenden before S Water,41.818881,-71.401667
+70670,Park & Ride (RI-2 & RI-4),41.611790,-71.492761
+70700,Douglas after River,41.852531,-71.436868
+70730,50 High,41.438097,-71.502153
+70800,Park & Ride (Commerce St - Smithfield),41.869416,-71.534554
+70810,S Broadway opposite Winsor,41.813161,-71.370703
+70815,Martin opposite Angell,41.801465,-71.367331
+70820,Wampanoag before Buckthorne,41.797289,-71.359453
+70825,Wampanoag after Garden,41.796040,-71.354458
+70830,Wampanoag before Pickett,41.796644,-71.357025
+70835,Wampanoag opposite Buckthorne,41.797320,-71.359184
+70840,Martin before Angell,41.801617,-71.367389
+70845,Martin opposite Dodge,41.801833,-71.368737
+70850,South Broadway & Martin (before Jenks),41.803399,-71.373779
+70855,S Broadway before Belmont,41.809702,-71.371738
+70860,S Broadway before Winsor,41.812960,-71.370659
+70870,Eagle Square (Atwells & Valley),41.824616,-71.438596
+70875,Hartford after I-295,41.827462,-71.512990
+70880,Hartford & Atwood (before Atwood),41.824462,-71.501826
+70885,Hartford before I-295,41.827641,-71.512750
+70890,S Main after Wickenden,41.819201,-71.401158
+70895,Slater Park (Armistice Blvd),41.874741,-71.341948
+70905,Jot Lot (Johnston),41.825513,-71.502185
+71000,Olneyville Square (at Plainfield after Atwood),41.816124,-71.444689
+71005,Slatersville Plaza (Brigido's Market Park & Ride),42.005427,-71.586513
+71010,Warren before Valley,41.818063,-71.383304
+71020,Branch Village (at 594 Great),41.998783,-71.548918
+71025,Branch Village (at 601 Great),41.998783,-71.548727
+71030,Smith opposite Old,41.846361,-71.452127
+71040,Smith before River,41.840901,-71.441364
+71045,Job Lot (Cranston) - Front Door,41.771347,-71.424379
+71050,Warren after Lyon,41.815107,-71.375298
+71055,Warren after Broadway,41.813348,-71.368743
+71060,Warren after Slocum,41.812854,-71.365961
+71065,Warren after Brown,41.811983,-71.362527
+71070,Warren & Pawtucket (before Rose),41.811494,-71.360711
+71075,Warren & Pawtucket (after Rose),41.811683,-71.360889
+71080,Warren before County,41.812742,-71.364985
+71085,Warren opposite Donnelly,41.813125,-71.366938
+71090,Park opposite Palmer,41.783669,-71.460042
+71095,Phenix after Cranston,41.782618,-71.465237
+71100,Phenix after Greene,41.781795,-71.468000
+71105,Phenix before Atwood,41.781072,-71.471744
+71115,Phenix opposite Preston,41.780764,-71.473959
+71120,Phenix after Atwood,41.780979,-71.471771
+71125,Phenix opposite Greene,41.781932,-71.467021
+71130,Park after Cranston,41.783088,-71.463125
+71135,Park after Palmer,41.783590,-71.459967
+71140,Stop & Shop (Cranston - Atwood Ave),41.781562,-71.473986
+71145,Pontiac after Howard,41.740173,-71.461623
+71150,Main after Weaver,41.706160,-71.523284
+72000,Carr Street,41.789395,-71.404360
+72005,Westminster Street,41.821110,-71.415319
+72010,Providence Station (Exchange before Park Row W),41.828139,-71.412889
+72015,Providence Station (Park Row W before Exchange),41.828625,-71.412958
+72020,Roger Williams National Memorial,41.828711,-71.410829
+72025,Pearl Street,41.871802,-71.395046
+72095,E Main after Clearview,41.562726,-71.253758
+72100,Washington before Clemence,41.823266,-71.414379
+72110,Exchange before Exchange Ct,41.879768,-71.380799
+72125,Collins before Newport,41.898929,-71.355571
+72130,Shaw's (Warwick) - Front Door,41.767034,-71.403966
+72135,Park & Ride (Fish Road - Tiverton),41.643270,-71.186774
+72160,Kennedy Plaza (Stop W),41.825299,-71.412513
+72165,Kennedy Plaza (Stop Y),41.825887,-71.412034
+72170,Kennedy Plaza (Stop Z),41.826001,-71.411700
+72180,North before Watson,41.498273,-71.374784
+72185,Woodland after Goldfinch,41.672632,-71.593500
+72190,Kingstown opposite Graduate Village Apartments,41.482201,-71.535733
+72210,Newport before Dawson,41.894953,-71.354344
+72215,Cottage before County,41.893253,-71.355883
+72220,Newport before Mill,41.895755,-71.354282
+72230,Elmwood after Hanover,41.807345,-71.424970
+72240,Elmwood opposite Moore,41.804832,-71.425529
+72250,Elmwood before Hawthorne,41.800859,-71.426567
+72260,635 Elmwood,41.794745,-71.424544
+72270,Elmwood before Princeton,41.805262,-71.425183
+72275,30 Philips,41.568486,-71.453129
+72280,Elmwood opp Hanover,41.807617,-71.424707
+72300,South Attleboro (Bristol Place at Market Basket),41.898907,-71.353613
+72310,Job Lot (Pawtucket),41.857002,-71.402320
+72330,1834 Westminster,41.816212,-71.440336
+72340,Eddy & South,41.818217,-71.407329
+72345,Dyer after Ship,41.819679,-71.407948
+72350,Dorrance before Pine,41.822417,-71.409918
+72355,Dyer after Friendship,41.823317,-71.408182
+72360,George Waterman opposite Spring Hill,41.842953,-71.485495
+72365,New London after Chapel View,41.756693,-71.461330
+72370,MET School (Newport Campus),41.514071,-71.313584
+72380,23 Dowling Village,41.979708,-71.508929
+72385,Dowling Village at Landmark Medical Center,41.980640,-71.512433
+72390,Dowling Village at CVS,41.980414,-71.512371
+72395,22 Dowling Village,41.979555,-71.509141
+72400,Walmart (North Smithfield),41.976451,-71.507058
+72405,Bank & Main,41.705046,-71.523435
+72425,Armistice opposite Alexander McGregor,41.873902,-71.340129
+72430,Putnam opposite Levi,41.870044,-71.522106
+72435,Pawtucket opposite Office Pkwy,41.826066,-71.353224
+72445,Chopmist Hill Fire Station,41.815874,-71.663297
+72450,Admiral after Devonshire,41.848279,-71.436472
+72455,Admiral before Devonshire,41.848154,-71.436422
+72460,Broadway after May,41.881567,-71.377756
+72465,Broadway after Allen,41.883680,-71.376714
+72470,Tidewater opposite Lyndon,41.705996,-71.371295
+72475,Tidewater opposite Beatrice,41.708386,-71.373265
+72480,Tidewater before Friendship,41.711400,-71.374942
+72485,Tidewater before Webb,41.710931,-71.374858
+72490,Tidewater before Clara,41.707886,-71.372983
+72495,Tidewater before Longmeadow,41.705466,-71.371054
+72500,Longmeadow before Draper,41.704298,-71.373742
+72505,Douglas after Mansfield,41.837955,-71.423855
+72510,RI-1A before S Main,41.816844,-71.398566
+72515,W Shore opposite Steele,41.722665,-71.380406
+72530,Seekonk Square Mall (Commerce Way),41.795429,-71.322655
+72540,Lifespan East Providence (Brown Medicine),41.794736,-71.349590
+72550,Wampanoag after Tripps,41.795642,-71.352417
+72555,River after Mink,41.788913,-71.331940
+72560,Highland at RI/MA State Line,41.804856,-71.339646
+72565,Evergreen Health Center,41.807033,-71.344778
+72570,Evergreen Apartments (before Hatton),41.806612,-71.345065
+72575,Evergreen before Evergreen,41.804245,-71.344850
+72580,Highland at RI/MA State Line,41.804656,-71.339726
+72585,Eddy & Point (after Eddy),41.817117,-71.405538
+72590,Wickenden after S Water,41.818738,-71.401350
+72600,Dyer before Peck,41.822658,-71.408365
+72610,Eddy & Point (before Eddy),41.817386,-71.405410
+72650,Taunton opposite James,41.819623,-71.375326
+72655,S Water after Wickenden,41.818341,-71.401490
+72665,Samuel Gorton after Warwick Neck,41.699508,-71.380684
+72670,Chapin after Messer,41.811852,-71.435853
+72675,Sandy opposite Call,41.712269,-71.399921
+72680,Plainfield opposite Farmington,41.807066,-71.464227
+72685,Tollgate before Centerville,41.698666,-71.465088
+72690,Garden City Dr before Wayside,41.765229,-71.458162
+72700,Bellevue & Ledge (Drop-Off Only),41.455872,-71.309479
+72705,Douglas before Shaw's Entrance,41.859243,-71.447130
+72710,3671 Quaker (RI-2),41.600982,-71.496092
+72715,RI-2 at Oak Harbour Village,41.526853,-71.551244
+72720,Kingstown opposite Samuel Rodman,41.459666,-71.508841
+72725,Kingstown opposite Meadowbrook,41.456701,-71.508445
+72730,Bellevue & Coggeshall,41.455951,-71.310655
+72735,High after Austin,41.447300,-71.502626
+72740,Greenwich before Metro Center,41.721269,-71.465754
+72760,Veterans Memorial before Centerville,41.698645,-71.463061
+72765,E Main opposite Clearview,41.563241,-71.253362
+72770,E Main opposite Beaupre,41.565238,-71.252496
+72785,Prairie opposite Willard,41.807710,-71.415669
+72790,Prairie opposite Somerset,41.810838,-71.415415
+72795,Prairie after Willard,41.807557,-71.415712
+72800,Prairie before Dudley,41.810218,-71.415684
+72805,Marlborough before Farewell,41.491226,-71.313667
+72810,Broadway after Mumford,41.501171,-71.305311
+72815,W Main after Redwood,41.558892,-71.288056
+72825,Bristol Ferry before W Main,41.615365,-71.256358
+72830,Wickenden after Brook,41.819503,-71.398811
+72840,Ten Rod after Stop & Shop Entrance,41.582505,-71.500576
+72845,Ten Rod before Home Depot,41.582594,-71.500662
+72850,Boston Neck after Hamilton,41.549750,-71.441114
+72855,Boston Neck before Hamilton,41.549803,-71.440942
+72860,RI-2 before Arnold,41.564927,-71.517616
+72865,Wampanoag after Pawtucket,41.797955,-71.362779
+72870,Bullocks Point after Maple,41.770227,-71.361503
+72875,Job Lot (Woonsocket),42.013562,-71.471458
+72880,Dexter after Congress,41.882579,-71.392353
+72885,Crompton (Main opposite Nestor),41.688003,-71.522421
+72890,Main before Cowesett,41.685202,-71.523449
+72895,870 Centerville,41.696753,-71.491984
+72900,Citizens Bank - Johnston,41.857797,-71.517095
+72905,1500 Diamond Hill,42.015745,-71.476939
+72910,Boston Neck after Elm,41.560697,-71.445242
+72915,16 Howard,41.742536,-71.462832
+72920,Opposite 765 Putnam,41.899944,-71.631908
+72925,765 Putnam,41.900036,-71.631788
+72935,Job Lot/Taylor Farms (370 Commerce Park),41.605127,-71.437466
+72940,Commerce Park after Job Lot Way,41.603884,-71.439361
+72945,Commerce Park after Callahan,41.600003,-71.441583
+72950,51 Circuit,41.591870,-71.433044
+72951,201 Circuit,41.587359,-71.431760
+72952,Keifer Park (275 Circuit),41.587566,-71.429386
+72953,Burlingham at Electric Boat,41.589907,-71.428636
+72954,Electric Boat/North (after Eccleston),41.588986,-71.418534
+72955,Toray (Quonset) - (Roger Williams after Belver),41.592126,-71.427834
+72956,Gate Rd opposite Kohl's,41.605559,-71.451342
+72958,Dyer before Gladstone,41.799946,-71.457974
+72959,Broad opposite Cowden,41.891187,-71.387305
+72960,Service Rd (PriceRite),42.015644,-71.470722
+72965,PRAIRIE AT RW MIDDLE SCHOOL,41.798393,-71.411657
+72975,Mineral Spring before Sunset,41.860362,-71.468627
+72980,Market St & US-6,41.768774,-71.265665
+72985,TPI Composites (on Market),41.749338,-71.271789
+72990,RI-136 before Highlander School,41.746625,-71.272949
+72991,Highlander School,41.746313,-71.274724
+73000,TPI Composites (on Market),41.749251,-71.271634
+73005,Market St & US-6 (after Filko),41.770289,-71.263862
+73010,Norad Inc. (Thompson before Davisville),41.614878,-71.421286
+73015,Norad Inc. (Davisville before Thompson),41.615077,-71.421608
+73020,Metacom after Patterson,41.720758,-71.269043
+73025,Metacom after Parker,41.722808,-71.269530
+73030,Metacom at Ocean State Job Lot,41.719802,-71.269069
+73035,Job Lot/Taylor Farms (315 Commerce Park),41.603883,-71.439204
+73045,Chapel before Foster,41.967565,-71.682454
+73050,Mt Pleasant after Leslie,41.843132,-71.453023
+73055,Branch & Charles (before Touro),41.849876,-71.419176
+73060,Branch after Flora,41.848356,-71.415904
+73065,West River & Corliss,41.843221,-71.412339
+73070,Corliss after Barbara Leonard,41.840928,-71.412745
+73075,Corliss before Barbara Leonard,41.841063,-71.412526
+73080,West River & Branch,41.845570,-71.413284
+73085,Branch before Flora,41.848431,-71.415825
+73090,Branch & Charles,41.849970,-71.419098
+73095,Narragansett before Creed,41.745586,-71.403767
+73100,1530 Davisville,41.606252,-71.442950
+73105,Pontiac after Myrtle,41.765926,-71.440894
+73110,Gaspee & Smith (after Smith),41.831306,-71.412857
+73115,Providence St @ Westcott Terrace,41.711995,-71.504345
+73120,Broadway before Rhode Island,41.496119,-71.308257
+73130,Post opposite Mowry,41.750527,-71.419054
+73155,Division after Howland,41.662753,-71.477532
+73160,Division after Greenbush,41.662627,-71.480060
+73165,1 Corliss at Compassion Ctr,41.838682,-71.413911
+73170,Post after Morningside,41.597177,-71.455493
+73180,890 Hartford,41.819542,-71.471642
+73185,Douglas Pike/RI-7 & I-295 (before Thurber),41.912880,-71.516297
+73190,W Main before Hedly,41.593774,-71.264954
+73205,School St after Main,41.875444,-71.381580
+73210,Cargill Compass Circle,41.604698,-71.464976
+73215,Bellevue & Memorial Blvd (after Freebody),41.483150,-71.305277
+73225,First Beach,41.488889,-71.290590
+73230,Sunset before John Chaffee,41.513456,-71.311395
+73235,John Chaffee before Maple,41.515901,-71.312454
+73240,Bellevue & Memorial Blvd (after Freebody),41.483539,-71.305890
+73245,Opposite 1172 W Main,41.586993,-71.268869
+73250,1172 W Main,41.587005,-71.268667
+73255,Belmont Ave,41.800288,-71.496094
+73300,Market Basket (Johnston),41.822116,-71.492853
+73305,College Hill before Bald Hill,41.713630,-71.487370
+73310,College Hill after Bald Hill,41.713440,-71.486740
+73315,Bald Hill after Toll Gate,41.708992,-71.491054
+73320,Bald Hill before Toll Gate,41.708760,-71.490910
+73325,1245 Bald Hill Rd,41.705620,-71.493054
+73330,1200 Bald Hill Rd,41.706790,-71.492060
+73335,Bald Hill before Universal,41.702930,-71.494630
+73340,Bald Hill after Universal,41.703010,-71.494250
+73345,Market Basket (West Warwick),41.702003,-71.497952
+73350,Centerville before Inskip,41.696720,-71.499150
+73355,1050 Centerville Rd,41.696620,-71.498240
+73360,Quaker after Centerville,41.695750,-71.501700
+73365,Quaker before Centerville,41.696210,-71.501560
+73370,Kent County Courthouse (on Ginsu),41.692980,-71.501050
+73375,Kent County Courthouse (on Ginsu),41.692700,-71.499790
+73385,455 Quaker Ln,41.682850,-71.500640
+73390,444 Quaker Ln,41.683340,-71.500360
+73395,549 Quaker Ln,41.679020,-71.500250
+73400,Opp 549 Quaker Ln,41.679290,-71.499900
+73405,RI-2 at East Greenwich (after Major Potter),41.674250,-71.499650
+73410,RI-2 at East Greenwich (883 Quaker Ln),41.672570,-71.499920
+73415,870 Quaker Ln,41.672950,-71.499600
+73425,New England Tech (East Greenwich),41.661337,-71.502637
+73430,New England Tech Blvd opp CVS,41.660630,-71.498610
+73435,First before Reynolds,41.658000,-71.458060
+73440,146 First Ave,41.657730,-71.457870
+73445,East Ave opposite Riverdale Ct,41.720824,-71.487547
+73450,East Ave before Riverdale Ct,41.720718,-71.487691
+73455,Pontiac before Hersey,41.762477,-71.442251
+73460,Broad before Chambers,41.908051,-71.393763
+73465,Main opposite Sharon,41.713129,-71.452923
+73470,Main after Sharon,41.712818,-71.452347
+73475,Centre of New England,41.662115,-71.551976
+73480,Aquidneck Corporate Park (Dept of Human Services),41.499428,-71.285354
+73490,Midway before Cypress,41.760677,-71.456610
+73495,Greystone of Lincoln,41.920775,-71.476504
+73500,Opposite CCRI Newport,41.517263,-71.312777
+73505,John Chafee before Sunset,41.513438,-71.311625
+73510,1501 Division St,41.662885,-71.500839
+73515,Newport County YMCA,41.498455,-71.286902
+73520,Post Office at Corliss St,41.838813,-71.414012
+73600,Foster (Foster Center Baptist Church),41.785086,-71.720715
+80808,Olney at Hope High School,41.835520,-71.402587
+93255,Amazon Facility,41.828140,-71.526996
+93260,Bellingham - Stop & Shop,42.018803,-71.498242
+60001,Park & Ride (Somerset),41.727378,-71.187938
+60002,Pettine Transit Center (Fall River),41.698321,-71.154292
