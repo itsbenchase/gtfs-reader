@@ -45,164 +45,118 @@ public class gtfs2
         ArrayList<Integer> calStart = new ArrayList<Integer>();
         ArrayList<Integer> calEnd = new ArrayList<Integer>();
         ArrayList<String> [] days = new ArrayList[7];
-        for (int i = 0; i < days.length; i++)
-        {
+
+        for (int i = 0; i < 7; i++) {
             days[i] = new ArrayList<String>();
         }
+
+        // 1. Define a temporary structure to hold merged data
+        class ServiceProfile {
+            boolean[] activeDays = new boolean[7];
+            int start = Integer.MAX_VALUE;
+            int end = Integer.MIN_VALUE;
+        }
+
+        Map<String, ServiceProfile> masterMap = new HashMap<>();
+        int overallMin = Integer.MAX_VALUE;
+        int overallMax = Integer.MIN_VALUE;
+
         try {
             URL url = new URL(zipUrl);
-            // Open a stream from the URL and wrap it in a ZipInputStream
             ZipInputStream zis = new ZipInputStream(url.openStream());
             ZipEntry entry;
-            boolean found = false;
+            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyyMMdd");
 
-            // Iterate through the files inside the ZIP
             while ((entry = zis.getNextEntry()) != null) {
-                if (entry.getName().equals("calendar.txt")) {
-                    found = true;
-                    // Use Scanner to read the specific ZIP entry stream
-                    Scanner s = new Scanner(zis);
-                    int z = 0; // set aside first for headers
-                    String[] headers2 = {};
-                    int serviceIndex = -999;
-                    int monIndex = -999;
-                    int tueIndex = -999;
-                    int wedIndex = -999;
-                    int thuIndex = -999;
-                    int friIndex = -999;
-                    int satIndex = -999;
-                    int sunIndex = -999;
-                    int startIndex = -999;
-                    int endIndex = -999;
-                    while (s.hasNextLine())
-                    {
-                        if (z == 0)
-                        {
-                            String rawLine = s.nextLine();
-                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
-                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                String fileName = entry.getName();
 
-                            System.out.println(cleanLine);
-                            
-                            headers2 = cleanLine.split(",");
-                            List<String> headers = Arrays.asList(headers2);
-                            serviceIndex = headers.indexOf("service_id");
-                            monIndex = headers.indexOf("monday");
-                            tueIndex = headers.indexOf("tuesday");
-                            wedIndex = headers.indexOf("wednesday");
-                            thuIndex = headers.indexOf("thursday");
-                            friIndex = headers.indexOf("friday");
-                            satIndex = headers.indexOf("saturday");
-                            sunIndex = headers.indexOf("sunday");
-                            startIndex = headers.indexOf("start_date");
-                            endIndex = headers.indexOf("end_date");
-                            z++;
-                        }
-                        else
-                        {
-                            String rawLine = s.nextLine();
-                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
-                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
-                            String [] data = cleanLine.split(",");
-                            
-                            int calStartData = Integer.parseInt(data[startIndex]);
-                            int calEndData = Integer.parseInt(data[endIndex]);
-
-                            // add if service_id is still valid today
-                            if ((calEndData >= calDate) && (calStartData <= calDate))
-                            {
-                                serviceIDcal.add(data[serviceIndex]);
-                                days[0].add(data[monIndex]);
-                                days[1].add(data[tueIndex]);
-                                days[2].add(data[wedIndex]);
-                                days[3].add(data[thuIndex]);
-                                days[4].add(data[friIndex]);
-                                days[5].add(data[satIndex]);
-                                days[6].add(data[sunIndex]);
-                                calStart.add(Integer.parseInt(data[startIndex]));
-                                calEnd.add(Integer.parseInt(data[endIndex]));
-                            }
-                        }
-                    }
-                    System.out.println("Calendar loaded");
-                }
-
-                else if (entry.getName().equals("calendar_dates.txt")) {
+                // --- PART 1: PROCESS CALENDAR.TXT ---
+                if (fileName.equals("calendar.txt")) {
                     Scanner s = new Scanner(zis);
                     int z = 0;
-                    int serviceIndex = -1, dateIndex = -1, exceptionIndex = -1;
+                    int sIdx = -1, mIdx = -1, tIdx = -1, wIdx = -1, thIdx = -1, fIdx = -1, saIdx = -1, suIdx = -1, startIdx = -1, endIdx = -1;
                     
-                    // Formatter for GTFS date format: YYYYMMDD
-                    DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyyMMdd");
-
-                    // Track the overall date range found in the file
-                    int minDateFound = Integer.MAX_VALUE;
-                    int maxDateFound = Integer.MIN_VALUE;
-
-                    Map<String, boolean[]> serviceDayMap = new HashMap<>();
-
                     while (s.hasNextLine()) {
-                        String line = s.nextLine();
-                        if (z == 0) {
-                            List<String> headers = Arrays.asList(line.split(","));
-                            serviceIndex = headers.indexOf("service_id");
-                            dateIndex = headers.indexOf("date");
-                            exceptionIndex = headers.indexOf("exception_type");
-                            z++;
+                        String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");
+                        String[] data = line.split(",");
+                        if (z++ == 0) {
+                            List<String> h = Arrays.asList(data);
+                            sIdx = h.indexOf("service_id");
+                            mIdx = h.indexOf("monday"); tIdx = h.indexOf("tuesday"); wIdx = h.indexOf("wednesday");
+                            thIdx = h.indexOf("thursday"); fIdx = h.indexOf("friday"); saIdx = h.indexOf("saturday"); suIdx = h.indexOf("sunday");
+                            startIdx = h.indexOf("start_date"); endIdx = h.indexOf("end_date");
                         } else {
-                            String[] data = line.split(",");
-                            String serviceId = data[serviceIndex];
-                            String rawDate = data[dateIndex];
-                            int dateValue = Integer.parseInt(rawDate);
-                            int type = Integer.parseInt(data[exceptionIndex]);
-
-                            if (rawDate.equals("20260525")) // skipping holiday service
-                            {
-                                continue; 
-                            }
-
-                            // Only process "service added" entries
-                            if (type == 1) {
-                                // Update the dynamic range based on current agency feed
-                                if (dateValue < minDateFound) minDateFound = dateValue;
-                                if (dateValue > maxDateFound) maxDateFound = dateValue;
-
-                                try {
-                                    LocalDate date = LocalDate.parse(rawDate, formatter);
-                                    int dayIdx = date.getDayOfWeek().getValue() - 1; // 0=Mon, 6=Sun
-
-                                    serviceDayMap.putIfAbsent(serviceId, new boolean[7]);
-                                    serviceDayMap.get(serviceId)[dayIdx] = true;
-                                } catch (Exception e) {
-                                    System.out.println("Invalid date format: " + rawDate);
-                                }
-                            }
+                            String id = data[sIdx];
+                            ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
+                            
+                            // Set weekdays (1 = true)
+                            profile.activeDays[0] = data[mIdx].equals("1");
+                            profile.activeDays[1] = data[tIdx].equals("1");
+                            profile.activeDays[2] = data[wIdx].equals("1");
+                            profile.activeDays[3] = data[thIdx].equals("1");
+                            profile.activeDays[4] = data[fIdx].equals("1");
+                            profile.activeDays[5] = data[saIdx].equals("1");
+                            profile.activeDays[6] = data[suIdx].equals("1");
+                            
+                            profile.start = Math.min(profile.start, Integer.parseInt(data[startIdx]));
+                            profile.end = Math.max(profile.end, Integer.parseInt(data[endIdx]));
                         }
                     }
+                }
 
-                    // Check if we actually found any dates to avoid adding MAX_VALUE to your lists
-                    if (minDateFound != Integer.MAX_VALUE) {
-                        for (Map.Entry<String, boolean[]> entry1 : serviceDayMap.entrySet()) {
-                            serviceIDcal.add(entry1.getKey());
-                            boolean[] activeDays = entry1.getValue();
+                // --- PART 2: PROCESS CALENDAR_DATES.TXT ---
+                else if (fileName.equals("calendar_dates.txt")) {
+                    Scanner s = new Scanner(zis);
+                    int z = 0;
+                    int sIdx = -1, dIdx = -1, eIdx = -1;
+                    
+                    while (s.hasNextLine()) {
+                        String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");
+                        String[] data = line.split(",");
+                        if (z++ == 0) {
+                            List<String> h = Arrays.asList(data);
+                            sIdx = h.indexOf("service_id");
+                            dIdx = h.indexOf("date");
+                            eIdx = h.indexOf("exception_type");
+                        } else {
+                            String id = data[sIdx];
+                            String rawDate = data[dIdx];
+                            if (rawDate.equals("20260525")) continue; // Skip Memorial Day
                             
-                            for (int i = 0; i < 7; i++) {
-                                days[i].add(activeDays[i] ? "1" : "0");
-                            }
+                            int type = Integer.parseInt(data[eIdx]);
+                            int dateVal = Integer.parseInt(rawDate);
                             
-                            // Assign the dynamic range detected from this specific feed
-                            calStart.add(minDateFound);
-                            calEnd.add(maxDateFound);
+                            ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
+                            
+                            if (type == 1) { // Service Added
+                                LocalDate date = LocalDate.parse(rawDate, formatter);
+                                profile.activeDays[date.getDayOfWeek().getValue() - 1] = true;
+                                profile.start = Math.min(profile.start, dateVal);
+                                profile.end = Math.max(profile.end, dateVal);
+                            } 
+                            // Optional: if type == 2, you could set that specific day to false, 
+                            // but for date-based feeds, Type 1 is your primary focus.
                         }
                     }
-
-                    System.out.println("calendar_dates.txt processed as schedule");
                 }
             }
-        }
-        catch (Exception e)
-        {
-            System.out.println("Error - no calendar.txt.");
+
+            // --- PART 3: LOAD INTO YOUR ORIGINAL ARRAYLISTS ---
+            for (Map.Entry<String, ServiceProfile> entrySet : masterMap.entrySet()) {
+                String id = entrySet.getKey();
+                ServiceProfile p = entrySet.getValue();
+                
+                serviceIDcal.add(id);
+                calStart.add(p.start);
+                calEnd.add(p.end);
+                for (int i = 0; i < 7; i++) {
+                    days[i].add(p.activeDays[i] ? "1" : "0");
+                }
+            }
+            System.out.println("Unified calendar data loaded.");
+
+        } catch (Exception e) {
+            e.printStackTrace();
         }
 
         ArrayList<String> routeID = new ArrayList<String>();
@@ -217,7 +171,6 @@ public class gtfs2
 
             // Iterate through the files inside the ZIP
             while ((entry = zis.getNextEntry()) != null) {
-                System.out.println(entry.getName());
                 if (entry.getName().equals("routes.txt")) {
                     found = true;
                     // Use Scanner to read the specific ZIP entry stream
