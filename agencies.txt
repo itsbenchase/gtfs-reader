@@ -18,6 +18,8 @@ ma-ccrta;https://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip
 ma-frta;https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip
 ma-srta;https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
 mbta;
+mcts;https://kamino.mcts.org/gtfs/google_transit.zip
+metrowi;https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
 meva;
 metromsp;https://svc.metrotransit.org/mtgtfs/gtfs.zip
 muni;

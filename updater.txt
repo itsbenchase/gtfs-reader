@@ -1,1 +1,1 @@
-mcts;https://kamino.mcts.org/gtfs/google_transit.zip
+metrowi;https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip

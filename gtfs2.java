@@ -401,7 +401,7 @@ public class gtfs2
                                 stopTimeList.add(new StopTime(tripID, formattedTime, columns[stopIndex]));
 
                                 // Handle the headsign update as you were before
-                                if (stopHeadIndex != -1 && columns.length > stopHeadIndex && columns[stopHeadIndex].length() > 1) {
+                                if (stopHeadIndex != -1 && headsigntrip.get(index).equals("no headsign") && columns.length > stopHeadIndex && columns[stopHeadIndex].length() > 1) {
                                     headsigntrip.set(index, columns[stopHeadIndex]);
                                 }
                             }
