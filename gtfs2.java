@@ -630,7 +630,7 @@ public class gtfs2
                     sortedDays.add(td.days);
                 }
 
-                writer.write(targetRouteId + ";" + routeName.get(i) + ";");
+                writer.write(targetRouteId + ";" + routeFull.get(i) + ";");
                 writer.write(sortedIDs + ";" + sortedTimes + ";" + sortedDays);
                 writer.newLine();
 
