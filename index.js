@@ -19,6 +19,7 @@ function funct()
           agencyShort.push(data.substring(0, data.indexOf(";")));
           data = data.substr(data.indexOf(";") + 1);
           agencyFull.push(data.substring(0, data.indexOf(";")));
+          // ignore gtfs link
         }
 
         getData()
