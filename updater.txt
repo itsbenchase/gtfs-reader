@@ -1,1 +1,1 @@
-trimet;https://developer.trimet.org/schedule/gtfs.zip
+prt;https://www.rideprt.org/developerresources/GTFS.zip
