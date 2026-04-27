@@ -1,33 +1,39 @@
-ca-bbb;https://gtfs.bigbluebus.com/current.zip
-ca-culver;https://www.culvercity.org/files/assets/public/documents/information-technology/maps/gtfsexport.zip
-ca-foothill;https://foothilltransit.rideralerts.com/myStop/GTFS-Zip.ashx
-ca-gtrans;https://ridegtrans.com/gtfs.zip
-ca-montebello;https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx
-mts;https://www.sdmts.com/google_transit_files/google_transit.zip
-ca-lbt;https://drive.google.com/uc?export=download&id=1869EVa1z6m_iD6QmvRXyTHtYiaSUBROl
-ca-nctd;https://lfportal.nctd.org/staticGTFS/google_transit.zip
-ca-octa;https://www.octa.net/current/google_transit.zip
-cta;
-cttransit;
-kcm;http://metro.kingcounty.gov/GTFS/google_transit.zip
-lacmta;https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip
-lrta;
-ma-brta;https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip
-ma-bat;https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
-ma-ccrta;https://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip
-ma-frta;https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip
-ma-srta;https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
-mbta;
-mcts;https://kamino.mcts.org/gtfs/google_transit.zip
-metrowi;https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
-meva;
-metromsp;https://svc.metrotransit.org/mtgtfs/gtfs.zip
-muni;
-njt;
-pace;
-pvta;
-ripta;https://www.ripta.com/system/files/gtfs_file/RIPTA-GTFS.zip
-septa;
-trimet;https://developer.trimet.org/schedule/gtfs.zip
-wmata;
-wta;
+cal;ca-bbb;Big Blue Bus (Santa Monica);https://gtfs.bigbluebus.com/current.zip
+cal;ca-culver;Culver CityBus (Los Angeles);https://www.culvercity.org/files/assets/public/documents/information-technology/maps/gtfsexport.zip
+cal;ca-foothill;Foothill Transit (Los Angeles);https://foothilltransit.rideralerts.com/myStop/GTFS-Zip.ashx
+cal;ca-gtrans;GTrans (Los Angeles);https://ridegtrans.com/gtfs.zip
+cal;lacmta;Metro (Los Angeles);https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip
+cal;ca-lbt;Long Beach Transit (Long Beach);https://drive.google.com/uc?export=download&id=1869EVa1z6m_iD6QmvRXyTHtYiaSUBROl
+cal;ca-montebello;Montebello Bus Lines (Los Angeles);https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx
+cal;mts;MTS (San Diego);https://www.sdmts.com/google_transit_files/google_transit.zip
+cal;ca-nctd;NCTD (San Diego);https://lfportal.nctd.org/staticGTFS/google_transit.zip
+cal;ca-octa;OCTA (San Diego);https://www.octa.net/current/google_transit.zip
+
+midwest;cta;CTA (Chicago);
+midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
+midwest;pace;Pace (Chicago);
+midwest;metrowi;Metro Transit (Madison);https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
+midwest;metromsp;Metro Transit (Twin Cities);https://svc.metrotransit.org/mtgtfs/gtfs.zip
+
+midatl;njt;NJT (New Jersey);
+midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
+midatl;septa;SEPTA (Philadelphia);
+midatl;wmata;WMATA (Washington);
+
+west;kcm;King County Metro (Seattle);http://metro.kingcounty.gov/GTFS/google_transit.zip
+west;muni;Muni (San Francisco);
+west;trimet;TriMet (Portland);https://developer.trimet.org/schedule/gtfs.zip
+west;wta;WTA (Bellingham, WA);
+
+ne;ma-bat;BAT (Brockton);https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
+ne;ma-brta;BRTA (Berkshires);https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip
+ne;ma-ccrta;CCRTA (Cape Cod);https://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip
+ne;cttransit;CTtransit (Connecticut);
+ne;ma-frta;FRTA (Greenfield);https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip
+ne;lrta;LRTA (Lowell);
+ne;mbta;MBTA (Boston);
+ne;meva;MeVA (Lawrence / Haverhill);
+ne;nectd;NECTD (Putnam);
+ne;pvta;PVTA (Pioneer Valley);
+ne;ripta;RIPTA (Rhode Island);https://www.ripta.com/system/files/gtfs_file/RIPTA-GTFS.zip
+ne;ma-srta;SRTA (Fall River / New Bedford);https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
