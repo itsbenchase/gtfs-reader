@@ -465,6 +465,7 @@ public class gtfs2
                     int nameIndex = -999;
                     int latIndex = -999;
                     int lonIndex = -999;
+                    int typeIndex = -999;
                     int z = 0;
                     while (s.hasNextLine()) {
                         
@@ -480,6 +481,7 @@ public class gtfs2
                             nameIndex = headers.indexOf("stop_name");
                             latIndex = headers.indexOf("stop_lat");
                             lonIndex = headers.indexOf("stop_lon");
+                            typeIndex = headers.indexOf("location_type");
 
                             System.out.println("stops: " + idIndex + " / " + nameIndex + " / " + latIndex + " / " + lonIndex);
 
@@ -491,11 +493,21 @@ public class gtfs2
                             String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
                             cleanLine = cleanLine.replace("\"", ""); // replace quotes
                             String [] data = cleanLine.split(",");
-                        
-                            stopID.add(data[idIndex]);
-                            stopName.add(data[nameIndex]);
-                            stopLat.add(data[latIndex]);
-                            stopLon.add(data[lonIndex]);
+
+                            if (typeIndex != -1 && !data[typeIndex].equals("2") && !data[typeIndex].equals("3"))
+                            {
+                                stopID.add(data[idIndex]);
+                                stopName.add(data[nameIndex]);
+                                stopLat.add(data[latIndex]);
+                                stopLon.add(data[lonIndex]);
+                            }
+                            else if (typeIndex == -1)
+                            {
+                                stopID.add(data[idIndex]);
+                                stopName.add(data[nameIndex]);
+                                stopLat.add(data[latIndex]);
+                                stopLon.add(data[lonIndex]);
+                            }
                         }
                     }
                     break; // We found the file, no need to look at other entries

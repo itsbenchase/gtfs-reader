@@ -19,6 +19,7 @@ midatl;septa;SEPTA (Philadelphia);
 midatl;wmata;WMATA (Washington);
 west;kcm;King County Metro (Seattle);http://metro.kingcounty.gov/GTFS/google_transit.zip
 west;muni;Muni (San Francisco);
+west;sound;Sound Transit (Seattle);https://www.soundtransit.org/GTFS-rail/40_gtfs.zip
 west;trimet;TriMet (Portland);https://developer.trimet.org/schedule/gtfs.zip
 west;wta;WTA (Bellingham, WA);
 ne;ma-bat;BAT (Brockton);https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
