@@ -1,1 +1,1 @@
-metrowi;https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
+trimet;https://developer.trimet.org/schedule/gtfs.zip

@@ -28,5 +28,6 @@ pace;
 pvta;
 ripta;https://www.ripta.com/system/files/gtfs_file/RIPTA-GTFS.zip
 septa;
+trimet;https://developer.trimet.org/schedule/gtfs.zip
 wmata;
 wta;

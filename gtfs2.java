@@ -121,7 +121,11 @@ public class gtfs2
                         } else {
                             String id = data[sIdx];
                             String rawDate = data[dIdx];
-                            if (rawDate.equals("20260525")) continue; // Skip Memorial Day
+
+                            // skip holidays
+                            if (rawDate.equals("20260525")) continue;
+                            if (rawDate.equals("20260619")) continue;
+                            if (rawDate.equals("20260704")) continue;
                             
                             int type = Integer.parseInt(data[eIdx]);
                             int dateVal = Integer.parseInt(rawDate);
