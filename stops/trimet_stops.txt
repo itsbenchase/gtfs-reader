@@ -146,7 +146,7 @@
 237,SW Barnes & Leahy,45.51142,-122.759947
 238,SW Barnes & Miller,45.515763,-122.752319
 239,SW Barnes & Miller,45.515366,-122.753601
-240,SW Barnes & Monterey/St Vincent Hosp Dr,Westbound stop in Washington Co. (Stop ID 240),45.508877
+240,SW Barnes & Monterey/St Vincent Hosp Dr,45.508877,-122.770308
 241,SW Barnes & Monterey,45.508719,-122.7708
 247,SW Barnes & W Stark,45.519695,-122.801206
 251,SW Barnes & 70th,45.516112,-122.748978
@@ -356,7 +356,7 @@
 584,SW Boones Ferry Rd & 4th,45.451752,-122.683203
 593,SW Laurelwood & Brentwood,45.490951,-122.760708
 595,SW Brentwood & 78th,45.490977,-122.757731
-596,NW Bridge Ave & St Helens,Northbound stop in Portland (Stop ID 596),45.587365
+596,NW Bridge Ave & St Helens,45.587365,-122.773682
 599,NW Bridge Ave & Springville,45.585252,-122.771428
 600,NW Bridge Ave & Springville,45.585252,-122.771583
 611,N Broadway & Benton,45.534032,-122.669905
@@ -379,7 +379,7 @@
 654,SW Broadway & 5th,45.506702,-122.683474
 655,NE Broadway & 7th,45.535152,-122.658953
 672,Kerr & Jefferson Pkwy,45.431094,-122.718476
-682,4600 Block W Burnside,Westbound stop in Portland (Stop ID 682),45.5194
+682,4600 Block W Burnside,45.5194,-122.725046
 685,W Burnside & SW Fischer Ln,45.519156,-122.722144
 686,W Burnside & NW Barnes,45.520503,-122.720686
 687,W Burnside & NW Barnes,45.520238,-122.721263
@@ -468,7 +468,7 @@
 892,SW Canyon & Jade,45.500321,-122.753355
 893,SW Canyon & Linden,45.497797,-122.755623
 894,Hwy 26 On Ramp & SW Skyline,45.508206,-122.735568
-895,Hwy 26/Canyon Rd Ramp & SW Skyline,Westbound stop in Portland (Stop ID 895),45.509162
+895,Hwy 26/Canyon Rd Ramp & SW Skyline,45.509162,-122.73636
 898,SW Canyon & Walker,45.493448,-122.779968
 899,SW Canyon & Walker,45.493334,-122.779414
 904,SW Canyon & 104th,45.492754,-122.783512
@@ -494,8 +494,8 @@
 930,SW Capitol & Taylors Ferry,45.454756,-122.720444
 931,SW Capitol & Dickinson,45.447259,-122.725555
 932,SW Capitol & Dickinson,45.447706,-122.724976
-933,SW Capitol & 41st/Dolph Ct,Southbound stop in Portland (Stop ID 933),45.461617
-934,SW Capitol & Dolph Ct/41st,Northbound stop in Portland (Stop ID 934),45.461732
+933,SW Capitol & 41st/Dolph Ct,45.461617,-122.719224
+934,SW Capitol & Dolph Ct/41st,45.461732,-122.719029
 935,SW Capitol & Florida,45.474695,-122.707788
 936,SW Capitol & Galeburn,45.44914,-122.724422
 937,SW Capitol & Galeburn,45.449205,-122.724093
@@ -990,7 +990,7 @@
 1978,SW Garden Home & 66th,45.465627,-122.744219
 1979,SW Garden Home & 67th,45.465715,-122.746237
 1980,SW Garden Home & 67th,45.465637,-122.746318
-1981,SW Garden Home & 69th/Multnomah,Eastbound stop in Portland (Stop ID 1981),45.465637
+1981,SW Garden Home & 69th/Multnomah,45.465637,-122.747508
 1982,SW Garden Home & 71st,45.465779,-122.751184
 1983,SW Garden Home & 71st,45.465636,-122.750255
 1990,SE Gladstone & 26th,45.493413,-122.639385
@@ -1173,8 +1173,8 @@
 2333,23900 Block NE Halsey,45.537572,-122.415814
 2339,2100 Block SW Halsey (Edgefield Manor),45.538606,-122.406465
 2340,2100 Block SW Halsey (Edgefield Manor),45.538745,-122.406402
-2341,NE Halsey & Fairview/223rd,Eastbound stop in Fairview (Stop ID 2341),45.535019
-2342,NE Halsey & Fairview/223rd,Westbound stop in Fairview (Stop ID 2342),45.535081
+2341,NE Halsey & Fairview/223rd,45.535019,-122.433161
+2342,NE Halsey & Fairview/223rd,45.535081,-122.434046
 2343,NE Halsey & 100th,45.533647,-122.561263
 2345,SW Halsey & Halsey Loop,45.539054,-122.396012
 2346,SW Halsey & Halsey Loop,45.539209,-122.396738
@@ -1476,7 +1476,7 @@
 2886,16000 Block SE Hwy 224,45.396688,-122.498877
 2888,Hwy 212 & SE Evelyn,45.407581,-122.558989
 2889,Hwy 212 & SE 102nd,45.407884,-122.55928
-2890,Hwy 212/224 & SE 130th,Westbound stop in Happy Valley (Stop ID 2890),45.409199
+2890,Hwy 212/224 & SE 130th,45.409199,-122.530279
 2891,Hwy 212 & Fred Meyer DC Entr,45.407708,-122.544181
 2892,11400 Block Hwy 212,45.408009,-122.544816
 2895,SE Hwy 224 & Hwy 212,45.408617,-122.504546
@@ -1484,14 +1484,14 @@
 2898,SE Hwy 224 & Marna,45.395116,-122.462227
 2899,10700 Block Hwy 212,45.407973,-122.551883
 2900,SE Hwy 224 & Odell,45.37755,-122.383402
-2904,Hwy 212/224 & SE 122nd,Eastbound stop in Happy Valley (Stop ID 2904),45.407753
+2904,Hwy 212/224 & SE 122nd,45.407753,-122.536944
 2905,Hwy 212 & SE 122nd,45.408046,-122.538713
-2906,Hwy 212/224 & SE 130th,Eastbound stop in Happy Valley (Stop ID 2906),45.408882
-2907,Hwy 212/224 & SE 135th,Eastbound stop in Happy Valley (Stop ID 2907),45.410391
-2908,Hwy 212/224 & SE 142nd,Eastbound stop in Happy Valley (Stop ID 2908),45.409981
-2909,Hwy 212/224 & 142nd,Westbound stop in Happy Valley (Stop ID 2909),45.4103
-2910,Hwy 212/224 & SE 152nd,Eastbound stop in Clackamas Co. (Stop ID 2910),45.409566
-2911,Hwy 212/224 & SE 152nd,Westbound stop in Happy Valley (Stop ID 2911),45.409831
+2906,Hwy 212/224 & SE 130th,45.408882,-122.530576
+2907,Hwy 212/224 & SE 135th,45.410391,-122.523704
+2908,Hwy 212/224 & SE 142nd,45.409981,-122.518166
+2909,Hwy 212/224 & 142nd,45.4103,-122.517349
+2910,Hwy 212/224 & SE 152nd,45.409566,-122.508826
+2911,Hwy 212/224 & SE 152nd,45.409831,-122.507575
 2912,SE Hwy 224 & 197th,45.388459,-122.459609
 2913,SE Hwy 224 & 197th,45.38861,-122.459467
 2914,SE Hwy 212 & 82nd Dr,45.407258,-122.569239
@@ -1665,7 +1665,7 @@
 3328,SE Lake & Harmony,45.430378,-122.603951
 3329,SE Lake & Harmony,45.430479,-122.603277
 3330,SE Lake & Kuehn Rd,45.431334,-122.613968
-3332,SE Lake & Lena/51st,Westbound stop in Clackamas Co. (Stop ID 3332),45.43056
+3332,SE Lake & Lena/51st,45.43056,-122.60945
 3334,SE Lake & Mintone,45.431247,-122.61293
 3335,SE Lake & Oatfield,45.435748,-122.628617
 3336,SE Lake & Oatfield,45.436112,-122.629402
@@ -1873,7 +1873,7 @@
 3864,McNary & Condolea,45.433888,-122.710016
 3867,Meridian Park Hospital Rd & SW 65th,45.380442,-122.743305
 3868,Meridian Park Hospital Main Stop,45.377924,-122.742362
-3873,Mt Hood Community College Main Stop,Southbound stop in Gresham (Stop ID 3873),45.515395
+3873,Mt Hood Community College Main Stop,45.515395,-122.39765
 3892,13500 Block SW Millikan,45.492133,-122.817566
 3908,SE Milwaukie & Center,45.494515,-122.652879
 3909,SE Milwaukie & Center,45.494113,-122.652899
@@ -2038,7 +2038,7 @@
 4243,SE Orient Dr & Welch Rd,45.475938,-122.385503
 4249,SW Pacific Hwy & 72nd,45.439782,-122.75182
 4254,13400 Block SW Pacific Hwy,45.422681,-122.783589
-4255,SW Pacific Hwy & McDonald/Gaarde,Eastbound stop in Tigard (Stop ID 4255),45.419146
+4255,SW Pacific Hwy & McDonald/Gaarde,45.419146,-122.786567
 4257,16400 Block SW Pacific Hwy,45.400439,-122.798757
 4258,SW Pacific Hwy & Fischer,45.397506,-122.799018
 4259,17000 Block SW Pacific Hwy,45.396758,-122.79855
@@ -2054,11 +2054,11 @@
 4275,Pacific Ave & Cedar St,45.519707,-123.106441
 4276,SW Pacific Hwy & Cipole,45.384196,-122.81737
 4277,SW Pacific Hwy & Cipole,45.384576,-122.817475
-4278,Pacific Ave & College Way/Council St,Westbound stop in Forest Grove (Stop ID 4278),45.519721
+4278,Pacific Ave & College Way/Council St,45.519721,-123.1109
 4279,Pacific Ave & Mountain View Ln,45.520361,-123.07573
 4280,Pacific Ave & Elm St,45.519675,-123.102784
 4284,SW Pacific Hwy & 72nd,45.439978,-122.750822
-4286,SW Pacific Hwy & Gaarde/McDonald,Southbound stop in Tigard (Stop ID 4286),45.418876
+4286,SW Pacific Hwy & Gaarde/McDonald,45.418876,-122.787321
 4287,10000 Block NE Pacific St,45.529407,-122.560866
 4288,10000 Block NE Pacific St,45.529563,-122.560465
 4289,3800 Block Pacific Ave,45.520345,-123.079494
@@ -2164,8 +2164,8 @@
 4503,10800 Block SE Powell,45.496343,-122.551665
 4504,10800 Block SE Powell,45.496214,-122.551353
 4506,SE Powell & 151st,45.497235,-122.507142
-4507,2900 Block W Powell,Eastbound stop in Gresham (Stop ID 4507),45.493674
-4508,2900 Block W Powell,Westbound stop in Gresham (Stop ID 4508),45.493823
+4507,2900 Block W Powell,45.493674,-122.462638
+4508,2900 Block W Powell,45.493823,-122.462843
 4513,W Powell & NW Bella Vista,45.496979,-122.450981
 4515,W Powell & SW Birdsdale,45.496934,-122.455223
 4516,W Powell & NW Birdsdale,45.497136,-122.455349
@@ -2255,7 +2255,7 @@
 4662,SE Powell & 47th,45.49745,-122.613988
 4663,SE Powell & 47th,45.497614,-122.615206
 4664,SE Powell & 49th,45.497633,-122.612346
-4666,SE Powell & 50th/Foster,Eastbound stop in Portland (Stop ID 4666),45.497384
+4666,SE Powell & 50th/Foster,45.497384,-122.61064
 4667,SE Powell & 52nd,45.497372,-122.608552
 4668,SE Powell & 52nd,45.497592,-122.609547
 4674,SE Powell & 58th,45.497592,-122.602898
@@ -2571,28 +2571,28 @@
 5317,SW Spring Garden & 17th,45.463436,-122.695359
 5318,SW Spring Garden & 17th,45.463549,-122.695531
 5319,SW 19th & Spring Garden,45.464017,-122.697246
-5328,6600 Block NW St Helens,Southbound stop in Portland (Stop ID 5328),45.569489
-5329,6600 Block NW St Helens,Northbound stop in Portland (Stop ID 5329),45.570086
-5330,6800 Block NW St Helens,Northbound stop in Portland (Stop ID 5330),45.571379
-5332,NW St Helens & Milepost 8,Northbound stop in Portland (Stop ID 5332),45.594881
-5333,NW St Helens & Milepost 8,Southbound stop in Portland (Stop ID 5333),45.594407
-5336,NW St Helens & Bridge,Southbound stop in Portland (Stop ID 5336),45.588199
-5338,NW St Helens & Doane,Northbound stop in Portland (Stop ID 5338),45.561416
-5339,NW St Helens & Doane,Southbound stop in Portland (Stop ID 5339),45.561231
-5341,11400 Block NW St Helens,Northbound stop in Portland (Stop ID 5341),45.603555
-5342,11400 Block NW St Helens,Southbound stop in Portland (Stop ID 5342),45.603466
-5344,NW St Helens & Harbor,Southbound stop in Portland (Stop ID 5344),45.590046
-5345,NW St Helens & Hoge,Northbound stop in Portland (Stop ID 5345),45.592788
-5346,NW St Helens & Hoge,Southbound stop in Portland (Stop ID 5346),45.59216
-5350,9400 Block NW St Helens,Northbound stop in Portland (Stop ID 5350),45.589184
-5352,NW St Helens & Front,Northbound stop in Portland (Stop ID 5352),45.575057
-5353,NW St Helens & Front,Southbound stop in Portland (Stop ID 5353),45.575319
-5354,NW St Helens & 105th,Northbound stop in Portland (Stop ID 5354),45.597131
-5355,NW St Helens & 105th,Southbound stop in Portland (Stop ID 5355),45.596303
-5356,NW St Helens & 107th,Northbound stop in Portland (Stop ID 5356),45.598591
-5357,NW St Helens & 107th,Southbound stop in Portland (Stop ID 5357),45.598786
-5358,NW St Helens & 109th,Northbound stop in Portland (Stop ID 5358),45.599945
-5359,NW St Helens & 111th,Northbound stop in Portland (Stop ID 5359),45.601229
+5328,6600 Block NW St Helens,45.569489,-122.75449
+5329,6600 Block NW St Helens,45.570086,-122.754866
+5330,6800 Block NW St Helens,45.571379,-122.755843
+5332,NW St Helens & Milepost 8,45.594881,-122.782767
+5333,NW St Helens & Milepost 8,45.594407,-122.782735
+5336,NW St Helens & Bridge,45.588199,-122.775005
+5338,NW St Helens & Doane,45.561416,-122.742773
+5339,NW St Helens & Doane,45.561231,-122.742938
+5341,11400 Block NW St Helens,45.603555,-122.789121
+5342,11400 Block NW St Helens,45.603466,-122.789448
+5344,NW St Helens & Harbor,45.590046,-122.77831
+5345,NW St Helens & Hoge,45.592788,-122.780925
+5346,NW St Helens & Hoge,45.59216,-122.780693
+5350,9400 Block NW St Helens,45.589184,-122.776206
+5352,NW St Helens & Front,45.575057,-122.759118
+5353,NW St Helens & Front,45.575319,-122.759806
+5354,NW St Helens & 105th,45.597131,-122.784471
+5355,NW St Helens & 105th,45.596303,-122.784168
+5356,NW St Helens & 107th,45.598591,-122.785553
+5357,NW St Helens & 107th,45.598786,-122.786071
+5358,NW St Helens & 109th,45.599945,-122.786517
+5359,NW St Helens & 111th,45.601229,-122.787357
 5373,N St Louis & New York,45.595604,-122.751935
 5374,N St Louis & Seneca,45.595995,-122.751518
 5375,N St Louis & Smith,45.595023,-122.753491
@@ -2612,7 +2612,7 @@
 5398,SE Stark & SW McGinnis,45.519155,-122.401775
 5404,SE Stark & NE Kelly,45.518967,-122.426521
 5407,SE Stark & 238th,45.519164,-122.41727
-5408,SE Stark & Mt Hood Comm College Entrance,Eastbound stop in Troutdale (Stop ID 5408),45.518932
+5408,SE Stark & Mt Hood Comm College Entrance,45.518932,-122.392387
 5409,SE Stark & SW Corbeth Lane,45.51909,-122.392336
 5410,SE Stark & Medical Center,45.518921,-122.407569
 5411,SE Stark & NE Rene,45.519185,-122.409469
@@ -2727,7 +2727,7 @@
 5586,SW Tualatin Valley Hwy & 214th,45.497215,-122.896577
 5588,SE Tualatin Valley Hwy & Sunset Esplnd,45.505981,-122.958827
 5590,SW Tualatin Valley Hwy & Market Centre,45.495716,-122.886371
-5592,SW Tualatin Valley Hwy & Aloha Villa,Westbound stop in Washington Co. (Stop ID 5592),45.493502
+5592,SW Tualatin Valley Hwy & Aloha Villa,45.493502,-122.863035
 5593,18882-19040 SW Tualatin Valley Hwy,45.494353,-122.873087
 5594,18882-19040 SW Tualatin Valley Hwy,45.494565,-122.872901
 5595,SW Tualatin Valley Hwy & 141st,45.489173,-122.820875
@@ -3772,7 +3772,7 @@
 7556,SE 45th & Rex St,45.467979,-122.616062
 7559,SW 45th & Vermont,45.476636,-122.723237
 7560,SE 45th & Nehalem,45.465906,-122.615822
-7561,SE 45th & 46th/Nehalem,Southbound stop in Portland (Stop ID 7561),45.465358
+7561,SE 45th & 46th/Nehalem,45.465358,-122.615994
 7563,SE 46th & Henry,45.476501,-122.615365
 7564,SE 46th & Henry,45.476389,-122.615552
 7565,SE 46th & Woodstock,45.479038,-122.61538
@@ -3784,18 +3784,18 @@
 7588,SW 5th & Broadway,45.507079,-122.68385
 7591,SW 5th & Caruthers,45.505611,-122.683295
 7594,SW 5th & Columbia,45.514297,-122.680113
-7601,Union Station/NW 5th & Glisan MAX Stn,Southbound stop in Portland (Stop ID 7601),45.526732
+7601,Union Station/NW 5th & Glisan MAX Stn,45.526732,-122.675604
 7602,SW 5th & Harrison,45.510939,-122.681923
 7604,5th & High St,45.355714,-122.608082
 7605,NE 5th & Hood,45.501069,-122.4278
-7606,PSU South/SW 5th & Jackson MAX Stn,Southbound stop in Portland (Stop ID 7606),45.508979
-7608,City Hall/SW 5th & Jefferson MAX Station,Southbound stop in Portland (Stop ID 7608),45.514914
+7606,PSU South/SW 5th & Jackson MAX Stn,45.508979,-122.682999
+7608,City Hall/SW 5th & Jefferson MAX Station,45.514914,-122.679742
 7609,5th & Jefferson,45.354008,-122.605006
 7610,5th & Jefferson,45.354003,-122.604705
 7612,SW 5th & Madison,45.515682,-122.679352
 7614,SW 5th & Main,45.516269,-122.679016
 7616,SW 5th & Market,45.512954,-122.680837
-7618,PSU Urban Center/SW 5th & Mill MAX Station,Southbound stop in Portland (Stop ID 7618),45.511645
+7618,PSU Urban Center/SW 5th & Mill MAX Station,45.511645,-122.681551
 7620,5th & Monroe,45.353163,-122.603343
 7621,5th & Monroe,45.353115,-122.602967
 7625,SW 5th & Morrison,45.518932,-122.677571
@@ -3807,7 +3807,7 @@
 7642,SW 5th & Washington,45.52027,-122.676855
 7643,5th & Washington (Oregon City),45.354918,-122.606788
 7644,Washington & 16th St,45.363076,-122.598393
-7646,Pioneer Place/SW 5th Ave MAX Station,Southbound stop in Portland (Stop ID 7646),45.518255
+7646,Pioneer Place/SW 5th Ave MAX Station,45.518255,-122.677934
 7651,SE 50th & Clay,45.511561,-122.611634
 7653,SE 50th & Clinton,45.503604,-122.611085
 7654,SE 50th & Division,45.505658,-122.611133
@@ -3832,7 +3832,7 @@
 7684,SE 52nd & Bush,45.495246,-122.609113
 7685,SE 52nd & Franklin,45.499245,-122.608956
 7687,SE 52nd & Franklin,45.498655,-122.609124
-7688,SE 52nd & Center/Gladstone,Southbound stop in Portland (Stop ID 7688),45.493726
+7688,SE 52nd & Center/Gladstone,45.493726,-122.609132
 7690,SE 52nd & Harold,45.482938,-122.608653
 7691,SE 52nd & Harold,45.482833,-122.608819
 7692,SE 52nd & Holgate,45.489981,-122.608898
@@ -3874,14 +3874,14 @@
 7750,NE 6th & N Broadway,45.294612,-122.334728
 7751,SW 6th & W Burnside,45.52288,-122.676415
 7756,SW 6th & Clay,45.513597,-122.68144
-7763,Union Station/NW 6th & Hoyt MAX Stn,Northbound stop in Portland (Stop ID 7763),45.527222
+7763,Union Station/NW 6th & Hoyt MAX Stn,45.527222,-122.676517
 7765,SW 6th & Jefferson,45.514866,-122.680761
 7767,SW 6th & Main,45.516273,-122.680039
 7770,NE 6th & Main,45.294456,-122.334312
 7772,SW 6th & Market,45.512943,-122.681811
 7773,SW 6th & Mill,45.512233,-122.682202
-7774,PSU Urban Center/SW 6th & Montgomery MAX Stn,Northbound stop in Portland (Stop ID 7774),45.511597
-7777,Pioneer Courthouse/SW 6th Ave MAX Stn,Northbound stop in Portland (Stop ID 7777),45.518964
+7774,PSU Urban Center/SW 6th & Montgomery MAX Stn,45.511597,-122.68255
+7777,Pioneer Courthouse/SW 6th Ave MAX Stn,45.518964,-122.678558
 7787,SW 6th & Pine MAX Station,45.522323,-122.676756
 7789,SW 6th & Salmon,45.516934,-122.679687
 7793,SW 6th between Sheridan & Caruthers,45.505585,-122.684211
@@ -3900,8 +3900,8 @@
 7821,NE 60th & Hassalo,45.531295,-122.602096
 7823,SE 60th & Hawthorne,45.511844,-122.601801
 7824,SE 60th & Hawthorne,45.511962,-122.601921
-7827,NE 60th & 60th Ave MAX Stn/I-84,Northbound stop in Portland (Stop ID 7827),45.528971
-7828,NE 60th & 60th Ave MAX Stn/I-84,Southbound stop in Portland (Stop ID 7828),45.528606
+7827,NE 60th & 60th Ave MAX Stn/I-84,45.528971,-122.602113
+7828,NE 60th & 60th Ave MAX Stn/I-84,45.528606,-122.602393
 7830,SE 60th & Salmon,45.514,-122.601853
 7831,SE 60th & Salmon,45.514134,-122.601999
 7832,SE 60th & Stark,45.519005,-122.602
@@ -3957,7 +3957,7 @@
 7916,NE 81st & Clackamas,45.532743,-122.579926
 7918,SE 82nd & King,45.447406,-122.578738
 7920,SE 82nd & Boyer Drive,45.443648,-122.578692
-7921,SE 82nd & Monroe/Boyer,Southbound stop in Clackamas Co. (Stop ID 7921),45.444217
+7921,SE 82nd & Monroe/Boyer,45.444217,-122.579068
 7923,2200 Block SE 82nd,45.507164,-122.578794
 7927,NE 82nd & Alberta,45.559148,-122.578423
 7928,SE 82nd & Washington,45.518261,-122.57888
@@ -4011,8 +4011,8 @@
 7994,SE 82nd & Lambert,45.467018,-122.579172
 7995,SE 82nd & Lindy,45.458778,-122.578956
 7996,SE 82nd & Lindy,45.458502,-122.579206
-7999,NE 82nd & 82nd Ave MAX Stn/I-84,Northbound stop in Portland (Stop ID 7999),45.533616
-8000,NE 82nd & 82nd Ave MAX Stn/I-84,Southbound stop in Portland (Stop ID 8000),45.533319
+7999,NE 82nd & 82nd Ave MAX Stn/I-84,45.533616,-122.578868
+8000,NE 82nd & 82nd Ave MAX Stn/I-84,45.533319,-122.579178
 8001,NE 82nd & McDaniel HS,45.542839,-122.578729
 8002,NE 82nd & McDaniel HS,45.542304,-122.578998
 8004,SE 82nd & Main,45.513668,-122.578883
@@ -4164,58 +4164,58 @@
 8321,NE Pacific St & The Oregon Clinic,45.529559,-122.562812
 8326,SE 32nd & Floss,45.457704,-122.629932
 8329,N Rosa Parks Way & Knowles,45.570035,-122.699179
-8333,Library/SW 9th Ave MAX Station,Eastbound stop in Portland (Stop ID 8333),45.51916
+8333,Library/SW 9th Ave MAX Station,45.51916,-122.68162
 8334,Pioneer Square South MAX Station,45.518496,-122.679145
 8336,Yamhill District MAX Station,45.517153,-122.674172
 8337,Oak/ SW 1st Ave MAX Station,45.52028,-122.672146
-8339,Old Town/Chinatown MAX Station,Northbound stop in Portland (Stop ID 8339),45.52518
+8339,Old Town/Chinatown MAX Station,45.52518,-122.671353
 8340,Rose Quarter TC MAX Station,45.530057,-122.664917
 8341,Convention Center MAX Station,45.530052,-122.661908
 8342,NE 7th Ave MAX Station,45.530055,-122.65774
-8343,Lloyd Center/NE 11th Ave MAX Station,Eastbound stop in Portland (Stop ID 8343),45.530067
-8344,Hollywood/NE 42nd Ave MAX Station,Eastbound stop in Portland (Stop ID 8344),45.532772
+8343,Lloyd Center/NE 11th Ave MAX Station,45.530067,-122.653638
+8344,Hollywood/NE 42nd Ave MAX Station,45.532772,-122.620708
 8345,NE 60th Ave MAX Station,45.528764,-122.602703
 8346,NE 82nd Ave MAX Station,45.533237,-122.577811
-8347,Gateway/NE 99th Ave TC MAX Station,Southbound stop in Portland (Stop ID 8347),45.530269
+8347,Gateway/NE 99th Ave TC MAX Station,45.530269,-122.563578
 8348,E 102nd Ave MAX Station,45.52258,-122.557314
 8349,E 122nd Ave MAX Station,45.522447,-122.536799
 8350,E 148th Ave MAX Station,45.522237,-122.509687
 8351,E 162nd Ave MAX Station,45.522121,-122.495467
 8352,E 172nd Ave MAX Station,45.522048,-122.485173
 8353,E 181st Ave MAX Station,45.521932,-122.476143
-8354,Rockwood/E 188th Ave MAX Station,Eastbound stop in Gresham (Stop ID 8354),45.520398
-8355,Ruby Junction/E 197th Ave MAX Station,Eastbound stop in Gresham (Stop ID 8355),45.515577
+8354,Rockwood/E 188th Ave MAX Station,45.520398,-122.470537
+8355,Ruby Junction/E 197th Ave MAX Station,45.515577,-122.459174
 8356,Gresham City Hall MAX Station,45.505687,-122.435826
 8357,Gresham Central TC MAX Station,45.502473,-122.426643
 8359,Cleveland Ave MAX Station,45.501772,-122.41845
 8360,Gresham Central TC MAX Station,45.502705,-122.427348
 8361,Gresham City Hall MAX Station,45.505981,-122.436285
-8362,Ruby Junction/E 197th Ave MAX Station,Westbound stop in Gresham (Stop ID 8362),45.516502
-8363,Rockwood/E 188th Ave MAX Station,Westbound stop in Gresham (Stop ID 8363),45.520723
+8362,Ruby Junction/E 197th Ave MAX Station,45.516502,-122.461119
+8363,Rockwood/E 188th Ave MAX Station,45.520723,-122.471093
 8364,E 181st Ave MAX Station,45.522065,-122.478074
 8365,E 172nd Ave MAX Station,45.52214,-122.48714
 8366,E 162nd Ave MAX Station,45.522235,-122.497432
 8367,E 148th Ave MAX Station,45.522344,-122.511614
 8368,E 122nd Ave MAX Station,45.522556,-122.538704
 8369,E 102nd Ave MAX Station,45.522691,-122.559244
-8370,Gateway/NE 99th Ave TC MAX Station,Northbound stop in Portland (Stop ID 8370),45.530839
+8370,Gateway/NE 99th Ave TC MAX Station,45.530839,-122.563627
 8371,NE 82nd Ave MAX Station,45.533486,-122.578479
 8372,NE 60th Ave MAX Station,45.528491,-122.603342
-8373,Hollywood/NE 42nd Ave MAX Station,Westbound stop in Portland (Stop ID 8373),45.532957
-8374,Lloyd Center/NE 11th Ave MAX Station,Westbound stop in Portland (Stop ID 8374),45.530146
+8373,Hollywood/NE 42nd Ave MAX Station,45.532957,-122.621367
+8374,Lloyd Center/NE 11th Ave MAX Station,45.530146,-122.654335
 8375,NE 7th Ave MAX Station,45.53015,-122.658277
 8376,Convention Center MAX Station,45.530138,-122.66254
 8377,Rose Quarter TC MAX Station,45.530235,-122.665557
-8378,Old Town/Chinatown MAX Station,Southbound stop in Portland (Stop ID 8378),45.524695
+8378,Old Town/Chinatown MAX Station,45.524695,-122.671467
 8380,Oak/ SW 1st Ave MAX Station,45.51986,-122.672523
-8381,Morrison/SW 3rd Ave MAX Station,Westbound stop in Portland (Stop ID 8381),45.518181
+8381,Morrison/SW 3rd Ave MAX Station,45.518181,-122.675386
 8383,Pioneer Square North MAX Station,45.519253,-122.679475
-8384,Galleria/SW 10th Ave MAX Station,Westbound stop in Portland (Stop ID 8384),45.51991
+8384,Galleria/SW 10th Ave MAX Station,45.51991,-122.681919
 8387,SW Taylors Ferry & 76th Pl,45.454971,-122.754683
 8388,SW Taylors Ferry & 75th,45.454799,-122.754537
 8389,SW 95th & Commerce Circle,45.336348,-122.77327
 8391,9900 Block SW Commerce Circle,45.336462,-122.777343
-8403,NW St Helens & Newberry Rd,Southbound stop in Multnomah Co. (Stop ID 8403),45.617939
+8403,NW St Helens & Newberry Rd,45.617939,-122.807241
 8404,SE Harold & 67th,45.483094,-122.594286
 8408,NE Evergreen Pkwy & Amberglen Pkwy,45.541366,-122.875958
 8414,NW Vaughn & 26th,45.536887,-122.704726
@@ -4226,8 +4226,8 @@
 8430,16500 Block SE 82nd Dr,45.402833,-122.568795
 8433,SE Division & 87th Ave,45.504471,-122.573891
 8437,NW Gillihan Rd & Sauvie Island,45.629438,-122.815496
-8438,NW St Helens & Harborton Dr,Southbound stop in Multnomah Co. (Stop ID 8438),45.614634
-8439,NW St Helens & Larson,Southbound stop in Multnomah Co. (Stop ID 8439),45.625105
+8438,NW St Helens & Harborton Dr,45.614634,-122.80185
+8439,NW St Helens & Larson,45.625105,-122.816629
 8441,Holcomb & Front Ave,45.36643,-122.57939
 8442,SE Eagle Creek Rd & River Mill Rd,45.306391,-122.339134
 8443,SW Jenkins & Meridian,45.503112,-122.82338
@@ -4308,7 +4308,7 @@
 8608,SW Murray & Sexton Mtn Dr,45.459852,-122.826244
 8609,SW Murray & Maverick Ter,45.455369,-122.826307
 8610,SW Murray & Beard,45.452732,-122.826194
-8611,SW Murray & Weir Rd,Southbound stop in Beaverton (Stop ID 8611),45.4473
+8611,SW Murray & Weir Rd,45.4473,-122.826147
 8612,SW Murray & Osprey Dr,45.443034,-122.826145
 8613,SW Murray & Teal Blvd,45.440962,-122.826157
 8614,SW Scholls Ferry & 135th,45.441287,-122.815892
@@ -4322,7 +4322,7 @@
 8622,SW Scholls Ferry & 135th,45.441497,-122.816163
 8625,SW Murray & Teal Blvd,45.440382,-122.825758
 8626,SW Murray & Osprey Dr,45.443187,-122.825799
-8627,SW Murray & Weir Rd,Northbound stop in Beaverton (Stop ID 8627),45.447904
+8627,SW Murray & Weir Rd,45.447904,-122.825836
 8629,SW Murray & Maverick Ter,45.455942,-122.82595
 8630,SW Murray & Sexton Mtn Dr,45.460447,-122.825835
 8631,SW Murray & Hargis,45.462377,-122.825842
@@ -4338,7 +4338,7 @@
 8648,NE Evergreen Pkwy & NW Atkeson Ln,45.547397,-122.906181
 8649,NE Cornell & Orenco Station Pkwy,45.533886,-122.91711
 8650,NE Cornell & Orenco Station Pkwy,45.534095,-122.917225
-8654,NW St Helens & Riverview Drive,Southbound stop in Multnomah Co. (Stop ID 8654),45.621048
+8654,NW St Helens & Riverview Drive,45.621048,-122.811578
 8659,SE 90th & Monterey,45.438792,-122.570899
 8663,16200 Block SW Pacific Hwy,45.401896,-122.797817
 8665,SW Scholls Ferry & Davies,45.440019,-122.820047
@@ -4359,8 +4359,8 @@
 8736,17300 Block SE Hwy 224,45.396857,-122.485125
 8737,17400 Block SE Hwy 224,45.396263,-122.483667
 8740,NE Vancouver Way & 3rd,45.592306,-122.663741
-8742,2700 Block W Powell,Eastbound stop in Gresham (Stop ID 8742),45.495221
-8743,2700 Block W Powell,Westbound stop in Gresham (Stop ID 8743),45.495649
+8742,2700 Block W Powell,45.495221,-122.460083
+8743,2700 Block W Powell,45.495649,-122.45985
 8745,E Burnside & NE 97th,45.522785,-122.562917
 8746,W Columbia River Hwy & NW Graham,45.54084,-122.391299
 8755,20000 Block SE Hwy 224,45.386014,-122.455684
@@ -4380,20 +4380,20 @@
 8792,SW Pacific Hwy & Durham,45.405491,-122.795994
 8794,SE Hwy 224 & Tong,45.395867,-122.478474
 8795,17700 Block SE Hwy 224,45.395565,-122.480577
-8798,SW Barnes & Barnes/Burnside,Westbound stop in Portland (Stop ID 8798),45.515965
+8798,SW Barnes & Barnes/Burnside,45.515965,-122.746355
 8799,W Burnside & SW Barnes,45.515771,-122.746193
 8800,4100 Block SE 182nd,45.49243,-122.475699
 8802,NW Vaughn & 27th,45.536844,-122.706694
 8808,2400 Block NW 29th,45.540021,-122.710978
 8809,2500 Block NW 29th,45.540279,-122.711149
-8812,4700 Block W Powell,Eastbound stop in Gresham (Stop ID 8812),45.491307
+8812,4700 Block W Powell,45.491307,-122.480318
 8814,N Rosa Parks Way & Albina,45.570012,-122.67465
 8821,SW Council Crest & Tualatin (north leg),45.494417,-122.70212
 8823,SE Hwy 224 & Glover Rd,45.364742,-122.36846
 8824,SE Hwy 224 & Hwy 211,45.357979,-122.359087
 8825,19800 Block NE Halsey,45.533693,-122.458982
 8828,13000 Block NW Cornell,45.524933,-122.811073
-8830,Hwy 212/224 & SE 135th,Westbound stop in Happy Valley (Stop ID 8830),45.410615
+8830,Hwy 212/224 & SE 135th,45.410615,-122.524389
 8832,SW Greenburg & Lehman,45.449122,-122.775277
 8835,SW Greenburg & Lehman,45.449003,-122.775117
 8838,NE Main & 3rd Ave,45.291834,-122.333717
@@ -4582,12 +4582,12 @@
 9230,NW Walker & Cambray,45.524161,-122.859398
 9232,NW Walker & 178th,45.524462,-122.859641
 9233,1800 Block SE Orient Dr,45.484018,-122.394979
-9234,SE Orient Dr & Salquist/Barnes,Westbound stop in Gresham (Stop ID 9234),45.482648
+9234,SE Orient Dr & Salquist/Barnes,45.482648,-122.393107
 9245,NW Cornell & 153rd,45.531991,-122.834397
 9252,SW 158th & Jenkins,45.507817,-122.840728
 9253,NE Fremont & 66th,45.548168,-122.595446
 9257,7200 Block SW Durham,45.400461,-122.751377
-9261,NW Graham/257th & W Columbia River Hwy,Southbound stop in Troutdale (Stop ID 9261),45.540984
+9261,NW Graham/257th & W Columbia River Hwy,45.540984,-122.390738
 9263,SE Division & 148th Ave,45.504343,-122.51018
 9266,NE 181st & Wilkes Rd,45.539764,-122.477087
 9270,Blankenship & Virginia Lane,45.351431,-122.656745
@@ -4674,8 +4674,8 @@
 9466,13900 Block SW Millikan,45.49275,-122.81988
 9467,NW 185th & Bronson,45.543661,-122.867359
 9469,13900 Block SW 72nd,45.419113,-122.75006
-9470,NW Graham/257th & 257th Way,Northbound stop in Troutdale (Stop ID 9470),45.543491
-9471,NW Graham/257th & 257th Way,Southbound stop in Troutdale (Stop ID 9471),45.543218
+9470,NW Graham/257th & 257th Way,45.543491,-122.39036
+9471,NW Graham/257th & 257th Way,45.543218,-122.390753
 9472,900 Block NW North Frontage Rd,45.545493,-122.396518
 9473,NW Frontage Rd & Phoenix Dr,45.544394,-122.393414
 9477,NE Middlefield Rd & N Vancouver Way,45.59585,-122.667541
@@ -4835,26 +4835,26 @@
 9824,Beaverton Central MAX Station,45.490501,-122.806766
 9825,Millikan Way MAX Station,45.495421,-122.821806
 9826,Millikan Way MAX Station,45.495102,-122.821238
-9827,Merlo Rd/SW 158th Ave MAX Station,Westbound stop in Beaverton (Stop ID 9827),45.505399
-9828,Merlo Rd/SW 158th Ave MAX Station,Eastbound stop in Beaverton (Stop ID 9828),45.505058
-9829,Elmonica/SW 170th Ave MAX Station,Westbound stop in Beaverton (Stop ID 9829),45.510134
-9830,Elmonica/SW 170th Ave MAX Station,Eastbound stop in Beaverton (Stop ID 9830),45.509777
-9831,Willow Creek/SW 185th Ave TC MAX Station,Eastbound stop in Hillsboro (Stop ID 9831),45.517117
-9832,Willow Creek/SW 185th Ave TC MAX Station,Westbound stop in Hillsboro (Stop ID 9832),45.517375
+9827,Merlo Rd/SW 158th Ave MAX Station,45.505399,-122.842424
+9828,Merlo Rd/SW 158th Ave MAX Station,45.505058,-122.841872
+9829,Elmonica/SW 170th Ave MAX Station,45.510134,-122.851732
+9830,Elmonica/SW 170th Ave MAX Station,45.509777,-122.851193
+9831,Willow Creek/SW 185th Ave TC MAX Station,45.517117,-122.869874
+9832,Willow Creek/SW 185th Ave TC MAX Station,45.517375,-122.870518
 9833,Quatama MAX Station,45.523319,-122.889131
 9834,Quatama MAX Station,45.523082,-122.888511
 9835,Orenco MAX Station,45.530257,-122.915467
 9836,Orenco MAX Station,45.530298,-122.916198
-9837,Hillsboro Airport/Fairgrounds MAX Stn,Westbound stop in Hillsboro (Stop ID 9837),45.526924
-9838,Hillsboro Airport/Fairgrounds MAX Stn,Eastbound stop in Hillsboro (Stop ID 9838),45.527041
+9837,Hillsboro Airport/Fairgrounds MAX Stn,45.526924,-122.946499
+9838,Hillsboro Airport/Fairgrounds MAX Stn,45.527041,-122.945808
 9839,Hawthorn Farm MAX Station,45.530012,-122.93038
 9840,Hawthorn Farm MAX Station,45.529921,-122.93112
-9841,Washington/SE 12th Ave MAX Station,Eastbound stop in Hillsboro (Stop ID 9841),45.521102
-9842,Washington/SE 12th Ave MAX Station,Westbound stop in Hillsboro (Stop ID 9842),45.521231
+9841,Washington/SE 12th Ave MAX Station,45.521102,-122.969152
+9842,Washington/SE 12th Ave MAX Station,45.521231,-122.969867
 9843,Hillsboro Health District MAX Station,45.521288,-122.978017
 9844,Hillsboro Health District MAX Station,45.521315,-122.978728
-9845,Hillsboro Central/SE 3rd TC MAX Station,Westbound stop in Hillsboro (Stop ID 9845),45.521431
-9846,Hillsboro Central/SE 3rd TC MAX Station,Eastbound stop in Hillsboro (Stop ID 9846),45.521357
+9845,Hillsboro Central/SE 3rd TC MAX Station,45.521431,-122.985653
+9846,Hillsboro Central/SE 3rd TC MAX Station,45.521357,-122.984926
 9848,Hatfield Government Center MAX Station,45.522204,-122.991022
 9850,SW Baseline & Dennis,45.520206,-122.99501
 9851,NE Century & Rosebay Dr,45.537194,-122.910038
@@ -4907,12 +4907,12 @@
 9950,1800 Block NE Griffin Oaks,45.540046,-122.962114
 9951,2200 Block NE Griffin Oaks,45.540039,-122.959648
 9952,NE 25th & Kathryn,45.538891,-122.957145
-9953,Hillsboro Airport/Fairgrounds Park & Ride,Eastbound stop in Hillsboro (Stop ID 9953),45.527198
+9953,Hillsboro Airport/Fairgrounds Park & Ride,45.527198,-122.94588
 9954,Hillsboro Transit Center ,45.521496,-122.984845
 9955,Hillsboro Transit Center ,45.521505,-122.98544
 9956,Hillsboro Transit Center ,45.521501,-122.985742
-9957,Millikan Way MAX Station/Park and Ride,and ride,Westbound stop in Beaverton (Stop ID 9957)
-9958,Millikan Way MAX Station/Park and Ride,and ride,Westbound stop in Beaverton (Stop ID 9958)
+9957,Millikan Way MAX Station/Park and Ride,45.495156,-122.821675
+9958,Millikan Way MAX Station/Park and Ride,45.495066,-122.821434
 9959,NE Shaver & Parkrose HS,45.551821,-122.539187
 9962,NE 34th & Cornell,45.531489,-122.94652
 9963,NE 25th & Kathryn,45.53869,-122.956958
@@ -4959,7 +4959,7 @@
 10030,NE Cornell & Butler,45.537431,-122.90537
 10031,NE Cornell & Walbridge,45.534953,-122.907903
 10032,NE Cornell & Stucki,45.534287,-122.877189
-10033,NE Century & Alder/Orenco Stn,Northbound stop in Hillsboro (Stop ID 10033),45.530116
+10033,NE Century & Alder/Orenco Stn,45.530116,-122.914583
 10037,10200 Block SW Park Way,45.50839,-122.782033
 10041,NE Century & Carillion,45.532747,-122.912371
 10042,NE Century & Orenco Max Stn,45.530494,-122.914853
@@ -5012,8 +5012,8 @@
 10113,NW Bethany & Telshire Dr,45.540505,-122.840504
 10114,NW Bethany & Oak Hills Dr,45.538215,-122.840575
 10115,NW Bethany & Cornell,45.530552,-122.842988
-10117,Goose Hollow/SW Jefferson St MAX Station,Westbound stop in Portland (Stop ID 10117),45.518236
-10118,Goose Hollow/SW Jefferson St MAX Station,Eastbound stop in Portland (Stop ID 10118),45.517989
+10117,Goose Hollow/SW Jefferson St MAX Station,45.518236,-122.694089
+10118,Goose Hollow/SW Jefferson St MAX Station,45.517989,-122.693544
 10120,Washington Park MAX Station,45.510653,-122.71634
 10121,Washington Park MAX Station,45.510661,-122.717244
 10125,20700 Block NE Halsey,45.533334,-122.449344
@@ -5095,10 +5095,10 @@
 10288,1300 Block NE 25th,45.533795,-122.9569
 10289,1200 Block NE 25th,45.534172,-122.957105
 10290,SE Washington & 2nd,45.521307,-122.988197
-10291,NW St Helens & Marina Way,Northbound stop in Portland (Stop ID 10291),45.610649
-10293,PSU South/SW 6th & College MAX Stn,Northbound stop in Portland (Stop ID 10293),45.509616
+10291,NW St Helens & Marina Way,45.610649,-122.796029
+10293,PSU South/SW 6th & College MAX Stn,45.509616,-122.683593
 10297,SE 152nd & Sedona Drive,45.41439,-122.505587
-10299,MAX Station/Oregon Zoo,Westbound stop in Portland (Stop ID 10299),45.510483
+10299,MAX Station/Oregon Zoo,45.510483,-122.7173
 10302,SE 17th & Spokane,45.464947,-122.646937
 10303,SE King & Home,45.448083,-122.612043
 10305,Kerr & Touchstone,45.42813,-122.714739
@@ -5108,8 +5108,8 @@
 10310,SW Patton & Humphrey,45.502307,-122.713181
 10313,NW Cornell & 169th Pl,45.533965,-122.851032
 10314,2400 Block NW Westover,45.527512,-122.701799
-10315,NE Sandy & 181st/Airport Way,Eastbound stop in Gresham (Stop ID 10315),45.545823
-10318,NE Sandy & Airport Way/181st,Westbound stop in Gresham (Stop ID 10318),45.546176
+10315,NE Sandy & 181st/Airport Way,45.545823,-122.47657
+10318,NE Sandy & Airport Way/181st,45.546176,-122.477894
 10319,NW Cornell & 169th Pl,45.533837,-122.851519
 10323,SE McLoughlin & Glen Echo,45.384694,-122.608061
 10324,McLoughlin & Gloucester,45.378923,-122.603649
@@ -5159,8 +5159,8 @@
 10530,Salamo & Rosemont,45.36905,-122.64662
 10548,Blankenship & Debok,45.352038,-122.658313
 10569,NE Sandy & 185th Dr,45.545682,-122.472722
-10572,Parkrose/Sumner TC MAX Station,Northbound stop in Portland (Stop ID 10572),45.559201
-10573,Parkrose/Sumner TC MAX Station,Southbound stop in Portland (Stop ID 10573),45.558829
+10572,Parkrose/Sumner TC MAX Station,45.559201,-122.56538
+10573,Parkrose/Sumner TC MAX Station,45.558829,-122.565861
 10574,Cascades MAX Station,45.57239,-122.55829
 10575,Cascades MAX Station,45.572075,-122.5577
 10576,Mt Hood Ave MAX Station,45.577359,-122.567151
@@ -5231,7 +5231,7 @@
 10753,NW 11th & Johnson,45.528742,-122.682374
 10754,NW 11th & Glisan,45.526605,-122.682297
 10756,NW 11th & Couch,45.523784,-122.682223
-10758,NW Graham/257th & North Frontage Rd,Northbound stop in Troutdale (Stop ID 10758),45.545208
+10758,NW Graham/257th & North Frontage Rd,45.545208,-122.39086
 10759,SW 11th & Jefferson,45.516402,-122.685301
 10760,SW 11th & Clay,45.515106,-122.686081
 10761,SW Cedar Hills & Celeste,45.518825,-122.791333
@@ -5297,7 +5297,7 @@
 10876,NE Multnomah & 9th,45.531573,-122.657075
 10877,E Burnside & NE 102nd,45.522766,-122.55929
 10878,NE Kane & 29th (MHCC),45.515938,-122.398608
-10879,NE Kane & 29th, mhcc,Northbound stop in Gresham (Stop ID 10879)
+10879,"NE Kane & 29th, MHCC",45.516018,-122.398297
 10910,SE 103rd Dr & Stark,45.519526,-122.557707
 10913,SW Walnut & 121st,45.429636,-122.799452
 10933,SW Capitol & Garden Home,45.466658,-122.716677
@@ -5323,7 +5323,7 @@
 11012,SW Barnes & 116th,45.51721,-122.795148
 11014,NE Airport Way & Riverside,45.553094,-122.481264
 11015,NE Airport Way & Riverside,45.553316,-122.480826
-11016,NW St Helens & Riverview Drive,Northbound stop in Multnomah Co. (Stop ID 11016),45.620762
+11016,NW St Helens & Riverview Drive,45.620762,-122.810968
 11024,NW Glencoe & Cody Ct,45.534432,-122.989641
 11026,10500 Block SE Cherry Blossom ,45.515418,-122.555472
 11027,SE 106th & Cherry Blossom,45.514674,-122.554502
@@ -5351,35 +5351,35 @@
 11473,1400 Block Molalla,45.335254,-122.589452
 11475,Beavercreek & Fir St,45.332409,-122.578672
 11478,NE Alberta & 7th,45.559053,-122.658734
-11479,NW St Helens & Marina Way,Southbound stop in Portland (Stop ID 11479),45.610153
+11479,NW St Helens & Marina Way,45.610153,-122.795855
 11480,N Williams & NE Weidler,45.534238,-122.666586
 11481,500 Block Molalla,45.346763,-122.596759
 11482,500 Block Molalla,45.346735,-122.596555
 11483,SE Grand & Taylor,45.514994,-122.660668
 11484,SE Grand & Belmont,45.516858,-122.660629
 11486,SW 6th & Columbia,45.514267,-122.681095
-11490,NW St Helens & 112th,Southbound stop in Portland (Stop ID 11490),45.60175
+11490,NW St Helens & 112th,45.60175,-122.788084
 11492,NE Multnomah & 3rd,45.531159,-122.66293
 11496,SE 82nd Dr & Strawberry,45.39657,-122.571956
 11498,Expo Center MAX Station,45.605354,-122.685706
-11499,Delta Park/Vanport MAX Station,Southbound stop in Portland (Stop ID 11499),45.596116
-11500,Kenton/N Denver Ave MAX Station,Southbound stop in Portland (Stop ID 11500),45.583792
+11499,Delta Park/Vanport MAX Station,45.596116,-122.685731
+11500,Kenton/N Denver Ave MAX Station,45.583792,-122.685879
 11501,N Lombard TC MAX Station,45.576578,-122.682163
 11502,Rosa Parks MAX Station,45.569349,-122.682217
 11503,N Killingsworth St MAX Station,45.562205,-122.682297
 11504,N Prescott St MAX Station,45.555097,-122.682294
 11505,Overlook Park MAX Station,45.549123,-122.681061
-11506,Albina/Mississippi MAX Station,Southbound stop in Portland (Stop ID 11506),45.539481
-11507,Interstate/Rose Quarter MAX Station,Southbound stop in Portland (Stop ID 11507),45.530091
-11508,Interstate/Rose Quarter MAX Station,Northbound stop in Portland (Stop ID 11508),45.53028
-11509,Albina/Mississippi MAX Station,Northbound stop in Portland (Stop ID 11509),45.539626
+11506,Albina/Mississippi MAX Station,45.539481,-122.67536
+11507,Interstate/Rose Quarter MAX Station,45.530091,-122.667769
+11508,Interstate/Rose Quarter MAX Station,45.53028,-122.667879
+11509,Albina/Mississippi MAX Station,45.539626,-122.675617
 11510,Overlook Park MAX Station,45.548308,-122.680925
 11511,N Prescott St MAX Station,45.555278,-122.682282
 11512,N Killingsworth St MAX Station,45.563117,-122.68215
 11513,Rosa Parks MAX Station,45.570416,-122.682062
 11514,N Lombard TC MAX Station,45.577642,-122.682004
-11515,Kenton/N Denver Ave MAX Station,Northbound stop in Portland (Stop ID 11515),45.583927
-11516,Delta Park/Vanport MAX Station,Northbound stop in Portland (Stop ID 11516),45.596147
+11515,Kenton/N Denver Ave MAX Station,45.583927,-122.685944
+11516,Delta Park/Vanport MAX Station,45.596147,-122.685562
 11520,SE Sunnyside & Stevens,45.433315,-122.560659
 11521,SW Scholls Ferry & Murray,45.438627,-122.825468
 11722,NE Alberta & 30th,45.558992,-122.634961
@@ -5443,8 +5443,8 @@
 11927,SE Bob Schumacher & Monterey,45.437295,-122.566418
 11928,SE Sunnyside & Sunnybrook,45.43384,-122.551781
 11929,SE Sunnyside & 105th,45.433785,-122.555089
-11930,12700 Block Hwy 212/224,Eastbound stop in Happy Valley (Stop ID 11930),45.408291
-11931,12600 Block Hwy 212/224,Westbound stop in Happy Valley (Stop ID 11931),45.408509
+11930,12700 Block Hwy 212/224,45.408291,-122.532945
+11931,12600 Block Hwy 212/224,45.408509,-122.533027
 11932,Molalla & Mountain View,45.343837,-122.596085
 11933,Molalla & Mountain View,45.344002,-122.59641
 11934,N Ivanhoe & New York,45.592164,-122.757933
@@ -5519,21 +5519,21 @@
 12866,W Powell & NW Wilson,45.496998,-122.441134
 12867,W Powell & SW Eastman Parkway,45.497019,-122.437822
 12868,W Powell & NW Eastman Parkway,45.497219,-122.438784
-12875,2800 Blk NE Brookwood Pkwy, library,Northbound stop in Hillsboro (Stop ID 12875)
+12875,"2800 Blk NE Brookwood Pkwy, Library",45.542688,-122.937027
 12880,S Moody & Gaines,45.496182,-122.671942
 12881,S Lowell & Bond,45.493891,-122.671376
 12882,S Bond & Lane,45.495594,-122.670933
 12883,OHSU Plaza,45.498939,-122.670739
 12884,NE Brookwood & Airport Rd,45.539589,-122.938562
 12892,SE Hawthorne & 34th,45.51212,-122.62943
-12899,Merlo Rd/SW 158th MAX Stn Turnaround,Eastbound stop in Beaverton (Stop ID 12899),45.505319
+12899,Merlo Rd/SW 158th MAX Stn Turnaround,45.505319,-122.842061
 12900,SE Holgate & 97th,45.489814,-122.56311
 12901,SE Sunnyside & 152nd,45.42541,-122.506593
 12902,SE Sunnyside & 157th,45.426884,-122.502641
 12903,SE Sunnyside & 152nd,45.425259,-122.507814
 12912,SE 97th & Park Mountain Lane,45.421156,-122.558558
 12914,SE Holgate & 97th,45.490012,-122.563338
-12918,Delta Park/Vanport,Southbound stop in Portland (Stop ID 12918),45.596301
+12918,Delta Park/Vanport,45.596301,-122.685445
 12921,Clackamas Town Center Mall,45.43731,-122.573312
 12922,Clackamas Town Center Mall,45.437504,-122.574003
 12923,SE Sunnyside & Misty Dr,45.425009,-122.513078
@@ -5554,7 +5554,7 @@
 12954,SE Stark & 169th,45.519053,-122.488693
 12955,E Burnside & SE 57th,45.52281,-122.604655
 12956,SE King & Cook Ct,45.44718,-122.588618
-12957,SE Stark & Cherry Park/Hogan,Westbound stop in Gresham (Stop ID 12957),45.519162
+12957,SE Stark & Cherry Park/Hogan,45.519162,-122.412975
 12958,7500 Block SW Hunziker,45.426904,-122.754632
 12959,PCC Lower Drive (G St) & H St,45.441394,-122.733741
 12960,SW Barnes & 84th,45.508965,-122.763858
@@ -5567,7 +5567,7 @@
 12993,SW Cedar Hills & Foothill Dr,45.509738,-122.795477
 13018,SW Cedar Hills & Foothill Dr,45.509429,-122.795266
 13024,SE Flavel & 69th,45.468718,-122.592095
-13025,2800 Blk NE Brookwood Pkwy, library,Southbound stop in Hillsboro (Stop ID 13025)
+13025,"2800 Blk NE Brookwood Pkwy, Library",45.543084,-122.937266
 13026,NE Halsey & 159th Ct,45.533771,-122.498859
 13027,E Burnside & SE 103rd,45.522502,-122.557115
 13031,NE Kane & SE Stark,45.518484,-122.398609
@@ -5581,7 +5581,7 @@
 13042,SW Canyon & 115th,45.489923,-122.794848
 13043,SE Belmont & 26th Ave,45.51637,-122.639248
 13066,Beaverton TC WES Station,45.49064,-122.801157
-13067,Hall/Nimbus WES Station,Bidirectional stop in Beaverton (Stop ID 13067),45.457587
+13067,Hall/Nimbus WES Station,45.457587,-122.786997
 13068,Tigard TC WES Station,45.429936,-122.769527
 13069,Tualatin WES Station,45.383621,-122.764504
 13070,Wilsonville WES Station,45.311358,-122.775303
@@ -5614,13 +5614,13 @@
 13125,SE Division St MAX Station,45.503123,-122.566663
 13126,SE Powell Blvd MAX Station,45.495503,-122.56617
 13127,SE Holgate Blvd MAX Station,45.490868,-122.566315
-13128,Lents/SE Foster Rd MAX Station,Southbound stop in Portland (Stop ID 13128),45.480188
+13128,Lents/SE Foster Rd MAX Station,45.480188,-122.566871
 13129,SE Flavel St MAX Station,45.467602,-122.566761
 13130,SE Fuller Rd MAX Station,45.453138,-122.573578
 13132,Clackamas Town Center TC MAX Station,45.435721,-122.567769
 13133,SE Fuller Rd MAX Station,45.453637,-122.573656
 13134,SE Flavel St MAX Station,45.468068,-122.566542
-13135,Lents/SE Foster Rd MAX Station,Northbound stop in Portland (Stop ID 13135),45.480686
+13135,Lents/SE Foster Rd MAX Station,45.480686,-122.566745
 13136,SE Holgate Blvd MAX Station,45.491369,-122.566229
 13137,SE Powell Blvd MAX Station,45.495991,-122.566198
 13138,SE Division St MAX Station,45.503608,-122.566584
@@ -5630,7 +5630,7 @@
 13143,12700 Block NE San Rafael,45.537288,-122.532221
 13145,SE Flavel & I-205 Overpass,45.468261,-122.565355
 13147,SE Lake & 41st Ct,45.43301,-122.620047
-13148,SE Lake & Vernie/41st Ct,Westbound stop in Milwaukie (Stop ID 13148),45.433251
+13148,SE Lake & Vernie/41st Ct,45.433251,-122.62036
 13149,17100 Block SE Webster,45.398926,-122.586052
 13150,NE M L King & Columbia Blvd,45.581349,-122.661186
 13153,Webster & Cason,45.390502,-122.584171
@@ -5667,7 +5667,7 @@
 13210,SW 68th & Atlanta,45.436339,-122.746764
 13211,NE Hood & 5th,45.501098,-122.428024
 13212,N Richmond & Syracuse,45.58753,-122.752126
-13214,NW St Helens & Larson,Northbound stop in Multnomah Co. (Stop ID 13214),45.625287
+13214,NW St Helens & Larson,45.625287,-122.816601
 13215,SE River Rd & Faith Ave,45.391534,-122.619234
 13218,SE Holgate & SE Holgate Blvd MAX Stn,45.489878,-122.566861
 13219,SE Holgate & SE Holgate Blvd MAX Stn,45.490107,-122.567278
@@ -5685,8 +5685,8 @@
 13249,SE 60th & Harrison,45.508498,-122.601722
 13252,Oatfield & E Hereford,45.386466,-122.58497
 13255,SE 10th & Washington,45.521546,-122.974041
-13293,NW St Helens & Saltzman,Northbound stop in Portland (Stop ID 13293),45.564536
-13294,NW St Helens & Saltzman,Southbound stop in Portland (Stop ID 13294),45.563995
+13293,NW St Helens & Saltzman,45.564536,-122.746772
+13294,NW St Helens & Saltzman,45.563995,-122.746457
 13297,SE Division & SE Division St MAX Station,45.504331,-122.566916
 13298,SE Division & SE Division St MAX Station,45.504577,-122.567451
 13305,SW Harrison & 6th,45.511054,-122.682648
@@ -5707,7 +5707,7 @@
 13470,SE Kane & 5th St,45.493804,-122.398642
 13473,E Powell & NE Elliott,45.49817,-122.424482
 13474,E Powell & NE Elliott,45.49792,-122.424876
-13475,SE 257th/Kane & Powell Valley,Southbound stop in Gresham (Stop ID 13475),45.49147
+13475,SE 257th/Kane & Powell Valley,45.49147,-122.398983
 13476,SE Kane & Powell Valley,45.492321,-122.398677
 13477,SE Jackson & Main,45.444786,-122.640713
 13478,23200 Block NE Sandy,45.543161,-122.423366
@@ -5733,7 +5733,7 @@
 13528,NE Evergreen & Evergreen Middle School,45.550042,-122.984049
 13529,NE Century & Brighton St,45.53484,-122.912119
 13530,NE Cornell & 106th,45.534162,-122.870424
-13532,NW Graham/257th & W Columbia River Hwy,Northbound stop in Troutdale (Stop ID 13532),45.541235
+13532,NW Graham/257th & W Columbia River Hwy,45.541235,-122.390398
 13535,SW Morrison & 10th,45.520026,-122.681933
 13546,SW Langer & Holland,45.3674,-122.841417
 13547,SE Stark & 169th,45.519246,-122.488744
@@ -5741,9 +5741,9 @@
 13551,SE Powell Valley & Ironwood,45.48818,-122.377299
 13552,SE 282nd & Salquist,45.48259,-122.372789
 13553,SE 282nd & Welch Rd,45.476083,-122.372831
-13554,SE 257th/Kane & 11th,Southbound stop in Gresham (Stop ID 13554),45.48911
+13554,SE 257th/Kane & 11th,45.48911,-122.398653
 13558,SE Orient Dr & Chase,45.478815,-122.388771
-13559,SE 257th/Kane & 11th,Northbound stop in Gresham (Stop ID 13559),45.488643
+13559,SE 257th/Kane & 11th,45.488643,-122.398344
 13560,SE 282nd & Welch Rd,45.476036,-122.37262
 13561,SE 282nd & Salquist,45.482723,-122.372603
 13568,N Interstate & Russet,45.577758,-122.681906
@@ -5784,7 +5784,7 @@
 13612,NE Oregon & Grand,45.528685,-122.660504
 13613,SE M L King & Stark,45.519102,-122.661874
 13614,SE M L King & Hawthorne,45.512514,-122.661954
-13615,SE Water/OMSI (Streetcar),Northbound stop in Portland (Stop ID 13615),45.507038
+13615,SE Water/OMSI (Streetcar),45.507038,-122.663345
 13616,SE Grand & Hawthorne,45.512829,-122.660687
 13617,NE Grand & Broadway,45.534798,-122.660548
 13618,NE Broadway & 2nd (Streetcar),45.535034,-122.663538
@@ -5807,7 +5807,7 @@
 13657,SE Hwy 224 & McPartland,45.364259,-122.367592
 13662,SE Hwy 224 & Eckert Ln,45.402851,-122.500449
 13663,SE Hwy 224 & Goosehollow,45.405736,-122.501939
-13689,Morrison Bridge/Belmont & Grand,Eastbound stop in Portland (Stop ID 13689),45.516483
+13689,Morrison Bridge/Belmont & Grand,45.516483,-122.660956
 13693,SE 17th & Rhine,45.497779,-122.647864
 13700,PCC Rock Creek Layover,45.565759,-122.85846
 13703,SW Shattuck & 59th Ct,45.482576,-122.736292
@@ -5815,28 +5815,28 @@
 13705,3300 Block SW 198th,45.496055,-122.881233
 13706,SW 197th & Limestone Ct,45.509517,-122.879424
 13707,SE 82nd & Center,45.493542,-122.578886
-13709,SE Water/OMSI (Streetcar),Southbound stop in Portland (Stop ID 13709),45.506951
-13710,Lincoln St/SW 3rd Ave MAX Station,Eastbound stop in Portland (Stop ID 13710),45.507902
-13711,South Waterfront/S Moody MAX Station,Eastbound stop in Portland (Stop ID 13711),45.502693
-13712,OMSI/SE Water MAX Station,Eastbound stop in Portland (Stop ID 13712),45.506475
-13713,Clinton St/SE 12th Ave MAX Station,Eastbound stop in Portland (Stop ID 13713),45.502604
+13709,SE Water/OMSI (Streetcar),45.506951,-122.663364
+13710,Lincoln St/SW 3rd Ave MAX Station,45.507902,-122.680154
+13711,South Waterfront/S Moody MAX Station,45.502693,-122.671141
+13712,OMSI/SE Water MAX Station,45.506475,-122.662559
+13713,Clinton St/SE 12th Ave MAX Station,45.502604,-122.652986
 13714,SE 17th Ave & Rhine St MAX Station,45.497644,-122.648178
 13715,SE 17th Ave & Holgate Blvd MAX Station,45.490639,-122.64854
 13716,SE Bybee Blvd MAX Station,45.474667,-122.63999
-13717,SE Tacoma/Johnson Creek MAX Station,Southbound stop in Portland (Stop ID 13717),45.462631
-13718,Milwaukie/Main St MAX Station,Southbound stop in Milwaukie (Stop ID 13718),45.441027
+13717,SE Tacoma/Johnson Creek MAX Station,45.462631,-122.637423
+13718,Milwaukie/Main St MAX Station,45.441027,-122.640056
 13720,SE Park Ave MAX Station,45.430734,-122.635065
-13721,Milwaukie/Main St MAX Station,Northbound stop in Milwaukie (Stop ID 13721),45.44143
-13722,SE Tacoma/Johnson Creek MAX Station,Northbound stop in Portland (Stop ID 13722),45.462984
+13721,Milwaukie/Main St MAX Station,45.44143,-122.63982
+13722,SE Tacoma/Johnson Creek MAX Station,45.462984,-122.63785
 13723,SE Bybee Blvd MAX Station,45.475104,-122.640055
 13724,SE 17th Ave & Holgate Blvd MAX Station,45.491139,-122.648456
 13725,SE 17th Ave & Rhine St MAX Station,45.498131,-122.648142
-13726,Clinton St/SE 12th Ave MAX Station,Westbound stop in Portland (Stop ID 13726),45.502953
-13727,OMSI/SE Water MAX Station,Westbound stop in Portland (Stop ID 13727),45.506618
-13728,South Waterfront/S Moody MAX Station,Westbound stop in Portland (Stop ID 13728),45.502716
-13729,Lincoln St/SW 3rd Ave MAX Station,Westbound stop in Portland (Stop ID 13729),45.507942
-13732,South Waterfront/S Moody,Eastbound stop in Portland (Stop ID 13732),45.502797
-13733,South Waterfront/S Moody,Westbound stop in Portland (Stop ID 13733),45.502618
+13726,Clinton St/SE 12th Ave MAX Station,45.502953,-122.653516
+13727,OMSI/SE Water MAX Station,45.506618,-122.662862
+13728,South Waterfront/S Moody MAX Station,45.502716,-122.671539
+13729,Lincoln St/SW 3rd Ave MAX Station,45.507942,-122.680858
+13732,South Waterfront/S Moody,45.502797,-122.670872
+13733,South Waterfront/S Moody,45.502618,-122.671791
 13735,SW Boones Ferry Rd & Orchard Hill,45.434869,-122.699044
 13736,SW Beveland & 69th,45.429572,-122.748152
 13737,NE Glisan & 45th,45.526334,-122.616283
@@ -5851,8 +5851,8 @@
 13769,SW Vermont & 34th,45.476067,-122.711253
 13770,SE Tacoma Park & Ride,45.462741,-122.637156
 13771,SE Tacoma Park & Ride,45.46222,-122.637135
-13772,OMSI/SE Water,Eastbound stop in Portland (Stop ID 13772),45.506493
-13773,OMSI/SE Water,Westbound stop in Portland (Stop ID 13773),45.506602
+13772,OMSI/SE Water,45.506493,-122.662291
+13773,OMSI/SE Water,45.506602,-122.663155
 13775,SE 122nd & Raymond,45.485741,-122.538016
 13776,SE 21st & Adams,45.441578,-122.639487
 13777,SE Washington & 21st,45.442534,-122.640041
@@ -5934,9 +5934,9 @@
 13927,SW Hall & Oak St,45.444481,-122.765747
 13928,SW Hall & Pfaffle,45.438275,-122.765496
 13929,11700 Block SW Hall,45.435129,-122.765258
-13930,SW Hall & Hunziker/Scoffins,Southbound stop in Tigard (Stop ID 13930),45.430255
+13930,SW Hall & Hunziker/Scoffins,45.430255,-122.76476
 13931,SW Lombard & Bruce Ln,45.472845,-122.800413
-13932,SW Hall & Scoffins/Hunziker,Northbound stop in Tigard (Stop ID 13932),45.429561
+13932,SW Hall & Scoffins/Hunziker,45.429561,-122.764518
 13933,11700 Block SW Hall,45.43523,-122.765056
 13934,SW Hall & Pfaffle,45.438271,-122.765259
 13935,SW Hall & Oak St,45.444003,-122.765507
@@ -5968,7 +5968,7 @@
 13963,SE 162nd & Main,45.513914,-122.496376
 13964,SE 162nd & Stark,45.51962,-122.496313
 13965,NE 162nd & E Burnside,45.52269,-122.496268
-13966,NE 162nd between Glisan and Hoyt,Northbound stop in Gresham (Stop ID 13966),45.527103
+13966,NE 162nd between Glisan and Hoyt,45.527103,-122.496208
 13967,NE 162nd & Holladay,45.529799,-122.496038
 13968,NE 162nd & Halsey,45.53462,-122.495651
 13969,NE 162nd & San Rafael,45.537379,-122.495644
@@ -6029,7 +6029,7 @@
 14056,High St & 2nd,45.353731,-122.61039
 14071,NE Halsey & 106th,45.533482,-122.553781
 14075,NE 102nd & Morris St,45.543249,-122.5577
-14077,E Burnside & SE 187th/188th,Eastbound stop in Gresham (Stop ID 14077),45.520247
+14077,E Burnside & SE 187th/188th,45.520247,-122.470672
 14078,E Burnside & SE 197th,45.516111,-122.460645
 14079,E Burnside & SE 197th MAX Stn (at Kaiser),45.516776,-122.461523
 14081,NW Civic Dr & Civic Dr MAX Stn,45.507648,-122.441155
@@ -6053,7 +6053,7 @@
 14148,E Burnside & SE 148th,45.522163,-122.510195
 14149,16300 Block E Burnside,45.522044,-122.495592
 14150,E Burnside & SE 172nd,45.52196,-122.485646
-14151,E Burnside & 187th/188th,Westbound stop in Gresham (Stop ID 14151),45.520676
+14151,E Burnside & 187th/188th,45.520676,-122.470697
 14152,E Burnside & NE 181st,45.522143,-122.477567
 14153,E Burnside & NE 172nd,45.52222,-122.486692
 14154,E Burnside & NE 162nd,45.522307,-122.497091
@@ -6145,8 +6145,8 @@
 14406,SW Terwilliger & Capitol Hwy,45.480463,-122.68622
 14407,SW 72nd & Cherry Dr,45.421936,-122.751657
 14408,SW Jefferson & 17th,45.517712,-122.691216
-14409,SW Main between Commercial and Scoffins,Northbound stop in Tigard (Stop ID 14409),45.431827
-14410,SW Main between Scoffins and Commercial,Southbound stop in Tigard (Stop ID 14410),45.431698
+14409,SW Main between Commercial and Scoffins,45.431827,-122.769177
+14410,SW Main between Scoffins and Commercial,45.431698,-122.769545
 14411,9200 Block SW Burnham,45.42963,-122.771621
 14412,12000 Block SW Hall,45.432686,-122.764875
 14413,SE Orient Dr & Anderson,45.478172,-122.388369
@@ -6235,7 +6235,7 @@
 14551,SE Washington & 3rd,45.521287,-122.985714
 14552,NE Veterans Dr & 34th,45.528372,-122.947246
 14553,NE Quatama & NW Sunbird,45.522125,-122.889189
-14554,W Baseline & Baseline/Jenkins,Eastbound stop in Beaverton (Stop ID 14554),45.511598
+14554,W Baseline & Baseline/Jenkins,45.511598,-122.849246
 14555,SW Jenkins & Merlo Rd,45.507516,-122.841051
 14556,SW 153rd & 154th Terrace,45.499705,-122.834875
 14557,SW Millikan Way & Rose Biggi Ave,45.489659,-122.807673
@@ -6243,7 +6243,7 @@
 14559,SW Millikan & 141st,45.493304,-122.821398
 14560,SW 153rd & 154th Terrace,45.49983,-122.834846
 14561,SW Jenkins & 158th,45.507793,-122.841123
-14562,W Baseline & Baseline/Jenkins,Westbound stop in Beaverton (Stop ID 14562),45.511896
+14562,W Baseline & Baseline/Jenkins,45.511896,-122.849203
 14563,NE Quatama & NW Sunbird,45.522325,-122.889182
 14564,NE Veterans Dr & 34th,45.528898,-122.946066
 14567,SE Linwood & Needham St,45.451592,-122.599034
@@ -6269,7 +6269,7 @@
 14592,NE Stucki & Cornell,45.5351,-122.877285
 14593,Intel Ronler Acres & Ra1 Main Lobby,45.546326,-122.911789
 14594,NE Butler & Century,45.53907,-122.909236
-14595,Intel Ronler Acres RA3 Main Lobby/The Moore Ctr,Westbound stop in Hillsboro (Stop ID 14595),45.541376
+14595,Intel Ronler Acres RA3 Main Lobby/The Moore Ctr,45.541376,-122.915074
 14596,NE Stucki & Cornell,45.534857,-122.87781
 14597,NE Walker & Stucki,45.532859,-122.879666
 14599,SE 122nd & Stephens,45.509127,-122.537841
@@ -6321,76 +6321,76 @@
 14662,3100 Block SE Orient Dr,45.47462,-122.384296
 14663,N Broadway & Wheeler,45.534805,-122.669218
 14664,2000 Block Clackamette Dr,45.369264,-122.602454
-14665,Main & McLoughlin Overpass/Clackamette Park,Westbound stop in Oregon City (Stop ID 14665),45.370437
+14665,Main & McLoughlin Overpass/Clackamette Park,45.370437,-122.601523
 14667,16300 Block SE Hwy 224,45.394224,-122.4945
 14668,5000 Block NE 105th,45.559693,-122.554656
 14670,5400 Block SE Duke,45.475904,-122.60754
 14720,27800 Block SE Orient Dr,45.471723,-122.376585
 station-105,Hawthorn Farm MAX Station,45.529966,-122.93075
-station-2551,Lincoln St/SW 3rd Ave MAX Station,,45.50792
+station-2551,Lincoln St/SW 3rd Ave MAX Station,45.50792,-122.680513
 station-123,NE 82nd Ave MAX Station,45.533349,-122.578116
-station-101,Willow Creek/SW 185th Ave TC MAX Station,,45.517246
+station-101,Willow Creek/SW 185th Ave TC MAX Station,45.517246,-122.870196
 station-125,E 162nd Ave MAX Station,45.522169,-122.496463
 station-130,Gresham Central TC MAX Station,45.502589,-122.426996
-station-1518,Lents Town Center/SE Foster Rd MAX Station,,45.480437
+station-1518,Lents Town Center/SE Foster Rd MAX Station,45.480437,-122.566808
 station-2556,SE 17th Ave & Holgate Blvd MAX Station,45.490898,-122.648507
 station-1521,SE Division St MAX Station,45.503365,-122.566624
 station-120,NE 7th Ave MAX Station,45.530103,-122.658009
 station-2555,SE 17th Ave & Rhine St MAX Station,45.497803,-122.648153
 station-137,Rose Quarter TC MAX Station,45.530145,-122.665225
-station-2559,Milwaukie/Main St MAX Station,,45.441226
-station-135,Gateway/NE 99th Ave TC MAX Station,,45.530554
+station-2559,Milwaukie/Main St MAX Station,45.441226,-122.639938
+station-135,Gateway/NE 99th Ave TC MAX Station,45.530554,-122.563602
 station-129,Gresham City Hall MAX Station,45.505834,-122.436056
 station-1522,SE Main St MAX Station,45.514256,-122.56444
 station-124,E 148th Ave MAX Station,45.52229,-122.510651
-station-84,Kenton/N Denver Ave MAX Station,,45.58386
+station-84,Kenton/N Denver Ave MAX Station,45.58386,-122.685925
 station-111,Cascades MAX Station,45.572233,-122.557995
 station-136,NE 60th Ave MAX Station,45.528627,-122.603023
-station-110,Old Town/Chinatown MAX Station,,45.524937
+station-110,Old Town/Chinatown MAX Station,45.524937,-122.67141
 station-1517,SE Flavel St MAX Station,45.467835,-122.566652
-station-112,Goose Hollow/SW Jefferson St MAX Station,,45.518113
+station-112,Goose Hollow/SW Jefferson St MAX Station,45.518113,-122.693817
 station-133,E 122nd Ave MAX Station,45.522501,-122.537763
-station-88,Interstate/Rose Quarter MAX Station,,45.530187
+station-88,Interstate/Rose Quarter MAX Station,45.530187,-122.667833
 station-90,N Prescott St MAX Station,45.555211,-122.682302
 station-1519,SE Holgate Blvd MAX Station,45.491118,-122.566272
-station-106,Washington/SE 12th Ave MAX Station,,45.521166
+station-106,Washington/SE 12th Ave MAX Station,45.521166,-122.96951
 station-102,Quatama MAX Station,45.523201,-122.888821
 station-98,Millikan Way MAX Station,45.495262,-122.821522
-station-138,Oak/SW 1st Ave MAX Station,,45.520074
+station-138,Oak/SW 1st Ave MAX Station,45.520074,-122.672346
 station-119,Convention Center MAX Station,45.530095,-122.662224
-station-2553,OMSI/SE Water MAX Station,,45.506545
+station-2553,OMSI/SE Water MAX Station,45.506545,-122.662753
 station-134,E 102nd Ave MAX Station,45.522636,-122.558279
-station-122,Hollywood/NE 42nd Ave MAX Station,,45.532864
+station-122,Hollywood/NE 42nd Ave MAX Station,45.532864,-122.621038
 station-96,Beaverton TC MAX Station,45.491513,-122.801462
 station-85,N Lombard TC MAX Station,45.577113,-122.682097
 station-143,Sunset TC MAX Station,45.510241,-122.781028
 station-1520,SE Powell Blvd MAX Station,45.495747,-122.566184
-station-2558,SE Tacoma/Johnson Creek MAX Station,,45.462807
-station-92,Delta Park/Vanport MAX Station,,45.596122
+station-2558,SE Tacoma/Johnson Creek MAX Station,45.462807,-122.637633
+station-92,Delta Park/Vanport MAX Station,45.596122,-122.685623
 station-107,Hillsboro Health District MAX Station,45.521301,-122.978373
 station-95,Beaverton Creek MAX Station,45.500417,-122.833055
 station-91,N Killingsworth St MAX Station,45.562668,-122.682243
 station-2566,Civic Drive MAX Station,45.508106,-122.44151
-station-144,Parkrose/Sumner TC MAX Station,,45.559015
+station-144,Parkrose/Sumner TC MAX Station,45.559015,-122.56562
 station-1515,SE Fuller Rd MAX Station,45.453388,-122.573617
-station-99,Merlo Rd/SW 158th Ave MAX Station,,45.505228
+station-99,Merlo Rd/SW 158th Ave MAX Station,45.505228,-122.842148
 station-2563,Tigard TC WES Station,45.430084,-122.769663
 station-93,Providence Park MAX Station,45.521577,-122.689851
 station-103,Orenco MAX Station,45.530278,-122.915833
-station-100,Elmonica/SW 170th Ave MAX Station,,45.509955
-station-108,Hillsboro Central/SE 3rd TC MAX Station,,45.521371
-station-2554,Clinton St/SE 12th Ave MAX Station,,45.502762
+station-100,Elmonica/SW 170th Ave MAX Station,45.509955,-122.851463
+station-108,Hillsboro Central/SE 3rd TC MAX Station,45.521371,-122.985261
+station-2554,Clinton St/SE 12th Ave MAX Station,45.502762,-122.653222
 station-145,Mt Hood Ave MAX Station,45.57711,-122.567146
 station-86,Rosa Parks MAX Station,45.569873,-122.682153
-station-128,Ruby Junction/E 197th Ave MAX Station,,45.516039
+station-128,Ruby Junction/E 197th Ave MAX Station,45.516039,-122.460147
 station-97,Beaverton Central MAX Station,45.490463,-122.807104
 station-126,E 181st Ave MAX Station,45.521998,-122.477108
 station-113,Washington Park MAX Station,45.510657,-122.716792
-station-104,Hillsboro Airport/Fairgrounds MAX Station,,45.526983
-station-121,Lloyd Center/NE 11th Ave MAX Station,,45.530107
+station-104,Hillsboro Airport/Fairgrounds MAX Station,45.526983,-122.946154
+station-121,Lloyd Center/NE 11th Ave MAX Station,45.530107,-122.653986
 station-2557,SE Bybee Blvd MAX Station,45.474888,-122.640029
-station-127,Rockwood/E 188th Ave MAX Station,,45.52056
-station-89,Albina/Mississippi MAX Station,,45.539555
+station-127,Rockwood/E 188th Ave MAX Station,45.52056,-122.470815
+station-89,Albina/Mississippi MAX Station,45.539555,-122.675497
 station-87,Overlook Park MAX Station,45.548709,-122.681011
-station-2552,South Waterfront/S Moody MAX Station,,45.502734
+station-2552,South Waterfront/S Moody MAX Station,45.502734,-122.671252
 station-132,E 172nd Ave MAX Station,45.522094,-122.486156
