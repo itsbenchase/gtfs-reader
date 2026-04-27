@@ -1,18 +1,11 @@
-import java.util.Scanner;
-import java.util.Arrays;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
 import java.io.*;
-import java.util.List;
-import java.util.Map;
-import java.util.HashMap;
+import java.util.*;
 import java.net.URL;
 import java.util.zip.ZipInputStream;
 import java.util.zip.ZipEntry;
 import java.time.LocalDate;
-import java.util.Comparator;
 
 // 2026 reader style update
 // version connected to the web
@@ -35,11 +28,6 @@ public class gtfs2
 
         //String zipUrl = "https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=RG";
 
-        // curent date, used for outdated service_ids
-        LocalDateTime now = LocalDateTime.now();
-        DateTimeFormatter calDateFormat = DateTimeFormatter.ofPattern("yyyyMMdd"); // date for calendar.txt
-        int calDate = Integer.parseInt(calDateFormat.format(now));
-
         // import data
         ArrayList<String> serviceIDcal = new ArrayList<String>();
         ArrayList<Integer> calStart = new ArrayList<Integer>();
@@ -57,15 +45,21 @@ public class gtfs2
             int end = Integer.MIN_VALUE;
         }
 
+        LocalDate today = LocalDate.now();
+        LocalDate sevenDaysOut = today.plusDays(7);
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyyMMdd");
+
+        int windowStart = Integer.parseInt(today.format(formatter));
+        int windowEnd = Integer.parseInt(sevenDaysOut.format(formatter));
+
+        // Set to keep track of which service IDs actually have active dates in our window
+        Set<String> activeInWindow = new HashSet<>();
         Map<String, ServiceProfile> masterMap = new HashMap<>();
-        int overallMin = Integer.MAX_VALUE;
-        int overallMax = Integer.MIN_VALUE;
 
         try {
             URL url = new URL(zipUrl);
             ZipInputStream zis = new ZipInputStream(url.openStream());
             ZipEntry entry;
-            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyyMMdd");
 
             while ((entry = zis.getNextEntry()) != null) {
                 String fileName = entry.getName();
@@ -86,20 +80,26 @@ public class gtfs2
                             thIdx = h.indexOf("thursday"); fIdx = h.indexOf("friday"); saIdx = h.indexOf("saturday"); suIdx = h.indexOf("sunday");
                             startIdx = h.indexOf("start_date"); endIdx = h.indexOf("end_date");
                         } else {
-                            String id = data[sIdx];
-                            ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
-                            
-                            // Set weekdays (1 = true)
-                            profile.activeDays[0] = data[mIdx].equals("1");
-                            profile.activeDays[1] = data[tIdx].equals("1");
-                            profile.activeDays[2] = data[wIdx].equals("1");
-                            profile.activeDays[3] = data[thIdx].equals("1");
-                            profile.activeDays[4] = data[fIdx].equals("1");
-                            profile.activeDays[5] = data[saIdx].equals("1");
-                            profile.activeDays[6] = data[suIdx].equals("1");
-                            
-                            profile.start = Math.min(profile.start, Integer.parseInt(data[startIdx]));
-                            profile.end = Math.max(profile.end, Integer.parseInt(data[endIdx]));
+                            int calStartData = Integer.parseInt(data[startIdx]);
+                            int calEndData = Integer.parseInt(data[endIdx]);
+
+                            // FILTER: Only process if the service range overlaps with our 7-day window
+                            if (calEndData >= windowStart && calStartData <= windowEnd) {
+                                String id = data[sIdx];
+                                activeInWindow.add(id); // Mark this ID as relevant
+                                ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
+                                
+                                profile.activeDays[0] = data[mIdx].equals("1");
+                                profile.activeDays[1] = data[tIdx].equals("1");
+                                profile.activeDays[2] = data[wIdx].equals("1");
+                                profile.activeDays[3] = data[thIdx].equals("1");
+                                profile.activeDays[4] = data[fIdx].equals("1");
+                                profile.activeDays[5] = data[saIdx].equals("1");
+                                profile.activeDays[6] = data[suIdx].equals("1");
+                                
+                                profile.start = Math.max(windowStart, calStartData);
+                                profile.end = Math.min(windowEnd, calEndData);
+                            }
                         }
                     }
                 }
@@ -121,44 +121,44 @@ public class gtfs2
                         } else {
                             String id = data[sIdx];
                             String rawDate = data[dIdx];
-
-                            // skip holidays
-                            if (rawDate.equals("20260525")) continue;
-                            if (rawDate.equals("20260619")) continue;
-                            if (rawDate.equals("20260704")) continue;
-                            
-                            int type = Integer.parseInt(data[eIdx]);
                             int dateVal = Integer.parseInt(rawDate);
-                            
-                            ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
-                            
-                            if (type == 1) { // Service Added
-                                LocalDate date = LocalDate.parse(rawDate, formatter);
-                                profile.activeDays[date.getDayOfWeek().getValue() - 1] = true;
-                                profile.start = Math.min(profile.start, dateVal);
-                                profile.end = Math.max(profile.end, dateVal);
-                            } 
-                            // Optional: if type == 2, you could set that specific day to false, 
-                            // but for date-based feeds, Type 1 is your primary focus.
+
+                            // FILTER: Only process exceptions that fall within our 7-day window
+                            if (dateVal >= windowStart && dateVal <= windowEnd) {
+                                // skip holidays
+                                if (rawDate.equals("20260525") || rawDate.equals("20260619") || rawDate.equals("20260704")) continue;
+
+                                int type = Integer.parseInt(data[eIdx]);
+                                ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
+                                activeInWindow.add(id);
+
+                                if (type == 1) { // Service Added
+                                    LocalDate date = LocalDate.parse(rawDate, formatter);
+                                    profile.activeDays[date.getDayOfWeek().getValue() - 1] = true;
+                                    profile.start = Math.min(profile.start, dateVal);
+                                    profile.end = Math.max(profile.end, dateVal);
+                                } else if (type == 2) { // Service Removed
+                                    LocalDate date = LocalDate.parse(rawDate, formatter);
+                                    profile.activeDays[date.getDayOfWeek().getValue() - 1] = false;
+                                }
+                            }
                         }
                     }
                 }
             }
 
-            // --- PART 3: LOAD INTO YOUR ORIGINAL ARRAYLISTS ---
-            for (Map.Entry<String, ServiceProfile> entrySet : masterMap.entrySet()) {
-                String id = entrySet.getKey();
-                ServiceProfile p = entrySet.getValue();
-                
-                serviceIDcal.add(id);
-                calStart.add(p.start);
-                calEnd.add(p.end);
-                for (int i = 0; i < 7; i++) {
-                    days[i].add(p.activeDays[i] ? "1" : "0");
+            // --- PART 3: LOAD ONLY VALID SERVICES ---
+            for (String id : activeInWindow) {
+                ServiceProfile p = masterMap.get(id);
+                if (p != null) {
+                    serviceIDcal.add(id);
+                    calStart.add(p.start);
+                    calEnd.add(p.end);
+                    for (int i = 0; i < 7; i++) {
+                        days[i].add(p.activeDays[i] ? "1" : "0");
+                    }
                 }
             }
-            System.out.println("Unified calendar data loaded.");
-
         } catch (Exception e) {
             e.printStackTrace();
         }
