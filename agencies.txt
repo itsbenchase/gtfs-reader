@@ -8,23 +8,19 @@ cal;ca-montebello;Montebello Bus Lines (Los Angeles);https://mbl.rideralerts.com
 cal;mts;MTS (San Diego);https://www.sdmts.com/google_transit_files/google_transit.zip
 cal;ca-nctd;NCTD (San Diego);https://lfportal.nctd.org/staticGTFS/google_transit.zip
 cal;ca-octa;OCTA (San Diego);https://www.octa.net/current/google_transit.zip
-
 midwest;cta;CTA (Chicago);
 midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
 midwest;pace;Pace (Chicago);
 midwest;metrowi;Metro Transit (Madison);https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
 midwest;metromsp;Metro Transit (Twin Cities);https://svc.metrotransit.org/mtgtfs/gtfs.zip
-
 midatl;njt;NJT (New Jersey);
 midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
 midatl;septa;SEPTA (Philadelphia);
 midatl;wmata;WMATA (Washington);
-
 west;kcm;King County Metro (Seattle);http://metro.kingcounty.gov/GTFS/google_transit.zip
 west;muni;Muni (San Francisco);
 west;trimet;TriMet (Portland);https://developer.trimet.org/schedule/gtfs.zip
 west;wta;WTA (Bellingham, WA);
-
 ne;ma-bat;BAT (Brockton);https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
 ne;ma-brta;BRTA (Berkshires);https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip
 ne;ma-ccrta;CCRTA (Cape Cod);https://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip
