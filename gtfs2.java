@@ -492,9 +492,9 @@ public class gtfs2
                             String rawLine = s.nextLine();
                             String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
                             cleanLine = cleanLine.replace("\"", ""); // replace quotes
-                            String [] data = cleanLine.split(",");
+                            String [] data = cleanLine.split(",", -1);
 
-                            if (typeIndex != -1 && !data[typeIndex].equals("2") && !data[typeIndex].equals("3"))
+                            if (typeIndex == -1 || data[typeIndex].isEmpty() || (!data[typeIndex].equals("2") && !data[typeIndex].equals("3")))
                             {
                                 stopID.add(data[idIndex]);
                                 stopName.add(data[nameIndex]);
