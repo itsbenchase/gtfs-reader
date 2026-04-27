@@ -2,8 +2,8 @@ cal;ca-bbb;Big Blue Bus (Santa Monica);https://gtfs.bigbluebus.com/current.zip
 cal;ca-culver;Culver CityBus (Los Angeles);https://www.culvercity.org/files/assets/public/documents/information-technology/maps/gtfsexport.zip
 cal;ca-foothill;Foothill Transit (Los Angeles);https://foothilltransit.rideralerts.com/myStop/GTFS-Zip.ashx
 cal;ca-gtrans;GTrans (Los Angeles);https://ridegtrans.com/gtfs.zip
-cal;lacmta;Metro (Los Angeles);https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip
 cal;ca-lbt;Long Beach Transit (Long Beach);https://drive.google.com/uc?export=download&id=1869EVa1z6m_iD6QmvRXyTHtYiaSUBROl
+cal;lacmta;Metro (Los Angeles);https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip
 cal;ca-montebello;Montebello Bus Lines (Los Angeles);https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx
 cal;mts;MTS (San Diego);https://www.sdmts.com/google_transit_files/google_transit.zip
 cal;ca-nctd;NCTD (San Diego);https://lfportal.nctd.org/staticGTFS/google_transit.zip
