@@ -138,7 +138,7 @@ function mapFunct() {
                 'circle-stroke-color': '#000000',
                 'circle-color': [
                     'step', ['get', 'freq'],
-                    '#cfcfcf', 0.5, '#ae00c3', 7.5, '#00fff7', 15, '#56ff34', 30, '#fcff00', 60, '#ff0725', 120, '#8d6726'
+                    '#cfcfcf', 0.5, '#ae00c3', 7.5, '#00fff7', 15.5, '#56ff34', 30.5, '#fcff00', 60.5, '#ff0725', 120.5, '#8d6726'
                 ]
             }
         });

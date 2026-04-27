@@ -38,7 +38,7 @@ function getData()
     {
       regionAgencies = agencyShort[i]; 
     }
-    document.getElementById(agencyRegion[i]).innerHTML += `<br><a class=stop href=map.html/agency?=${agencyShort[i]}>${agencyFull[i]}</a>`;
+    document.getElementById(agencyRegion[i]).innerHTML += `<br><a class=stop href=map.html?agency=${agencyShort[i]}>${agencyFull[i]}</a>`;
 
     const mapLink = document.getElementById([agencyRegion[i]] + "-map");
     if (mapLink) {
