@@ -1,0 +1,363 @@
+stop_brwk1087,Wilson / School Sts.,43.26790668,-70.86195251
+stop_brwk1090,Allen / Lord Sts. (Berwick Meadows),43.26690211,-70.8600914
+stop_brwk1093,Saw Mill Hill / Allen Sts.,43.2660657,-70.85823288
+stop_brwk1096,Saw Mill Hill / George Sts.,43.26569886,-70.86281281
+stop_brwk9121,Sullivan St. (Berwick Town Hall),43.2669542,-70.86466397
+stop_dov1007,Washington / Arch / Richmond Sts. Outbound,43.19408187,-70.88426996
+stop_dov1010,Washington / Fourth Sts.,43.19809603,-70.89101186
+stop_dov1013,Whittier St. / Pleasant View Circle (Dicicco's Market),43.20012388,-70.89521268
+stop_dov1016,Whittier St. (Dover Housing Authority),43.203733,-70.895403
+stop_dov1019,Whittier / Sixth Sts. Outbound,43.20768401,-70.89025854
+stop_dov1022,Glenwood Ave. / Whittier St.,43.21256524,-70.88976834
+stop_dov1025,Glenwood / Glencrest Aves.,43.21436163,-70.88334827
+stop_dov1065,Glenwood Ave. / Smith Well Rd.,43.21441878,-70.88338908
+stop_dov1068,Glenwood Ave. / Plaza Dr.,43.21260675,-70.88993642
+stop_dov1071,Whittier / Sixth Sts. Inbound,43.20743767,-70.89044886
+stop_dov1074,Whittier St. / Addison Place,43.20319455,-70.89652403
+stop_dov1077,Whittier St. / Tolend Rd.,43.20008929,-70.89543663
+stop_dov1080,Washington St. (My Friend's Place),43.198686,-70.892392
+stop_dov1083,Washington / Arch / Richmond Sts. Inbound,43.19398002,-70.88434168
+stop_dov2109,New Rochester Rd. (Strafford Farms Restaurant),43.22802081,-70.89536442
+stop_dov2112,New Rochester Rd. / Hotel Dr. (Weeks Crossing Plaza),43.22406048,-70.89042234
+stop_dov2118,Central Ave. / Abbott St. (Wentworth Douglas Hospital),43.21249305,-70.87527296
+stop_dov2121,Central Ave. / Ash St.,43.20693759,-70.87537571
+stop_dov2124,Central Ave. / Hough St. (U-Haul),43.20381669,-70.87566627
+stop_dov2127,Chestnut / Lincoln Sts. (Carswell Auto Parts),43.20045374,-70.87652399
+stop_dov2133,Chestnut St. (Riverview Apts. / Post Office),43.19561608,-70.87682364
+stop_dov2136,Green St. (Waldron Towers),43.19540902,-70.87837355
+stop_dov2139,Central Ave. (Dover City Hall),43.19389845,-70.87467473
+stop_dov2142,Central Ave. / Spring St.,43.1887568,-70.87414729
+stop_dov2145,Central Ave. (CVS Pharmacy),43.18607177,-70.87382772
+stop_dov2148,Stark Ave. / South Watson Ln.,43.1825432,-70.8723238
+stop_dov2151,Stark / Renaud Aves.,43.18061682,-70.87047813
+stop_dov2154,Dover Point Rd. / Elliot Park Dr.,43.17807928,-70.86864606
+stop_dov2157,Dover Point Rd. (Dover Chevrolet / Honda),43.17615068,-70.86693495
+stop_dov2160,Dover Point Rd. / Sheffield Dr.,43.17323655,-70.86177749
+stop_dov2163,Dover Point Rd. (St. Mary's Cemetery),43.1721976,-70.860162
+stop_dov2166,Dover Point Rd. / Constitution Way Southbound,43.16985645,-70.85716357
+stop_dov2169,Dover Point Rd. (Nordic Stove Shoppe),43.16777123,-70.85468235
+stop_dov2172,Dover Point Rd. (Tendercrop Farm),43.16578666,-70.8458762
+stop_dov2175,Dover Point / Middle Rds. Southbound,43.15584493,-70.84106498
+stop_dov2178,Dover Point Rd. / Evan's Dr.,43.15420743,-70.84070799
+stop_dov2184,Dover Point Rd. / New Bellamy Ln.,43.14834634,-70.83934448
+stop_dov2187,Dover Point / Roberts Rds. Southbound,43.14477699,-70.83840707
+stop_dov2190,Dover Point Rd. / Baldwin Way,43.14243429,-70.8384676
+stop_dov2193,Dover Point Rd. / Pearson Dr. Southbound,43.13799412,-70.83750562
+stop_dov2196,Dover Point Rd. / Homestead Ln. Southbound,43.13501492,-70.8361464
+stop_dov2552,Dover Point Rd. (Coastal Furniture),43.13419291,-70.83564685
+stop_dov2555,Dover Point Rd. / Homestead Ln. Northbound,43.13550333,-70.83638451
+stop_dov2558,Dover Point Rd. / Pearson Dr. Northbound,43.13803399,-70.83743264
+stop_dov2561,Dover Point Rd. / Roberta Dr.,43.1420747,-70.83839245
+stop_dov2564,Dover Point / Roberts Rds. Northbound,43.14469674,-70.83828272
+stop_dov2567,Dover Point Rd. / Riverside Dr.,43.14900862,-70.83938903
+stop_dov2573,Dover Point / Middle Rds. Northbound,43.15550279,-70.8408685
+stop_dov2576,Dover Point Rd. / Tuttle Ln.,43.16587205,-70.84582325
+stop_dov2579,Dover Point Rd. / Toftree Ln.,43.16710775,-70.85146631
+stop_dov2582,Dover Point Rd. / Constitution Way Northbound,43.16982715,-70.85699773
+stop_dov2585,Dover Point Rd. (Dover Point Office Park),43.17135098,-70.85866972
+stop_dov2588,Dover Point Rd. (Bill Dube Ford),43.17224119,-70.86006505
+stop_dov2591,Dover Point Rd. / Pointe Pl.,43.17355292,-70.86210738
+stop_dov2594,Dover Point Rd. (Weathervane Restaurant),43.17616901,-70.86671488
+stop_dov2597,Stark Ave. / Hawthorn Rd.,43.17908045,-70.86914554
+stop_dov2600,Stark Ave. / Beech Rd.,43.18186103,-70.8715342
+stop_dov2603,Central Ave. (Pine Hill Cemetary),43.18567632,-70.87360322
+stop_dov2606,Central Ave. / Union St.,43.1890386,-70.87398903
+stop_dov2609,Central Ave. (Central Towers),43.193326,-70.87383157
+stop_dov2618,Chestnut / Orchard Sts. (Cocheco Park),43.19545484,-70.87651929
+stop_dov2624,Third St. / Central Ave.,43.19837245,-70.87448951
+stop_dov2627,Central Ave. / New York St.,43.200608,-70.875503
+stop_dov2630,Central Ave. (Tasker Funeral Home),43.20357536,-70.87554197
+stop_dov2633,Central Ave. / Oak St. (Rite-Aid),43.20667475,-70.87522802
+stop_dov2636,Central Ave. (Wentworth-Douglass Hospital),43.21215736,-70.87473908
+stop_dov2642,New Rochester / Willand Pond Rds. (Applebee's),43.22359302,-70.88950373
+stop_dov2645,New Rochester Rd. / Sherman St.,43.22560469,-70.89218974
+stop_dov2648,New Rochester Rd. (Winchester Arms Apts.),43.22926925,-70.89637104
+stop_dov3010,Sixth / Grove Sts. Outbound,43.20198075,-70.87842148
+stop_dov3013,Sixth / Horne Sts. Outbound,43.2041647,-70.88231678
+stop_dov3016,Sixth St. / Hillcrest Dr.,43.20504231,-70.88391964
+stop_dov3019,Sixth / Whittier Sts. Outbound,43.20717747,-70.88985048
+stop_dov3022,Whittier St. / Wedgewood Rd. Outbound,43.211513,-70.89011027
+stop_dov3025,Glenwood Ave. / Crestview Dr. Outbound,43.21308419,-70.89418839
+stop_dov3028,Glenwood / Wilbrod Aves. Outbound,43.21322087,-70.89868311
+stop_dov3031,150 Liberty Way ON CALL,43.20993,-70.912043
+stop_dov3034,100 Liberty Way ON CALL,43.210579,-70.907441
+stop_dov3040,Members Way (Homewood Suites / Margarita's) ON CALL,43.21561058,-70.90093231
+stop_dov3043,Members Way (Wentworth-Douglass Professional Center) ON CALL,43.214316,-70.903387
+stop_dov3046,Sixth St. / Heather Ln. (Cocheco River Dialysis),43.21300616,-70.90659969
+stop_dov3049,Sixth St. / Venture Dr.,43.21662016,-70.91176465
+stop_dov3052,50 Education Way (Measured Progress) ON CALL,43.21291134,-70.91362107
+stop_dov3055,Venture Dr. (will stop anywhere along road) ON CALL,43.22698823,-70.90737241
+stop_dov3058,Sixth St. / Production Dr.,43.21794616,-70.91440273
+stop_dov3061,County Farm / Watson Rds. Outbound,43.21733644,-70.92050277
+stop_dov3064,County Farm Rd. / Erik Dr.,43.2177429,-70.92800793
+stop_dov3070,County Farm Cross / County Farm Rds.,43.21956906,-70.94018622
+stop_dov3073,County Farm Rd. (Highland Farm),43.217644,-70.9287
+stop_dov3076,County Farm / Watson Rds. Inbound,43.21728971,-70.9205447
+stop_dov3079,County Farm Rd. / Sixth St.,43.21820134,-70.91587027
+stop_dov3082,Sixth St. / Education Way,43.21659757,-70.9119086
+stop_dov3085,Sixth St. / Heather Ln.,43.21292148,-70.90664814
+stop_dov3088,Glenwood / Wilbrod Aves. Inbound,43.213239,-70.897976
+stop_dov3089,Glenwood Ave. / Crestview Dr. Inbound,43.212997,-70.894057
+stop_dov3090,Whittier St. / Wedgewood Rd. Inbound,43.210967,-70.890108
+stop_dov3092,Sixth St. / Hillside Dr.,43.20500057,-70.88396034
+stop_dov3093,Sixth / Horne Sts. Inbound,43.204111,-70.88240953
+stop_dov3094,Sixth / Grove Sts. Inbound,43.201668,-70.878059
+stop_dov8407,Silver / Rutland Sts.,43.190663,-70.882252
+stop_dov8410,Silver / Elm Sts.,43.190455,-70.877211
+stop_dov8413,Locust / Hale St. ,43.192974,-70.875452
+stop_dov8415,Knox Marsh Rd. (White Cliffs Apts.),43.17967268,-70.89691647
+stop_dov8416,Silver / Atkinson Sts.,43.190637,-70.877859
+stop_dov8419,Silver / Lexington Sts.,43.190647,-70.883014
+stop_dov8421,Knox Marsh Rd. / Trestle Way,43.18130716,-70.8927588
+stop_dov8461,Knox Marsh / Littleworth Rds.,43.18278591,-70.89131625
+stop_dov8475,Knox Marsh Rd. / Westgate Dr. (White Cliff Apartments),43.17891715,-70.9017147
+stop_dov9005,Central Ave. (Shaw's),43.2176508,-70.8807198
+stop_dov9009,Dover Transportation Center,43.19805161,-70.87813833
+stop_dov9045,Dover Point Rd. (St. Thomas Aquinas High School) Southbound,43.15232368,-70.84029138
+stop_dov9057,Dover Point Rd. (St. Thomas Aquinas High School) Northbound,43.15183825,-70.84001435
+stop_dov9137,Indian Brook Dr. (NHDOT Park & Ride - Exit 9) ON CALL,43.21335319,-70.90183217
+stop_dov9141,Strafford County Courthouse,43.22012001,-70.93853537
+stop_dov9145,Sixth / Whittier Sts. Inbound,43.20674763,-70.88869199
+stop_dov9149,Sumner Drive (COAST Offices),43.180359,-70.901139
+stop_far6004,Main St. (Old Courthouse),43.39073474,-71.06509292
+stop_far6007,Main / Charles Sts. (Memorial Park),43.394169,-71.065563
+stop_far6010,Central / Spring Sts.,43.388844,-71.067483
+stop_far6013,Central St. / Orchard Cir.,43.38846532,-71.07650331
+stop_far6016,Colonial Cir. (Trotting Park) West,43.389938,-71.084959
+stop_far6017,Colonial Cir. (Trotting Park) East,43.389659,-71.083672
+stop_far6019,High / Tappan Sts. (Rite-Aid) ON CALL,43.38502,-71.074866
+stop_far6022,NH 11 (NAPA Auto Parts),43.37721834,-71.06369407
+stop_far6025,NH 11 (Metal Farm),43.37294299,-71.05429886
+stop_far6028,NH 11 / NH 153 (Farmer's Kitchen),43.36982503,-71.04480711
+stop_far6031,NH 11 (Family Care of Farmington) Southbound,43.36337135,-71.0368762
+stop_far6131,NH 11 (Family Care of Farmington) Northbound,43.36339982,-71.03674028
+stop_far6134,NH 11 / NH 153 (Irving),43.36993735,-71.04459827
+stop_far6137,Main St. / Cocheco Rd.,43.376052,-71.044341
+stop_far6140,Main St. (Farmington Public Safety Building),43.380114,-71.048211
+stop_far6146,Main / Elm Sts.,43.387868,-71.062801
+stop_far9069,Main / Pleasant Sts.,43.38866999,-71.06440368
+stop_kty4294,Hunter Ave. / Government St.,43.085596,-70.74985
+stop_kty4296,Government St. / Old Armory Way,43.085446,-70.746899
+stop_kty4298,Walker St. ,43.087173,-70.747695
+stop_kty9021,Government St. (PNSY Gate 1),43.085787,-70.743354
+stop_ntn2223,The Crossings (Regal Cinema) Inbound,43.094557,-70.801567
+stop_ntn2528,Gosling Rd. (Gosling Meadows),43.09342897,-70.79613695
+stop_ntn2531,The Crossings (Regal Cinema) Outbound,43.09459398,-70.80206504
+stop_ntn9013,Fox Run Mall,43.0979787,-70.80487914
+stop_ports2226,Gosling / Winsor Rds. (Gosling Meadows),43.09300005,-70.79666238
+stop_ports2229,Woodbury Ave. (Verizon Wireless),43.09218525,-70.79299607
+stop_ports2235,170 Commerce Way,43.09090825,-70.7863675
+stop_ports2238,Commerce Way / Portsmouth Blvd.,43.08990869,-70.78450863
+stop_ports2241,Market St. (Courtyard Marriott),43.08420421,-70.77643712
+stop_ports2244,Market St. / I-95 Inbound,43.084193,-70.771486
+stop_ports2247,Russell / Deer Sts.,43.07922546,-70.76096422
+stop_ports2253,Hanover Station,43.07790804,-70.75891446
+stop_ports2504,Russell St. (Sheraton Harborside),43.07938097,-70.76084295
+stop_ports2507,Market St. / I-95 Outbound,43.084438,-70.771024
+stop_ports2510,Market St. / Kearsarge Way,43.08483948,-70.77534199
+stop_ports2513,Portsmouth Blvd. / Shearwater Dr.,43.08728183,-70.78433861
+stop_ports2516,215 Commerce Way,43.0899347,-70.78434763
+stop_ports2519,175 Commerce Way,43.09121732,-70.78670664
+stop_ports2525,Woodbury Ave. (Starbucks),43.09227165,-70.79276308
+stop_ports4001,Court / Chestnut Sts.,43.07487164,-70.75850241
+stop_ports4004,Court / Middle Sts.,43.07430937,-70.760095
+stop_ports4007,Middle / Summer Sts.,43.07133904,-70.76259442
+stop_ports4010,Middle / Madison Sts.,43.06926168,-70.7648489
+stop_ports4013,Middle / Cass Sts.,43.06868086,-70.76576195
+stop_ports4016,Middle St. / Aldrich Rd. Outbound,43.06747204,-70.76690972
+stop_ports4019,Middle / Lawrence Sts.,43.06580401,-70.76704058
+stop_ports4022,Lafayette Rd. / Willard Ave. Outbound,43.06329775,-70.76796067
+stop_ports4025,Lafayette Rd. (Lafayette Professional Park),43.06157872,-70.76876055
+stop_ports4028,Lafayette Rd. (Portsmouth High School) Outbound,43.05867643,-70.76953545
+stop_ports4034,Wilson Rd. (Market Basket) Outbound,43.04367265,-70.77511473
+stop_ports4037,210 West Rd. (Seacoast Family Food Pantry),43.0415815,-70.77867675
+stop_ports4040,West Rd. / Campus Dr. Outbound,43.03900112,-70.78116419
+stop_ports4043,Campus Dr. (Community Campus) ON CALL,43.04021464,-70.78628332
+stop_ports4046,West / Lafayette Rds. Outbound,43.03755218,-70.77765834
+stop_ports4049,Constitution Ave. (Portsmouth Green),43.03420769,-70.78486394
+stop_ports4055,Lafayette Rd. (Patriots Park Apts.),43.0276807,-70.79097403
+stop_ports4058,Lafayette / Ocean Rds.,43.024987,-70.794236
+stop_ports4199,Lafayette / Longmeadow Rds. ,43.025514,-70.793244
+stop_ports4201,Lafayette Rd. (Dunkin' Donuts),43.02827789,-70.79005607
+stop_ports4204,Lafayette Rd. / White Cedar Blvd.,43.03230971,-70.78540603
+stop_ports4207,Lafayette Rd. / Springbrook Cir. (Taco Bell),43.03409544,-70.78141211
+stop_ports4210,Lafayette Rd. (VIP Auto Parts),43.03658553,-70.77761687
+stop_ports4213,West / Lafayette Rds. Inbound,43.0376749,-70.77772357
+stop_ports4216,West Rd. / Campus Dr. Inbound,43.03908918,-70.78094058
+stop_ports4219,215 West Rd.,43.04174994,-70.77834668
+stop_ports4222,Wilson Rd. (Market Basket) Inbound,43.04349174,-70.77461639
+stop_ports4228,Lafayette Rd. / Ledgewood Dr.,43.05697126,-70.76963742
+stop_ports4231,Lafayette Rd. (Portsmouth High School) Inbound,43.05878177,-70.76937301
+stop_ports4234,Lafayette Rd. / South St.,43.06151634,-70.76865105
+stop_ports4237,Lafayette Rd. / Willard Ave. Inbound,43.06307099,-70.76790674
+stop_ports4240,Middle St. / Mendum Ave.,43.06528458,-70.76682459
+stop_ports4243,Middle St. / Aldrich Rd. Inbound,43.06752623,-70.76673964
+stop_ports4246,Middle / Park Sts.,43.06859896,-70.76569612
+stop_ports4249,Middle / Wibird Sts. (Middle St. Market),43.06918237,-70.76475321
+stop_ports4252,Middle St. / Miller Ave. (Margeson Apts.),43.07164847,-70.76211352
+stop_ports4255,Court / Mark Sts.,43.07435495,-70.75978387
+stop_ports4258,Court St. (Feaster Apts.),43.0747522,-70.75866828
+stop_ports4262,Pleasant St. / Junkins Ave.,43.074942,-70.756236
+stop_ports4266,Junkins / Parrott Aves.,43.073653,-70.755703
+stop_ports4270,Junkins Ave. (South Playground),43.071623,-70.755427
+stop_ports4274,Junkins Ave. (Portsmouth City Hall),43.071035,-70.753874
+stop_ports4278,Junkins Ave. / Pleasant St.,43.073921,-70.755587
+stop_ports4282,Pleasant / Court Sts.,43.075176,-70.756393
+stop_ports4286,State / Atkinson Sts.,43.076978,-70.75462
+stop_ports4306,Daniel / Chapel Sts.,43.077792,-70.754973
+stop_ports4501,Islington / Tanner Sts.,43.07544329,-70.76168368
+stop_ports4504,Islington / Brewster Sts.,43.07428086,-70.76399703
+stop_ports4507,Islington / Cornwall Sts.,43.07368474,-70.76524723
+stop_ports4510,Islington / Salem Sts.,43.07284062,-70.76715337
+stop_ports4513,Islington / Cass Sts. Outbound,43.07160802,-70.76996385
+stop_ports4519,Bartlett St. / Meredith Way,43.073159,-70.77485
+stop_ports4522,Dennett St. / Woodbury Ave.,43.07417142,-70.77733264
+stop_ports4525,Woodbury Ave. (Woodbury Manor),43.072402,-70.775826
+stop_ports4526,Cottage St. (Portsmouth Senior Center) Outbound,43.070737,-70.777387
+stop_ports4528,Borthwick Ave. (Fairfield Inn Marriott) Outbound,43.06846033,-70.78070744
+stop_ports4531,Borthwick Ave. (Portsmouth Hospital Parking Lot),43.06444868,-70.78814003
+stop_ports4537,Borthwick Ave. (Liberty Mutual) Outbound,43.0630749,-70.79158366
+stop_ports4540,155 Borthwick Ave. Outbound,43.06148783,-70.79352736
+stop_ports4543,Borthwick Ave. (High Liner Foods),43.05960697,-70.79602562
+stop_ports4549,Grafton Dr. / Sherburne Rd.,43.0667996,-70.80714555
+stop_ports4552,Grafton / Corporate Drs. Outbound,43.07095573,-70.80182186
+stop_ports4555,Corporate Dr. (Great Bay Community College),43.071701,-70.798656
+stop_ports4558,360 Corporate Dr.,43.07292182,-70.80174989
+stop_ports4561,195 / 222 New Hampshire Ave. Outbound,43.07513597,-70.80359838
+stop_ports4564,New Hampshire / Rochester Aves. Outbound ,43.076616,-70.80589409
+stop_ports4567,New Hampshire Ave. / Newfields St. Outbound,43.07841457,-70.80804584
+stop_ports4570,New Hampshire Ave. / Stratham St. Outbound,43.082054,-70.809195
+stop_ports4573,Pease Airline Terminal,43.08245089,-70.81705717
+stop_ports4701,New Hampshire Ave. / Stratham St. Inbound,43.08224472,-70.80951998
+stop_ports4703,New Hampshire Ave. / Newfields St. Inbound,43.078813,-70.806719
+stop_ports4706,New Hampshire / Rochester Aves. Inbound,43.076867,-70.805158
+stop_ports4710,195 / 222 New Hampshire Ave. Inbound,43.0749488,-70.80355801
+stop_ports4713,Corporate Dr. / Durham St.,43.07331453,-70.80225343
+stop_ports4719,Grafton / Corporate Drs. Inbound,43.07090667,-70.80208902
+stop_ports4722,Grafton Dr. (Port City Air),43.06677348,-70.80740972
+stop_ports4725,Borthwick Ave. (Northeast Credit Union),43.05959071,-70.79578873
+stop_ports4728,Borthwick / Highliner Aves.,43.06108435,-70.79374966
+stop_ports4731,Borthwick Ave. (Liberty Mutual) Inbound,43.06290982,-70.79152986
+stop_ports4737,Borthwick Ave. (Fairfield Inn Marriott) Inbound,43.06846126,-70.78038967
+stop_ports4739,Cottage St. (Portsmouth Senior Center) Inbound,43.070749,-70.777165
+stop_ports4740,Cottage St. / Woodbury Ave.,43.07185237,-70.77513001
+stop_ports4748,Islington / Cass Sts. Inbound,43.07155315,-70.76988237
+stop_ports4751,Islington / Union Sts.,43.07260065,-70.76743306
+stop_ports4754,Islington St. (Goodwin Park),43.07349236,-70.76548151
+stop_ports4757,Islington / Summer Sts.,43.07435025,-70.76372249
+stop_ports4760,Islington St. (Keefe House),43.07532104,-70.76176222
+stop_ports9017,Market Square,43.07700289,-70.75790612
+stop_ports9049,Commerce Way (Marshalls Plaza) Inbound,43.08995996,-70.78922776
+stop_ports9053,Commerce Way (Marshalls Plaza) Outbound,43.09009369,-70.78927287
+stop_ports9081,Lafayette Rd. (Cross Roads House),43.05612136,-70.77010879
+stop_ports9085,Lafayette Rd. (WalMart),43.03348979,-70.78846532
+stop_ports9089,Lafayette Rd. (Hillcrest Estates),43.02275239,-70.79523976
+stop_ports9093,Lafayette Rd. (Lafayette Plaza / Lens Doctors),43.05465268,-70.76990701
+stop_ports9097,Islington St. (Plaza 800),43.06850416,-70.77160158
+stop_ports9101,Borthwick Ave. (Portsmouth Regional Hospital),43.06434111,-70.78962054
+stop_ports9105,Portsmouth Transportation Center,43.05946509,-70.80377164
+stop_roch2040,Wakefield St. / Community Way,43.31605907,-70.97736101
+stop_roch2043,Wakefield St. (Spaulding High School) Southbound,43.312496,-70.977606
+stop_roch2046,Wakefield / Union Sts.,43.306972,-70.97672
+stop_roch2049,South Main St. (Rochester Public Library),43.30185347,-70.97373025
+stop_roch2052,South Main / Lincoln Sts.,43.29973571,-70.97100425
+stop_roch2058,Rochester Hill Rd. (Rochester Professional Park) Southbound,43.29351753,-70.95552421
+stop_roch2061,Rochester Hill Rd. / Ryan Cir.,43.29232976,-70.9534301
+stop_roch2064,Rochester Hill Rd. / Nola Ave.,43.29080176,-70.95048706
+stop_roch2067,Rochester Hill Rd. (Hi-Vu Motor Inn) Southbound,43.28576226,-70.94111531
+stop_roch2070,Rochester Hill Rd. / Windhaven Dr. (Rochester Hill Professional Bldg.),43.28448866,-70.93592355
+stop_roch2072,Rochester Hill Rd. (Homemakers) Southbound,43.282812,-70.932917
+stop_roch2073,Rochester Hill Rd. (Skyhaven Airport) Southbound,43.2808083,-70.92835813
+stop_roch2076,Rochester Hill Rd. (So'Field Apts.),43.27789146,-70.92185357
+stop_roch2079,Rochester Hill Rd. (Profile Apts.) Southbound,43.27476946,-70.91554994
+stop_roch2082,Rochester Hill Rd. / Quail Dr.,43.2733684,-70.91339495
+stop_roch2678,Rochester Hill / Haven Hill Rds.,43.272776,-70.912414
+stop_roch2681,Rochester Hill Rd. (Profile Apts.) Northbound,43.27486193,-70.91550596
+stop_roch2684,Rochester Hill Rd. (Granite State Business Park),43.27808411,-70.92187409
+stop_roch2687,Rochester Hill Rd. (Skyhaven Airport) Northbound,43.28105426,-70.92873653
+stop_roch2688,Rochester Hill Rd. (Homemakers) Northbound,43.282732,-70.932495
+stop_roch2690,Rochester Hill Rd. / Windhaven Dr.,43.28426215,-70.93527392
+stop_roch2693,Rochester Hill Rd. (Hi-Vu Motor Inn) Northbound,43.28550109,-70.9399951
+stop_roch2694,Rochester Hill Rd. (Collonade Apts.),43.29072443,-70.95016345
+stop_roch2696,Rochester Hill Rd. / Cornerstone Ct.,43.29233654,-70.95320471
+stop_roch2699,Rochester Hill Rd. (Rochester Professional Park) Northbound,43.29358848,-70.95544972
+stop_roch2705,South Main / Linden Sts. (AutoZone),43.29987888,-70.97091056
+stop_roch2708,South Main St. (Bank of America),43.30251178,-70.97417727
+stop_roch2711,Wakefield St. (Rochester City Hall),43.30518695,-70.97601535
+stop_roch2714,Wakefield St. (Spaulding High School) Northbound,43.312628,-70.977412
+stop_roch2717,Wakefield St. (Lilac Plaza),43.31558301,-70.97734255
+stop_roch2728,Washington St. / Madison Ave. Southbound,43.304406,-70.985245
+stop_roch2692,Rochester Hill Rd. / Empire Ct. Northbound,43.28946499,-70.94799656
+stop_roch2065,Rochester Hill Rd. / Empire Ct. Southbound,43.28936737,-70.94799119
+stop_roch2730,Washington / Chasse Sts. Southbound,43.301491,-70.988098
+stop_roch2732,Washington / Duquette Sts. Southbound,43.298859,-70.990704
+stop_roch2734,Washington / Brock Sts. Northbound,43.297192,-70.992279
+stop_roch2736,Washington / Chasse Sts. Northbound,43.301277,-70.98813
+stop_roch2738,Washington St. / Madison Ave. Northbound,43.303965,-70.985505
+stop_roch6034,Farmington Rd. (Lilac City Pediatrics) Southbound,43.3433754,-71.02055671
+stop_roch6037,Sterling Dr. (Strafford County Dialysis) ON CALL,43.338186,-71.010476
+stop_roch6043,The Ridge Marketplace Southbound,43.3327,-71.0092
+stop_roch6046,Farmington Rd. (Northgate Apts.),43.32653493,-71.00329088
+stop_roch6049,Farmington Rd. / Cardinal Dr.,43.32276783,-70.99955178
+stop_roch6052,North Main St. (Spaulding Commons),43.3132004,-70.99451911
+stop_roch6055,North Main St. / Cushing Blvd. (Burger King),43.30896668,-70.9899313
+stop_roch6058,North Main St. (Holy Rosary Parish) Southbound,43.30600762,-70.98534205
+stop_roch6061,North Main / Pine Sts.,43.305438,-70.980539
+stop_roch6101,North Main St. / Cove Ct.,43.3053895,-70.98137
+stop_roch6104,North Main St. (Holy Rosary Parish) Northbound,43.30613608,-70.98528803
+stop_roch6107,North Main St. / Fortier Dr.,43.30902307,-70.98988314
+stop_roch6110,North Main St. (Pizza Hut / Dunkin' Donuts),43.31326574,-70.99430353
+stop_roch6113,Farmington Rd. (Greenwood Inn),43.32256857,-70.99914261
+stop_roch6116,Farmington Rd. (Cocheco River Estates),43.326609,-71.003015
+stop_roch6119,The Ridge Marketplace Northbound,43.33253512,-71.00888659
+stop_roch6128,Farmington Rd. (Lilac City Pediatrics) Northbound,43.34326081,-71.02026364
+stop_roch8551,Rochester Park & Ride,43.29260682,-71.00044906
+stop_roch9001,Lilac Mall,43.31884948,-70.9732054
+stop_roch9037,Rochester Hill Rd. (Frisbie Memorial Hospital) Southbound,43.29686731,-70.96149462
+stop_roch9065,Rochester Hill Rd. (Frisbie Memorial Hospital) Northbound,43.29708267,-70.96158994
+stop_roch9073,Farmington Rd. (Walmart),43.33434641,-71.01269882
+stop_som1033,High St. (Tri-City Plaza #140),43.22693309,-70.88170549
+stop_som1036,High St. (Goodwill),43.23100421,-70.8821443
+stop_som1042,High St. (Target) ON CALL,43.23466635,-70.88448011
+stop_som1045,High St. (Holy Trinity Church),43.23736365,-70.88040889
+stop_som1048,High St. / Stackpole Rd.,43.24010374,-70.8785054
+stop_som1051,High / Laurier Sts.,43.24471633,-70.87598425
+stop_som1054,High St. / Indigo Hill Rd. (CVS Pharmacy),43.24834166,-70.87344313
+stop_som1056,High St. (Dollar Tree),43.23123,-70.882393
+stop_som1057,High St. / Bartlett Ave. Northbound,43.25000136,-70.87227644
+stop_som1060,High / Horne Sts. (Cumberland Farms),43.2531472,-70.87050248
+stop_som1072,High St. / Government Way (City Hall),43.262525,-70.864676
+stop_som1075,Market St. (Borderline Beverage),43.26522395,-70.86465182
+stop_som1102,High St. (VFW / City Hall),43.26272443,-70.86478416
+stop_som1136,Franklin / High Sts. Northbound,43.255179,-70.868746
+stop_som1137,Franklin / Garden Sts. Northbound,43.255943,-70.866922
+stop_som1138,High / Horne Sts.,43.25303749,-70.87067597
+stop_som1139,Franklin / Green Sts. Northbound,43.257191,-70.86388
+stop_som1140,Green / Washington Sts. Northbound,43.260205,-70.864138
+stop_som1141,High St. / Bartlett Ave. Southbound,43.2500031,-70.87238487
+stop_som1144,High St. / Blackwater Rd.,43.24834313,-70.87356288
+stop_som1147,High St. (Seacoast Redicare),43.24463326,-70.87616374
+stop_som1150,High St. / Washburn Ct.,43.23998818,-70.87871066
+stop_som1153,High / Bernier Sts.,43.23796777,-70.88027426
+stop_som2085,NH 108 (Tire Warehouse),43.26891491,-70.90995077
+stop_som2088,NH 108 / Interstate Dr. (Industrial Park),43.26140457,-70.90486984
+stop_som2094,NH 108 / Pinewood Dr.,43.25379391,-70.8985023
+stop_som2098,NH 108 / 2nd Ave.,43.24759,-70.900121
+stop_som2103,NH 108 (Women's Life Imaging Center),43.24169978,-70.89840993
+stop_som2106,NH 108 (Coastal Neurology),43.23582861,-70.89795133
+stop_som2651,NH 108 (Midway Buick),43.23582437,-70.89779539
+stop_som2654,NH 108 / Terrascape Pkwy.,43.24281468,-70.89840207
+stop_som2657,NH 108 / Blackwater Rd. (Key Auto),43.2459512,-70.89938017
+stop_som2660,NH 108 (Marsh Brook Professional Center),43.24953143,-70.90005304
+stop_som2663,NH 108 / Clark Way,43.2514406,-70.89921438
+stop_som2666,NH 108 (Keystone Dental),43.25443618,-70.89844706
+stop_som2672,NH 108 (Buster's Billiards),43.26240668,-70.90510093
+stop_som2675,NH 108 (Kelley's Row),43.26911139,-70.90994179
+stop_som8388,High / Noble Sts.,43.259132,-70.867041
+stop_som8393,High St. / Memorial Dr.,43.255487,-70.869144
+stop_som9041,NH 108 (Barclay Square),43.25788688,-70.902348
+stop_som9061,NH 108 (Goodwin Community Health),43.25777018,-70.90196749
+stop_som9117,High St. (WalMart),43.23437266,-70.87981243
+stop_som9125,Market / Winter Sts. (Stateline Minimart),43.26516849,-70.8647904
+stop_dov3066,County Farm Rd. (Pope Memorial Humane Society),43.21859681,-70.93441756
+stop_ports4053,Heritage Ave. (Gather) LIMITED SERVICE,43.034651,-70.796801

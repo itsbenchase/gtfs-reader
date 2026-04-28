@@ -1,3 +1,4 @@
+cal;ca-ac;AC Transit (Oakland);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=AC
 cal;ca-bbb;Big Blue Bus (Santa Monica);https://gtfs.bigbluebus.com/current.zip
 cal;ca-culver;Culver CityBus (Los Angeles);https://www.culvercity.org/files/assets/public/documents/information-technology/maps/gtfsexport.zip
 cal;ca-foothill;Foothill Transit (Los Angeles);https://foothilltransit.rideralerts.com/myStop/GTFS-Zip.ashx
@@ -6,7 +7,7 @@ cal;ca-lbt;Long Beach Transit (Long Beach);https://drive.google.com/uc?export=do
 cal;lacmta;Metro (Los Angeles);https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip
 cal;ca-montebello;Montebello Bus Lines (Los Angeles);https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx
 cal;mts;MTS (San Diego);https://www.sdmts.com/google_transit_files/google_transit.zip
-cal;muni;Muni (San Francisco);
+cal;muni;Muni (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SF
 cal;ca-nctd;NCTD (San Diego);https://lfportal.nctd.org/staticGTFS/google_transit.zip
 cal;ca-octa;OCTA (San Diego);https://www.octa.net/current/google_transit.zip
 midwest;cta;CTA (Chicago);
@@ -14,6 +15,7 @@ midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
 midwest;pace;Pace (Chicago);
 midwest;metrowi;Metro Transit (Madison);https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
 midwest;metromsp;Metro Transit (Twin Cities);https://svc.metrotransit.org/mtgtfs/gtfs.zip
+midwest;ridekc;RideKC (Kansas City);https://www.kc-metro.com/gtf/google_transit.zip
 midatl;cdta;CDTA (Albany, NY);https://www.cdta.org/schedules/google_transit.zip
 midatl;nfta;NFTA (Buffalo, NY);https://metro.nfta.com/__googletransit/google_transit.zip
 midatl;njt;NJT (New Jersey);
@@ -31,10 +33,13 @@ west;trimet;TriMet (Portland);https://developer.trimet.org/schedule/gtfs.zip
 west;wta;WTA (Bellingham, WA);
 ne;ma-bat;BAT (Brockton);https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
 ne;ma-brta;BRTA (Berkshires);https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip
+ne;bsoob;BSOOB (Maine);https://gtfs.remix.com/bsoob_transit_biddeford_me_us.zip
 ne;ma-ccrta;CCRTA (Cape Cod);https://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip
+ne;nh-coast;COAST (Portsmouth);https://coastbus.org/sites/default/files/google_transit/google_transit.zip
 ne;cttransit;CTtransit (Connecticut);
 ne;ma-frta;FRTA (Greenfield);https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip
 ne;ct-gbt;GBT (Bridgeport, CT);https://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip
+ne;gpm;Greater Portland Metro (Portland);https://gtfs.gptd.cadavl.com/GPTD/GTFS/GTFS_GPTD.zip
 ne;lrta;LRTA (Lowell);
 ne;mbta;MBTA (Boston);
 ne;meva;MeVA (Lawrence / Haverhill);
