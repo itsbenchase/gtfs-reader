@@ -1,0 +1,1322 @@
+1,Bremerton Transportation Center (BTC),47.562924,-122.625043
+10,Harper Church Park & Ride (Sedgwick at Wilson Creek),47.504435,-122.515672
+100,Old Creosote at Bill Point,47.614154,-122.503179
+1000,Hwy 305 at Delate,47.715468,-122.614669
+1001,Hwy 305 at Seminole,47.713563,-122.611540
+1002,Hwy 305 at Lemolo Shore,47.707220,-122.601500
+1003,Hwy 305 at Cedar Glen RV Park,47.705845,-122.595826
+1004,Perry Ave at Mt. View Middle School,47.582442,-122.613578
+1005,Hwy 305 at Masi Shop,47.708382,-122.583836
+1006,Hwy 305 at Suquamish Way,47.713828,-122.570026
+1007,Hwy 305 at Adas Will,47.705398,-122.560475
+1008,Hwy 305 at Seabold,47.700613,-122.557616
+1009,Hwy 305 at Hidden Cove,47.690638,-122.551358
+101,Eagle Harbor at Rose,47.614139,-122.521246
+1010,Hwy 305 at Day,47.680265,-122.540308
+1011,Hwy 305 at Lovgreen,47.672436,-122.532594
+1012,Hwy 305 at Koura,47.664770,-122.527082
+1013,Hwy 305 at Sportsman club,47.653039,-122.523499
+1014,Hwy 305 at Madison,47.643825,-122.519340
+1015,Magnuson at Perry Ave,47.583886,-122.614598
+1016,Hwy 305 at High School,47.636376,-122.515613
+1017,Bainbridge Island Ferry Terminal,47.623693,-122.511537
+1018,208 High School Road,47.635853,-122.519218
+1019,New Brooklyn at Northtown,47.642989,-122.527259
+1020,Madison at Ordway Elementary,47.640699,-122.521103
+1021,High School at Safeway,47.635673,-122.519248
+1022,Winslow Way at Ericksen (Town & Country),47.624890,-122.518388
+1023,Madison at City Hall,47.626407,-122.520903
+1024,Madison at Knechtel,47.630233,-122.520893
+1025,Magnuson at Fir,47.583896,-122.616414
+1026,Madison at Wallace,47.631955,-122.520911
+1027,Madison at High School,47.634930,-122.520927
+1028,High School at Grow,47.635901,-122.524631
+1029,High School at Commodore,47.635908,-122.527889
+103,Tolo at Battlepoint,47.653915,-122.579713
+1030,High School at Capstan,47.635941,-122.530228
+1031,Bethany Lutheran Park & Ride,47.634351,-122.536979
+1032,High School at Weaver,47.635811,-122.531384
+1033,High School at Commodore,47.635719,-122.527555
+1034,High School at Grow,47.635793,-122.524880
+1035,High School at Madison,47.635699,-122.522881
+1036,Magunson at Schley,47.583971,-122.618037
+1037,Madison at High School Rd,47.634930,-122.521091
+1038,Madison at Wallace,47.631875,-122.521115
+1039,Madison at Knechtel,47.630248,-122.521114
+104,New Brooklyn at Madison,47.642952,-122.521287
+1040,Madison at Madrona,47.627737,-122.521143
+1041,Madison at Winslow Way (Across from City Hall),47.626151,-122.521146
+1042,Hwy 305 at Day Rd,47.679573,-122.539229
+1043,Hwy 305 at Madison,47.644252,-122.519408
+1044,Hwy 305 at Manitou Beach,47.653704,-122.523163
+1045,Winslow Way at Town & Country Market,47.624781,-122.518322
+1046,Wyatt at Cosgrove,47.628517,-122.530184
+1047,Schley at Callahan,47.584934,-122.618894
+1048,Wallace at Blue Herron,47.632082,-122.519459
+1049,American Legion Park & Ride,47.621464,-122.543645
+105,Koura at Meadowmeer Cir,47.664871,-122.540546
+1050,Hwy 305 at Suquamish Way,47.714052,-122.570581
+1051,Suquamish Way at Hwy 305,47.714647,-122.570606
+1052,Suquamish Way at Whale Dancer,47.722491,-122.569005
+1053,Suquamish Way at Division,47.728780,-122.559488
+1054,Division at Geneva (Suq Way P&R),47.733376,-122.558166
+1055,Miller Bay at Barrett,47.748837,-122.562249
+1056,Miller Bay at Lincoln,47.753244,-122.562544
+1057,Miller Bay at Sid Price,47.760327,-122.562060
+1058,Schley at Sheridan,47.588078,-122.618759
+1059,George's Corner Park & Ride,47.812379,-122.540343
+106,E. 11th St at Ironsides,47.570265,-122.611628
+1060,Hwy 104 at Barber Cutoff,47.808385,-122.518104
+1061,Hwy 104 at Myrtle,47.804097,-122.507601
+1062,Hwy 104 at Lindvog,47.802682,-122.503690
+1063,Hwy 104 at Arco AM/PM Station,47.801751,-122.501482
+1064,Hwy 104 at 2nd,47.800102,-122.498835
+1065,Sheridan at Callahan,47.588239,-122.616520
+1066,Hwy 104 at Bannister,47.801263,-122.499623
+1067,Hwy 104 at Grocery Outlet,47.802037,-122.501649
+1068,Hwy 104 at Myrtle,47.804326,-122.507311
+1069,Miller Bay at Quail Tr,47.760366,-122.562231
+107,Koura at Miller,47.664958,-122.556356
+1070,Miller Bay at Lincoln,47.753215,-122.562699
+1071,Augusta at Geneva,47.733552,-122.552500
+1072,Geneva at Division,47.733452,-122.558187
+1073,Suquamish Way & Division,47.728559,-122.560510
+1074,Suquamish Way at Totten,47.722410,-122.569493
+1075,Sheridan at Perry Ave,47.588181,-122.614389
+1076,Ridgetop at Hillsboro,47.659592,-122.670169
+1077,Hwy 305 at Sandy Hook,47.711316,-122.578683
+1078,Hwy 305 at Cedar Glen RV Park,47.705995,-122.594940
+108,Manzanita at Day Rd,47.679264,-122.560981
+1080,Hwy 305 at Creative Dr,47.708783,-122.603614
+1081,Hwy 305 at Seminole,47.713636,-122.611372
+1082,Hwy 305 at Noll,47.715977,-122.615157
+1083,Hwy 305 at Johnson,47.719633,-122.621782
+1084,Hwy 305 at Baywatch,47.723392,-122.630952
+1085,Warren at 6th St.,47.566920,-122.632806
+1086,Perry Ave at 30th St.,47.590429,-122.613384
+1087,Fred Meyer,47.609570,-122.629040
+1088,Silverdale Way at Bennington Dr,47.687591,-122.669680
+1089,Viking Ave at Hwy 308,47.705070,-122.660039
+109,Hansen at Sunset,47.638895,-122.577610
+1090,Viking Ave at Sherman Hill,47.730585,-122.663958
+1091,Viking Way Ave at Hwy 308,47.704980,-122.660288
+1092,Poulsbo Junction Park & Ride,47.746916,-122.654898
+1093,Viking Ave at Hallman Rd,47.717466,-122.659941
+1094,Ridgetop at Pinnacle,47.674586,-122.667745
+1095,Viking Way at Lark Ln,47.718053,-122.659740
+1096,Viking Ave at Liberty,47.741740,-122.657494
+1097,Perry Ave at Denny,47.592950,-122.613303
+1098,Gateway Fellowship Park & Ride (8th Ave. at Hostmark),47.733682,-122.640226
+1099,Front at Jensen,47.742493,-122.649763
+11,Southworth at Olympiad,47.516463,-122.516907
+110,Miller at Tolo,47.653655,-122.562568
+1100,Lincoln Dr at 10th Ave.,47.737041,-122.635231
+1101,Lincoln Dr at 12th Ave.,47.737301,-122.632732
+1102,Lincoln Rd at Caldart,47.738544,-122.628393
+1103,Caldart at Mesford,47.737375,-122.628021
+1104,Hostmark & 11th Ave.,47.733429,-122.635066
+1105,Hostmark & Caldart,47.733508,-122.629521
+1106,Caldart at Mesford,47.737329,-122.627756
+1107,Lincoln & Caldart,47.738528,-122.628913
+1108,Perry at Sylvan Way,47.595136,-122.613232
+1109,Lincoln & 12th Ave.,47.737464,-122.632955
+111,Grand & Park,47.633159,-122.496990
+1110,Hostmark at Caldart,47.733695,-122.629684
+1111,Hostmark at 11th Ave.,47.733572,-122.634404
+1112,Lincoln & 10th Ave.,47.737181,-122.635297
+1113,Hwy 305 at Lincoln,47.737466,-122.637819
+1114,Viking Way at Anderson Ln NW,47.735555,-122.661626
+1115,Viking Way at Anderson Lane NW,47.735283,-122.662022
+1116,Jensen Way at Iverson St,47.737585,-122.646872
+1117,7th Ave at Liberty,47.741176,-122.640082
+1118,Iverson St at Library,47.736293,-122.640345
+1119,Sylvan Way at Forest,47.595697,-122.615849
+112,Indianola at View Ridge,47.754329,-122.539052
+1120,Front at Sunset,47.739035,-122.649148
+1123,Lindvig Way at 3rd Ave,47.747153,-122.653109
+1124,Jensen Way at Iverson St,47.737367,-122.646706
+1125,Viking Ave at Finn Hill,47.746872,-122.655281
+1126,Viking Ave at Edvard,47.743620,-122.656655
+1127,Lindvig Way at 3rd Ave,47.746987,-122.653343
+1128,Sylvan Way at Harbel,47.595680,-122.619847
+1129,Olhava Way at Walmart,47.756461,-122.659874
+113,Madison at Manitou Beach,47.654049,-122.521280
+1130,Viking Ave at Edvard,47.744081,-122.656023
+1131,Viking Ave at Sherman Hill,47.730369,-122.664210
+1132,Kitsap Way at Pershing,47.568153,-122.670001
+1133,Viking Ave at Nordic Cove,47.721643,-122.660487
+1134,Mile Hill at Wolves Road,47.533906,-122.622603
+1135,Mile Hill at Jackson,47.533906,-122.608040
+1136,Mile Hill at Harrison,47.533922,-122.602025
+1137,Mile Hill at Village Ln,47.533971,-122.594732
+1138,Sylvan Way at Almira,47.595658,-122.623572
+1139,Mile Hill at Baby Doll,47.533939,-122.590457
+114,Sunrise at Valley,47.664939,-122.510186
+1140,Mile Hill at Saddle Club (Long Lake Rd),47.533887,-122.583249
+1141,Mile Hill at Woods,47.533914,-122.568916
+1142,Mile Hill at Nebraska,47.533950,-122.562205
+1143,California at Legrand,47.534461,-122.556865
+1144,California at Cleveland,47.538431,-122.556814
+1145,California at Fillmore,47.541194,-122.556750
+1146,California at Polk,47.542892,-122.556696
+1147,California at Van Buren,47.544692,-122.556664
+1148,California at Raintree,47.546680,-122.556671
+1149,Almira Dr at Spruce,47.597195,-122.623877
+115,Sunrise at Torvanger,47.690266,-122.510240
+1150,California at Stanley,47.550274,-122.556619
+1151,Chester at Madrone,47.553416,-122.554044
+1152,Madrone at Alaska,47.553371,-122.551082
+1153,Colchester at Main (Post Office),47.554942,-122.545235
+1154,Colchester at Puget,47.551992,-122.544181
+1155,Colchester at Miracle Mile,47.548687,-122.542313
+1156,Colchester at Prichard,47.545821,-122.541493
+1157,Colchester at Perelli,47.542700,-122.541513
+1158,Colchester at Haida,47.540159,-122.542463
+1159,Colchester after Yukon Harbor Rd,47.536061,-122.546237
+116,Phelps at Day,47.679404,-122.538589
+117,Baker Hill at Lynwood,47.606882,-122.548108
+118,Wyatt Way at Grow,47.628610,-122.525281
+119,Blakely at Bucklin,47.621219,-122.541489
+12,Southworth at Cornell,47.522517,-122.529157
+1203,Riddell at Fred Meyer,47.606937,-122.626327
+1204,Riddell at Fred Meyer,47.606799,-122.627254
+1205,Anderson Hill Rd at Bucklin Hill Rd,47.649005,-122.698493
+1206,Silverdale Way at Spirit Ridge,47.683451,-122.672330
+1207,Silverdale Way at Westridge,47.680592,-122.673974
+1208,Silverdale Way at Vasquez,47.676726,-122.676166
+1209,Silverdale Way at Schold,47.673590,-122.677979
+121,Kitsap Way at Pershing,47.568408,-122.670109
+1210,Silverdale Way at Nuthatch Way,47.670382,-122.679823
+1211,Silverdale Way at Woodbridge,47.668269,-122.680993
+1212,Sportsman Club at NE Business Park Ln,47.648432,-122.525902
+1213,Sportsman Club at NE Business Park Ln,47.648120,-122.525828
+1214,Riddell Rd at Prospector,47.606759,-122.633303
+1215,Silverdale Transit Center (STC),47.655430,-122.671430
+1216,St. Michael Medical Center,47.656247,-122.674756
+1217,Greaves Way at Pacific Crest,47.664631,-122.694266
+1218,Greaves Way at Clear Creek,47.664902,-122.694244
+1219,Greaves Way at Old Frontier,47.659804,-122.702757
+1220,Silverdale Way at Ridgetop,47.653602,-122.690485
+1221,Silverdale Way at Ridgetop,47.653623,-122.690848
+1222,Mickelberry at Ridgetop,47.655680,-122.682171
+1223,Mickelberry at Ridgetop,47.655578,-122.682371
+1224,Nels Nelson at Fairgrounds,47.632633,-122.660789
+1225,Nels Nelson at Fairwood,47.636578,-122.660837
+1226,Nels Nelson at Creekside,47.642862,-122.660860
+1227,Nels Nelson at Silver,47.646702,-122.660881
+1228,Bucklin Hill at Marissa Ln,47.650523,-122.665431
+1229,Bucklin Hill at Spinnaker,47.650532,-122.670202
+123,Wyatt at Madison,47.628596,-122.521539
+1230,Bucklin Hill at Richardson,47.650525,-122.673248
+1231,1st at Auto Center Way,47.563558,-122.679830
+1232,Silverdale Way at Randall,47.662137,-122.684642
+1233,Silverdale Way at Woodbridge,47.667809,-122.681094
+1234,Silverdale Way at Nuthatch Way,47.670355,-122.679608
+1235,Silverdale Way at Schold,47.673588,-122.677769
+1236,Silverdale Way at Westridge,47.680074,-122.673958
+1237,Silverdale Way at Spirit Ridge,47.682940,-122.672214
+1238,Silverdale Way at Randall,47.661551,-122.684619
+1239,PSNS Main Gate,47.563486,-122.627138
+1240,Charleston Gate,47.558807,-122.652471
+1241,Tracyton Blvd at Gillespie Way,47.624236,-122.671602
+1243,Central Valley Rd at San Juan,47.635058,-122.650199
+1244,Grand Pine Loop at McWilliams Rd,47.621499,-122.646674
+1245,Old Military Rd at Foster,47.641038,-122.637328
+1246,PSNS Main Gate,47.563463,-122.627141
+1249,Tracyton Blvd at Gillespie Way,47.624318,-122.671430
+125,Oddfellows at W. Blakely,47.598319,-122.536397
+1250,Pitt Ave at E 10th St,47.569951,-122.615792
+1251,Madison at Wyatt,47.628959,-122.520897
+1258,Pitt Ave & E. 10th St,47.569778,-122.615348
+126,Wheaton Way at Grocery Outlet,47.605274,-122.628893
+1263,Luoto at Bangor Main Gate,47.701015,-122.694225
+1264,Luoto at Bangor Main Gate (Outside),47.701274,-122.694217
+1265,Miller Bay at Indianola Rd,47.775428,-122.555736
+1266,Burley Bible Church P&R,47.415384,-122.624719
+1267,Bethel Burley Rd at Oak Rd,47.428998,-122.630993
+1268,10474 Bethel Burley Rd,47.451808,-122.631102
+1269,10475 Bethel Burley Rd,47.451898,-122.631259
+1270,Silver Rd at Oneida Cir,47.646873,-122.667058
+1271,Tracyton Blvd at Casa Montessori,47.629664,-122.671516
+1272,Sylvan at Wheaton Way,47.595563,-122.629825
+1274,Hunter Rd at Hunter Ln,47.417776,-122.706298
+1275,Hunter Rd at Hunter Ln,47.417820,-122.706344
+1276,Paulson Rd at Central Valley Rd,47.657685,-122.649792
+1277,University Point Cir at Chinook Way,47.632237,-122.595532
+1278,Paulson Rd at Central Valley Rd,47.657771,-122.649684
+128,New Brooklyn at Madison,47.643087,-122.521570
+1280,Long Lake Rd at North St,47.483397,-122.585283
+1281,Ramiller Ln at Kemp Ln,47.463173,-122.609765
+1282,Horizon Ln at Emerald Dr,47.461337,-122.620400
+1283,Mullenix Rd at Mullenix P&R,47.468575,-122.621714
+1284,Horizon Ln at Arthur Ct,47.467146,-122.616652
+1285,Ramiller Ln at Kemp Ln,47.463236,-122.609568
+1287,Alaska Ave at Van Buren St,47.544914,-122.551512
+1288,Puget Dr at Aguilar Ct,47.549402,-122.546288
+1289,Madrona Dr at Ash,47.527280,-122.606631
+129,Tolo at Battlepoint,47.653981,-122.579706
+1290,Lund at Mariner's Glen,47.519449,-122.607650
+1291,Jackson at Villa Carmel Dr,47.507744,-122.610166
+1292,Eastwood at Calaveras,47.510696,-122.613714
+1293,Conifer Park Dr at Maple Crest,47.521165,-122.598180
+1294,First Lutheran Church P&R,47.525610,-122.628841
+1295,Central Valley at McWilliams Rd,47.621623,-122.650203
+1296,Garfield Ave at Nevada,47.530260,-122.559594
+1297,Long Lake Rd at Natchez,47.530282,-122.580638
+1298,Long Lake Rd at Clover Valley Rd,47.499487,-122.594053
+1299,Phillips Rd at Bielmeier,47.483087,-122.605270
+13,Almira Dr at Hope,47.600513,-122.623760
+1300,Converse Ave at Converse Pl,47.501682,-122.620897
+1301,Woods Rd at Mile Hill,47.533816,-122.567686
+1302,Missouri Gate,47.554745,-122.656723
+1303,SR 104 at Wheeler St,47.854812,-122.602640
+1304,Clear Creek Rd at Pioneer Hill Rd,47.783903,-122.681629
+1305,Pioneer Way at Waghorn/Edgewater,47.799358,-122.661104
+1306,Clear Creek Rd at Greaves Way,47.666056,-122.693159
+1307,Clear Creek Rd at Greaves Way,47.665651,-122.693045
+1308,Pioneer Way at Lofall,47.799631,-122.659944
+1309,SR 104 at Wheeler St,47.854625,-122.603254
+131,Ridgetop at Derryfield,47.662197,-122.667508
+1310,Harris Rd at Plymouth Way,47.517978,-122.623361
+1311,Lakeview Dr at Sedgwick Rd,47.505167,-122.593130
+1312,Sedgwick Rd at Estonia Ct,47.504816,-122.624764
+1313,Sedgwick Rd at Jackson Ave,47.504725,-122.611443
+1314,Lakeview Dr at Sleepy Hollow Ct,47.510334,-122.591394
+1315,Salmonberry Rd at Celeste Ct,47.512145,-122.608050
+1316,Seabeck Hwy at the Marina,47.641308,-122.827573
+1317,Seabeck Hwy at the Post Office,47.605767,-122.843883
+1318,Holly Rd at Redwing Trail,47.593496,-122.824285
+1319,Faith Fellowship P&R,47.634667,-122.732594
+132,Ridgetop at Marigold Drive,47.664124,-122.666986
+1320,Evergreen Lutheran Church P&R,47.593780,-122.851440
+1321,Dolly Varden Ln at Coho Run,47.599502,-122.830651
+1322,Longhorn Dr at Redwing Trail,47.596761,-122.825224
+1323,Sedgwick at John Sedgwick Middle School,47.505002,-122.532183
+1324,Banner Rd at Overaa Rd,47.490697,-122.545818
+1325,Banner Rd at View Park Rd,47.479678,-122.545819
+1326,Sedgwick Rd at Regatta View Ln,47.508367,-122.501099
+1327,Banner Rd at View Park Rd,47.479433,-122.545659
+1328,Sunnyslope Rd at Old Clifton Rd,47.498984,-122.730179
+1329,Chanting Cir at Jabirin Way,47.509345,-122.690510
+133,Ridgetop at Quail Run Drive (South),47.665988,-122.668552
+1330,St. Andrews Dr at McCormick Woods,47.503240,-122.688949
+1331,Lazuli St at Ridge Park,47.509810,-122.681573
+1333,Lincoln Rd at Pugh Rd,47.744029,-122.621060
+1335,Madison Rd at Courtney Ln,47.664780,-122.626147
+1336,South St at West Ave,47.527214,-122.641623
+1337,Flower Ave at Flower Meadows St,47.514756,-122.645264
+1338,Pottery Ave at Sage St,47.521329,-122.652376
+1339,Fireweed St at Sherman Ave,47.512134,-122.647319
+134,Ridgetop at Quail Run Drive (North),47.669359,-122.667265
+1340,Charleston Gate,47.558610,-122.653232
+1343,Burley Olalla Rd at Fagerud Rd,47.432543,-122.578445
+1344,Woodchuck Ln at Bobcat Ln,47.454018,-122.586474
+1345,Burley Olalla Rd at Shady Glen Ave,47.432149,-122.594667
+1346,Provost Rd at 82nd St,47.637566,-122.710014
+1347,7149 Chico Way,47.627389,-122.707093
+1348,Kitsap Way at Lyle Ave (NAD Park),47.577881,-122.694512
+1349,Kitsap Way at Austin Dr (NAD Park),47.578079,-122.694656
+135,Ridgetop at Timber Shadow,47.671287,-122.665940
+1350,7149 Chico Way,47.627302,-122.706951
+1351,Central Valley Rd at Lazy Fox Ln,47.680513,-122.649946
+1354,Helena Dr at Helena Dr,47.623059,-122.615165
+1355,Sheffield Pl at Wembly Ave,47.627175,-122.615840
+1358,Miller Bay at Hwy 104 (across from Kountry Korners),47.808676,-122.541510
+1359,Miller Bay at Hwy 104 (Kountry Korners),47.809321,-122.541619
+136,Ridgetop at Plateau,47.678732,-122.670939
+137,Ridgetop at Gallery,47.682915,-122.670427
+138,Viking Ave at Liberty,47.741764,-122.657830
+139,Viking Ave at Nordic Cove,47.721637,-122.660925
+140,Hwy 104 at Balmoral,47.809386,-122.530872
+1401,Komedal at Seabold,47.700696,-122.558695
+1402,Komedal at Seabold,47.700705,-122.558474
+1403,Manitou Beach & Falk,47.657237,-122.507438
+1404,W. Kingston Rd. at Dulay,47.798392,-122.501505
+1405,W. Kingston Rd at Dulay,47.798500,-122.502653
+1407,Hwy 305 at Adas Will,47.705381,-122.560172
+1408,Miller Bay at Rocky Ln,47.805226,-122.541487
+1409,Miller Bay at Rocky Ln,47.805136,-122.541700
+141,Hwy 104 at Balmoral,47.809547,-122.531069
+1410,Shelter 2510 - NEX,47.691006,-122.706939
+1411,Wheaton Way at Pearl,47.597222,-122.629285
+1412,Bertha at 9th St,47.569649,-122.663994
+1413,Hansberry at Nichols,47.610313,-122.652010
+1414,Helena Dr at Ranch Dr,47.440068,-122.721677
+1415,Sunnyslope Rd at Crossing Pl SW,47.490108,-122.731117
+1416,Sunnyslope Rd at Crossing Pl SW,47.490119,-122.731200
+1417,Anderson Hill at Puget Sound Blvd,47.514376,-122.679094
+1418,Caldart at Hostmark,47.733744,-122.628076
+1419,Peacock Hill Rd at SE Pine Lake Blvd,47.411917,-122.589110
+142,Indianola Rd at 22931,47.770619,-122.555433
+1420,Peacock Hill Rd at SE Pine Lake Blvd,47.411738,-122.588932
+1421,Bridlevale Blvd & Rhododendron Pl,47.629202,-122.657302
+1422,Nelson Rd at Kimber Pl,47.418134,-122.599621
+1423,Central Valley at McWilliams,47.621772,-122.649991
+1424,Chico Way at Wedgewood Ln,47.594860,-122.709563
+1425,Silver Pine Dr at Vineyard Ln,47.635170,-122.646954
+1426,Central Valley Rd at Cimeron Ct,47.638224,-122.638073
+1427,Riddell Rd at the Blue Ridge Apartments,47.606809,-122.624767
+1428,Lincoln Rd at Holt Rd,47.751680,-122.590661
+1429,Bethel at SK Fire & Rescue,47.492208,-122.631724
+143,Indianola Rd at Gerald Cliff,47.751790,-122.542063
+1430,Cedar Rd at Hillwood Ln,47.494094,-122.627027
+1431,Tracyton at Stampede Blvd,47.618060,-122.660954
+1432,Bristlecone Dr at Ridgetop Ct,47.598405,-122.648249
+1433,Bristlecone Dr at Ridgetop Ct,47.598266,-122.648296
+1434,Tracyton at Dyes View Ct,47.611274,-122.655352
+1435,Silver St at Kari Ln,47.646797,-122.667080
+1436,Village Ln at Larch,47.531080,-122.595311
+144,Indianola at View Ridge,47.754486,-122.538795
+145,S. Kitsap at Maple,47.753694,-122.531236
+1451,Mitchell at Town Square,47.533579,-122.626192
+1453,Mitchell at Dekalb,47.539456,-122.625850
+1454,Mitchell at SK High,47.536748,-122.625465
+1455,Mitchell at Taylor,47.535089,-122.625715
+1458,Miller Bay at Barrett,47.749229,-122.562654
+1459,Warren at 8th St,47.569003,-122.633034
+146,20738 S Kitsap,47.750852,-122.531290
+1460,Viking Ave at NW Finn Hill Rd,47.748038,-122.654932
+1461,Viking Ave at NW Finn Hill Rd,47.748652,-122.654529
+1462,Ridgetop at Boardwalk,47.661103,-122.668981
+1463,West Bremerton Transit Center,47.566699,-122.684102
+1464,Central Valley Rd at Lazy Fox Ln,47.680428,-122.649855
+1465,Sidney Rd at Hayworth Dr,47.496700,-122.653171
+1466,Bucklin Hill Rd at Randall,47.650520,-122.696971
+1467,Wyatt Way at Root Path,47.628460,-122.523709
+1468,Wyatt Way at Root Path,47.628542,-122.522981
+1469,Wyatt at Cosgrove,47.628631,-122.529794
+147,Kitsap St at Seaview Ave,47.748449,-122.531246
+1470,Wallace at Blue Heron,47.632182,-122.519169
+1471,American Legion Park & Ride,47.621368,-122.543309
+1472,Koura at Meadowmeer Cir,47.664977,-122.540593
+1473,Lynwood Center,47.605123,-122.547605
+1474,Miller Rd at Bay Hill,47.668424,-122.553823
+1475,Madison at Sadie Lane,47.630754,-122.521135
+1476,New Brooklyn at Northtown,47.643120,-122.527237
+1477,Madison at Idel Weiss Ln,47.671133,-122.521019
+1478,Winslow Way at Harbor Square,47.624798,-122.511974
+1479,Bay at Harrison,47.541377,-122.635401
+148,Shore at Kingston,47.747880,-122.528168
+1480,Ridgetop at Silverdale Way,47.654137,-122.688989
+1485,Ridgetop at Hillsboro,47.658518,-122.669914
+149,Indianola Rd at Evergreen,47.750517,-122.525616
+15,Southworth at McGregor,47.527403,-122.548343
+150,Indianola Rd at Spruce,47.751761,-122.525539
+151,Indianola Rd at Kitsap,47.755714,-122.530861
+152,Indianola Rd at Orca,47.755496,-122.538348
+153,Indianola Rd at Gerald Cliff,47.752021,-122.541869
+154,John Carlson at Hwy 303,47.632150,-122.627887
+155,John Carlson at Lazy S,47.632158,-122.620727
+156,McWilliams Park & Ride,47.621039,-122.628061
+157,John Carlson at Lazy S,47.632328,-122.620339
+158,John Carlson at Hwy 303,47.632269,-122.627549
+159,Olalla Valley & Ebbert,47.473247,-122.572469
+16,Colchester at Southworth,47.533776,-122.549790
+160,Washington Ave at 4th,47.565891,-122.624066
+161,Oyster Bay at Conch,47.562354,-122.673093
+162,Oyster Bay at Bay Vista,47.564475,-122.673231
+163,Sunset at Aegean,47.623786,-122.607586
+164,Aegean at 72nd,47.628836,-122.612451
+165,Hostmark at Front St,47.733277,-122.645028
+166,Almira at Hollis,47.602452,-122.623825
+167,Sheridan at Rickey,47.588167,-122.643164
+168,Sheridan at Rickey,47.588197,-122.643432
+169,Aegean at John Carlson,47.630379,-122.612640
+17,Colchester at Yukon Harbor,47.536305,-122.545643
+170,Olalla Valley & Ebbert,47.473610,-122.572276
+171,Ostrich Bay at Bay Vista,47.568022,-122.680736
+172,Almira at Hope,47.600469,-122.623958
+173,Indianola at Miller Bay (Hatchery),47.770754,-122.555238
+174,Almira at Nome,47.598179,-122.624110
+175,Southworth at Marjorie,47.522014,-122.533653
+176,Southworth Across from Post Office,47.522590,-122.523080
+177,Southworth at Marjorie,47.522039,-122.533624
+178,Southworth at Anderson,47.522068,-122.537526
+179,Chester at California,47.552125,-122.556594
+18,Colchester at Haida,47.540814,-122.541903
+180,California at E Collins,47.548434,-122.556691
+181,California at Cleveland,47.538456,-122.556953
+182,Sidney at Hovde Rd,47.504036,-122.652907
+183,Almira at Spruce,47.596981,-122.624123
+184,Madison at Idel Weiss Ln,47.671127,-122.521145
+185,Olympic College at Advance Ln,47.764697,-122.659103
+186,Olympic College at Advance Ln,47.764390,-122.659001
+187,Market Place at Walmart,47.758249,-122.660482
+188,Kitsap Mall Blvd at Plaza Rd,47.656203,-122.692887
+189,Randall Way at Plaza Rd (Target),47.657270,-122.695572
+19,Colchester at Perelli,47.542596,-122.541379
+190,Sidney at Hovde Rd,47.503569,-122.652711
+191,Suquamish Way stop after Firs,47.724548,-122.566566
+192,Suquamish Way stop after Totten,47.723976,-122.567157
+193,Almira at Sylvan,47.595946,-122.624113
+194,Division at Pear St,47.730446,-122.558332
+195,Ridgetop at Mickelberry,47.654013,-122.682829
+196,Myhre at Bucklin Hill,47.651731,-122.677025
+197,20973 Indianola Rd,47.753420,-122.546471
+198,Miller Bay at Indianola,47.775552,-122.555846
+199,Indianola Rd at 20973,47.753521,-122.546868
+2,Almira Dr at Nome,47.598070,-122.623919
+20,Colchester at Prichard,47.545807,-122.541361
+200,Miller Bay at Heritage Park,47.784815,-122.545656
+201,Miller Bay at Heritage Park,47.785048,-122.545500
+203,11th St. at Pacific,47.571140,-122.627400
+204,Sylvan Way at Halverson,47.595560,-122.622416
+205,11th St. at Park,47.571164,-122.630628
+206,6th St. at Park,47.567252,-122.629733
+207,Russell Rd at Oyster Bay Ave,47.567238,-122.674936
+208,Oyster Bay at Conch,47.562181,-122.673256
+209,Arsenal at Bremerton Blvd,47.560081,-122.670671
+21,Colchester at Miracle Mile,47.548918,-122.542282
+210,Arsenal at National,47.559753,-122.668208
+211,National at Columbia,47.561287,-122.667806
+212,National at 1st - West Sound Tech Skills Center,47.564331,-122.667694
+213,Front St at Recreation Center,47.740774,-122.649432
+214,Sylvan way at Harbel,47.595563,-122.620033
+216,Randall Way at NFCU,47.658459,-122.695724
+217,Randall Way at Bloodworks,47.659053,-122.695208
+218,Charleston Gate (PSNS),47.558915,-122.653391
+219,Geneva at 2nd,47.733382,-122.554382
+22,Colchester at Main (Post Office),47.554899,-122.545044
+220,Geneva at Soundview,47.733429,-122.554228
+221,Sylvan Way at Forest,47.595453,-122.615594
+222,Fletcher at Miller Bay,47.643025,-122.565603
+223,Central Valley & Bucklin Hill,47.647787,-122.650421
+224,Winslow & Halls Brothers,47.624975,-122.524122
+225,Winslow & Halls Brothers,47.624870,-122.523771
+226,Port Orchard Transit Center,47.542591,-122.635696
+228,Perry Ave at Sunrise,47.594941,-122.613459
+229,Central Valley & Bucklin Hill,47.647694,-122.650238
+23,Madrone at Alaska,47.553454,-122.551182
+230,Bremerton Fast Ferry Dock,47.561679,-122.622932
+231,Anderson Hill Rd & Bucklin Hill Rd,47.649001,-122.698301
+232,Bucklin Hill Rd & Randall Way,47.650414,-122.696458
+233,Perry Ave at A&C Tavern,47.593402,-122.613512
+234,Highway 104 at Parcells,47.808581,-122.517973
+235,Southworth Dr at Nokomis Rd,47.512221,-122.509435
+236,Southworth Dr at Nokomis Rd,47.512092,-122.509317
+237,Southworth Dr at Level Lloyd,47.512210,-122.502943
+238,Perry Ave at Franklin,47.592359,-122.613494
+239,Southworth Dr at Level Lloyd,47.512081,-122.502747
+24,Almira Dr at Hollis,47.602613,-122.623695
+240,S Kitsap Blvd at Pottery,47.522384,-122.654140
+241,Pacific Ave at Puget Sound Navy Museum,47.563309,-122.626623
+242,Perry Ave at Perry Ave Mall,47.589737,-122.613621
+243,Sheridan at Perry Ave Mall,47.588366,-122.615257
+244,Old Wheaton Way at Wheaton Professional Building,47.584919,-122.626944
+245,Schley at Sheridan,47.587913,-122.618920
+246,Kingston Ferry Dock,47.793988,-122.495485
+247,Kingston Ferry Terminal,47.796076,-122.496226
+248,Schley at Callahan,47.585519,-122.619034
+249,Bayside Church P&R,47.799094,-122.508357
+25,Madrone at Chester,47.553632,-122.553524
+252,W. Kingston Rd at Kingston Middle School,47.794952,-122.524981
+253,W. Kingston Rd across from Kingston Middle School,47.794832,-122.524671
+254,W. Kingston Rd at Siyaya Ave,47.794967,-122.517585
+255,W. Kingston Rd at Siyaya Ave,47.794819,-122.517353
+256,Olympic College - Bremerton,47.575908,-122.634579
+257,Randall Way at Plaza Rd,47.656189,-122.695661
+258,Magnuson at Schley,47.583845,-122.618011
+259,Southworth Ferry Lot,47.511686,-122.497508
+26,California at Stanley,47.550258,-122.556820
+260,Oyster Bay at Bay Vista,47.564227,-122.673036
+261,Pier 50 Seattle Ferry Dock,47.601183,-122.338923
+262,Wheaton Way Transit Center (WWTC),47.600608,-122.629975
+263,Magnuson at Fir,47.583806,-122.616617
+264,Randall at Silverdale Way,47.661226,-122.685975
+265,Myhre at All Star Lanes,47.659514,-122.684396
+266,Myhre at Lowe's,47.659370,-122.679523
+267,Myhre at St. Michael Medical Center,47.656070,-122.677050
+268,Myhre at Ridgetop,47.652802,-122.677073
+269,Magnuson at Perry,47.583687,-122.613927
+27,California at Raintree,47.547024,-122.556801
+270,Wheaton Way Transit Center (WWTC),47.600636,-122.629476
+271,Randall Way at Kitsap Mall Blvd.,47.660721,-122.690486
+272,Viking Way at 16400,47.711223,-122.659921
+273,Viking Ave at 16459,47.711565,-122.660080
+274,Ridgetop at St. Michael Medical Center,47.654386,-122.674961
+275,Ridgetop St. Michael Medical Center,47.654112,-122.675849
+276,Hwy 104 at Lindvog,47.803068,-122.504253
+277,Southworth at Locker,47.525499,-122.547983
+278,Southworth at Cambridge,47.520552,-122.519066
+279,Southworth at Cambridge,47.520881,-122.519385
+28,California at Van Buren,47.544416,-122.556855
+280,Southworth at Locker,47.525633,-122.548127
+281,Annapolis Park & Ride,47.547528,-122.616234
+282,Hostmark at 8th,47.733518,-122.640331
+283,Lebo Blvd at Clare,47.581856,-122.629798
+284,Hemlock at Clare,47.582905,-122.628014
+285,Hemlock at Callahan Dr,47.583890,-122.627697
+286,Callahan at Hemlock,47.586043,-122.627697
+287,Dauntless at Advance Dr.,47.764704,-122.655386
+288,Kitsap Mall Blvd at Randall Way,47.659304,-122.693168
+289,Chase at Lori Linda Ct,47.518035,-122.617972
+29,California at Polk,47.542891,-122.556893
+290,Berger at Del Tormey,47.515700,-122.616533
+291,Branson at Salmonberry,47.512233,-122.615383
+292,Salmonberry at Eastwood Ave,47.512050,-122.612917
+293,Salmonberry at Jackson,47.512024,-122.610505
+294,Jackson at Azalea Ave,47.515816,-122.609782
+295,Perry Ave past Parker Pl,47.579410,-122.613830
+296,Tremont at Rylander Ct,47.525384,-122.648920
+297,Hwy 104 at Miller Bay,47.809460,-122.540609
+298,Hwy 104 at Hansville Rd,47.809620,-122.542541
+299,W. Kingston Rd at Bannister,47.798362,-122.498916
+3,Colchester at Southworth,47.533861,-122.549686
+30,California at Fillmore,47.541343,-122.556865
+300,W. Kingston Rd at Bannister,47.798492,-122.499453
+301,Madison at Sakai Park,47.638837,-122.521089
+302,Madison at High School Rd (Eagle Harbor HS),47.636029,-122.521079
+303,Valley Rd at Sunrise Dr,47.664764,-122.510370
+304,Perry Ave at E. 19th St.,47.577535,-122.613892
+305,Summit at Preble,47.556804,-122.657375
+306,Summit at Merrill,47.555135,-122.661650
+307,G St. at Charlotte,47.555661,-122.664573
+308,G St. at National,47.555676,-122.667190
+309,National at Loxie Eagans (West Hills STEM),47.557368,-122.667735
+31,California at Legrand,47.534517,-122.556989
+311,Oyster Bay at Roosevelt,47.554300,-122.673317
+312,Roosevelt at Cottman,47.552609,-122.674368
+313,Perry Ave at E. 18th St.,47.575858,-122.613893
+314,Roosevelt at Humphrey,47.550672,-122.677412
+315,Union at Sinclair,47.552536,-122.679531
+316,Union at Haselwood,47.556305,-122.677838
+317,Dora at Columbia Way,47.562489,-122.666502
+318,Dora at 1st,47.563775,-122.666340
+319,Dora at 6th,47.566901,-122.666070
+32,Mile Hill at Nebraska,47.534121,-122.562432
+320,Adele at 11th,47.569616,-122.663085
+321,Marion at Marion Ct.,47.564582,-122.662512
+322,1st St. at Marion,47.563652,-122.661792
+323,Old Wheaton Way at Eastwynd Apts.,47.583379,-122.626961
+324,Perry Ave at E. 17th St.,47.574857,-122.613833
+325,1st St. at Summit,47.563640,-122.657186
+327,Auto Center Blvd at Wilkes,47.561734,-122.682392
+328,Union at Haselwood SB,47.556387,-122.677907
+329,10th Ave at Liberty,47.742333,-122.637386
+33,Mile Hill at Woods,47.534042,-122.568139
+330,10th Ave At Forest Rock,47.746159,-122.637992
+331,National at Loxie Eagans,47.558601,-122.667700
+332,Auto Center Way at Kean,47.560478,-122.674476
+333,Auto Center Way at Western,47.562339,-122.677023
+334,Perry Ave at E. 16th St.,47.573494,-122.613910
+335,Hwy 305 at Johnson,47.719459,-122.622118
+336,Summit at Rodgers,47.559469,-122.657348
+337,Summit at Farragut,47.558098,-122.657386
+338,7th Ave at Fred Hutch,47.743894,-122.640130
+34,Mile Hill at Saddle Club,47.534086,-122.584813
+341,Perry Ave at E. 13th St.,47.571996,-122.613917
+342,Perry Ave at E. 11th St.,47.570653,-122.613917
+343,Harkins at Old Wheaton Way,47.570866,-122.616716
+344,Bay Vista & Russell Rd,47.565451,-122.677779
+345,11th St. at Perry,47.570198,-122.613396
+346,Day at Phelps (Hwy 305),47.679273,-122.538586
+347,Sunrise at Torvanger,47.689943,-122.510643
+348,Sunrise at Valley,47.664925,-122.510401
+349,Lebo Blvd at Old Wheaton Way,47.581603,-122.627796
+35,Mile Hill at Baby Doll,47.534102,-122.590223
+350,E. 11th St. at Ironsides,47.570200,-122.611789
+351,E. 11th St. at Trenton,47.570154,-122.608818
+352,Trenton at E. 13th St.,47.572242,-122.608390
+353,Trenton at E. 16th St.,47.574018,-122.608371
+354,Trenton at E. 17th St.,47.575261,-122.608334
+355,Trenton at Terrace,47.576991,-122.608315
+356,Trenton at Cascade Trail,47.578377,-122.608288
+357,Trenton at E. 22nd St.,47.579796,-122.608178
+358,Trenton at Holman,47.580596,-122.608255
+359,Trenton at Bowen,47.582698,-122.608207
+36,Mile Hill at Village Ln,47.534115,-122.594798
+360,Lebo Blvd at Clare,47.581894,-122.629513
+361,Trenton at Stoneway,47.583720,-122.608219
+362,Trenton at Helm,47.587315,-122.608127
+363,Trenton at Barnett,47.589109,-122.608050
+364,Trenton at Franklin,47.592603,-122.607965
+365,Trenton at Sylvan,47.595335,-122.607899
+366,Chico Way at 4681,47.606182,-122.709211
+367,Mile Hill at Fircrest,47.533839,-122.598681
+368,Southworth at Young Hill,47.522651,-122.524802
+369,Lebo Blvd at Juniper,47.582670,-122.632586
+37,Mile Hill at Harrison,47.534022,-122.602564
+370,Southworth at Young Hill,47.522768,-122.524814
+371,Colchester at Puget,47.551981,-122.543932
+372,Hwy 305 at Bond,47.750782,-122.644588
+373,Hwy 305 at Bond,47.750467,-122.643640
+374,Perry at 24th St.,47.581759,-122.613764
+375,Lebo Blvd at Belmont Terrace,47.582813,-122.633831
+376,Trenton at Sylvan,47.595465,-122.608028
+377,Trenton at Franklin,47.592444,-122.608074
+378,Trenton at Barnett,47.589310,-122.608198
+379,Trenton at Helm,47.587362,-122.608284
+38,Mile Hill at Payseno,47.534072,-122.606921
+380,Trenton at Stoneway,47.583567,-122.608493
+381,Trenton at Holman,47.580798,-122.608404
+382,Lebo Blvd at Reid Ave,47.583030,-122.635889
+383,Trenton at E. 22nd St.,47.579604,-122.608429
+384,Trenton at Cascade Trail,47.578422,-122.608487
+385,Trenton at Terrace,47.577132,-122.608433
+386,Trenton at E. 17th St.,47.575286,-122.608465
+387,Trenton at E. 16th St.,47.573633,-122.608508
+388,Trenton at E. 13th St.,47.572354,-122.608559
+389,E. 11th St. at Trenton,47.570320,-122.609036
+39,Bucklin Hill at Mickelberry,47.650436,-122.682619
+390,McWilliams Park & Ride (driveway),47.621248,-122.627908
+392,Lebo Blvd at Stephenson,47.583848,-122.637667
+393,Pine Rd at Pearl,47.597751,-122.639901
+394,Pine Rd at Pinewood,47.599698,-122.639799
+395,Pine Rd at Roswell,47.601971,-122.639659
+396,Pine Rd at Normandy (across from the Elks),47.603076,-122.639502
+397,Pine Rd at David,47.604905,-122.639497
+398,Pine Rd at Riddell Rd,47.606648,-122.639392
+399,Riddell Rd at Ridgemont,47.606803,-122.636500
+4,Southworth at McGregor,47.528368,-122.548661
+40,Ridgetop at Cranway Ln,47.654051,-122.679294
+400,Redwood Plaza,47.606838,-122.630392
+401,Kitsap Mental Health,47.611615,-122.623282
+402,Fuson at Almira,47.614177,-122.624312
+403,Lebo Blvd at Hefner,47.585516,-122.640845
+404,Fuson at Hwy 303,47.614148,-122.626513
+405,Fred Meyer,47.609435,-122.628622
+406,Hwy 303 at McWilliams,47.621781,-122.628620
+407,Hwy 303 at Sutton,47.642924,-122.628672
+409,Hwy 303 at Brownsville Hwy,47.645850,-122.629840
+41,Randall Way at Kitsap Mall Blvd. (PSBC),47.659156,-122.694598
+410,Hwy 303 at McWilliams,47.620838,-122.629084
+411,Fuson at Hwy 303,47.614023,-122.626339
+412,Fuson at Almira,47.614047,-122.624510
+413,Kitsap Mental Health,47.611308,-122.623445
+414,Lebo Blvd at Elm,47.585988,-122.643957
+415,Almira at Riddell,47.606444,-122.623639
+416,Redwood Plaza,47.606918,-122.630706
+417,Riddell at Ridgemont,47.606912,-122.636494
+418,Pine Rd at Riddell (before David),47.605109,-122.639644
+419,Pine Rd at Normandy (Elks),47.602900,-122.639775
+42,Front at Asgard Apts,47.740830,-122.649619
+420,Pine Rd at Nantucket,47.601288,-122.639921
+421,Pine Rd at Pinewood,47.599701,-122.639987
+422,Pine Rd at Pearl,47.597643,-122.640064
+423,Sheridan Rd at Lebo Blvd (The Heights),47.587246,-122.644919
+424,Almira at Riddell,47.606442,-122.623498
+425,Aegean at Curve,47.624167,-122.612123
+426,John Carlson at Thasos,47.630857,-122.613075
+427,McWilliams at Clover Blossom,47.621290,-122.620135
+428,McWilliams at Johnson,47.621298,-122.618178
+429,McWilliams at Haneberg,47.621286,-122.616359
+43,Bucklin Hill at Silverdale Plaza,47.650654,-122.691072
+430,McWilliams at Kariotis Mobile Home Park,47.621271,-122.609451
+431,Sunset at McWilliams,47.621618,-122.607552
+432,John Carlson at Wembly,47.632179,-122.615733
+433,John Carlson at Wembly,47.632134,-122.615522
+434,Aegean at Thasos,47.629161,-122.612883
+435,Aegean at Delphi Loop,47.624822,-122.612543
+436,Sunset at Aegean,47.623891,-122.607749
+437,Sunset at McWilliams,47.622180,-122.607736
+438,McWilliams at Kariotis Mobile Home Park,47.621419,-122.609285
+439,McWilliams at Haneberg Ln,47.621392,-122.616597
+44,Charleston Gate (PSNS),47.558953,-122.653296
+440,McWilliams at Johnson,47.621385,-122.618047
+441,McWilliams at Clover Blossom,47.621409,-122.620073
+443,Hwy 303 at Fuson,47.614333,-122.628619
+444,Hwy 303 at Bentley Dr,47.626764,-122.628595
+445,Fairgrounds at Hwy 303,47.632301,-122.630660
+446,Fairgrounds at Olympic Village Apts.,47.632244,-122.633130
+447,Fairgrounds at Old Military,47.632317,-122.639379
+448,Crossroads Park & Ride,47.631283,-122.638289
+449,Fairgrounds at Tanbark,47.632320,-122.641754
+45,Bloedel Reserve,47.708124,-122.548040
+450,Fairgrounds at Village Fair Apts.,47.632462,-122.646374
+451,Fairgrounds at Silver Pine,47.632338,-122.648929
+452,Central Valley at Lopez Ln,47.633676,-122.650123
+453,Central Valley at Conifer - Fairview Middle School,47.636008,-122.650225
+454,Central Valley at Conifer,47.639243,-122.650235
+455,Central Valley at Foster,47.641466,-122.650080
+456,Central Valley at Watson Ct,47.644249,-122.650219
+457,Central Valley at Meadow,47.643890,-122.650414
+458,Central Valley at Foster,47.641231,-122.650389
+459,Central Valley at Green Hill Ct,47.638971,-122.650381
+460,Central Valley at Fairview Middle School,47.636714,-122.650333
+461,Central Valley at Lopez,47.633182,-122.650336
+462,Fairgrounds across from Silver Pine,47.632263,-122.648661
+463,Fairgrounds at Village Fair Apts.,47.632257,-122.646547
+465,Old Wheaton Way at Harkins,47.571293,-122.616905
+466,Pine Rd at Sylvan Way,47.594516,-122.640236
+467,Fairgrounds at Falcon,47.632214,-122.641625
+468,Fairgrounds at Old Military,47.632212,-122.638104
+469,Fairgrounds at Olympic Village Apts.,47.632201,-122.633289
+47,Indianola Clubhouse,47.748051,-122.525620
+470,Fairgrounds at Hwy 303,47.632114,-122.629608
+471,Hwy 303 at Bentley Dr (Walmart),47.625914,-122.629106
+472,Hwy 303 at Dawn,47.615739,-122.628975
+473,Hwy 303 at Fuson,47.614305,-122.628972
+474,Hwy 303 at Franklin,47.612048,-122.628926
+475,Pine Rd at the Willows Retirement Apts.,47.592360,-122.640401
+476,National at Kitsap Way,47.567746,-122.667572
+477,Burwell at Pacific,47.565098,-122.627202
+478,Burwell at Park Ave,47.565096,-122.630554
+479,Burwell at Chester,47.565112,-122.635875
+48,Indianola at Beachwood,47.761646,-122.550994
+480,Burwell at State,47.565093,-122.637643
+481,Burwell at Anoka,47.565124,-122.639513
+482,Burwell at High Ave,47.565112,-122.641260
+483,Burwell at Naval,47.565189,-122.646972
+484,Burwell at Bryan,47.565621,-122.650594
+485,Pine Rd at Magnolia Dr.,47.590296,-122.640441
+486,Burwell at Montgomery,47.565621,-122.652704
+487,Charleston at 1st St,47.563626,-122.653443
+488,Rodgers at Charleston,47.560209,-122.654919
+489,Lafayette at Patten,47.560386,-122.656564
+49,Indianola at Lera Ln,47.764459,-122.552616
+490,Arsenal at New Hope Circle,47.561025,-122.660512
+491,Marion at Emerald Bay Care,47.562017,-122.662346
+492,Marion at 1st (Renaissance High School),47.563558,-122.662417
+493,Marion at Burwell,47.565828,-122.662389
+494,Marion at 6th St.,47.567174,-122.662257
+495,Adele at 11th St.,47.569477,-122.662929
+496,Pine Rd at Sheridan Rd,47.588717,-122.640458
+497,Bertha at 9th St.,47.568975,-122.664138
+498,Bertha at 6th St.,47.567719,-122.664089
+499,6th St. at Dora,47.567416,-122.665629
+5,Southworth at Banner,47.523170,-122.545624
+50,Miller Bay at W. Kingston,47.794341,-122.541660
+500,National at Rite Aid,47.567424,-122.667846
+501,National at 1st - West Sound Tech Skills Center,47.564098,-122.667849
+502,National at Columbia,47.561691,-122.667941
+503,National at Arsenal,47.559874,-122.667958
+504,National at Loxie Eagans,47.557011,-122.667906
+505,Bremerton United Methodist Church P&R,47.573015,-122.665921
+506,McWilliams Park & Ride,47.621427,-122.627394
+507,Loxie Eagans at National,47.558071,-122.669704
+508,Werner at Auto Center Way (76 Station),47.558265,-122.675402
+509,Auto Center Blvd at Monroe,47.558992,-122.678219
+51,Miller Bay at Silver Springs,47.772825,-122.558413
+510,Auto Center Blvd at Wilkes,47.561054,-122.680197
+511,Auto Center Way at Burwell,47.564702,-122.680678
+512,West Bremerton Transit Center (WBTC),47.566711,-122.683540
+513,Auto Center Way at Burwell,47.565019,-122.681155
+514,Auto Center Way at 1st,47.563317,-122.679365
+515,Auto Center Way at Western Ave,47.562313,-122.677416
+516,Auto Center Way at Kean Blvd,47.560377,-122.674615
+517,Auto Center Blvd at Monroe,47.559236,-122.678503
+518,Union at Pendergast Park,47.552777,-122.679686
+519,3rd Ave at Sunn Fjord,47.547565,-122.678749
+52,Miller Bay at Ivanich Loop,47.767311,-122.561803
+520,Roosevelt at Humphrey,47.550579,-122.677721
+521,Roosevelt at Lansing,47.550607,-122.676030
+522,Roosevelt at Cottman,47.552655,-122.674277
+523,Roosevelt at Oyster Bay,47.553961,-122.673471
+524,Oyster Bay at Loxie Eagans,47.557745,-122.674481
+525,Werner at Auto Center Way,47.558126,-122.676128
+526,G St. at National,47.555565,-122.667613
+527,G St. at Charlotte,47.555567,-122.664584
+528,G St. at Marion,47.555511,-122.662430
+529,Summit at Merrill,47.554688,-122.661334
+53,Miller Bay at Wood Bay,47.758541,-122.562307
+530,Summit at Preble,47.555612,-122.658240
+531,Summit at Porter,47.557055,-122.657193
+532,Summit at Farragut,47.558320,-122.657217
+533,Wheaton Way at Sheridan,47.589216,-122.629412
+534,Summit at Rodgers,47.559876,-122.657230
+535,Rodgers at Cambrian,47.560031,-122.656017
+536,Charleston at Kitsap Transit,47.561019,-122.654358
+537,Charleston at 1st St,47.563613,-122.653120
+538,Burwell at Montgomery,47.565460,-122.651629
+539,Burwell at Bloomington,47.565476,-122.650100
+54,Miller Bay at Big Bear,47.755380,-122.562375
+540,Burwell at Naval,47.564981,-122.645756
+541,Burwell at High Ave,47.564967,-122.640667
+542,Burwell at Anoka,47.564962,-122.638918
+543,Wheaton Way across from Dibb,47.593106,-122.629428
+544,Burwell at State,47.564974,-122.637165
+545,Burwell at Chester,47.564978,-122.634734
+546,Burwell at Park Ave,47.564958,-122.630502
+547,Pacific at 2nd St.,47.564021,-122.627088
+548,Washington at 6th St.,47.567946,-122.623627
+549,6th St at Park,47.567413,-122.628817
+55,Miller Bay & Early Dawn,47.751220,-122.562838
+550,6th St. at Warren,47.567433,-122.633394
+551,6th St. at Chester,47.567385,-122.635443
+552,6th St. at Veneta,47.567423,-122.639070
+553,Old Wheaton Way at E 14th St.,47.572780,-122.617531
+554,6th St. at High Ave,47.567473,-122.640798
+555,6th St. at Hewitt,47.567459,-122.643732
+556,6th St. at Naval,47.567448,-122.646853
+557,6th St. at Montgomery,47.567517,-122.652624
+558,Kitsap Way at 11th St.,47.570130,-122.656217
+559,Kitsap Way at 13th St.,47.571775,-122.658352
+56,Augusta at James St.,47.735263,-122.552386
+560,Kitsap Way at Morgan Rd,47.571566,-122.661753
+561,Kitsap Way at Marine Dr.,47.570567,-122.664254
+562,Dora at Columbia Way,47.562311,-122.666748
+563,Arsenal at Bremerton Blvd,47.560187,-122.670761
+564,Wheaton Way at Dibb,47.592316,-122.629668
+565,Perry Ave at E. 19th St.,47.578020,-122.613669
+566,Lafayette at 2460,47.584070,-122.656023
+567,Callow at 11th St.,47.571362,-122.653197
+568,Lafayette at 26th,47.585669,-122.655993
+569,Bucklin Hill & Mickelberry,47.650565,-122.682697
+57,Miller Bay at Eisenhardt,47.755360,-122.562235
+570,Suquamish Way at Purves Ave,47.726158,-122.564249
+571,Suquamish Way at Purves Ave,47.726246,-122.564303
+572,Geneva St at Augusta Ave,47.733380,-122.552667
+573,Winslow Way at Harbor Square,47.624898,-122.512161
+574,Miller Rd at Bay Hill,47.668551,-122.553840
+575,Wheaton Way at Sheridan,47.589058,-122.629724
+576,Hwy 305 at Vineyard Ln,47.629965,-122.515633
+577,Hwy 305 at High School Rd,47.636068,-122.515331
+578,Market Place at Home Depot,47.760149,-122.661038
+579,California at E Collins,47.548444,-122.556658
+58,Wheaton Way at Petco,47.604668,-122.629150
+580,California at Chester,47.551933,-122.556626
+581,Kitsap Way at Oyster Bay,47.568104,-122.672719
+582,Russell Rd at Oyster Bay Ave,47.567093,-122.674752
+583,Kitsap Way at Adele (Marine Dr.),47.570852,-122.663044
+584,Kitsap Way near Burger King,47.571447,-122.660936
+585,Kitsap Way at 11th St.,47.569351,-122.656079
+586,Kitsap Way at N Cambrian,47.568100,-122.655227
+587,6th St. at Montgomery,47.567308,-122.651432
+588,6th St. at Naval,47.567296,-122.645241
+589,6th St. at Hewitt,47.567315,-122.643074
+59,Miller Bay & Early Dawn,47.751221,-122.562703
+590,6th St. at High Ave,47.567291,-122.640514
+591,6th St. at Veneta,47.567284,-122.638695
+592,6th St. at Chester,47.567273,-122.635240
+593,6th St. at Warren,47.567244,-122.633171
+594,Nels Nelson Rd & Huckle Dr,47.644990,-122.661018
+595,Bay Vista & Russell Rd,47.565599,-122.677788
+596,Austin Dr. at Snoqualmie,47.588979,-122.698224
+597,Austin Dr. at Bud Hawk Elementary,47.591590,-122.697912
+598,Austin Dr at Higbee,47.593401,-122.697829
+599,Austin Dr across from Erlands Pt. Apts.,47.595654,-122.697567
+6,Southworth at Anderson,47.522045,-122.537525
+60,Myhre at Bucklin Hill,47.651323,-122.676845
+600,Austin Dr at Erlands Point,47.596591,-122.698109
+601,Erlands Point at Lakehurst,47.596473,-122.700377
+602,Erlands Point at Fairway Lane Condos,47.596400,-122.703311
+603,Chico Way at Erlands Point,47.596564,-122.709162
+604,Chico Way at Chico Child Care,47.598357,-122.709210
+605,Chico Way at Crosspoint Academy,47.600609,-122.709354
+606,Erlands Point at Chico,47.596151,-122.707551
+607,Austin Dr at Higbee,47.593274,-122.697589
+608,Hwy 305 at Hostmark,47.733962,-122.636883
+609,Wycoff Midblock (2137),47.581457,-122.654438
+61,North Viking Transit Center (NVTC),47.759440,-122.651086
+610,Pacific at 6th St.,47.567431,-122.627028
+611,Pacific at ML King Way,47.568013,-122.626901
+612,Pacific at 9th St.,47.569915,-122.626890
+613,Broadway at 16th St.,47.575327,-122.633813
+614,Broadway at 13th St.,47.572877,-122.634336
+615,13th St. at Lincoln,47.572884,-122.636593
+616,13th St. at Sidney (Bremerton High School),47.572912,-122.639780
+617,15th St. at High Ave,47.574657,-122.641350
+618,15th St. at Pennsylvania,47.574680,-122.642774
+619,15th St. at Naval,47.574695,-122.645743
+62,Hwy 305 at Koura,47.664891,-122.526988
+620,Naval at 15th St.,47.575594,-122.646269
+621,Naval at 19th St. (Sea Brim Apts),47.577549,-122.646315
+622,19th St. at Olympic,47.578395,-122.647885
+623,Pine Rd at Sheridan Rd,47.588574,-122.640253
+624,19th St. at Rainier,47.578390,-122.650960
+625,Snyder at 19th St.,47.578998,-122.651644
+626,Snyder at 24th St.,47.581885,-122.651622
+627,Snyder at 25th St.,47.584145,-122.651634
+628,Wycoff at 25th St.,47.583896,-122.654025
+629,Wycoff at 24th St.,47.582495,-122.653957
+63,Hwy 305 at Morgan,47.668607,-122.529502
+630,Wycoff at 21st St.,47.579971,-122.654434
+631,Wycoff at 19th St.,47.578532,-122.654472
+632,Wycoff at 17th St.,47.576546,-122.654420
+633,Wycoff at 15th St.,47.575107,-122.654422
+634,Pine Rd at Magnolia Dr.,47.590208,-122.640306
+635,Callow at 15th St.,47.574266,-122.653494
+636,Callow at 13th St.,47.573009,-122.653413
+637,11th St at Callow,47.570946,-122.652722
+638,Kitsap Way at Oyster Bay,47.568330,-122.673762
+639,Kitsap Way at Ostrich Bay Ave.,47.569334,-122.679523
+64,Hwy 305 at Lovgreen,47.671971,-122.531864
+640,Kitsap Way at Shorewood Dr.,47.569467,-122.681342
+641,11th St. at Callow,47.571118,-122.653724
+642,Callow at 13th St.,47.572651,-122.653208
+643,Callow at 15th St.,47.574463,-122.653183
+644,Wycoff at 15th St.,47.574937,-122.654330
+645,Pine Rd at the Willows Retirement Apts.,47.592365,-122.640158
+646,Wycoff at 17th St.,47.576523,-122.654329
+647,Wycoff at 19th St.,47.578163,-122.654353
+648,Wycoff at 21st St.,47.580185,-122.654322
+649,Wycoff at 24th St.,47.582359,-122.653824
+65,Hwy 305 at Hidden Cove,47.690473,-122.550771
+650,Wycoff at 25th St.,47.584183,-122.653778
+651,25th St. at Snyder,47.584201,-122.652370
+652,Snyder at 24th St.,47.581408,-122.651773
+653,Snyder at 19th St.,47.578496,-122.651751
+654,19th St. at Rainier,47.578309,-122.650344
+655,19th St. at Olympic,47.578282,-122.647498
+656,Old Wheaton Way at Parkside Dr,47.574904,-122.618288
+657,Sheridan Rd at Pine Ridge Apts,47.593237,-122.640043
+658,Naval at 19th St.,47.577238,-122.646410
+659,Naval at 15th St.,47.575529,-122.646338
+66,Hwy 305 at West Port Madison,47.700760,-122.557303
+660,15th St. at Henry,47.574589,-122.645308
+661,15th St. at Thompson,47.574593,-122.643345
+662,15th St. at High Ave,47.574609,-122.641116
+663,13th St. at Sidney (Bremerton High School),47.572774,-122.639484
+664,13th St. at Lincoln,47.572792,-122.636114
+665,Bethel at Stellar Motel,47.533608,-122.628979
+666,13th St. at Broadway,47.572798,-122.633658
+667,11th St. at Park,47.570949,-122.630966
+668,Pine Rd at Sylvan Way (Tik Apts),47.595128,-122.640078
+669,11th St. at Pacific,47.570972,-122.627471
+67,Hwy 305 at Agatewood,47.703417,-122.558592
+670,Pacific at 9th St.,47.569914,-122.627026
+671,Austin Dr. at Cascade Pass,47.583093,-122.696345
+672,Austin Dr. at Cascade Pass,47.583245,-122.696442
+673,Austin Dr. at Snoqualmie,47.589236,-122.698030
+674,Madison at Manitou Beach,47.654019,-122.521313
+675,Austin Dr. at Bud Hawk Elementary,47.591426,-122.698101
+676,Austin Dr at Erlands Pt. Apts.,47.595758,-122.697432
+677,Austin Dr at Erlands Point,47.596754,-122.697905
+678,Erlands Point at Lakehurst,47.596567,-122.700551
+679,Erlands Point across from Fairway Lane Condos,47.596534,-122.703196
+68,Division at Pear St,47.730437,-122.558185
+680,Chico Way just past Hwy 3,47.606183,-122.709016
+681,Chico Way at Meredith,47.611072,-122.710588
+682,Chico Way at Eldorado,47.614387,-122.710344
+683,Chico Way at Dorado Ln,47.615934,-122.710070
+684,Chico Way at Braemar Dr.,47.621878,-122.708579
+685,Chico Way at 7074,47.626482,-122.707340
+686,Chico Way at Newport Ct.,47.628702,-122.706192
+687,Chico Way at Holly Park Dr.,47.633974,-122.703546
+688,Chico Way at Christ the King,47.636505,-122.702257
+689,Silverdale Way at Knute Ln.,47.638602,-122.701358
+69,Valley Rd at Sunrise Dr,47.664712,-122.510237
+690,Silverdale Way at Byron,47.644920,-122.699073
+691,Silverdale Way at Linder Way,47.649378,-122.695056
+692,Kitsap Mall Blvd at Plaza Rd,47.656643,-122.693174
+693,Grand at Park,47.633166,-122.497355
+694,Kitsap Mall Blvd at Poplars Ave (Towne Centre),47.654762,-122.693089
+695,Silverdale Way at Poplars,47.651654,-122.693031
+696,Silverdale Way at Linder Way,47.648902,-122.695971
+697,Silverdale Way at Byron,47.644850,-122.699409
+698,Silverdale Way at Knute Ln.,47.638464,-122.701588
+699,Chico Way at Christ the King,47.636231,-122.702554
+7,Southworth at Lasada,47.522387,-122.529045
+70,High School at Ferncliff,47.635807,-122.510401
+700,Chico Way at Holly Park Dr.,47.633807,-122.703798
+701,Chico Way at Newport Ct.,47.628606,-122.706432
+702,Chico Way at 7031 Chico,47.625981,-122.707771
+703,Chico Way at Braemar Dr.,47.621482,-122.708929
+704,Chico Way at Dorado Ln,47.616129,-122.710260
+705,Chico Way at Eldorado,47.613755,-122.710668
+706,Chico Way at Meredith,47.610755,-122.710811
+707,Chico Way at the Fire Station,47.600097,-122.709528
+708,Chico Way across from Chico Child Care,47.598250,-122.709433
+71,High School at Ferncliff,47.635744,-122.510355
+710,Lynwood Center,47.606084,-122.547178
+711,Blakely at Bucklin,47.621394,-122.541346
+712,Wyatt Way at Grow,47.628486,-122.525187
+713,Evergreen at Fort Ward,47.578751,-122.522281
+714,Ostrich Bay at Winco,47.568254,-122.680630
+715,Bay Vista Blvd at Driftwood,47.566838,-122.679926
+716,Bay Vista Blvd at Driftwood,47.567115,-122.680012
+717,Wycoff Midblock (2137),47.581450,-122.654322
+718,Austin Dr & Kitsap Way,47.578319,-122.694030
+719,Kitsap Way across from 5700,47.577841,-122.691726
+72,Miller at Tolo,47.653592,-122.562409
+720,Kitsap Way at Baymont,47.573415,-122.688954
+721,Kitsap way across from Crawford,47.572159,-122.688355
+722,Kitsap Way at Auto Center Way,47.569635,-122.686076
+723,Warren at 5th St.,47.566225,-122.633029
+724,Warren at 14th St.,47.573917,-122.632784
+725,26th at Veldee Ave,47.585720,-122.654561
+726,Randall at Wellington Apts.,47.654734,-122.695669
+727,Randall at Silvercrest Apts.,47.652322,-122.695629
+728,Randall at Danwood Ln.,47.651467,-122.695628
+729,Silverdale Way at Munson St.,47.646746,-122.698241
+73,Frey at Battle Point,47.667244,-122.579805
+730,Sheridan Rd at Lebo Blvd (The Heights),47.587231,-122.645249
+731,Bucklin Hill at Best Western,47.650472,-122.690565
+732,Bucklin Hill at Silverdale Plaza (Old Mill Park),47.650508,-122.688254
+733,Silverdale Way at Poplars,47.652565,-122.691656
+734,Myhre at Enterprise,47.653291,-122.676864
+735,Myhre at St. Michael Medical Center,47.655975,-122.676819
+736,Myhre at Salmon Building,47.659250,-122.677787
+737,Myhre at Mickelberry,47.659776,-122.681827
+738,Myhre at All Star Lanes,47.659571,-122.684404
+739,Lebo Blvd at Oak,47.585885,-122.644045
+74,Wheaton Way at Pearl,47.597565,-122.629589
+740,Silverdale Way at Munson,47.646501,-122.698140
+741,Kitsap Way at Auto Center Way,47.570057,-122.686397
+742,Kitsap Way at Crawford,47.571945,-122.687875
+743,Kitsap Way at Baymont,47.573865,-122.688759
+744,Kitsap Way at 5700,47.577878,-122.691274
+745,Austin Dr at Kitsap Way,47.578659,-122.693760
+746,Randall Way at Kitsap Mall,47.660655,-122.690412
+747,Miller Bay at Soundview,47.740862,-122.553473
+748,Augusta at Winfred,47.736988,-122.552535
+749,Division Ave at Center St,47.731781,-122.558362
+75,Mazanita at Day Rd,47.679396,-122.561302
+750,Old Wheaton Way at E. 18th St.,47.576917,-122.619957
+751,Lebo Blvd at Apple St,47.585651,-122.641981
+752,Ridgetop at Gallery,47.683476,-122.670620
+753,Ridgetop at Plateau,47.678799,-122.671297
+754,Ridgetop at Ridgepoint (North),47.675018,-122.669144
+755,Ridgetop at Pinnacle,47.674453,-122.668179
+756,Ridgetop at Tahoe,47.671053,-122.666409
+757,Ridgetop at Ridgepoint (South),47.669615,-122.667573
+758,Lebo Blvd at Hefner (Lion's Park),47.585340,-122.640562
+759,Ridgetop at Santa Fe Lane,47.665568,-122.668705
+76,Koura at Miller,47.664827,-122.556416
+760,Ridgetop at Shipside,47.663585,-122.667245
+761,Ridgetop at Derryfield,47.662286,-122.667918
+762,Ridgetop at Boardwalk,47.660671,-122.669963
+763,Ridgetop at Hillsboro,47.658648,-122.670367
+764,Ridgetop at Myhre,47.654158,-122.679588
+765,Suquamish Way before Whale Dancer Ct,47.720722,-122.569996
+766,Division Ave at Center St,47.731832,-122.558203
+767,Augusta at Winfred,47.737069,-122.552402
+768,Lebo Blvd at Stephenson,47.583539,-122.637320
+769,Miller Bay at Pebble Beach Rd,47.740950,-122.553360
+77,Island Church Park and Ride,47.650440,-122.524761
+770,Augusta at James St.,47.735228,-122.552484
+771,Bucklin Hill at Crosspointe Apts.,47.650514,-122.678799
+772,Ridgetop at Levin,47.654015,-122.685203
+773,Ridgetop at Mickelberry,47.654171,-122.683226
+774,Ridgetop at Blaine,47.654150,-122.685537
+775,Kitsap Mall Blvd at Silverdale Way,47.654341,-122.691379
+777,Bucklin Hill at Olson,47.650281,-122.673044
+778,Bucklin Hill at Spinnaker,47.650409,-122.668961
+779,Lebo Blvd at Lent Ln,47.583021,-122.636363
+78,W. Kingston Rd at Chris Lane,47.794828,-122.534150
+780,Bucklin Hill at Spinnaker 2,47.650402,-122.664944
+781,Nels Nelson at Silver,47.646557,-122.661093
+782,Nels Nelson at Creekside,47.643431,-122.661044
+783,Nels Nelson at Fairwood,47.637815,-122.661035
+784,Nels Nelson at Fairgrounds,47.632933,-122.661008
+79,Island Church Park and Ride,47.650332,-122.524665
+790,Lebo Blvd across from Belmont Terrace,47.582652,-122.633758
+793,Bucklin Hill at Social Security,47.650433,-122.681124
+794,Bethel at Lincoln,47.523872,-122.631259
+795,Bucklin Hill at Blaine,47.650660,-122.688210
+796,Randall Way at Danwood,47.651794,-122.695418
+797,Randall Way across from the Wellington Apts.,47.654585,-122.695482
+798,Oddfellows at W. Blakely,47.598373,-122.535730
+799,Lebo Blvd at Juniper,47.582475,-122.632300
+8,Southworth at the Post Office,47.522314,-122.522615
+80,Miller at New Brooklyn,47.643724,-122.564964
+800,Bay at Rockwell (Comfort Inn),47.542794,-122.629628
+801,Bay at Mitchell,47.542418,-122.625972
+802,Mile Hill at Olney,47.534027,-122.610024
+803,Bethel at Mile Hill,47.536346,-122.627256
+804,Bethel at Bay St,47.541082,-122.626715
+805,Mile Hill at Fircrest,47.533999,-122.598911
+806,Towne Square Mall,47.532815,-122.621771
+807,Mitchell at St. Gabriel,47.531139,-122.627829
+808,Mitchell at 2232,47.528342,-122.629163
+809,Mitchell at Beck (First Lutheran P&R),47.525305,-122.629900
+81,11th St. at High,47.570907,-122.640345
+810,Lincoln at Mitchell,47.523626,-122.629904
+811,Lincoln at Greendale,47.523021,-122.627384
+812,Hoover at Lund,47.519762,-122.625594
+813,Lund at Harris,47.519395,-122.622702
+814,Lund at Chase,47.519393,-122.618105
+815,Branson at Alson,47.513422,-122.615182
+816,Branson at Berger,47.515559,-122.615144
+817,Berger at Del Tormey,47.515808,-122.617180
+818,Chase at Kerri Ct,47.517944,-122.617765
+819,Bay St at One Stop Plaza (All State),47.543833,-122.624479
+82,Bremerton Foot Ferry Dock,47.562118,-122.623921
+820,Beach Dr at Olney Ave,47.546660,-122.612620
+821,Bethel at Blueberry Rd (China Sun),47.508643,-122.631331
+822,Bethel at Salmonberry,47.513082,-122.631299
+823,Bethel at Walmart,47.516175,-122.631150
+824,Bethel at Vallair (Safeway),47.518007,-122.631096
+825,Mitchell at Lincoln,47.522821,-122.630545
+826,Mitchell at Beck (First Lutheran P&R),47.525131,-122.629780
+827,Mitchell at Rill Chapel,47.531145,-122.627528
+828,Mitchell at Towne Square,47.533858,-122.625867
+829,Old Wheaton Way at Seattle Ct,47.580064,-122.625923
+83,Port Orchard Ferry Dock,47.542937,-122.635648
+830,Mitchell at Taylor,47.535282,-122.625544
+831,Mitchell at South Kitsap High School,47.536760,-122.625237
+832,Mitchell at Dekalb,47.539702,-122.625609
+833,Bay at Mitchell,47.542617,-122.625975
+834,Bay at Rockwell (Comfort Inn),47.542877,-122.630215
+835,Bethel Rd at Mitchell Rd,47.521229,-122.631058
+836,Division at County Courthouse,47.538018,-122.637747
+837,Cline at Taylor,47.536137,-122.639352
+838,Kendall at Cline,47.534315,-122.638835
+839,Sidney at Givens Community Center,47.533243,-122.636543
+84,Annapolis Foot Ferry Dock,47.549414,-122.616345
+840,Old Wheaton Way at Schley,47.577721,-122.622022
+841,Sidney at Melcher,47.530872,-122.636555
+842,Sidney at Radey St.,47.529741,-122.637663
+843,Sidney at Forest Park,47.528344,-122.639308
+844,Sidney at South,47.527212,-122.640705
+845,Sidney at Tremont,47.525852,-122.642101
+846,Tremont at Flower,47.525327,-122.645190
+847,Pottery at Lippert,47.517643,-122.652516
+848,Pottery at May,47.523772,-122.652353
+849,S Kitsap Blvd at Tremont,47.523242,-122.656395
+85,Wheaton Way at McDonald's (near Pearl),47.597817,-122.629302
+850,S Kitsap Blvd at Pottery,47.522320,-122.654143
+851,Old Wheaton Way at Schley,47.577911,-122.621963
+852,Old Wheaton Way at Mountain View Dr,47.577268,-122.621279
+853,Pottery at May,47.523797,-122.652170
+854,Lippert at Pottery (Becky),47.518290,-122.650257
+855,Tremont at Flower,47.525151,-122.644866
+856,Sidney at Tremont,47.525753,-122.641997
+857,Sidney at South,47.527194,-122.640604
+858,Sidney at Forest Park,47.528335,-122.639185
+859,Sidney at Radey St.,47.529539,-122.637726
+86,Warren at 15th,47.574481,-122.633035
+860,Sidney at Melcher,47.530919,-122.636387
+861,Sidney across from Givens Community Center,47.533247,-122.636361
+862,Kendall at Cline,47.534373,-122.638686
+863,Old Wheaton Way at E. 18th St.,47.576660,-122.619092
+864,Cline at Taylor,47.536477,-122.639269
+865,Division at County Courthouse,47.537959,-122.637950
+866,Sidney at Kitsap,47.540512,-122.636249
+867,Sidney at Division St.,47.537727,-122.636373
+868,Sidney at Keyway Apts,47.521161,-122.644814
+869,Tremont at Roland,47.525199,-122.650101
+87,11th St. at High,47.571080,-122.641372
+870,Sidney at Lippert,47.518440,-122.646275
+871,Randall Way at Silverdale Way,47.661374,-122.686650
+872,Pottery at Cedar Heights Middle School,47.515925,-122.652564
+873,Bay at Arnold Ave,47.547152,-122.618096
+874,Old Wheaton Way at Parkside Dr,47.574934,-122.618515
+875,Retsil Veteran's Home,47.544562,-122.616463
+876,Olney at Horstman,47.539334,-122.611489
+877,Olney at Horstman,47.539308,-122.611369
+878,Olney at Sprague,47.537123,-122.609819
+879,Olney at Orlando,47.537314,-122.609813
+88,Miller Bay at Wood Bay,47.758532,-122.562137
+880,Olney at Mile Hill,47.535097,-122.609551
+881,Albertsons Plaza,47.535380,-122.611404
+882,Mile Hill at Roosevelt,47.534104,-122.614236
+883,Mile Hill at Retsil (PO Armory),47.534122,-122.618256
+884,Mile Hill at Wolves Road,47.534093,-122.622814
+885,Old Wheaton Way at E 14th St.,47.572774,-122.617667
+886,Bethel at Mile Hill,47.534117,-122.628440
+887,Bethel across from the Post Office,47.530584,-122.630919
+888,Bethel at West Sound Treatment Center,47.526162,-122.631393
+889,Bethel at Lund,47.521075,-122.631277
+89,Miller Bay at Ivanich Loop,47.765142,-122.561977
+890,Walmart,47.517973,-122.628324
+891,Bethel at Salmonberry,47.513205,-122.631551
+892,Bethel at Blueberry Rd,47.508695,-122.631484
+893,Fred Meyer Port Orchard,47.503668,-122.627971
+894,Sidney at Berry Lake,47.509992,-122.652744
+895,Old Wheaton Way at Harkins,47.571387,-122.617165
+896,Sidney at Sidney Glen Elementary,47.506073,-122.652839
+897,Sidney at Sedgwick Loop,47.498428,-122.653109
+898,Sidney at Sidney Meadows (Safeway),47.496810,-122.652899
+899,Sidney at Sedgwick (Chevron),47.498482,-122.652939
+9,Southworth & Olympiad,47.516389,-122.516958
+90,Miller Bay at Silver Springs,47.772771,-122.558278
+900,Sidney at Sidney Glen Elementary,47.506100,-122.652693
+901,Sidney at Berry Lake,47.510169,-122.652642
+902,Pottery at Cedar Heights Middle School,47.516094,-122.652262
+903,Pottery at Life Care Center,47.517307,-122.652232
+904,Lippert at Pottery (Becky),47.518223,-122.649847
+905,Lippert at Sidney,47.518217,-122.646688
+906,Washington at 6th St.,47.568274,-122.623863
+907,Sidney at Keyway Apartments,47.520799,-122.644898
+908,Bethel at Sedgwick Plaza,47.505978,-122.631370
+909,Bethel at Kitsap Chiropractic,47.540470,-122.627281
+91,Miller Bay at W. Kingston,47.794489,-122.541375
+910,Bethel at the Mattress Store,47.536330,-122.627474
+911,Mile Hill at PO Armory,47.533954,-122.618835
+912,Washington at 5th St.,47.566287,-122.624073
+913,Mile Hill at Roosevelt,47.533986,-122.613724
+914,Olney at Beach Dr,47.546598,-122.612451
+915,Jackson at Maple,47.531962,-122.609718
+916,Jackson at Fir,47.530163,-122.609860
+917,Madrona at Sequoia,47.530142,-122.604868
+918,Madrona at Hidden Terrace Ln,47.531388,-122.601811
+919,Jackson at Lund,47.518773,-122.609951
+92,Indianola at Lera Ln,47.764500,-122.552855
+920,Jackson at Rustlewood,47.515280,-122.609946
+921,Salmonberry at Branson Dr,47.512161,-122.614621
+922,Jackson at Colvea,47.511145,-122.610072
+923,Jackson at Travera,47.509462,-122.610125
+924,Travera at Eastwood,47.509983,-122.613451
+925,Eastwood at Calaveras,47.510866,-122.613470
+926,Lund at Chase,47.519518,-122.618271
+927,Lund at Harris,47.519539,-122.622820
+928,Hoover at Greendale,47.520778,-122.625436
+929,Lincoln at Greendale,47.523077,-122.627611
+93,Indianola at Beach,47.762005,-122.551286
+930,Lincoln at Mitchell,47.523767,-122.629888
+931,Lund at Jackson,47.519328,-122.609164
+932,Sylvan Way at Spruce Ave,47.595671,-122.621719
+933,Lund at Phillips,47.519510,-122.604864
+934,Lund at Conifer Park,47.521249,-122.602999
+935,Lund at Greenbriar,47.522661,-122.602824
+936,Madrona at White Cedar,47.524259,-122.601766
+937,Madrona at Red Spruce (Rotary Park),47.524490,-122.600341
+938,Madrona at Lodgepole,47.524874,-122.597880
+939,Madrona at Fircrest,47.525720,-122.596159
+94,Springridge at Fletcher Bay,47.642652,-122.569410
+940,Madrona at Aspen,47.528921,-122.591784
+941,Madrona at Village Green Apts.,47.530611,-122.594510
+942,Perry Ave at E. 11th St.,47.570763,-122.613827
+943,Madrona at Village Ln,47.530359,-122.596323
+944,Madrona at Hidden Terrace,47.531546,-122.601733
+945,Madrona at Sequoia,47.530161,-122.605151
+946,Ash at Jackson,47.527391,-122.609509
+947,Bay at Arnold Ave,47.547366,-122.617609
+948,Bay St across from One Stop Plaza,47.543872,-122.624584
+949,Madrona at Village Ln,47.530233,-122.596208
+95,Miller at New Brooklyn,47.643443,-122.564977
+950,Old Wheaton Way at Seattle Ct,47.579926,-122.625301
+951,Perry Ave at E. 13th St.,47.572508,-122.613778
+952,Madrona at Aspen,47.528912,-122.592031
+953,Madrona at Fircrest,47.525879,-122.596232
+954,Jackson at Tamarack,47.530404,-122.609514
+955,Jackson at Maple,47.532045,-122.609553
+956,Madrona at Lodgepole,47.525031,-122.598040
+957,Madrona at Red Spruce (Rotary Park),47.524633,-122.600282
+958,Madrona at White Cedar,47.524515,-122.601792
+959,Lund at Madrona (Greenbrier),47.522700,-122.602948
+96,Battle Point at Frey Rd,47.667139,-122.579894
+960,Lund at Conifer Park,47.521249,-122.603130
+961,Lund at Buckingham Dr,47.520006,-122.604371
+962,Perry Ave at E. 16th St.,47.574213,-122.613767
+963,Old Clifton at Llyod Parkway,47.521690,-122.666295
+964,Youth Services Center,47.520166,-122.666684
+965,Lund at Jackson,47.519431,-122.609235
+966,Jackson at Salmonberry,47.512228,-122.609983
+967,Mullenix Park & Ride,47.468221,-122.621971
+968,Mullenix at Olalla Valley Rd (Fire Station Park & Ride),47.468830,-122.572832
+969,Southworth Ferry Dock,47.512890,-122.495953
+97,Wyatt at Madison,47.628458,-122.521468
+970,Mullenix at Olalla Valley Rd (Fire Station Park & Ride),47.468926,-122.573039
+971,Perry Ave at E. 18th St.,47.576330,-122.613713
+972,Finn Hill at Hwy 3,47.752012,-122.662158
+973,Finn Hill across from Terasse Drive,47.749604,-122.658609
+974,Finn Hill at Cedar,47.748067,-122.656327
+975,Front at Torval Canyon,47.745536,-122.650666
+976,Front at Jensen St,47.742349,-122.649930
+977,Front at Sunset,47.739560,-122.649543
+978,Front at Jensen,47.735179,-122.647291
+979,Front at Young,47.733428,-122.645641
+98,New Sweden at Eagle Harbor,47.613639,-122.515689
+980,Hostmark at 8th,47.733388,-122.639841
+981,W. Kingston Rd at Chris Lane,47.794987,-122.534051
+982,Perry Ave at Cascade Trail,47.579020,-122.613601
+983,Front at Jensen St,47.734949,-122.646590
+984,Hwy 305 at Iverson St,47.738284,-122.638535
+985,7th Ave.at Iverson,47.737629,-122.641840
+986,Viking Ave at Bovela,47.740062,-122.658981
+987,Viking Ave at Bovela,47.739951,-122.658732
+988,11th St & Naval Ave,47.571094,-122.645466
+989,11th St & Naval Ave,47.570936,-122.645438
+99,Rockaway Beach at Halls Hill,47.597864,-122.500937
+990,Front & Torval Canyon,47.745889,-122.650533
+991,Silverdale Way at Crestview,47.688049,-122.669692
+992,Finn Hill at Cedar,47.748491,-122.656623
+993,Perry Ave at Holman,47.580521,-122.613451
+994,Finn Hill at Staffordshire,47.750110,-122.659009
+995,Finn Hill at Hwy 3,47.752089,-122.661992
+996,Olympic College - Poulsbo,47.765183,-122.663050
+997,Olhava Way at Walmart,47.756547,-122.660165
+998,Hwy 305 at Hostmark,47.732451,-122.637161
+999,Hwy 305 at Baywatch,47.723231,-122.631075

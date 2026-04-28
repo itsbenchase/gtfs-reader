@@ -1,0 +1,1158 @@
+1,Capitol Way at 4th Ave,47.044418,-122.901711
+10,Capitol Blvd at Carlyon Ave,47.020729,-122.897147
+100,Crosby Blvd at Somerset Hill Dr,47.020500,-122.926353
+1006,4th Ave at Wilson St,47.045947,-122.872672
+1007,Hawk's Prairie Park & Ride,47.068371,-122.762062
+1008,College St at Martin Way,47.047369,-122.823373
+101,Barnes Blvd at Ridgeview Loop,47.017627,-122.920486
+1011,Orion Dr at Polaris Ln,47.072658,-122.741959
+1012,9050 Orion Dr,47.075497,-122.744605
+1013,Willamette Dr at 31st Ave,47.076770,-122.751762
+1014,Orion Dr at Willamette Dr,47.075835,-122.749885
+1015,Willamette Dr at Borealis Ct,47.072642,-122.752204
+1016,Willamette Dr at Commerce Pl,47.070862,-122.757331
+1017,Willamette Dr at Hogum Bay Rd,47.069472,-122.765815
+1018,Providence Medical Group,47.070335,-122.772635
+1019,Quinalt Dr at Galaxy Dr,47.061282,-122.767181
+102,Overlook Point Park,47.016403,-122.918151
+1021,Cooper Point Dr at Evergreen Park Dr [nb,47.027934,-122.924545
+1022,Cooper Point Dr at Evergreen Park Dr [sb,47.027286,-122.923920
+1025,Kaiser Rd at Greenwood Dr,47.043373,-122.960495
+1026,Harrison Ave at Twin Flowers St,47.047169,-122.958182
+1027,Capital Medical Center,47.041514,-122.950966
+1029,Marvin Rd at Britton Pkwy,47.068401,-122.770447
+103,Barnes Blvd at Vista Loop,47.015277,-122.915153
+1030,Harrison Ave at Kaiser Rd,47.046966,-122.959632
+1031,Harrison Ave at Yauger Way,47.046996,-122.948975
+1033,Harrison Ave at Cooper Point Rd,47.047207,-122.942032
+1034,Harrison Ave at Yauger Way,47.047215,-122.950439
+1035,New Horizon Communities,47.025398,-122.942977
+1036,Martin Way at I-5,47.048858,-122.817879
+1037,Crites St at 26th Ave,47.024078,-122.946464
+1038,29th Ave at Ferguson St,47.021812,-122.944588
+1039,Yelm Hwy at Powerhouse Ln,46.968394,-122.638160
+104,7th Ave at I St,47.008472,-122.913047
+1040,Yelm Hwy at Powerhouse Ln,46.968506,-122.638015
+1041,7th Ave at Fieldstone Dr,47.041855,-122.956328
+1042,7th Ave at Fieldstone Dr,47.041959,-122.956304
+1043,4th Ave at Washington St,47.044925,-122.900597
+1044,Carpenter Rd at 9th Ln,47.056160,-122.796462
+1045,Britton Place Apts,47.064979,-122.794387
+1046,Britton Pkwy at Gateway Blvd,47.068321,-122.787064
+1047,Britton Pkwy at Marvin Rd,47.068150,-122.773063
+1048,Willamette Dr at Marvin Rd,47.069247,-122.769669
+1049,Willamette Dr at Hogum Bay Rd,47.069279,-122.763076
+105,2nd Ave at I St,47.007980,-122.908584
+1050,Willamette Dr at Commerce Place,47.070610,-122.757140
+1051,Willamette Dr at Borealis Ct,47.072361,-122.752113
+1052,Willamette Dr at 31st Ave,47.076542,-122.751183
+1053,Meridian Campus Ctr,47.078700,-122.752051
+1054,Willamette Dr at Madrid St,47.084750,-122.754760
+1055,Willamette Dr at Meriwood Dr,47.090159,-122.757919
+1056,41st Ave at Whidbey Rd,47.090449,-122.764548
+1057,41st Ave at Vashon Dr,47.090468,-122.768257
+1058,41st Ave at Edgewater Blvd,47.090519,-122.777039
+1059,Marvin Rd at 41st Ave,47.089709,-122.780853
+106,2nd Ave at C St,47.013779,-122.906677
+1060,Marvin Rd at Spencer Ave,47.085448,-122.780860
+1061,Target Dist Ctr,47.083920,-122.776679
+1062,Hawks Prairie Rd at Hogum Bay Rd,47.082950,-122.768317
+1063,Hogum Bay Rd at 31st Ave,47.078139,-122.764770
+1064,Hogum Bay Rd at 30th Ave,47.073718,-122.763862
+1065,Britton Pkwy at Marvin Rd,47.068401,-122.772888
+1066,Britton Pkwy at Callison Rd,47.068507,-122.781188
+1067,Britton Pkwy at Gateway Blvd,47.068438,-122.787620
+1068,Britton Place Apts,47.065070,-122.794670
+1069,Carpenter Rd at 9th Ln,47.057120,-122.796767
+107,2nd Ave at Division St,47.015376,-122.906654
+1070,Carpenter Rd at Martin Way,47.051318,-122.796539
+1071,SPSCC Mottman Entrance,47.025454,-122.928916
+1072,Mottman Rd at Firland St,47.025387,-122.934880
+1073,Mottman Rd at Firland St,47.025223,-122.936286
+1074,SPSCC Mottman Entrance,47.025317,-122.928581
+1075,Hogum Bay Rd at Campus Glen Dr,47.081394,-122.765197
+1076,Martin Way Park & Ride Flyer Stop,47.049626,-122.816731
+1077,Capitol Blvd at Tumwater Valley Dr,47.009792,-122.906052
+1078,Capitol Blvd at Tumwater Valley Dr,47.009345,-122.905875
+1079,Pacific Ave at Selma St,47.038616,-122.830710
+1080,Capitol Blvd at Ruby St,46.999088,-122.908284
+1083,Berkeley St SW & Washington Ave SW,47.119975,-122.558722
+1084,Old Hwy 99 at 73rd Ave,46.982052,-122.903869
+1085,Old Hwy 99 at Olympia Airport,46.977510,-122.898429
+1086,Henderson Blvd at Old Hwy 99,46.976287,-122.894554
+1087,Henderson Blvd at Trails End Dr,46.979668,-122.888566
+1088,Henderson Blvd at 73rd Ave,46.981306,-122.886517
+1089,Henderson Blvd at Tumwater Blvd,46.984489,-122.886510
+109,North St at Cleveland Ave,47.016562,-122.896492
+1090,Henderson Blvd at 68th Ave,46.988260,-122.886164
+1091,Henderson Blvd at 65th Ave,46.990373,-122.883665
+1092,Pioneer Park,46.996641,-122.880761
+1093,Henderson Blvd at 53rd Ave,47.000152,-122.880857
+1094,Boulevard Rd at 45th Ave,47.006421,-122.865076
+1095,Boulevard Rd at 45th Ave,47.005243,-122.865376
+1096,Boulevard Rd at 18th Ave,47.031237,-122.865241
+1097,Boulevard Rd at Chambers St,47.034053,-122.868143
+1098,Boulevard Rd at 18th,47.031198,-122.864988
+1099,Henderson Blvd at 53rd Ave,46.999629,-122.881228
+11,Capitol Blvd at E St,47.011021,-122.905289
+110,North St at Lorne St,47.016574,-122.893410
+1100,Pioneeer Park,46.997502,-122.881178
+1101,Henderson Blvd at Wildflower St,46.990437,-122.884290
+1102,Henderson Blvd at 68th Ave,46.988219,-122.886465
+1103,Henderson Blvd at Tumwater Blvd,46.986133,-122.886724
+1104,Henderson Blvd at 73rd Ave,46.981942,-122.886740
+1105,Henderson Blvd at Trails End Dr,46.979681,-122.888693
+1106,Henderson Blvd at Captiol Blvd,46.976156,-122.895127
+1109,Old Hwy 99 at 73rd Ave,46.982378,-122.903939
+111,North St at Pear St,47.016540,-122.889052
+1110,Meridian Rd at Yelm Hwy,46.986534,-122.740004
+1111,58th Ave at Manor House,46.996069,-122.752050
+1112,58th Ave at Kagy St,46.996215,-122.759505
+1113,Kagy St at 55th Ave,46.999521,-122.759522
+1114,15th Ave at Bradley St,47.057876,-122.830212
+1115,Mullen Rd at Kagy St,47.003172,-122.759603
+1116,Marvin Rd at Oakwood St,47.014566,-122.754046
+1117,Evergreen Forest Elementary School,47.020496,-122.758803
+1119,The Landing at Hawk's Prairie,47.057937,-122.769023
+112,Olympia High School,47.016529,-122.884803
+1120,Quinault Dr at Marvin Rd,47.061135,-122.768278
+1121,15th Ave at Woodland Creek St,47.057784,-122.812642
+1122,15th Ave at Cypress Apartments,47.057838,-122.814849
+1123,15th Ave at Cunningham Rd,47.057843,-122.821274
+1124,15th Ave at Enterprise Dr,47.057838,-122.825733
+1125,Sleater Kinney Rd at 14th Ave,47.056783,-122.833834
+1126,Sleater Kinney Rd at 6th Ave,47.053567,-122.833873
+1127,North Thurston High School,47.051167,-122.833837
+1128,Sleater Kinney at Martin Way,47.048742,-122.833803
+1129,Sleater Kinney Dr at Martin Way,47.048597,-122.833629
+113,North St at Central St,47.016518,-122.882339
+1130,North Thurston High School,47.051589,-122.833488
+1131,Sleater Kinney Rd at 6th Ave,47.055010,-122.833534
+1132,15th Ave at Bradley St,47.057650,-122.831066
+1133,15th Ave at Enterprise Dr,47.057714,-122.827348
+1134,15th Ave at Burton Ray St,47.057642,-122.821139
+1135,15th Ave at Modera,47.057605,-122.813148
+1136,Wilamette Dr at Hogum Bay Town Center [e,47.069285,-122.766794
+1137,Marvin Rd at Regional Atheltics Center [,47.043464,-122.765148
+1138,Marvin Rd at 9th Ave,47.039982,-122.765126
+1139,Evergreen Forest Elementary School,47.019571,-122.757569
+114,Henderson Blvd at North St,47.016220,-122.879333
+1140,Marvin Rd at Lakeforest Dr,47.013771,-122.754442
+1141,Meridian Rd at Tri Lake Dr,46.997372,-122.738746
+1142,Mullen Rd at Tri Lake Dr,47.003086,-122.741439
+1143,22nd Ave at College St,47.027377,-122.825685
+1144,22nd Ave at Judd St,47.027326,-122.818862
+1145,22nd Ave at Judd St,47.027493,-122.818297
+1146,22nd Ave at Golf Club Rd,47.027547,-122.822440
+1147,22nd Ave at College St,47.027604,-122.825233
+1148,Golf Club Rd at 21st Ave,47.027735,-122.828344
+1149,Sleater Kinney Rd at 18th Ave,47.060663,-122.833588
+115,Henderson Blvd at Middle St,47.012791,-122.879356
+1150,Sleater Kinney Rd at Baptist Church,47.062925,-122.833590
+1151,Sleater Kinney Rd at 23rd Ave,47.064704,-122.833569
+1152,Sleater Kinney Rd at 26th Ave,47.068224,-122.833606
+1153,Chehalis Western Trail,47.068744,-122.837549
+1154,Lilly Rd at 23rd Ln,47.065958,-122.844399
+1155,Lilly Rd at Windwood Pl,47.063187,-122.844418
+1156,Lilly Rd at Woodside Ct,47.060774,-122.844472
+1157,Lilly Rd at Woodard Green Dr,47.058116,-122.844501
+1158,Lilly Rd at Mapleview Dr,47.060666,-122.844270
+1159,Lilly Rd at Landau Ave,47.062998,-122.844285
+116,Henderson Blvd at Briggs Dr,47.007656,-122.881081
+1160,Lilly Rd at 23rd Ave,47.065763,-122.844253
+1161,Lilly Rd at 23rd Ave,47.068008,-122.844242
+1162,26th Ave at Village St,47.068644,-122.841692
+1163,26th Ave at Trailside Dr,47.068659,-122.838289
+1164,Sleater Kinney Rd at Sealter Crossing [s,47.064524,-122.833745
+1165,Sleater Kinney Rd at 20th Ave,47.062127,-122.833720
+1166,Sleater Kinney Rd at 15th Ct,47.058838,-122.833841
+1167,Log Cabin Blvd at Gainsborough Dr,47.014627,-122.870121
+1168,North St at Cain Rd,47.016630,-122.876249
+1169,North St at Cain Rd,47.016510,-122.876369
+117,Henderson Blvd at Yelm Hwy,47.005027,-122.881080
+1170,Log Cabin Blvd at Whitmore Dr,47.014459,-122.870938
+1171,Marvin Rd at Hickory Stick Rd,47.070969,-122.772870
+1172,Marvin Rd at 29th Ave,47.073423,-122.774989
+1173,Marvin Rd at 31st Ave,47.076106,-122.777289
+1174,Marvin Rd at Hawks Prairie Rd,47.079806,-122.780448
+1175,Willamette Dr at Deni Dr,47.081042,-122.753064
+1176,Meridian Neighborhood Park,47.082963,-122.753249
+1177,Campus Glen Dr at Becket St,47.082723,-122.755914
+1179,Campus Glen Dr at Salish Middle School [,47.081799,-122.758044
+118,Yelm Hwy at Village Dr,47.003471,-122.875426
+1180,Campus Glen Dr at Hogum Bay,47.081873,-122.762782
+1181,Hogum Bay Rd at Hawks Prairie Rd,47.082267,-122.764973
+1182,Hawks Prairie Rd at Target,47.083130,-122.768418
+1183,Hawks Prairie Rd at Marvin Rd,47.084048,-122.774453
+1184,Marvin at 34th Ave,47.081451,-122.780872
+1185,Marvin Rd at Gateway Blvd,47.075462,-122.777097
+1186,Marvin Rd at 29th Ave,47.072666,-122.774682
+1188,Sawyer St at 9th Ave,47.042252,-122.870436
+1189,Sawyer St at 9th Ave,47.042172,-122.870257
+119,Yelm Hwy at Juli Ct,47.004615,-122.868819
+1190,Harrison Ave at 400 Cooper Point Rd,47.047038,-122.938889
+1191,31st Ave at Hanna Ct,47.077767,-122.759138
+1192,31st Ave at Willamette Dr,47.077584,-122.753004
+1193,Littlerock Rd at Tumwater Blvd,46.983810,-122.934719
+1194,Littlerock Rd at Sequoia Landing,46.983726,-122.934432
+1195,Littlerock Rd at Israel Rd,46.984637,-122.933362
+1196,Legion Way at Plum St,47.043786,-122.892297
+1197,Union Ave at Quince St,47.039621,-122.890495
+1198,11th Ave at Saint Michael's,47.039229,-122.886181
+1199,Plum St at Union Ave,47.040664,-122.892267
+12,Capitol Blvd at Linwood Ave,47.007477,-122.907309
+120,Yelm Hwy at Boulevard Rd,47.003653,-122.865080
+1200,Legion Way at Plum St,47.043906,-122.892300
+1201,Plum St at Yashiro Gardens,47.040258,-122.891830
+1202,2825 Capital Mall Dr,47.039837,-122.937411
+1203,2525 Capital Mall Dr,47.039797,-122.933319
+1204,Capital Mall Dr at Mall Loop Dr East [wb,47.039960,-122.933189
+1205,Black Lake Blvd at Mall Loop Dr West [wb,47.039963,-122.937452
+1206,Kaiser Rd at 5th Way,47.044678,-122.960169
+1207,Harrison Ave at Cooper Point,47.046991,-122.944256
+1208,Division St at 4th Ave,47.045398,-122.925996
+1209,Black Lake Blvd at Capital Mall Dr,47.040449,-122.931121
+121,Yelm Hwy at Donovan Dr,47.001266,-122.859047
+1210,Black Lake Blvd at 12th Ct,47.036677,-122.935707
+1211,Black Lake Blvd at Cooper Point,47.034902,-122.938001
+1212,Black Lake Blvd at Forest Headquarters [,47.030628,-122.943113
+1213,21st Ave at Black Lake Apt,47.028891,-122.942471
+1214,21st Ave at Black Lake Meadows Reserve [,47.027470,-122.939499
+1215,RW Johnson Blvd at Mottman Rd,47.025442,-122.939374
+1216,RW Johnson Blvd at 27th Ave,47.022214,-122.939350
+1217,RW Johnson Blvd at 21st Ave,47.027448,-122.939359
+1218,21st Ave at Black Lake Apts,47.029013,-122.942891
+1219,Black Lake Blvd at Cascade Office Park [,47.030047,-122.943577
+122,Yelm Hwy at Rich Rd,47.000628,-122.853995
+1220,Black Lake Blvd at Cooper Point Rd,47.035498,-122.936847
+1221,Black Lake Blvd at Westmoor Ct,47.037288,-122.934765
+1222,Black Lake Blvd at Capital Mall Dr,47.039376,-122.932156
+1223,Orion Dr at Willamette Dr,47.075937,-122.748574
+1224,Orion Dr at Lacey Business Park,47.075031,-122.744342
+1225,Orion Dr at Polaris Ln,47.073272,-122.742732
+1226,Orion Dr at Merdian Rd,47.069298,-122.741662
+1227,Meridian Rd at Quinault Dr,47.063197,-122.741593
+1228,Meridian Station,47.061395,-122.742050
+1229,Martin Way at River Ridge,47.059588,-122.750968
+123,Yelm Hwy at Chambers Creek Loop,47.000309,-122.852004
+1230,Martin Way at Hoh St,47.058624,-122.755853
+1231,Marvin Rd at The Landing at Hawks Prairi,47.059495,-122.764769
+1232,Marvin Rd at Lacey Marketplace,47.058839,-122.764554
+1233,Henderson Blvd at 14th Ave,47.029315,-122.891123
+1234,Henderson Blvd at Eskridge Blvd,47.023053,-122.878757
+1235,Henderson Blvd at Carlyon Ave,47.019644,-122.877912
+1236,Henderson Blvd at North St,47.015469,-122.879110
+1237,Henderson Blvd at Carlyon Ave,47.019342,-122.877591
+1238,Henderson Blvd at Eskridge Blvd,47.023045,-122.878404
+1239,Henderson Blvd at Watershed Park,47.028567,-122.889050
+124,Yelm Hwy at Wiggins Rd,46.998089,-122.845061
+1240,Henderson Blvd at 14th Ave,47.029468,-122.890770
+1241,Yelm Hwy at College St,46.996336,-122.824338
+1242,9106 Martin Way,47.060445,-122.746339
+1243,Franklin St at 8th Ave,47.041638,-122.898650
+125,Yelm Hwy at Donnelly Dr,46.997005,-122.841430
+126,Yelm Hwy at Troon Ln,46.996204,-122.836432
+127,Yelm Hwy at Chardonnay Dr,46.996189,-122.833472
+129,Yelm Hwy at Sarazen St,46.996197,-122.818970
+130,Yelm Hwy at Sarazen St,46.996342,-122.819496
+131,Yelm Hwy at Corporate Center Dr,46.996380,-122.829399
+132,Yelm Hwy at Chardonnay Dr,46.996379,-122.833481
+133,Yelm Hwy at Normandy Dr,46.996482,-122.838485
+134,Yelm Hwy at Donovan Dr,47.001564,-122.859984
+135,Yelm Hwy at Wiggins Rd,46.998268,-122.844977
+136,Yelm Hwy at Chambers Creek Loop,47.000529,-122.852295
+137,Yelm Hwy at Rich Rd,47.001021,-122.855910
+138,Yelm Hwy at Donnelly Dr,46.997394,-122.842116
+139,Yelm Hwy at Boulevard Rd,47.004497,-122.866385
+14,Linwood Ave at Liberty St,47.007416,-122.920631
+140,Yelm Hwy at Juli Ct,47.004795,-122.869468
+141,Yelm Hwy at Village Dr,47.003651,-122.875938
+142,Henderson Blvd at Yelm Hwy,47.005050,-122.880798
+143,Henderson Blvd at Briggs Dr,47.007667,-122.880813
+144,Henderson Blvd at Middle St,47.013263,-122.879166
+145,North St at Central St,47.016613,-122.882461
+146,Olympia High School,47.016623,-122.884238
+147,North St at Hawthorne Pl,47.016631,-122.887000
+148,North St at Hoadly St,47.016633,-122.890509
+149,North St at Lorne St,47.016647,-122.893089
+15,Linwood Ave at Rural Rd,47.007415,-122.925857
+150,North St at Cleveland Ave,47.016663,-122.896499
+1500,Olympia Transit Center - Bay A,47.045910,-122.900250
+1501,Olympia Transit Center - Bay B,47.046036,-122.899719
+1502,Olympia Transit Center - Bay C,47.046109,-122.899896
+1503,Olympia Transit Center - Bay E,47.046193,-122.900167
+1504,Olympia Transit Center - Bay F,47.046271,-122.900418
+1506,Olympia Transit Center - Bay I,47.046324,-122.899956
+1507,Olympia Transit Center - Bay J,47.046267,-122.899772
+1508,Olympia Transit Center - Bay K,47.046200,-122.899576
+1509,Olympia Transit Center - Bay N,47.046677,-122.900174
+151,Friendly Grove at 26th Ave,47.068542,-122.871322
+1510,Olympia Transit Center - Bay M,47.046581,-122.899809
+1511,Olympia Transit Center - Bay L,47.046491,-122.899619
+152,26th Ave at Bethel St,47.068886,-122.883583
+153,Bethel St at Brandon Ct,47.067283,-122.884696
+154,Bethel St at Devon Ct,47.065765,-122.884705
+155,Bethel St at Miller Ave,47.061703,-122.884796
+156,Bethel St at Ethridge Ave,47.059882,-122.884810
+157,Bethel St at San Francisco Ave,47.057686,-122.884887
+158,Puget St at San Francisco Ave,47.056914,-122.887482
+159,Puget St at Leavenworth Ave,47.055327,-122.887511
+16,Rural Rd at 48th Ave,47.004729,-122.926788
+160,Puget St at Pine Ave,47.053466,-122.887505
+1600,Lacey Transit Center - Bay L,47.041974,-122.829354
+1601,Lacey Transit Center - Bay K,47.042183,-122.829337
+1602,Lacey Transit Center - Bay J,47.042368,-122.829361
+1603,Lacey Transit Center - Bay I,47.042531,-122.829424
+1604,Lacey Transit Center - Bay H,47.042694,-122.829521
+1606,Lacey Transit Center - Bay G,47.042804,-122.829658
+1607,Lacey Transit Center - Bay F,47.042870,-122.829989
+1608,Lacey Transit Center - Bay A,47.041979,-122.829511
+1609,Lacey Transit Center - Bay B,47.042177,-122.829560
+161,Puget St at Yew Ave,47.051430,-122.887687
+1610,Lacey Transit Center - Bay C,47.042379,-122.829630
+1611,Lacey Transit Center - Bay D,47.042594,-122.829787
+1613,Lacey Transit Center - Bay E,47.042727,-122.830035
+162,Puget St at Bigelow Ave,47.049781,-122.887695
+163,Puget St at Thurston Ave,47.048469,-122.887558
+164,State Ave at Eastside St,47.046637,-122.889457
+165,State Ave at East Bay Dr,47.046359,-122.893752
+166,State at Cherry,47.046203,-122.896171
+167,Olympia Transit Center,47.046279,-122.900072
+168,4th at Adams,47.045138,-122.897659
+169,4th Ave at Pear St,47.045512,-122.891594
+17,Rural Rd at Trosper Rd,47.000557,-122.926825
+170,Puget St at Thurston Ave,47.048683,-122.887420
+171,Puget St at Bigelow Ave,47.050017,-122.887511
+172,Bigelow Ave at Garrison St,47.050097,-122.884238
+173,Bigelow Ave at Central St,47.050086,-122.881493
+174,Fir St at Bigelow Ave,47.050385,-122.877303
+175,Pine Ave at McCormick St,47.053627,-122.878371
+176,Pine Ave at Lybarger St,47.053637,-122.880600
+177,Central St at Pine Ave,47.053801,-122.882401
+178,Central St at Massey Ave,47.058356,-122.882438
+179,Central St at Ethridge Ave,47.060752,-122.882361
+18,Trosper Rd at Commander Dr,46.999919,-122.925102
+180,Miller Ave at McCormick St,47.061957,-122.877532
+181,Miller Ave at Ann St,47.061942,-122.872742
+182,2242 Friendly Grove Rd,47.064647,-122.871384
+183,Lacey Transit Center,47.042681,-122.829532
+184,6th Ave at Sleater Kinney Rd,47.043373,-122.831932
+185,Sleater Kinney Rd at 6th Ave,47.042766,-122.833880
+186,Sleater Kinney Rd at Pacific Ave,47.040241,-122.833838
+187,Sleater Kinney Rd at 12th Ave,47.037552,-122.833870
+188,Sleater Kinney Rd at 14th Ave,47.034832,-122.833862
+189,Capitol Club Apts,47.034305,-122.837654
+19,Trosper Rd at Lake Park Dr,46.999869,-122.918143
+190,Colonial Estates MHP,47.034328,-122.841873
+191,18th Ave at Fones Rd,47.032580,-122.848152
+192,18th Ave at Craig Rd,47.032611,-122.855185
+193,18th Ave at Kempton St,47.032638,-122.853119
+194,18th Ave at Allen Rd,47.032604,-122.857399
+195,18th Ave at Amhurst St,47.032627,-122.859230
+196,18th Ave at Karen Frazier Rd,47.032695,-122.862616
+197,Boulevard Rd at Ellis St,47.033062,-122.866538
+198,Boulevard Rd at 15th Ave,47.037066,-122.868918
+199,Boulevard Rd at 12th Ave,47.039107,-122.868988
+2,Capitol Way at Legion Way,47.042889,-122.901488
+20,Olympics West Retirement Inn,46.999911,-122.921021
+200,Boulevard Rd at Union Ave,47.041031,-122.868972
+201,9th Ave at Sawyer St,47.041775,-122.870994
+202,Frederick St at Union Ave,47.040428,-122.871742
+203,Union Ave at Fairview St,47.039935,-122.874343
+204,Union Ave at Lybarger St,47.040146,-122.880065
+205,10th Ave at Central St,47.041019,-122.882430
+206,St. Michael Church,47.040896,-122.886414
+207,Eastside St at 9th Ave,47.041813,-122.887862
+208,8th Ave at Pear St,47.042236,-122.891242
+209,8th Ave at Chestnut St,47.042045,-122.894142
+21,Littlerock Rd at Trosper Rd,46.998328,-122.916999
+210,8th Ave at Adams St,47.041808,-122.897789
+211,Franklin St at Legion Ave,47.043612,-122.898925
+212,Franklin St at Legion Ave,47.043194,-122.899017
+213,8th Ave at Franklin St,47.041653,-122.898264
+214,8th Ave at Chestnut St,47.042006,-122.893843
+215,8th Ave at Pear St,47.042140,-122.891052
+216,Eastside St at 8th Ave,47.041865,-122.888039
+217,St. Michaels Church,47.040779,-122.886482
+218,10th Ave at Central St,47.040950,-122.882552
+219,Union Ave at Lybarger St,47.040070,-122.879981
+22,Peak Plaza - Costco,46.996662,-122.919057
+220,Union Ave at Wilson St,47.039856,-122.873824
+221,Frederick St at Union Ave,47.040565,-122.871628
+222,9th Ave at Frederick St,47.041690,-122.871057
+223,Boulevard Rd at Union Ave,47.040653,-122.869186
+224,Boulevard Rd at 12th Ave,47.038673,-122.869148
+225,Boulevard Rd at 15th Ave,47.036415,-122.868820
+226,18th Ave at Boulevard Rd,47.032493,-122.864524
+227,18th Ave at Karen Frazier Rd,47.032551,-122.862601
+228,18th Ave at Amhurst St,47.032535,-122.859840
+229,18th Ave at Allen Rd,47.032527,-122.857360
+23,Littlerock at Kingswood Dr,46.994904,-122.921722
+230,18th Ave at Craig Rd,47.032493,-122.855361
+231,18th Ave at Kempton St,47.032470,-122.852385
+232,18th Ave at Hoffman Rd,47.032425,-122.848601
+233,Elizabeth St at 18th Ave,47.032990,-122.844199
+234,Colonial Estates MHP,47.034199,-122.841240
+235,Hacienda Apts,47.034191,-122.837440
+236,Sleater Kinney Rd at 14th Ave,47.034640,-122.833717
+237,Sleater Kinney Rd at Lacey Blvd,47.037941,-122.833687
+238,Sleater Kinney Rd at Pacific Ave,47.039879,-122.833679
+239,Sleater Kinney Rd at 7th Ave,47.041881,-122.833648
+24,Tumwater Middle School,46.992085,-122.923538
+241,Evergreen Library Loop,47.071983,-122.977127
+242,Evergreen Pkwy at Overhulse Rd,47.069762,-122.969687
+243,Kaiser Rd at Driftwood Rd,47.071907,-122.955558
+244,Kaiser Rd at Cedrona Dr,47.073605,-122.952080
+245,College Court Apts,47.075268,-122.949600
+246,Kaiser Rd at Cooper Point Rd,47.075538,-122.944205
+247,Cooper Point Rd at 29th Ave,47.073668,-122.943046
+248,28th Ave at Cooper Point Rd,47.071133,-122.941611
+249,28th Ave at Division St,47.071125,-122.935409
+25,Littlerock Rd at Odegard Rd,46.989471,-122.927231
+250,Division St at 26th Ave,47.069016,-122.931183
+251,Butler Cove Apts,47.066357,-122.929459
+252,Division St at Burbank Ave,47.064887,-122.929001
+253,Division St at Elliott Ave,47.063357,-122.928458
+254,Division St at Muirhead Ave,47.059174,-122.925713
+255,Division St at Walnut Rd,47.057350,-122.925659
+256,Division St at Dickinson Ave,47.054939,-122.925635
+257,Division St at Bowman Ave,47.053245,-122.925651
+258,Division St at Conger Ave,47.051334,-122.925758
+259,Division St at Madison Ave,47.049560,-122.925841
+26,Littlerock Rd at Glenwood Dr,46.987906,-122.929450
+260,Division St at Garfield Ave,47.047374,-122.925918
+261,Harrison Ave at Division St,47.045910,-122.925109
+262,Harrison Ave at Decatur St,47.045922,-122.922771
+263,Harrison Ave at Plymouth St,47.045859,-122.919997
+264,Harrison Ave at Foote St,47.045775,-122.915245
+265,5th Ave at Sylvester St,47.043682,-122.905501
+266,Columbia St at State Ave,47.046031,-122.902999
+267,5th Ave at Sylvester St,47.043808,-122.905922
+268,5th Ave at Deschutes Pkwy,47.043652,-122.908065
+269,Harrison Ave at Percival St,47.045925,-122.916388
+27,Israel Rd at Littlerock Rd,46.985408,-122.931083
+270,Harrison Ave at Plymouth St,47.045939,-122.918617
+271,Harrison Ave at Perry St,47.046008,-122.920486
+272,Harrison Ave at Milroy St,47.046042,-122.923202
+273,Division St at Harrison Ave,47.046607,-122.925781
+274,Division St at Madison Ave,47.049674,-122.925682
+275,Division St at Giles Ave,47.052151,-122.925583
+276,Division St at Bowman Ave,47.053398,-122.925522
+277,Division St at Dickinson Ave,47.055042,-122.925484
+278,Division St at Farwell Ave,47.056900,-122.925491
+279,Division St at Muirhead Ave,47.059466,-122.925591
+28,Linderson Way at Israel Rd,46.984810,-122.918404
+280,Division St at Elliott Ave,47.063605,-122.928435
+281,Division St at Burbank Ave,47.064941,-122.928878
+282,Butler Cove Apts,47.066729,-122.929367
+283,Division St at 26th Ave,47.069407,-122.931327
+284,28th Ave at Division St,47.071201,-122.935576
+285,28th Ave at Cooper Point Rd,47.071368,-122.941582
+286,Cooper Point Rd at 29th Ave,47.073841,-122.942902
+287,Kaiser Rd at Cooper Point Rd,47.075660,-122.943938
+288,College Court Apts,47.075165,-122.949988
+289,Kaiser Rd at Cedrona Dr,47.073982,-122.951782
+29,Labor & Industries Building,46.982967,-122.920608
+290,Maple Park Ave at Jefferson St,47.034004,-122.896332
+291,Evergreen Maintenance,47.074699,-122.957557
+292,Driftwood Rd at Wildcurrant Loop,47.075668,-122.968384
+293,Driftwood Rd at Overhulse Rd,47.076084,-122.970367
+294,Evergreen Dorms,47.075333,-122.973450
+295,Driftwood Rd at Overhulse Rd,47.076077,-122.970757
+296,Driftwood Rd at Wildcurrant Loop,47.075630,-122.967940
+297,Overhulse Pl at Driftwood Rd,47.075047,-122.964378
+298,Overhulse Pl at Fireweed Dr,47.071434,-122.969718
+299,Evergreen Pkwy at Overhulse Pl,47.070044,-122.970046
+3,Capitol Way at 9th Ave,47.040493,-122.901080
+30,Linderson Way at Tumwater Blvd,46.981150,-122.918465
+300,County Courthouse,47.029395,-122.913193
+301,Deschutes Pkwy at Lakeridge Dr,47.032580,-122.910361
+302,Capitol Lake,47.040829,-122.914253
+303,Marathon Park,47.037399,-122.913101
+304,Percival Cove,47.034656,-122.911429
+305,Maple Park Ave at Capitol Way,47.033675,-122.900130
+306,Maple Park Ave at Franklin St,47.033695,-122.897902
+307,Jefferson St at Maple Park Ave,47.034316,-122.895653
+308,Jefferson St at 13th Ave,47.036991,-122.895720
+309,Jefferson St at 11th Ave,47.038435,-122.895827
+31,Littlerock at Miner Dr,46.985939,-122.931587
+310,Jefferson St at Union Ave,47.039623,-122.895820
+311,Jefferson St at 9th Ave,47.040635,-122.895971
+312,Eastside St at 12th Ave,47.037937,-122.887451
+313,Jefferson St at 10th Ave,47.040306,-122.896087
+314,Jefferson St at 11th Ave,47.038274,-122.895947
+315,Jefferson St at 13th Ave,47.036690,-122.895972
+316,Maple Park Ave at Franklin St,47.033885,-122.897979
+317,Maple Park Ave at Capitol Way,47.033885,-122.899528
+318,Percival Cove,47.034537,-122.911544
+319,Marathon Park,47.037308,-122.913193
+32,Littlerock Rd at McIver Ct,46.987797,-122.929267
+320,Capitol Lake,47.040832,-122.914383
+321,Deschutes Pkwy at Lakeridge Dr,47.032539,-122.910521
+322,County Courthouse,47.028320,-122.913413
+323,Capital Mall Station,47.042277,-122.932533
+324,Kenyon St at 4th Ave,47.045040,-122.934212
+325,Harrison Ave at Kenyon St,47.046291,-122.934714
+326,2920 Harrison Ave,47.047184,-122.938582
+327,Cooper Point Rd at Harrison Ave,47.045471,-122.941406
+328,Cooper Point Rd at 12th Ave,47.036835,-122.939330
+329,Cooper Point Rd at Black Lake Blvd,47.034149,-122.937340
+33,Littlerock Rd at Odegard Rd,46.989268,-122.927208
+330,Central Park Villa,47.031844,-122.935051
+331,Cooper Point Rd at Carriage Dr,47.029808,-122.932541
+332,Crosby Blvd at Mottman Rd,47.023387,-122.923279
+333,Crosby Blvd at Mottman Rd,47.023040,-122.922980
+334,Evergreen Park Dr at S Evergreen Park Dr,47.028384,-122.922310
+335,Sherwood Glen Apts,47.030430,-122.919243
+336,Heritage Park Apts,47.030777,-122.917374
+337,Westlake Apts,47.029842,-122.915283
+338,S. Evergreen Park Dr at 24th Way,47.028000,-122.914901
+339,Regency Apts,47.030068,-122.915278
+34,Tumwater Middle School,46.991329,-122.924210
+340,Heritage Park Apts,47.030852,-122.916817
+341,Broadmoor West,47.030690,-122.918986
+342,Evergreen Park Dr at S. Evergreen Park D,47.028427,-122.922683
+343,Cooper Point Rd at Carriage Dr,47.030457,-122.933105
+344,1800 Cooper Point Rd,47.032261,-122.935143
+345,Cooper Point Rd at Black Lake Blvd,47.033687,-122.936241
+346,Cooper Point Rd at 12th Ave,47.037704,-122.939018
+347,Cooper Point Rd at Capital Mall Dr,47.041137,-122.939102
+348,Capital Medical Center,47.041843,-122.951858
+35,Peak Plaza - Costco,46.996736,-122.918436
+354,Capital Mall Dr at Courtside St,47.041026,-122.948218
+355,Capital Mall Dr at Archwood Dr W,47.039837,-122.945235
+356,Capital Mall Dr at Archwood Dr E,47.039805,-122.942725
+358,Capital Village,47.045109,-122.941109
+359,Cooper Point Rd at Harrison Ave,47.049503,-122.941154
+36,Littlerock Rd at Trosper Rd,46.998229,-122.916810
+360,Cooper Point Rd at Conger Ave,47.051979,-122.941116
+361,Conger Ave at Wily St,47.051513,-122.938065
+362,Capital High School,47.051567,-122.933632
+363,Conger Ave at Cardigan St,47.051570,-122.930877
+364,Jefferson Middle School,47.051514,-122.928107
+365,Bowman Ave at Milroy St,47.053543,-122.922782
+366,Bowman Ave at Rogers St,47.053535,-122.919089
+367,Rogers St at Conger Ave,47.051083,-122.918526
+368,Rogers St at Jackson Ave,47.048252,-122.917853
+369,Garfield Ave at Plymouth St,47.047249,-122.919495
+37,Trosper Rd at 2nd Ave,47.000037,-122.917259
+370,Rogers St at Harrison Ave,47.046242,-122.917800
+371,Rogers St at Jackson Ave,47.048663,-122.917732
+372,Rogers St at Conger Ave,47.050812,-122.918411
+373,Bowman Ave at Rogers St,47.053593,-122.918938
+374,Bowman Ave at Milroy St,47.053612,-122.922706
+375,Jefferson Middle School,47.051631,-122.927947
+376,Conger Ave at Cardigan St,47.051651,-122.932357
+377,Capital High School,47.051632,-122.934532
+378,Conger Ave at Wily St,47.051582,-122.938454
+379,Conger Ave at Cooper Point Rd,47.051586,-122.940239
+38,Tumwater Mobile Estates,47.000046,-122.921332
+380,Cooper Point Rd at Conger Ave,47.051036,-122.941330
+381,Cooper Point Rd at Capital Mall Dr,47.040390,-122.939338
+382,Elizabeth St at 14th Ave,47.033562,-122.844345
+383,Capital Mall Dr at Archwood Dr E,47.039959,-122.942322
+384,Capital Mall Dr at Alta St,47.039950,-122.944724
+385,Capital Mall Dr at Courtside St,47.041393,-122.948868
+386,Harrison Ave at Kenyon St,47.046065,-122.933212
+387,2303 Harrison Ave,47.045958,-122.928801
+39,Western Plaza MHP,47.000056,-122.925681
+390,Black Lake Blvd at Capital Mall,47.041821,-122.929404
+391,9th Ave at Black Lake Blvd,47.039786,-122.930800
+392,9th Ave at Fern St,47.039779,-122.928229
+393,Village Garden Apts,47.039790,-122.926070
+394,Decatur St at 9th Ave,47.040039,-122.922629
+395,Decatur St at 7th Ave,47.041957,-122.922568
+396,5th Ave at Decatur St,47.043484,-122.922278
+397,5th Ave at Thomas St,47.043418,-122.920532
+398,5th Ave at Rogers St,47.043404,-122.918129
+399,Sherman St at 4th Ave,47.044121,-122.914688
+4,Capitol Way at Union Ave,47.039260,-122.900947
+40,Rural Rd at Trosper Rd,47.001151,-122.926659
+400,Sherman St at 4th Ave,47.044024,-122.914885
+401,5th Ave at Percival St,47.043468,-122.917023
+402,5th Ave at Plymouth St,47.043514,-122.920151
+403,Decatur St at 5th Ave,47.043296,-122.922645
+404,Decatur St at 7th Ave,47.041762,-122.922707
+405,9th Ave at Decatur St,47.039879,-122.923676
+406,9th Ave at Cushing St,47.039889,-122.925231
+407,9th Ave at Soroya St,47.039901,-122.927780
+408,9th Ave at Black Lake Blvd,47.039902,-122.930556
+409,Capital Place,47.041530,-122.929568
+41,Rural Rd at 48th Ave,47.004428,-122.926582
+410,Black Lake Blvd at 4th Ave,47.044047,-122.926392
+411,Harrison Ave at Division St,47.046079,-122.926568
+412,2400 Harrison Ave,47.046139,-122.930732
+413,Cooper Point Rd at 20th Ave,47.063456,-122.941910
+414,Cooper Point Rd at 14th Ave,47.058468,-122.941283
+415,Cooper Point Rd at Sarah Ct,47.053817,-122.941321
+416,Cooper Point Rd at Sarah Ct,47.053931,-122.941192
+417,Cooper Point Rd at Walnut Rd,47.057724,-122.941124
+418,Cooper Point Rd at 20th Ave,47.063507,-122.941741
+42,Linwood Ave at Rural Rd,47.007355,-122.925811
+422,Legion Way at Eastside St,47.044090,-122.887741
+423,Legion Way at Boundary St,47.044352,-122.884498
+424,Pacific Ave at Sleater Kinney Rd,47.039496,-122.834723
+425,South Sound Center,47.040222,-122.837776
+426,Pacific Ave at Birch St,47.040878,-122.840461
+427,Pacific Ave at Weir St,47.041461,-122.842597
+43,Linwood Ave at Liberty St,47.007339,-122.921158
+430,Lilly Rd at Mary Elder Rd,47.048541,-122.844353
+431,Lilly Rd at Ensign Rd,47.050781,-122.844314
+432,Lilly Rd at 10th Ave,47.053486,-122.844307
+433,Lilly Rd at 12th Ave,47.056915,-122.844322
+434,Kaiser Permanente Bldg.,47.057659,-122.841819
+435,Lilly Rd at 12th Ave,47.056726,-122.844556
+436,Providence St. Peter Medical Center,47.053180,-122.844490
+437,Ensign Rd at Lilly Rd,47.051086,-122.844901
+438,Providence St. Peter Emergency,47.051109,-122.847969
+439,Ensign Rd at Providence Ln,47.050387,-122.851280
+44,Linwood Ave at G St,47.007262,-122.916656
+440,Animal Services,47.046661,-122.855109
+441,Martin Way at Pattison St,47.046359,-122.859833
+442,Martin Way at Phoenix St,47.046113,-122.862978
+443,Pacific Ave at Phoenix St,47.044970,-122.865967
+444,Boulevard Rd at 7th Ave,47.043922,-122.869186
+445,7th Ave at Wilson St,47.043567,-122.873040
+446,7th Ave at Fairview St,47.043548,-122.876029
+447,Legion Way at McCormick St,47.044414,-122.878692
+448,Legion Way at Boundary St,47.044356,-122.885269
+449,Legion Way at Eastside St,47.044117,-122.888663
+45,Linwood Ave at 6th Ave,47.007205,-122.912399
+453,Legion Way at McCormick St,47.044312,-122.878653
+454,7th Ave at Fairview St,47.043476,-122.875946
+455,7th Ave at Wilson St,47.043499,-122.872639
+456,Boulevard Rd at 7th Ave,47.043682,-122.869010
+457,Pacific Ave at Chambers St,47.045241,-122.867835
+458,Martin Way at Phoenix St,47.045936,-122.864013
+459,Martin Way at Pattison St,47.046188,-122.858504
+46,Capitol Blvd at Linwood Ave,47.007358,-122.907112
+460,3025 Martin Way,47.046424,-122.855179
+461,Ensign Rd at Providence Ln,47.050556,-122.850609
+462,Ensign Medical Center,47.051010,-122.847320
+463,Ensign Rd at Lilly Rd,47.050997,-122.845074
+464,Lilly Rd at Ensign Rd,47.050860,-122.844535
+465,Lilly Rd at Mary Elder Rd,47.048732,-122.844611
+468,Pacific Ave at Poplar St,47.041099,-122.841971
+469,3801 Pacific Ave,47.040306,-122.838997
+47,Capitol Blvd at E,47.012137,-122.904281
+470,South Sound Center,47.039599,-122.835944
+471,7th Ave at Sleater-Kinney Rd,47.041840,-122.831696
+472,Panorama,47.030632,-122.833687
+473,Lakewood Station Bay 5,47.152885,-122.498665
+474,Lakewood Station,47.152660,-122.498873
+475,Yelm Ave at Tahoma Blvd,46.947661,-122.617164
+476,Yelm Ave at Killion Rd,46.948170,-122.617851
+477,Golf Club Rd at 19th Ave,47.029529,-122.828589
+478,Golf Club Rd at 16th Ave,47.032210,-122.828597
+479,Golf Club Rd at 14th Ave,47.034396,-122.828590
+48,Tumwater Square,47.018048,-122.898545
+480,4th Ave at Eastside St,47.045799,-122.888259
+481,4th Ave at Boundary St,47.046021,-122.884827
+482,4th Ave at Central St,47.045994,-122.880936
+483,4th Ave at McCormick St,47.045990,-122.878707
+484,4th Ave at Fairview St,47.045998,-122.875319
+485,4th Ave at Chambers St,47.045932,-122.868590
+486,Martin Way at Mary Elder Rd,47.046790,-122.850342
+487,Martin Way at Lilly Rd,47.047175,-122.843498
+488,3775 Martin Way,47.047394,-122.840538
+489,Martin Way at Sleater Kinney,47.047698,-122.835853
+49,Capitol Blvd at Carlyon Ave,47.020648,-122.897133
+491,Martin Way at College St,47.048359,-122.825928
+492,Martin Way at Desmond Dr,47.049380,-122.808685
+493,6127 Martin Way,47.049975,-122.800651
+494,Martin Way at Carpenter Rd,47.050380,-122.795974
+495,Martin Way at Kinwood St,47.051557,-122.790216
+496,Tanglewilde Shopping Center,47.052520,-122.785319
+497,Martin Way at Ranger Dr,47.053120,-122.782036
+498,Martin Way at Kingham St,47.054271,-122.776421
+499,Martin Way Plaza,47.055046,-122.772614
+5,Capitol Way at 11th Ave,47.037819,-122.901023
+50,Capitol Blvd at Eskridge Way,47.023332,-122.895831
+500,Martin Way at Marvin Rd,47.056824,-122.763718
+501,Martin Way at Gerald St,47.057693,-122.759308
+502,Martin Way at Hoh St,47.058590,-122.754928
+503,Martin Way at Blackhawk Ln,47.059107,-122.752376
+504,Martin Way at River Ridge Dr,47.059749,-122.749076
+505,Martin Way at Copper Wood Ln,47.060841,-122.743674
+506,Meridian Rd at 4th Ave,47.063060,-122.741394
+507,Golf Club Rd,47.030870,-122.828590
+51,Capitol Way at 24th Ave,47.027813,-122.900733
+515,Martin Way at Marvin Rd,47.056605,-122.765994
+516,Martin Way Plaza,47.055126,-122.773319
+517,Martin Way at Kingham St,47.054181,-122.778014
+518,Martin Way at Hensley St,47.052951,-122.783984
+519,Martin Way at Neil St,47.052386,-122.786849
+52,Capitol Way at 21st Ave,47.030445,-122.900733
+520,5780 Martin Way,47.050178,-122.800762
+521,Martin Way at Desmond Dr,47.049591,-122.810698
+522,Martin Way P&R,47.049297,-122.814918
+523,Martin Way at College St,47.048573,-122.825385
+524,Martin Way Station,47.048237,-122.831253
+525,Martin Way at Sleater Kinney Rd,47.047955,-122.835564
+526,3924 Martin Way,47.047728,-122.838051
+527,3700 Martin Way,47.047488,-122.842046
+528,Martin Way at Lilly Rd,47.047298,-122.845215
+529,Martin Way at Mary Elder Rd,47.047015,-122.849166
+53,Capitol Way at 18th Ave,47.031947,-122.900719
+530,4th Ave at Chambers St,47.046109,-122.869262
+531,Pacific Ave at Sawyer St,47.046432,-122.872008
+532,State Ave at Turner St,47.046963,-122.876755
+533,State Ave at McCormick St,47.046978,-122.879691
+534,State Ave at Central St,47.046924,-122.882980
+535,State Ave at Bethel St,47.046889,-122.884964
+536,Marvin Rd at Martin Way,47.054599,-122.764754
+537,Marvin Rd at 3rd Ave,47.052623,-122.764755
+538,Marvin Rd at Steilacoom Rd,47.049319,-122.764828
+539,Steilacoom Rd at Marvin Rd,47.047286,-122.760901
+54,Capitol Way at Maple Park Ave,47.034203,-122.900718
+540,Rainier Vista MHP,47.047843,-122.757058
+541,Steilacoom Rd at Pine Crest Dr,47.048930,-122.752953
+542,Steilacoom Rd at Fleming Way,47.051065,-122.746712
+543,Deerbrush Dr at Steilacoom Rd,47.051468,-122.741669
+544,Deerbush Dr at 7th Ct,47.049606,-122.741119
+545,Meadows Elementary School,47.047722,-122.741631
+546,Deerbrush Dr at Pinedrop Dr,47.046879,-122.742432
+547,Deerbrush Dr at Shadberry Dr,47.044749,-122.744674
+548,Deerbrush Dr at Rockcress Dr,47.042533,-122.744346
+549,Deerbrush Dr at Clover Dr,47.040512,-122.742813
+55,Capitol Way at 11th Ave,47.037231,-122.900702
+550,Deerbrush Dr at Goldenrod Dr,47.039150,-122.742232
+551,Rockcress Dr at Deerbrush Dr,47.038120,-122.741141
+552,Rockcress Dr at Pacific Ave,47.037078,-122.742760
+553,Pacific Ave at Rockcress Dr,47.036559,-122.745391
+554,Pacific Ave at Chatham Dr,47.036915,-122.750854
+555,Pacific Ave at 15th Ave,47.037032,-122.758278
+556,Pacific Ave at Sitka Dr,47.038052,-122.760955
+557,Marvin Rd at 9th Ave,47.040215,-122.764824
+558,Marvin Rd at 8th Ave,47.043223,-122.764800
+559,Marvin Rd at Steilacoom Rd,47.048156,-122.764564
+56,Capitol Way at Union Ave,47.039383,-122.900749
+560,Marvin Rd at 3rd Ave,47.052654,-122.764464
+561,Marvin Rd at Martin Way,47.055064,-122.764420
+562,Pacific Ave at Phoenix St,47.044327,-122.864143
+563,Pacific Ave at Devoe St,47.043212,-122.860527
+564,Pacific Ave at Pattison St,47.042700,-122.857652
+565,Pacific Ave at Fones Rd,47.041694,-122.845861
+566,6th Ave at Golf Club Rd,47.043250,-122.827782
+567,6th Ave at College St,47.043212,-122.823882
+568,College St at Woodland Square Loop,47.040508,-122.823387
+569,College St at Pacific Ave,47.038410,-122.823410
+57,Capitol Way at 9th Ave,47.041022,-122.901001
+570,College St at 14th Ave,47.033893,-122.823380
+571,College St at 15th Ave,47.032424,-122.823364
+572,College St at 17th Ave,47.030624,-122.823394
+573,College St at 22nd Ave,47.028056,-122.823398
+574,College St at 23rd Ave,47.026131,-122.823395
+575,College St at 26th Ave,47.023613,-122.823379
+576,College St at 29th Ave,47.020939,-122.823340
+577,College St at Montclair Dr,47.018734,-122.823273
+578,College St at 32nd Ln,47.017128,-122.823272
+579,College St at 37th Ave,47.014041,-122.823340
+58,Capitol Way at 7th Ave,47.042767,-122.901298
+580,College St at 39th Ave,47.011218,-122.823265
+581,College St at 45th Ave,47.006068,-122.823333
+582,Lacey Park Apts,47.003219,-122.823364
+583,College St at Corporate Center Dr,47.000808,-122.823325
+584,College St at Yelm Hwy,46.998051,-122.823349
+585,College St at 41st Ave,47.009200,-122.823311
+586,Yelm Hwy at Parkside Dr,46.996142,-122.815001
+587,Yelm Hwy at Titleist Ln,46.996075,-122.809119
+588,Yelm Hwy at Ruddell Rd,46.994402,-122.807465
+589,Yelm Hwy at Balustrade Blvd,46.991440,-122.801102
+59,Israel Rd at Littlerock Rd,46.985519,-122.931404
+590,Amtrak Station,46.991245,-122.794433
+591,Yelm Hwy at Compton Blvd,46.991378,-122.799866
+592,Yelm Hwy at Crimson Ct,46.994491,-122.807197
+593,Yelm Hwy at Mt Olympus St,46.996287,-122.811607
+594,Yelm Hwy at Parkside Dr,46.996334,-122.815666
+595,College St at Yelm Hwy,46.997982,-122.823020
+596,College St at 51st Ln,47.001648,-122.823036
+597,Lacey Park Apts,47.003246,-122.823036
+598,College Pointe Apts,47.006008,-122.823028
+599,College St at 45th Ave,47.008143,-122.823067
+60,Littlerock Rd at Kingswood Dr,46.994979,-122.921379
+600,College St at 39th Ave,47.011416,-122.823051
+601,College St at Mullen Rd,47.014647,-122.823028
+602,3330 College St,47.017178,-122.823097
+603,College St at 31st Ave,47.019146,-122.823104
+604,College St at Belair Dr,47.020962,-122.823151
+605,College St at 26th Ave,47.024138,-122.823212
+606,College St at 24th Ave,47.026198,-122.823112
+607,College St at 22nd Ave,47.028102,-122.823135
+608,College St at 18th Ave,47.030766,-122.823188
+609,College St at 16th Ave,47.032379,-122.823196
+61,Tumwater Falls Park,47.013142,-122.903899
+610,College St at 14th Ave,47.034167,-122.823188
+611,College St at Pacific Ave,47.037968,-122.823169
+612,College St at Woodland Square Lp,47.040431,-122.823165
+613,6th Ave at College St,47.043330,-122.825134
+614,6th Ave at Golf Club Rd,47.043349,-122.828292
+615,Pacific Ave at Lilly Rd,47.041892,-122.845018
+616,Pacific Ave at Pattison St,47.042980,-122.858275
+617,Pacific Ave at Devoe St,47.043522,-122.861205
+618,Ruddell Rd at 14th Ave,47.033637,-122.818046
+619,Ruddell Rd at 16th Ave,47.031456,-122.817168
+62,Capitol Blvd at Israel Rd,46.986286,-122.907393
+620,Ruddell Rd at 19th Ave,47.029872,-122.815483
+621,Ruddell Rd at 22nd Ave,47.026774,-122.812140
+622,25th Ave at Sycamore St,47.025043,-122.809936
+623,25th Ave at Angela St,47.025077,-122.808136
+624,25th Ave at 25th Loop,47.025070,-122.805892
+625,Lilac St at Shady Lane,47.026497,-122.804069
+626,22nd Ave at Lilac St,47.027950,-122.804451
+627,Creek St at Yelm Ave,46.933773,-122.590164
+628,22nd Ave at Sycamore St,47.027786,-122.812035
+629,Ruddell Rd at 27th Ave,47.023220,-122.810532
+63,Capitol Blvd at Dennis St,46.988609,-122.907569
+630,Ruddell Rd at 30th Ave,47.020409,-122.810386
+631,Ruddell Rd at Ruddell Loop,47.017826,-122.810355
+632,Ruddell Rd at Koala St,47.014323,-122.808791
+633,Ruddell Rd at 39th Ave,47.012272,-122.808708
+634,Ruddell Rd at 40th Ct,47.009669,-122.808684
+635,Ruddell Rd at 45th Ave,47.007408,-122.808411
+636,Ruddell Rd at 50th Ave,47.002171,-122.807648
+637,Ruddell Rd at 54th Ave,46.999496,-122.807419
+638,Ruddell Rd at Yelm Hwy,46.996914,-122.807442
+639,Corporate Center Dr at College St,47.000614,-122.824089
+64,Courtyard Plaza,46.991398,-122.907546
+640,Corporate Center Dr at Intelco Lp,46.999991,-122.827308
+641,Corporate Center Dr at Corporate Center,46.997943,-122.828812
+642,Ruddell Rd at Yelm Hwy,46.996997,-122.807212
+643,Ruddell Rd at 54th Ave,47.000052,-122.807098
+644,Ruddell Rd at 50th Ave,47.003344,-122.807785
+645,Ruddell Rd at 45th Ave,47.007552,-122.808127
+646,Ruddell Rd at Mullen Rd,47.009598,-122.808449
+647,Ruddell Rd at 39th Ave,47.012394,-122.808502
+648,Ruddell Rd at 37th Ave,47.014674,-122.808746
+649,Ruddell Rd at 32nd Ct,47.018088,-122.810225
+65,Capitol Blvd and W St,46.993717,-122.907478
+650,Ruddell Rd at 30th Ave,47.020927,-122.810164
+651,Ruddell Rd at 27th Ave,47.023403,-122.810409
+652,Ruddell Rd at 22nd Ave,47.028026,-122.813270
+653,Ruddell Rd at 19th Ave,47.030173,-122.815567
+654,Ruddell Rd at 16th Ave,47.031994,-122.817451
+655,Ruddell Rd at 14th Ave,47.033671,-122.817879
+656,Ruddell Rd at Pacific Ave,47.036449,-122.817886
+657,Golf Club Rd at 10th Ave,47.039008,-122.828750
+659,Lacey Village,47.036418,-122.825611
+66,Capitol Blvd at U St,46.995220,-122.907471
+660,Lacey Blvd at Violet St,47.035479,-122.821678
+661,Lacey Blvd at Church St,47.034786,-122.816512
+662,Lacey Blvd at Alder St,47.035309,-122.813576
+663,Lacey Blvd at Lebanon St,47.035907,-122.810126
+664,Lacey Blvd at Clearbrook,47.036381,-122.807479
+665,Carpenter Rd at Pacific Ave,47.036827,-122.800781
+667,Carpenter Rd at Diamond Rd,47.033702,-122.797103
+668,1505 Carpenter Rd,47.032726,-122.791511
+669,Carpenter Rd at Sierra Dr,47.030483,-122.791579
+67,Capitol Blvd and Lee St,46.997577,-122.907608
+670,Carpenter Rd at Holmes Island Rd,47.026966,-122.791634
+671,Carpenter Rd at 27th Ln,47.022654,-122.791648
+672,County Fairgrounds,47.019505,-122.788238
+673,Carpenter Rd at Carpenter Lp,47.019515,-122.784065
+674,Carpenter Rd at 33rd Ave,47.016734,-122.780936
+675,Carpenter Rd at 38th Dr,47.012337,-122.780921
+676,Carpenter Rd at 41st Ave,47.009810,-122.780700
+677,Carpenter Rd at 45th Ave,47.006991,-122.780562
+678,Carpenter Rd at Mullen Rd,47.005089,-122.780405
+679,Mullen Rd at Timberline Dr,47.005477,-122.784636
+68,Capitol 5000,47.002338,-122.909614
+680,Mullen Rd at Glen Terra Dr,47.005112,-122.788009
+681,Mullen Rd at Rumac St,47.004519,-122.790604
+682,6500 Mullen Rd,47.004470,-122.796440
+683,Timberline High School,47.006148,-122.800414
+684,Mullen Rd at Ruddell Rd,47.008671,-122.804450
+685,Mullen Rd at Ruddell Rd,47.008938,-122.807017
+686,Timberline High School,47.006519,-122.801261
+687,6435 Mullen Rd,47.004387,-122.796622
+688,Mullen Rd at Rumac St,47.004391,-122.790588
+689,Mullen Rd at Glen Terra Dr,47.005000,-122.787849
+69,Olympia Farmers Market,47.050162,-122.902467
+690,Mullen Rd at Timberline Dr,47.005173,-122.783690
+691,Carpenter Rd at Bismarck Ln,47.036307,-122.800529
+692,Carpenter Rd at 45th Ave,47.006942,-122.780342
+693,Carpenter Rd at 41st Ave,47.009772,-122.780579
+694,Carpenter Rd at 38th Ave,47.012386,-122.780631
+695,Carpenter Rd at 33rd Ave,47.016814,-122.780768
+696,Carpenter Rd at Carpenter Lp,47.019622,-122.785216
+697,County Fairgrounds,47.019626,-122.788124
+698,Carpenter Rd at Long Lake County Rd,47.023208,-122.791489
+699,Carpenter at Holmes Island Rd,47.027167,-122.791488
+7,Capitol Way at 18th Ave,47.032008,-122.900925
+70,Capitol Way at A Ave,47.048546,-122.902099
+700,Carpenter Rd at Sierra Dr,47.030521,-122.791404
+701,1505 Carpenter Rd,47.032969,-122.791297
+702,Carpenter Rd at Diamond Dr,47.033882,-122.797005
+703,Pacific Ave at Carpenter Rd,47.037623,-122.801270
+704,Golf Club Rd at 10th Ave,47.039386,-122.828598
+705,Adams St at State Ave,47.045845,-122.898170
+706,Adams St at Legion Ave,47.043265,-122.897758
+707,Union Ave at Jefferson St,47.039275,-122.894950
+708,Union Ave at Eastside St,47.039776,-122.887900
+709,Eastside St at 18th Ave,47.032784,-122.886978
+71,Capitol Way at A Ave,47.048691,-122.902366
+710,22nd Ave at Boundary St,47.029537,-122.883452
+711,22nd Ave at Fir St,47.029373,-122.876647
+712,22nd Ave at Cain Rd,47.029358,-122.874183
+713,22nd Ave at Nut Tree Lp,47.029029,-122.870391
+714,Yelm Ave at Longmire St,46.945842,-122.613425
+715,22nd Ave at Boulevard Rd,47.028983,-122.867553
+716,Boulevard Rd at Holly Ln,47.027328,-122.865211
+717,Boulevard Rd at Fox Ave,47.025142,-122.865249
+718,Washington Middle School,47.020358,-122.865257
+719,Boulevard Rd at Morse-Merryman Rd,47.017448,-122.865340
+72,Southgate Center,47.001042,-122.909378
+720,Boulevard Rd at 36th Ave,47.016079,-122.865311
+721,Boulevard Rd at 42nd Ave,47.009747,-122.865349
+722,Wilderness Dr at Boulevard Rd,47.007938,-122.864554
+723,Yelm Hwy at Fair Oaks Rd,46.986068,-122.777656
+724,Yelm Hwy at Spurgeon Creek Rd,46.984412,-122.767204
+725,Yelm Hwy at Meridian Rd,46.985474,-122.741859
+726,Yelm Hwy at Johnson Rd,46.985245,-122.722519
+727,Yelm Hwy at Rehklau Rd,46.986980,-122.716964
+728,Yelm Hwy at Braywood Ln W,46.993644,-122.706551
+729,Yelm Hwy at Ruth Ct,47.005089,-122.696709
+73,Capitol Blvd at Lee St,46.997364,-122.907753
+730,Yelm Hwy at SR 510,47.007946,-122.689972
+731,Yelm Hwy at Braywood Ln E,46.999030,-122.701796
+732,Red Wind Casino,47.001302,-122.668887
+733,Yelm Hwy at 89th Ave,46.958358,-122.632927
+734,Southworth ES,46.970851,-122.642532
+735,Yelm Hwy at Mudd Run Rd,46.964806,-122.632987
+736,Yelm Ave at Burnett Rd,46.953209,-122.627387
+737,Yelm Ave at 93rd Ave,46.951995,-122.625198
+738,Yelm High School,46.950176,-122.621857
+739,Yelm Ave at Cullens St,46.946090,-122.614243
+74,Capitol Blvd at Pinehurst Dr,46.995486,-122.907737
+740,Yelm Ave at Edwards St,46.942989,-122.608596
+741,Yelm Ave at 3rd St,46.940807,-122.604583
+744,Creek St at Algiers Rd,46.935574,-122.590087
+745,Yelm Ave at Edwards St,46.943485,-122.609177
+746,Yelm Ave at Cullens St,46.946869,-122.615379
+747,Yelm High School,46.950309,-122.621864
+748,Yelm Ave at 93rd Ave,46.952365,-122.625610
+749,Yelm Ave at Burnett Rd,46.953647,-122.627952
+75,6131 Capitol Blvd,46.993562,-122.907699
+750,Yelm Hwy at Mudd Run Rd,46.964096,-122.632659
+751,Southworth ES,46.970352,-122.641356
+752,Yelm Hwy at 89th Ave,46.959067,-122.632781
+753,Red Wind Casino,47.001777,-122.669586
+754,Yelm Hwy at Braywood Ln E,46.999000,-122.702019
+755,Yelm Hwy at SR 510,47.008059,-122.690086
+756,Yelm Hwy at Gallup Dr,47.004517,-122.697922
+757,Yelm Hwy at Braywood Ln W,46.992885,-122.707587
+758,Yelm Hwy at Rehklau Rd,46.986645,-122.717811
+759,Yelm Hwy at Lake St Clair Dr,46.985302,-122.723296
+76,6330 Capitol Blvd,46.991484,-122.907729
+760,Yelm Hwy at Meridian Rd,46.985611,-122.740067
+761,Yelm Hwy at Spurgeon Creek Rd,46.984775,-122.769424
+762,Yelm Hwy at Fair Oaks Rd,46.986286,-122.777999
+763,Tumwater Blvd at Terminal St,46.980572,-122.909621
+764,22nd Ave at Fir St,47.029469,-122.876922
+765,22nd Ave at Boundary St,47.029624,-122.883544
+766,22nd Ave at Myrtle Pl,47.029056,-122.866447
+767,22nd Ave at Brown St,47.029075,-122.870078
+768,22nd Ave at Wilson St,47.029452,-122.873863
+769,Adams St at Legion Ave,47.043686,-122.897689
+77,Capitol Blvd at Dennis St,46.987572,-122.907867
+770,Adams St at 4th Ave,47.045390,-122.897911
+771,Boulevard Rd at 24th Ave,47.027858,-122.865050
+772,Boulevard Rd at 28th Ave,47.025004,-122.865044
+773,Boulevard Rd at 31st Ct,47.020386,-122.865074
+774,Boulevard Rd at Morse-Merryman Rd,47.017440,-122.865120
+775,Boulevard Rd at Boulevard Park Ct,47.009360,-122.865119
+776,Boulevard Rd at 36th Ave,47.015900,-122.865127
+777,Wilderness Dr at Boulevard Rd,47.008021,-122.863838
+778,Eastside St at 18th Ave,47.033061,-122.886780
+779,Eastside St at 12th Ave,47.037769,-122.887260
+78,Indian Creek Apts,46.985484,-122.909537
+780,Union Ave at Eastside St,47.039909,-122.888167
+781,Union Ave at Cherry St,47.039423,-122.893988
+782,Union Ave at Plum St,47.039718,-122.890892
+783,Abalon Pointe Apts,47.042472,-122.928389
+784,Crosby Blvd at Westbury Lane,47.020882,-122.926131
+785,Barnes Blvd at Blue Sky Dr,47.016520,-122.918128
+786,Kaiser Rd at Driftwood Rd,47.072102,-122.955749
+787,Linwood Ave at G St,47.007423,-122.916633
+788,Yelm Ave at 3rd St,46.940773,-122.604210
+789,Sleater Kinney Rd at 21st Ave,47.028258,-122.833702
+79,Israel Rd at New Market St,46.985477,-122.913239
+790,Israel Rd at Linderson Way,46.985336,-122.920608
+791,Evergreen Park,47.029612,-122.920687
+792,Evergreen Park,47.029202,-122.920914
+793,Martin Way at Galaxy Dr,47.055934,-122.768393
+794,Kasey Keller Dr,47.048040,-122.831121
+795,Martin Way Park & Ride,47.049870,-122.815124
+796,4th Ave at Simmons St,47.044563,-122.907218
+797,State Ave at Columbia St,47.045711,-122.902855
+798,4th Ave at Simmons St,47.044472,-122.906227
+799,Israel Rd at Linderson Way,46.985485,-122.920066
+8,Capitol Way at 24th Ave,47.027458,-122.900909
+80,Tumwater High School,46.985470,-122.916303
+800,Deschutes Pkwy at 5th Ave,47.043090,-122.910980
+801,Deschutes Pkwy at 5th Ave,47.043197,-122.910957
+802,5th Ave at Deschutes Pkwy,47.043552,-122.907531
+803,Cooper Point Rd at Caton Way,47.029357,-122.927916
+804,Cooper Point Rd at Caton Way,47.029178,-122.928985
+806,2803 Wilderness Dr,47.007644,-122.860290
+807,Wilderness Dr at Wilderness Loop,47.007359,-122.856461
+808,Wilderness Dr at Donnelly Dr,47.005367,-122.852486
+809,Donnelly Dr at Canady Ct,47.004261,-122.852836
+81,Custer Way at Schmidt Pl,47.016781,-122.902512
+810,Donnelly Dr at Edgeworth Dr,47.002972,-122.848250
+811,Donnelly Dr at Wiggins Rd,47.002704,-122.844627
+812,Yelm Ave at Clark Rd,46.939078,-122.601127
+813,Donnelly Dr at Wiggins Rd,47.002818,-122.845366
+814,Donnelly Dr at Edgeworth Dr,47.003089,-122.848885
+815,Donnelly Dr at Canady Ct,47.004452,-122.852631
+816,Wilderness Dr at Donnelly Dr,47.005385,-122.852371
+817,Wilderness Dr at Wilderness Ct,47.007477,-122.856475
+818,2808 Wilderness,47.007725,-122.860429
+819,Pacific Ave at Carpenter Rd,47.037692,-122.799782
+82,2nd ave at Division St,47.015025,-122.906807
+820,Pacific Ave at Lake Lois Rd,47.040191,-122.793914
+821,Pacific Ave at Kinwood St,47.040969,-122.790276
+822,Pacific Ave at Ranger Dr,47.041800,-122.784759
+823,Pacific Ave at Union Mills Rd,47.042088,-122.780685
+824,Pacific Ave at Skyridge St,47.040362,-122.775459
+825,Pacific Ave at Marvin Rd,47.039371,-122.767440
+826,Marvin Rd at Scarlet Oak Dr,47.037067,-122.765022
+827,Marvin Rd at 19th Ave,47.029664,-122.764914
+828,Marvin Rd at 25th Ave,47.024653,-122.767471
+829,Lake Forest Dr at Fordham Ct,47.019989,-122.762680
+83,2nd Ave at C St,47.013714,-122.906845
+830,Lake Forest Dr at Duke Ct,47.018210,-122.763077
+831,Lake Forest Dr at Lake Forest Ct,47.014220,-122.762153
+832,Lake Forest Dr at Carnegie Dr,47.014183,-122.758483
+833,Marvin Rd at 44th Ave,47.007500,-122.754448
+834,Marvin Rd at Mullen Rd,47.003783,-122.754494
+835,Mullen Rd at Archer Dr,47.003203,-122.748596
+836,Tri-Lake Drive at Tri-Lake Loop,47.001751,-122.741706
+837,Mullen Rd at Tri-Lake Dr,47.003269,-122.742225
+838,Mullen Rd at Indian Summer Dr,47.003276,-122.750221
+839,Marvin Rd at Mullen Rd,47.003741,-122.754317
+84,2nd Ave at I St,47.008074,-122.908677
+840,Marvin Rd at 44th Ave,47.007747,-122.754279
+841,Lake Forest Dr at Carnegie Dr,47.014099,-122.759109
+842,Lake Forest Dr at Creighton Ct,47.013854,-122.760520
+843,Lake Forest Dr at Marquette Dr,47.017230,-122.762862
+844,Lake Forest Dr at Fordham Ct,47.019779,-122.762847
+845,Marvin Rd at Terri Ct,47.026398,-122.766792
+846,Marvin Rd at 19th Ave,47.029489,-122.764477
+847,Marvin Rd at Sweetbriar Ln,47.035712,-122.764754
+848,Pacific Ave at Burwood St,47.039542,-122.769989
+849,Pacific Ave at Oakcrest Dr,47.040564,-122.775818
+85,7th Ave at I St,47.008842,-122.912841
+850,Pacific Ave at Steilacoom Rd,47.042313,-122.780745
+851,Pacific Ave at Ranger Dr,47.041823,-122.785614
+852,Pacific Ave at Kinwood Dr,47.041003,-122.791916
+853,Pacific Ave at Lake Lois Rd,47.040100,-122.794532
+854,Pacific Ave at Bowker Rd,47.037038,-122.810318
+855,St. Martin's University,47.037224,-122.816391
+856,Pacific Ave at College St,47.037716,-122.824981
+857,Lacey Walmart,47.058956,-122.769257
+858,4th Ave at Chestnut St,47.045329,-122.894469
+859,Yelm Ave at Solberg St,46.944613,-122.611503
+86,Barnes Blvd at Vista Loop,47.015471,-122.915137
+860,Mullen Rd at Carpenter Rd Extension,47.004649,-122.781363
+867,Capitol Way at 21st Ave,47.029892,-122.900917
+868,Capitol Way at State Ave,47.045998,-122.901801
+869,Columbia St at State Ave,47.045914,-122.903160
+87,Barnes Blvd at Ridgeview Loop,47.018990,-122.922569
+870,Lacey Blvd at Ruddell Rd,47.034778,-122.818702
+871,Legion Ave at Central St,47.044314,-122.881400
+872,Legion Ave at Central St,47.044394,-122.881287
+873,Israel Rd at Old Israel Rd,46.985724,-122.926323
+874,Israel Rd at Old Israel Rd,46.985832,-122.926559
+875,Tumwater Blvd at New Market St,46.979606,-122.915520
+876,Pacific Ave at Webb St,47.037251,-122.820266
+877,Miller Ave at Marion St,47.061985,-122.880324
+878,Kenyon St at Harrison Ave,47.045155,-122.934386
+879,Tumwater Blvd at Cleanwater Dr,46.982108,-122.906944
+88,South Puget Sound Community College,47.023220,-122.929276
+880,Marvin Rd at 15th Ave,47.033236,-122.764926
+881,Marvin Rd at 15th Ave,47.033423,-122.764687
+882,Marvin Rd at Walthew St,47.021301,-122.764068
+883,Marvin Rd at Walthew St,47.022780,-122.766028
+884,Lake Forest Dr at Oxford Dr,47.014174,-122.755538
+885,Lake Forest Dr at Oxford Dr,47.014435,-122.756103
+886,Martin Way at Carpenter Rd,47.050501,-122.797185
+887,Martin Way at Kinwood St,47.051381,-122.791832
+890,North St at Henderson Blvd,47.016636,-122.879790
+891,2nd Ave at F St,47.011008,-122.906806
+892,2nd Ave at E St,47.011538,-122.906646
+893,Tumwater Square,47.018107,-122.898716
+894,State Capitol Building,47.036331,-122.903869
+896,Newhouse Building,47.035404,-122.902915
+898,Pacific Ave at Ulery St,47.036891,-122.804473
+899,Nisqually Plaza,46.936255,-122.595824
+9,Capitol Blvd at O'Farrell Ave,47.023490,-122.896331
+901,Corporate Center Dr at Tiffani Lane,47.000010,-122.826118
+902,Marvin Rd at 22nd Ave,47.027487,-122.766535
+903,Sleater Kinney Rd at Circle Ln,47.032832,-122.833693
+904,Golf Club Rd at 21st Ave,47.028144,-122.828575
+905,Yelm Hwy at Rainier Rd,46.996189,-122.822229
+906,Balustrade Blvd at 66th Ave,46.987670,-122.803367
+907,Balustrade Blvd at 66th Ave,46.987643,-122.803940
+908,Littlerock Rd at Miner Dr,46.986267,-122.931540
+909,Puget St at State Ave,47.047169,-122.887289
+91,RW Johnson Blvd at 29th Ave,47.020541,-122.939346
+910,Yelm Hwy at Englewood Dr,46.985389,-122.746277
+911,Yelm Hwy at Englewood Dr,46.985561,-122.747146
+912,Yelm Ave at 103rd Ave,46.938148,-122.599365
+913,Nisqually Plaza,46.936507,-122.596710
+914,Yelm Ave at Bald Hill Rd,46.933040,-122.589546
+915,103rd Ave at Grove Rd,46.938182,-122.584053
+916,103rd Ave at Creek St,46.938354,-122.589210
+917,Wiggins Rd at Landview Dr,47.001353,-122.844299
+918,Union Ave at Fir St,47.040058,-122.876998
+919,Union Ave at Fir St,47.040137,-122.876999
+92,Family Court Building,47.017986,-122.942200
+920,Yelm Ave at Clark Rd,46.939119,-122.601513
+921,Balustrade Blvd at Radius Lp,46.985167,-122.810760
+922,Yelm Hwy at Henderson Blvd,47.003432,-122.879989
+929,SR512 Park & Ride -  Zone G,47.161066,-122.483242
+93,RW Johnson Blvd at Somerset Hill Dr,47.019229,-122.939155
+939,Capitol Blvd at Tumwater Blvd,46.984818,-122.906646
+94,RW Johnson Blvd at 27th Ave,47.023807,-122.939102
+940,Friendly Grove Park,47.065872,-122.871367
+941,4th Ave at Water St,47.044593,-122.904647
+942,RW Johnson Blvd at 29th Ave,47.022211,-122.939145
+944,Rainier Vista Park,47.003619,-122.808075
+945,Ruddell Rd at 25th Ave,47.025623,-122.810684
+946,Pacific at Bismarck Ln,47.038204,-122.798637
+947,Pacific Ave at Ulery St,47.037029,-122.804973
+948,Wiggins Rd at Yelm Hwy,46.999267,-122.844414
+949,Wiggins Rd at 55th Ct,46.999305,-122.844284
+95,RW Johnson Blvd at 37th Ave,47.014297,-122.940857
+950,Capitol Way at 14th Ave,47.035168,-122.900932
+951,Capitol Way at Olympia Ave,47.046348,-122.902000
+96,Accountability & Restitution Center,47.015266,-122.944397
+961,Sid Snyder Ave at Capitol Way,47.035445,-122.901587
+962,Capitol Way at 5th Ave,47.044169,-122.901520
+964,Yelm Hwy at Ronald Lane,46.996174,-122.825797
+966,Cooper Point Rd at Limited Ln,47.048778,-122.941422
+967,7th Ave at Ebbets Dr,47.011322,-122.913025
+970,Meridian Rd at Orion Dr,47.068290,-122.741416
+977,Martin Way at Gerald St,47.057520,-122.761820
+978,1145 Galaxy Dr,47.057102,-122.769287
+979,Rainier Rd at Rainier Lp,46.995049,-122.823334
+980,Rainier Rd at 66th Ave,46.988659,-122.823135
+981,Balustrade Blvd at Compass St,46.986857,-122.819992
+982,Balustrade Blvd at Prism St,46.986865,-122.816298
+983,Balustrade Blvd at Flute St,46.985908,-122.813155
+984,Balustrade Blvd at Ruddell Rd,46.986480,-122.806014
+985,Balustrade Blvd at Delaware Ave,46.990013,-122.800056
+986,Balustrade Blvd at Delaware Ave,46.990219,-122.800240
+987,Balustrade Blvd at Ruddell Rd,46.986728,-122.806014
+988,Balustrade Blvd at Breeze Dr,46.985400,-122.811515
+989,Balustrade Blvd at Prism St,46.987052,-122.816047
+990,Balustrade Blvd at Compass St,46.987056,-122.819763
+991,Rainier Rd at 66th Ave,46.988930,-122.823005
+992,Rainier Rd at Rainier Loop,46.994686,-122.823105
+994,Corporate Center Dr at Yelm Hwy,46.996947,-122.828444
+995,Corporate Center Dr at College St,47.000339,-122.824355
+996,Tumwater Blvd at Capitol Blvd,46.983456,-122.904517
+997,Israel Rd at Nikolas St,46.985458,-122.904113
+998,Linwood Ave at 5th Ave,47.007289,-122.910301
+999,Yelm Walmart,46.933628,-122.579292

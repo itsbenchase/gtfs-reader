@@ -17,8 +17,13 @@ midatl;njt;NJT (New Jersey);
 midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
 midatl;septa;SEPTA (Philadelphia);
 midatl;wmata;WMATA (Washington);
+west;wa-community;Community Transit (Everett, WA);https://www.soundtransit.org/GTFS-CT/current.zip
+west;wa-everett;Everett Transit (Everett, WA);https://gtfs.sound.obaweb.org/prod/97_gtfs.zip
 west;kcm;King County Metro (Seattle);http://metro.kingcounty.gov/GTFS/google_transit.zip
+west;wa-kitsap;Kitsap Transit (Bremerton, WA);https://gtfs.sound.obaweb.org/prod/20_gtfs.zip
+west;wa-intercity;Intercity Transit (Olympia, WA);https://gtfs.sound.obaweb.org/prod/19_gtfs.zip
 west;muni;Muni (San Francisco);
+west;wa-pierce;Pierce Transit (Tacoma, WA);https://www.soundtransit.org/GTFS-PT/gtfs.zip
 west;sound;Sound Transit (Seattle);https://www.soundtransit.org/GTFS-rail/40_gtfs.zip
 west;trimet;TriMet (Portland);https://developer.trimet.org/schedule/gtfs.zip
 west;wta;WTA (Bellingham, WA);
