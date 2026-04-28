@@ -13,16 +13,19 @@ cal;ca-octa;OCTA (San Diego);https://www.octa.net/current/google_transit.zip
 midwest;cta;CTA (Chicago);
 midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
 midwest;pace;Pace (Chicago);
+midwest;clerta;RTA (Cleveland);https://www.riderta.com/sites/default/files/gtfs/latest/google_transit.zip
 midwest;metrowi;Metro Transit (Madison);https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
 midwest;metromsp;Metro Transit (Twin Cities);https://svc.metrotransit.org/mtgtfs/gtfs.zip
 midwest;ridekc;RideKC (Kansas City);https://www.kc-metro.com/gtf/google_transit.zip
 midatl;cdta;CDTA (Albany, NY);https://www.cdta.org/schedules/google_transit.zip
+midatl;de-dart;DART (Delaware);https://www.dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip
 midatl;nfta;NFTA (Buffalo, NY);https://metro.nfta.com/__googletransit/google_transit.zip
 midatl;njt;NJT (New Jersey);
 midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
 midatl;septa;SEPTA (Philadelphia);
 midatl;wmata;WMATA (Washington);
 west;wa-community;Community Transit (Everett, WA);https://www.soundtransit.org/GTFS-CT/current.zip
+west;wa-ctran;C-Tran (Vancouver, WA);https://mail.c-tran.com/images/Google/GoogleTransitUpload.zip
 west;wa-everett;Everett Transit (Everett, WA);https://gtfs.sound.obaweb.org/prod/97_gtfs.zip
 west;kcm;King County Metro (Seattle);http://metro.kingcounty.gov/GTFS/google_transit.zip
 west;wa-kitsap;Kitsap Transit (Bremerton, WA);https://gtfs.sound.obaweb.org/prod/20_gtfs.zip
