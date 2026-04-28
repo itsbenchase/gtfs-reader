@@ -1,0 +1,1208 @@
+2333474,Bridgeport Transportation Center,41.18108,-73.187233
+2333475,Bridgeport Transportation Center,41.181244,-73.187195
+2333476,Bridgeport Transportation Center,41.181408,-73.187149
+2333477,Bridgeport Transportation Center,41.181568,-73.18708
+2333478,Trapp Falls Rd. at Opposite Heather Ridge,41.270084,-73.133286
+2333479,Trumbull Ave at Opposite 505 Trumbull Ave.,41.220486,-73.196144
+2333480,Trumbull Ave at 610 Trumbull Ave.,41.219803,-73.198395
+2333481,Trumbull Ave at 730 Trumbull Ave.,41.219254,-73.200165
+2333482,Post Rd. West at Opposite 375 Post Rd. West,41.129734,-73.378624
+2333483,Post Rd. West at Kings Hwy. North,41.136417,-73.370705
+2333484,Post Rd. West at Opposite Kings Hwy. North,41.135963,-73.371185
+2333485,Post Rd. West at Kings Hwy. South,41.131729,-73.375122
+2333486,Post Rd. West at Opposite Kings Hwy. South,41.131939,-73.375221
+2333487,Post Rd. West at Lincoln St.,41.137821,-73.36676
+2333488,Post Rd. West at Ludlow Rd.,41.138229,-73.366539
+2333489,Post Rd. West at Main St.,41.141304,-73.361786
+2333490,Post Rd. East at Opposite Main St.,41.141201,-73.361649
+2333491,Post Rd. West at Myrtle Ave.,41.141541,-73.358536
+2333492,Post Rd. West at Wright St.,41.140228,-73.364708
+2333493,Post Rd. West at Sylvan Rd. North,41.134892,-73.372406
+2333494,Post Rd. West at Sylvan Rd. South,41.134487,-73.372467
+2333495,Post Rd. West at Wilton Rd.,41.140755,-73.364349
+2333496,Quality St. at Trumbull Town Hall,41.256035,-73.217377
+2333497,Quality St. at Trumbull Town Hall,41.256176,-73.218346
+2333498,Research Dr. at Opposite Optimum,41.275455,-73.135262
+2333499,Research Dr. at Progress Dr.,41.272095,-73.134033
+2333500,Reservoir Ave. at Clover Hill Ave.,41.222931,-73.193756
+2333501,Reservoir Ave. at Old Town Rd.,41.227051,-73.195122
+2333502,Reservoir Ave. at Old Town Rd.,41.227001,-73.195274
+2333503,Reservoir Ave. at Opposite Wilbur Cross School,41.225231,-73.194679
+2333504,Reservoir Ave. at Rainbow Rd.,41.223381,-73.194107
+2333505,Reservoir Ave. at Sylvan Ave.,41.208572,-73.192123
+2333506,Reservoir Ave. at Trumbull Ave.,41.22142,-73.193314
+2333507,Reservoir Ave. at Wilbur Cross School,41.224949,-73.194725
+2333508,River Rd. at 770 River Rd. (Centrix Building),41.265972,-73.093445
+2333509,River Rd. at Opposite 770 River Rd.,41.266293,-73.093475
+2333510,River Rd. at Long Hill Ave.,41.262012,-73.095573
+2333511,River Rd. at Opposite Long Hill Ave.,41.261955,-73.09539
+2333512,River St. at Milford City Hall,41.225174,-73.057381
+2333513,River St. at Milford Railroad Station,41.223236,-73.057045
+2333514,River St. at Milford Railroad Station,41.22353,-73.057365
+2333515,River St. at Prospect St.,41.226025,-73.056625
+2333516,Ryon St. at Soundview Ave.,41.217106,-73.196396
+2333517,Ryon St. at Soundview Ave.,41.217274,-73.196136
+2333518,Saint Stephen's Rd. at Wordin Ave.,41.162674,-73.216934
+2333519,Saint Stephen's Rd. at Yacht St.,41.159988,-73.216507
+2333520,Seaview at Beardsley St.,41.174953,-73.172035
+2333521,Seaview at Dekalb Ave.,41.170616,-73.171768
+2333522,Seaview at Jefferson St.,41.172501,-73.171242
+2333523,Seaview Ave. at Opposite Beardsley St.,41.175156,-73.172356
+2333524,Seaview Ave. at Opposite Dekalb Ave.,41.170933,-73.172012
+2333525,Seaview Ave. at Opposite Jefferson St.,41.17297,-73.171524
+2333526,Seaview Ave. at Opposite Newfield Ave.,41.169785,-73.170807
+2333527,Second Hill Ln. at Briarfield Dr.,41.217827,-73.151466
+2333528,Second Hill Ln. at Broadbridge Ave.,41.215202,-73.156265
+2333529,Second Hill Ln. at Mcleod Pl.,41.218552,-73.150612
+2333530,Second Hill Ln. at Russell Rd.,41.217548,-73.154099
+2333531,Second Hill Ln. at Second Hill Ln.,41.216969,-73.155586
+2333532,Post Rd. at Opposite 417 Post Rd.,41.14999,-73.24263
+2333533,Woodend Rd. at Sedgewick Ave.,41.177677,-73.131561
+2333535,Soundview Ave. at Omega  Ave.,41.218103,-73.191037
+2333536,Soundview Ave. at Opposite Omega Ave.,41.218155,-73.191536
+2333537,Soundview Ave. at Sylvan Ave.,41.218613,-73.187675
+2333538,Soundview Ave. at Sylvan Ave.,41.218494,-73.187721
+2333539,South Broad St. at Opposite Greensend Pl.,41.21888,-73.063049
+2333540,State St. at Bostwick Ave.,41.169228,-73.212654
+2333541,State St. at Clinton Ave.,41.17112,-73.206757
+2333542,State St. at Hancock Ave.,41.169895,-73.210602
+2333543,State St. at Housatonic Community College,41.175949,-73.191338
+2333544,State St. at Howard Ave.,41.170368,-73.209114
+2333545,State St. at Iranistan Ave.,41.17284,-73.201332
+2333546,State St. at Main St.,41.176853,-73.188446
+2333547,State St. at Norman St.,41.172394,-73.202728
+2333548,State St. at West Ave.,41.174547,-73.195775
+2333549,State St. at Seeley St.,41.173382,-73.199532
+2333550,State St. at Wordin Ave.,41.171715,-73.204857
+2333551,State St. Ext. at Ash St.,41.168198,-73.218033
+2333552,State St. Ext. at Opposite Ash St.,41.167992,-73.218102
+2333553,Stewart St. at Bond St.,41.19923,-73.167374
+2333554,Stewart St. at Palisade Ave.,41.198711,-73.165115
+2333555,Stillson Rd. at Farist Rd.,41.18417,-73.251083
+2333556,Stratford Ave. at 2200 Stratford Ave.,41.184387,-73.151375
+2333557,Stratford Ave. at Bruce Ave.,41.184227,-73.153488
+2333558,Stratford Ave. at Opposite Bruce Ave.,41.183853,-73.153961
+2333559,Stratford Ave. at Carroll Ave.,41.17889,-73.163872
+2333560,Stratford Ave. at Central Ave.,41.178261,-73.165794
+2333561,Stratford Ave. at Cowles St.,41.181339,-73.15786
+2333562,Stratford Ave. at Edwin St.,41.182079,-73.156609
+2333563,Stratford Ave. at Eleanor St.,41.185802,-73.14119
+2333564,Stratford Ave. at Opposite Eleanor St.,41.185883,-73.141342
+2333565,Stratford Ave. at Hamilton Ave.,41.186871,-73.135468
+2333566,Stratford Ave. at Hewitt St.,41.180222,-73.160133
+2333567,Stratford Ave. at Hollister Ave.,41.179653,-73.16172
+2333568,Stratford Ave. at Honeyspot Rd.,41.184887,-73.143333
+2333569,Stratford Ave. at Opposite Honeyspot Rd.,41.185055,-73.143272
+2333570,Stratford Ave. at I-95 Overpass,41.186928,-73.136414
+2333571,Stratford Ave. at Kossuth St.,41.178356,-73.183479
+2333572,Stratford Ave. at Kossuth St.,41.178581,-73.183281
+2333573,Stratford Ave. at Lupes Dr.,41.186886,-73.138222
+2333574,Stratford Ave. at Opposite Lupes Dr.,41.186718,-73.138596
+2333575,Stratford Ave. at Main St.,41.186829,-73.130798
+2333576,Stratford Ave. at Main St.,41.187046,-73.131805
+2333577,Stratford Ave. at Newfield Ave.,41.177677,-73.167717
+2333578,Stratford Ave. at Saint Michael's Cemetary,41.184227,-73.15126
+2333579,Stratford Ave. at Seaview Ave.,41.176613,-73.174599
+2333580,Stratford Ave. at Seaview Ave.,41.177032,-73.174454
+2333581,Stratford Ave. at Sherwood Pl.,41.186996,-73.134384
+2333582,Stratford Ave. at Surf Ave.,41.184231,-73.148727
+2333583,Stratford Ave. at Opposite Surf Ave.,41.184479,-73.147858
+2333584,Stratford Ave. at Opposite Waterview Ave.,41.176857,-73.178162
+2333585,Stratford Ave. at Waterview Ave.,41.177082,-73.17807
+2333586,Success Ave. at Court A,41.197468,-73.157143
+2333587,Success Ave. at Court D,41.198639,-73.156647
+2333588,Success Ave. at Granfield Ave.,41.196007,-73.157806
+2333589,Sylvan Ave. at Carlson Ave.,41.215572,-73.18721
+2333590,Sylvan Ave. at Opposite Carlson Ave.,41.215954,-73.187424
+2333591,Sylvan Ave. at Edwards St.,41.213905,-73.187897
+2333592,Sylvan Ave. at Opposite Dodd Ave,41.214321,-73.187433
+2333593,Sylvan Ave. at Home Depot,41.209045,-73.190224
+2333594,Sylvan Ave. at Wilkins Ave.,41.212357,-73.188629
+2333595,Sylvan Ave. at Opposite Wilkins Ave.,41.212517,-73.188446
+2333596,Bridgeport Transportation Center,41.180901,-73.187645
+2333597,Bridgeport Transportation Center,41.181068,-73.187607
+2333598,Bridgeport Transportation Center,41.181225,-73.187569
+2333599,Bridgeport Transportation Center,41.181396,-73.187515
+2333600,Bridgeport Transportation Center,41.181553,-73.187462
+2333601,Bridgeport Transportation Center,41.180981,-73.187378
+2333602,Bridgeport Transportation Center,41.181141,-73.187347
+2333603,Bridgeport Transportation Center,41.181332,-73.187294
+2333604,Bridgeport Transportation Center,41.181488,-73.187248
+2333605,Bridgeport Transportation Center,41.181648,-73.187195
+2333606,Bridgeport Transportation Center,41.180889,-73.187271
+2333607,Trumbull Ave at Chopsey Hill Rd.,41.218567,-73.202431
+2333608,Trumbull Ave. at 505 Trumbull Ave.,41.220325,-73.196228
+2333609,Trumbull Ave. at 625 Trumbull Ave.,41.219688,-73.198204
+2333610,Trumbull Ave. at Opposite 730 Trumbull Ave.,41.219151,-73.200005
+2333611,Tunxis Hill Cutoff South at Villa Ave.,41.17651,-73.226227
+2333612,Tunxis Hill Rd. at Beaver St.,41.176624,-73.23101
+2333613,Tunxis Hill Cut-Off at Opposite Cedarhurst  Ln.,41.178307,-73.240616
+2333614,Tunxis Hill Cut-Off at Cedarhurst Ln.,41.178444,-73.240601
+2333615,Tunxis Hill Cut-Off at Knapps Hwy.,41.178093,-73.235664
+2333616,Tunxis Hill Cut-Off at Knapps Hwy.,41.178242,-73.235703
+2333617,Tunxis Hill Rd. at Kohl's Department Store,41.176666,-73.228165
+2333618,Tunxis Hill Rd. at Marlborough Ter.,41.17675,-73.231003
+2333619,Tunxis Hill Rd. at Old Stratfield Rd.,41.176685,-73.232422
+2333620,Tunxis Hill Rd. at Old Stratfield Rd.,41.17683,-73.232559
+2333621,Tunxis Hill Rd. at Super Stop & Shop,41.176552,-73.22802
+2333622,Tunxis Hill Rd. at Villa Ave.,41.176376,-73.226143
+2333623,Tunxis Hill Cut-Off at Whitewood Dr.,41.178455,-73.242493
+2333624,Veterans Blvd. at Side Of Stratford Square,41.197914,-73.121498
+2333625,Waldemere Ave. at Hazel St.,41.163696,-73.187874
+2333626,Wall St. at Commerce St,41.118015,-73.412666
+2333627,Burnell Blvd. at Norwalk Wheel Hub,41.11832,-73.415092
+2333628,Washington Ave. at Catherine St.,41.186172,-73.193254
+2333629,Washington Ave. at Catherine St.,41.185383,-73.193626
+2333630,Washington Ave. at Opposite Coleman St.,41.177914,-73.196716
+2333631,Washington Ave. at Coleman St.,41.178356,-73.196411
+2333632,Washington Ave. at Highland Ave.,41.182964,-73.194206
+2333633,Washington Ave. at Highland Ave.,41.18322,-73.194328
+2333634,Washington Ave. at James St.,41.181675,-73.194565
+2333635,Washington Ave. at James St.,41.181602,-73.194786
+2333636,Washington Ave. at Pequonnock St.,41.180496,-73.195038
+2333637,Washington Ave. at West Ave.,41.176498,-73.19799
+2333638,Washington Ave. at Opposite West Ave.,41.176807,-73.197906
+2333639,Water St. at John St.,41.178623,-73.187386
+2333641,Waterview Dr. at 10 Waterview Dr.,41.295982,-73.087296
+2333642,Waterview Dr. at Opposite 10 Waterview Dr.,41.29599,-73.086914
+2333643,Waterview Dr. at Constitution Blvd. South,41.295078,-73.088753
+2333644,Waterview Dr. at Constitution Blvd. South,41.29512,-73.088478
+2333645,Waterview Dr. at Morningside Ct.,41.292801,-73.080849
+2333646,Waterview Dr. at Opposite Morningside Ct.,41.292797,-73.081009
+2333647,Waterview Dr. at Pitney Bowes Entrance,41.296238,-73.082069
+2333648,Waterview Dr. at Opposite Pitney Bowes Entrance,41.296387,-73.082123
+2333649,Wells St. at North Ave.,41.193264,-73.195374
+2333650,Westfield Trumbull Mall,41.2314,-73.227737
+2333651,Westport Ave. at 330 Westport Ave.,41.1255,-73.392967
+2333652,Westport Ave. at 56 Westport Ave..,41.121716,-73.404457
+2333653,Westport Ave. at Dry Hill Rd. (Stew Leonard's),41.122845,-73.402657
+2333654,Westport Ave. at Dry Hill Rd. (Stew Leonard's),41.123028,-73.402748
+2333655,Westport Ave. at George Ave,41.12344,-73.400894
+2333656,Westport Ave. at Opposite George Ave.,41.123562,-73.4011
+2333657,Westport Ave. at Lois St.,41.127625,-73.384682
+2333658,Westport Ave. at Opposite Lois St.,41.127392,-73.384781
+2333659,Westport Ave. at Strawberry Hill Ave.,41.12611,-73.39045
+2333660,Westport Ave. at Strawberry Hill Ave.,41.126221,-73.390785
+2333661,Westport Ave. at Vollmer Ave.,41.124264,-73.398407
+2333662,Westport Ave. at Walgreen's,41.122196,-73.404099
+2333663,Westport Ave. at Walter Ave.,41.124031,-73.398811
+2333664,Westport Ave. at Willard Rd.,41.126999,-73.387283
+2333665,Westport Ave. at Oppostie Willard Rd.,41.12685,-73.387245
+2333666,Westport Ave. at Wolfpit Ave.,41.124874,-73.395958
+2333667,Westport Ave. at Opposite Wolfpit Ave.,41.124538,-73.396797
+2333668,White Plains Rd. at Pequonnock Rd.,41.243168,-73.19268
+2333669,White Plains Rd. at Reservoir Ave.,41.244473,-73.195976
+2333670,White Plains Rd. at Reservoir Ave.,41.243858,-73.195183
+2333671,White Plains Rd. at Sunset Ave.,41.242859,-73.1922
+2333672,White Plains Rd. at Trumbull Center,41.245213,-73.196938
+2333673,White Plains Rd. at Trumbull Center,41.244957,-73.196945
+2333674,Stratford Ave. at Beardsley Ave.,41.187145,-73.133698
+2333677,Research Dr. at Commerce Dr.,41.277523,-73.136086
+2333678,Woodend Rd. at Birch Dr.,41.173153,-73.134842
+2333679,Woodend Rd. at Columbus Ave.,41.174854,-73.133278
+2333681,Woodend Rd. at Ketcham Rd.,41.170998,-73.136841
+2333682,Woodend Rd. at Opposite Leeward  Dr.,41.17593,-73.132782
+2333683,Woodend Rd. at Mcpadden Dr.,41.174889,-73.13308
+2333684,Wordin Ave. at Ocean Ter.,41.163673,-73.219337
+2333685,Wordin Ave. at Opposite Ocean Ter.,41.163868,-73.219292
+2333686,Ocean Ter. at Ocean Ave.,41.159763,-73.218147
+2333687,Brewster St. at Fairfield Ave.,41.157604,-73.226669
+2333688,Sylvan Ave. at Opposite Home Depot,41.208668,-73.190849
+2333689,Lindeman Dr. at Oakview Dr.,41.232006,-73.203026
+2333690,Trumbull Ave. at Reservoir Ave.,41.221153,-73.193336
+2333691,Woodend Rd. at Main St.,41.178978,-73.130577
+2333692,Woodend Rd. at Sedgewick Ave.,41.177528,-73.131851
+2333693,Monroe Tpk. at Stop & Shop,41.315632,-73.217087
+2333694,Trap Falls Rd. at Bridgeport Ave.,41.26759,-73.131546
+2333695,Main St. & Oronoque Ln.,41.246742,-73.101952
+2333696,South Broad St. at High St.,41.220982,-73.058784
+2333697,Schick-Wilkinson Sword,41.231674,-73.037018
+2333698,East Main St. at I-95 Overpass,41.178978,-73.181305
+2333699,West Broad St. at Main St.,41.18967931190492,-73.13202600019008
+2333700,Boston Ave. at Glenwood Ave.,41.203014,-73.188469
+2333701,Barnum Ave. at Essex Pl.,41.198448,-73.133636
+2333702,Barnum Ave. at King St.,41.197994,-73.135117
+2333703,Benton St. at Opposite Wellington St.,41.173218,-73.143143
+2333704,Golden Hill St. at Lyon Ter.,41.179798,-73.192734
+2333705,Pequonnock St. at Harral Ave.,41.181133,-73.198303
+2333706,Commerce Dr. at Bridgeport Ave.,41.277279,-73.122536
+2333707,North Broad St. at High St.,41.221226,-73.059494
+2333708,Constitution Blvd. at River Rd.,41.287235,-73.081772
+2333709,Constitution Blvd. at River Rd.,41.28754,-73.08149
+2333710,Newtown Tpk. at St. Joseph's Manor,41.27496,-73.226891
+2333713,Success Ave. at Boston Ave.,41.193314,-73.158218
+2333714,Success Ave. at Granfield Ave.,41.196199,-73.157588
+2333715,Success Ave. at Baird Ct.,41.201996,-73.155609
+2333716,Success Ave. at Baird Ct.,41.201767,-73.155884
+2333717,Stonybrook Rd. at Success Ave.,41.203777,-73.155006
+2333718,Stonybrook Rd. at Success Ave.,41.20385,-73.154892
+2333719,Stonybrook Rd. at Henry Ave.,41.203293,-73.152954
+2333720,Stonybrook Rd. at Eaton St.,41.203648,-73.149696
+2333721,Stonybrook Rd. at Henry Ave. Ext.,41.203457,-73.152596
+2333727,Quarry Rd. at Opposite Bridgeport P.A.L. Building,41.223721,-73.179909
+2333728,Quarry Rd. at Opposite Entrance To Magnet School,41.226368,-73.181023
+2333729,Quarry Rd. at 112 Quarry Rd.,41.229904,-73.183624
+2333730,Quarry Rd. at Entrance To Magnet School,41.22628,-73.181023
+2333731,Quarry Rd. at Bridgeport P.A.L. Building,41.223629,-73.180099
+2333732,North Ave. at Remer St.,41.194431,-73.19487
+2333733,North Ave. at Remer St.,41.194546,-73.194969
+2333734,Main St. at Curtis Pl.,41.199932,-73.131683
+2333735,Ocean Ter at Osborne St.,41.161808,-73.218697
+2333736,West Broad St. at Rockwell Ave.,41.193569,-73.141365
+2333737,West Broad St. at Knowlton St.,41.191883,-73.137276
+2333738,West Broad St. at I-95 Overpass,41.190933,-73.135201
+2333739,Arctic St. at 914 Arctic St.,41.188831,-73.172386
+2333740,Arctic St. at Brooks St.,41.189125,-73.179718
+2333741,Arctic St. at Brooks St.,41.189213,-73.179451
+2333742,Arctic St. at East Main St.,41.189178,-73.180878
+2333743,Arctic St. at East Main St.,41.189266,-73.180519
+2333744,Arctic St. at Enterprise Park,41.188915,-73.17263
+2333745,Arctic St. at Helen St.,41.1889,-73.174706
+2333746,Arctic St. at Helen St.,41.18898,-73.174355
+2333747,Arctic St. at Kossuth St.,41.189346,-73.182236
+2333748,Arctic St. at Pembroke St.,41.189041,-73.177826
+2333749,Arctic St. at Pembroke St.,41.189125,-73.177391
+2333750,Barnum Ave. Cutoff at Opposite Burlington Coat Factory,41.198784,-73.12854
+2333751,Atlantic St. at Opposite 850 atlantic St.,41.163082,-73.198563
+2333752,Atlantic St. at 850 Atlantic St.,41.163143,-73.198669
+2333753,Atlantic St. at Iranistan Ave.,41.164093,-73.196838
+2333754,Atlantic St. at Iranistan Ave.,41.164173,-73.196953
+2333755,Atlantic St. at Opposite Utility Pole 9618,41.161812,-73.200577
+2333756,Atlantic St. at Utility Pole 9618,41.161839,-73.200722
+2333757,Barnum Ave. at 1470 Barnum Ave.,41.187283,-73.162643
+2333758,Barnum Ave. at 1475 Barnum Ave.,41.187408,-73.162727
+2333759,West Broad St. at Winfield Dr.,41.193935,-73.142799
+2333760,Black Rock Turnpike at Opposite Bj's,41.161453,-73.230942
+2333761,Barnum Ave. at Barnum Ter.,41.193565,-73.145439
+2333762,Barnum Ave. at Bishop Ave.,41.189129,-73.157333
+2333763,Barnum Ave. at Bishop Ave.,41.189365,-73.157089
+2333765,Barnum Ave. at Rockwell Ave.,41.194942,-73.141594
+2333766,Barnum Ave. at Broadbridge Ave.,41.195057,-73.141685
+2333767,Barnum Ave. at Opposite Brooks St.,41.187031,-73.179459
+2333768,Barnum Ave. at Brooks St.,41.187122,-73.179573
+2333769,Barnum Ave. at Bruce Ave.,41.190498,-73.153519
+2333770,Barnum Ave. at Bruce Ave.,41.190746,-73.153229
+2333771,Barnum Ave. at Burritt Ave.,41.193592,-73.144936
+2333772,Barnum Ave. at California St.,41.196648,-73.137779
+2333774,Barnum Ave. at California St.,41.197124,-73.137131
+2333775,Barnum Ave. at Central Ave.,41.186382,-73.166565
+2333776,Barnum Ave. at Central Ave.,41.186523,-73.166824
+2333777,Barnum Ave. at East Main St.,41.187103,-73.180901
+2333778,Barnum Ave. at East Main St.,41.187202,-73.180603
+2333779,Barnum Ave. at Elizabeth St.,41.188202,-73.159973
+2333780,Barnum Ave. at Hallett St.,41.186852,-73.175964
+2333781,Barnum Ave. at Hallett St.,41.18697,-73.175682
+2333782,Waterview Dr. at 40 Waterview Dr.,41.295574,-73.0812
+2333783,Waterview Dr. at Opposite 40 Waterview Dr.,41.295547,-73.081367
+2333784,Barnum Ave. at Kossuth St.,41.187191,-73.1828
+2333785,Barnum Ave. at Kossuth St.,41.18729,-73.182411
+2333786,Barnum Ave. at Main St.,41.19894,-73.132843
+2333787,Barnum Ave. at Pembroke St.,41.186966,-73.178123
+2333788,Barnum Ave. at Pembroke St.,41.187073,-73.177879
+2333789,Barnum Ave. at Opposite Prince St.,41.187805,-73.161148
+2333790,Barnum Ave. at Prince St.,41.187988,-73.161041
+2333791,Barnum Ave. at Seaview Ave.,41.186562,-73.169739
+2333792,Barnum Ave. at Seaview Ave.,41.186684,-73.169853
+2333793,Barnum Ave. at Thompson St.,41.192032,-73.1492
+2333794,Barnum Ave. at Light St.,41.192204,-73.149216
+2333795,Barnum Ave. Cutoff at Burlington Coat Factory,41.198936,-73.128059
+2333796,Barnum Ave. Cutoff at Main St.,41.198936,-73.130859
+2333797,Barnum Ave. Cutoff at Opposite Veterans Blvd.,41.198681,-73.122902
+2333798,Beardsley Ave. at Stratford Ave.,41.1878494378,-73.1336120944
+2333799,Benton St. at Pepsi-Cola Distribution Center,41.172657,-73.141312
+2333800,Benton St. at Opposite Short St.,41.173943,-73.145432
+2333801,Benton St. at Short St.,41.174133,-73.14566
+2333802,Benton St. at Wellington St.,41.17329,-73.142937
+2333803,Benton St. at Woodend Rd.,41.170113,-73.140358
+2333804,Benton St. at Woodend Rd.,41.170094,-73.139992
+2333808,Black Rock Tpk. at 1920 Black Rock Tpk.,41.180454,-73.247963
+2333809,Black Rock Tpk. at 1925 Black Rock Tpk.,41.180687,-73.24929
+2333810,Black Rock Tpk. at Burroughs Rd.,41.179565,-73.245773
+2333811,Black Rock Tpk. at Burroughs Rd.,41.179611,-73.245483
+2333812,Black Rock Tpk. at Candlewood Rd.,41.178822,-73.243805
+2333813,Black Rock Tpk. at Katona Dr.,41.180271,-73.247826
+2333814,Black Rock Tpk. at Stillson Rd.,41.181156,-73.250778
+2333815,Black Rock Tpk. at Stillson Rd.,41.182171,-73.25296
+2333816,Bond St. at Boston Ave.,41.1942446563,-73.1696779063
+2333817,Bond St. at Boston Ave.,41.1943559749,-73.1698087723
+2333819,Bond St. at Tudor St.,41.1966065664,-73.1686613244
+2333820,Bond St. at Tudor St.,41.1966222646,-73.1687409819
+2333821,Boston Ave. at Asylum St.,41.196854,-73.177475
+2333822,Boston Ave. at Barnum Ave.,41.192753,-73.148277
+2333823,Boston Ave. at Bayview Plaza,41.202202,-73.187012
+2333824,Boston Ave. at Boston Ter.,41.193642,-73.162498
+2333825,Boston Ave. at Bruce Ave.,41.192486,-73.153198
+2333826,Boston Ave. at Opposite Bruce Ave.,41.192612,-73.153824
+2333827,Boston Ave. at Carnegie Ave.,41.193207,-73.159019
+2333828,Boston Ave. at Bell St.,41.193295,-73.168587
+2333829,Boston Ave. at Colony St.,41.195972,-73.176003
+2333830,Boston Ave. at Opposite Dean Pl.,41.202362,-73.187782
+2333831,Boston Ave. at East Ave.,41.192913,-73.158203
+2333832,Boston Ave. at East Main St.,41.197636,-73.179886
+2333833,Boston Ave. at East Main St.,41.198433,-73.180779
+2333834,Boston Ave. at Franklin Ave.,41.193123,-73.149185
+2333835,Boston Ave. at Goddard Ave.,41.19743,-73.178467
+2333836,Boston Ave. at Helen St.,41.19413,-73.17408
+2333837,Boston Ave. at Judson Pl.,41.193478,-73.162949
+2333838,Boston Ave. at Lakeview Cemetary Gate,41.194839,-73.17408
+2333839,Boston Ave. at Mill Hill Ave.,41.193432,-73.16481
+2333840,Boston Ave. at Noble Ave.,41.200081,-73.183357
+2333841,Boston Ave. at Noble Ave.,41.201145,-73.184753
+2333842,Boston Ave. at North Summerfield Ave.,41.193668,-73.161591
+2333843,Boston Ave. at Orchard St.,41.196526,-73.178169
+2333844,Boston Ave. at Otis Ave.,41.192917,-73.150452
+2333845,Boston Ave. at Pembroke St.,41.195259,-73.176231
+2333846,Boston Ave. at Sage Ave..,41.192486,-73.155334
+2333847,Boston Ave. at Saint Michael's Ave.,41.192982,-73.151489
+2333848,Boston Ave. at Summerfield Ave.,41.193516,-73.161812
+2333849,Boston Ave. at Weber Ave.,41.192661,-73.155579
+2333850,Boston Ave. at Price Rite Plaza,41.201561,-73.186142
+2333851,Boston Ave. at Willow St.,41.19315,-73.159531
+2333852,Post Rd. at 1261 Post Rd. (Brick Wall),41.143028,-73.25457
+2333853,Boston Post Rd. at 1275 Post Rd. (Brick Walk),41.142876,-73.254745
+2333854,Post Rd. at 3330 Post Rd. (Townfair Tire),41.138515,-73.290688
+2333855,Post Rd. at 417 Post Rd.,41.149677,-73.242767
+2333856,Post Rd. at Beach Rd.,41.14521,-73.252365
+2333857,Boston Post Rd. at Belmont St.,41.14785,-73.247185
+2333858,Post Rd. at Center St.,41.138199,-73.293457
+2333859,Post Rd. at Eliot Pl.,41.147797,-73.248001
+2333860,Post Rd. at Grasmere Ave.,41.153248,-73.2379
+2333861,Boston Post Rd. at Home Acres Ave.,41.232758,-73.043755
+2333862,Post Rd. at Opposite Hulls Hwy.,41.138187,-73.295197
+2333863,Boston Post Rd. at Kings Hwy. West,41.138416,-73.294098
+2333864,Post Rd. at Lacey Pl.,41.139675,-73.275749
+2333865,Boston Post Rd. at Mill Hill Rd.,41.139626,-73.279366
+2333866,Post Rd. at Mill Plain Rd.,41.141258,-73.263641
+2333867,Post Rd. at Miller St.,41.141167,-73.258522
+2333868,Post Rd. at North Benson Rd.,41.14703,-73.249924
+2333869,Post Rd. at North Pine Creek Rd.,41.140663,-73.268242
+2333870,Post Rd. at Opposite Unquowa Pl.,41.142056,-73.255684
+2333871,Post Rd. at Old Post Rd.,41.148678,-73.244705
+2333872,Post Rd. at Pease Ave.,41.139084,-73.287949
+2333873,Post Rd. at Jelliff Ln.,41.138451,-73.289757
+2333874,Post Rd. at Pent Ct.,41.140129,-73.272217
+2333875,Post Rd. at Reef Rd.,41.141041,-73.257172
+2333876,Post Rd. at Opposite Lacey Pl.,41.139565,-73.27553
+2333877,Post Rd. at Riverside Dr.,41.152828,-73.238129
+2333878,Post Rd. at Round Hill Rd.,41.145317,-73.252602
+2333879,Post Rd. at Ruane St.,41.140926,-73.261093
+2333880,Post Rd. at Opposite Ruane St.,41.141106,-73.261124
+2333881,Post Rd. at Sanford St.,41.141312,-73.256966
+2333882,Post Rd. at Sasco Hill Rd.,41.139938,-73.272522
+2333883,Post Rd. at Shoreham Village Dr.,41.151508,-73.239983
+2333884,Post Rd. at Opposite Shoreham Village Dr.,41.151466,-73.240334
+2333885,Boston Post Rd. at South Benson Rd.,41.146988,-73.249313
+2333886,Post Rd. at South Pine Creek Rd.,41.140606,-73.267456
+2333888,Post Rd. at Unquowa Rd.,41.141869,-73.256134
+2333889,Westfield Connecticut Post Mall,41.234528,-73.034622
+2333890,Boston Post Rd. at Westfield Ct Post Mall,41.236763,-73.038239
+2333891,Bridge St. at Main St.,41.319557,-73.08976
+2333892,Bridge St. at Main St.,41.319546,-73.090813
+2333893,Bridgeport Ave. at Opposite 1001 Brideport Ave.,41.258232,-73.143341
+2333894,Bridgeport Ave. at 1001 Bridgeport Ave.,41.258282,-73.1436
+2333895,Bridgeport Ave. at 330 Bridgeport Ave.,41.298386,-73.106186
+2333896,Bridgeport Ave. at Opposite 330 Bridgeport Ave.,41.298546,-73.106255
+2333897,Bridgeport Ave. at 525 Bridgeport Ave.,41.286594,-73.114342
+2333898,Bridgeport Ave. at Opposite 555 Bridgeport Ave.,41.286106,-73.114563
+2333899,Bridgeport Ave. at Opposite 705 Bridgeport Ave,41.274796,-73.124329
+2333900,Bridgeport Ave. at 705 Bridgeport Ave.,41.274868,-73.124489
+2333901,Bridgeport Ave. at 768 Bridgeport Ave.,41.27203,-73.126694
+2333902,Bridgeport Ave. at 801 Bridgeport Ave. (U.I.),41.271675,-73.127213
+2333903,Bridgeport Ave. at 828 Bridgeport Ave.,41.268433,-73.129532
+2333904,Bridgeport Ave. at 900 Bridgeport Ave.,41.26358,-73.1343
+2333905,Bridgeport Ave. at Armstrong Rd.,41.266365,-73.131523
+2333906,Bridgeport Ave. at Baker St.,41.20488,-73.09481
+2333907,Bridgeport Ave. at Berwyn St.,41.20311,-73.099899
+2333908,Bridgeport Ave. at Boston Post Rd.,41.212868,-73.077782
+2333909,Bridgeport Ave. at Boston Post Rd.,41.21368,-73.076653
+2333910,Bridgeport Ave. at Clark St.,41.216858,-73.068764
+2333911,Bridgeport Ave. at Opposite Clark St.,41.216755,-73.068565
+2333912,Bridgeport Ave. at Cleveland Ave.,41.204166,-73.096268
+2333913,Bridgeport Ave. at Colonial Ave.,41.200752,-73.105759
+2333914,Bridgeport Ave. at Commerce Dr.,41.277454,-73.121719
+2333915,Bridgeport Ave. at Constitution Blvd. South,41.305088,-73.100029
+2333916,Bridgeport Ave. at Opposite Constitution Blvd. South,41.305222,-73.100204
+2333917,Bridgeport Ave. at Country Place Condos,41.29723,-73.107475
+2333918,Bridgeport Ave. at Opposite Country Place Condos,41.296844,-73.107544
+2333919,Bridgeport Ave. at Cowles St.,41.204323,-73.096382
+2333920,Bridgeport Ave. at Crown Point Center,41.287514,-73.11364
+2333921,Bridgeport Ave. at Dorsey Ln.,41.214535,-73.074768
+2333922,Bridgeport Ave. at Fairchild Heights,41.2705,-73.127869
+2333923,Bridgeport Ave. at Fairview St.,41.202976,-73.099709
+2333924,Bridgeport Ave. at Greenwich Pl.,41.263519,-73.134766
+2333925,Bridgeport Ave. at Hayes Dr.,41.203712,-73.097549
+2333926,Bridgeport Ave. at Huntington Rd,41.257263,-73.145493
+2333927,Bridgeport Ave. at Huntington Rd.,41.257355,-73.145714
+2333928,Bridgeport Ave. at I-95 Exit 34,41.205429,-73.093193
+2333929,Bridgeport Ave. at Opposite I-95 Exit 34,41.204983,-73.09388
+2333930,Bridgeport Ave. at Judson Pl.,41.203648,-73.098358
+2333931,Bridgeport Ave. at K-Mart Shopping Center,41.207371,-73.087204
+2333932,Bridgeport Ave. at Opposite K-Mart Shopping Center,41.20755,-73.087379
+2333933,Bridgeport Ave. at Opposite Lansdale Ave.,41.207031,-73.088814
+2333934,Bridgeport Ave. at Lansdale Ave.,41.206554,-73.089462
+2333935,Bridgeport Ave. at Long Hill Cross Rd.,41.280827,-73.118362
+2333936,Bridgeport Ave. at Opposite Long Hill Cross Rd.,41.281216,-73.118248
+2333937,Bridgeport Ave. at Meadows End Rd.,41.209267,-73.083641
+2333938,Bridgeport Ave. at Opposite Meadows End Rd.,41.209393,-73.083923
+2333939,Bridgeport Ave. at Naugatuck Ave.,41.201962,-73.102364
+2333940,Bridgeport Ave. at Naugatuck Ave.,41.202316,-73.101898
+2333941,Bridgeport Ave. at Nells Rock Rd.,41.295773,-73.10878
+2333942,Bridgeport Ave. at Beard Sawmill Rd.,41.278736,-73.120033
+2333943,Bridgeport Ave. at Opposite Route 8 Off-Ramps,41.261772,-73.137329
+2333944,Bridgeport Ave. at Ormond St.,41.201595,-73.103729
+2333945,Bridgeport Ave. at Osborne St.,41.217907,-73.064575
+2333946,Bridgeport Ave. at Parrott Dr.,41.270237,-73.128326
+2333947,Bridgeport Ave. at Platt Rd.,41.295246,-73.108986
+2333948,Bridgeport Ave. at Rivercliff Dr.,41.199837,-73.107796
+2333949,Bridgeport Ave. at Opposite Rivercliff Dr.,41.200001,-73.10804
+2333950,Bridgeport Ave. at Robert Treat Dr.,41.214947,-73.073494
+2333951,Bridgeport Ave. at Robert Treat Dr.,41.215206,-73.07328
+2333952,Bridgeport Ave. at Route 8 Exit 11 Off-Ramp,41.261253,-73.137871
+2333953,Bridgeport Ave. at Route 8 Park-and-Ride Lot,41.301334,-73.103409
+2333954,Bridgeport Ave. at Opposite Route 8 Park-and-Ride Lot,41.301468,-73.103455
+2333955,Bridgeport Ave. at Schoolhouse Rd.,41.21022,-73.082573
+2333956,Bridgeport Ave. at Opposite Schoolhouse Rd.,41.210205,-73.082123
+2333957,Bridgeport Ave. at Seaside Ave.,41.217571,-73.064888
+2333958,Bridgeport Ave. at Shelton Square Entrance,41.265137,-73.132904
+2333959,Bridgeport Ave. at Shelton Square Entrance,41.265221,-73.132568
+2333960,Bridgeport Ave. at Silver Sands Pkwy.,41.211472,-73.080055
+2333961,Bridgeport Ave. at Silver Sands State Park,41.211933,-73.079842
+2333962,Bridgeport Ave. at South Broad St.,41.217915,-73.064339
+2333963,Bridgeport Ave. at Spring St.,41.201187,-73.10424
+2333964,Bridgeport Ave. at Tower Plaza,41.205891,-73.091896
+2333965,Bridgeport Ave. at Trap Falls Rd.,41.266872,-73.131279
+2333967,Bridgeport Ave. at Wal-Mart,41.289783,-73.112396
+2333968,Bridgeport Ave. at Opposite Wal-Mart,41.2901,-73.112007
+2333969,Bridgeport Ave. at Woodland Park,41.288334,-73.113304
+2333970,Broad St. at Allen St.,41.17152,-73.188416
+2333971,Broad St. at atlantic St.,41.167988,-73.187119
+2333972,Broad St. at Gregory St.,41.169228,-73.187569
+2333973,Broad St. at Housatonic Community College,41.174854,-73.189697
+2333974,Broad St. at Linden Ave.,41.164574,-73.186028
+2333975,Broad St. at Railroad Ave.,41.169998,-73.187859
+2333976,Broad St. at South Frontage Rd.,41.172409,-73.188759
+2333977,Broad St. at State St.,41.17662,-73.190414
+2333978,Broad St. at University Ave.,41.16642,-73.186539
+2333979,Broadbridge Ave. at Broadmere Rd.,41.212105,-73.1539
+2333980,Broadbridge Ave. at Greenfield Ave.,41.207115,-73.149803
+2333981,Broadbridge Ave. at Kenyon St.,41.212475,-73.153908
+2333982,Broadbridge Ave. at Marina Dr.,41.210354,-73.151543
+2333983,Broadbridge Ave. at Reitter St.,41.205849,-73.14904
+2333984,Broadbridge Ave. at Second Hill Ln.,41.214661,-73.156517
+2333985,Broadbridge Ave. at Success Ave.,41.209709,-73.151375
+2333986,Broadbridge Ave. at Vought Pl.,41.207794,-73.150391
+2333987,Broadbridge Ave. at West Rittier St.,41.206001,-73.149315
+2333988,Broadbridge Rd. at Blueberry Rd.,41.221565,-73.171303
+2333989,Broadbridge Rd. at Glenbrook Rd.,41.221741,-73.17247
+2333990,Bridgeport Ave. at Blacks Hill Rd.,41.30703,-73.099472
+2333991,Bridgeport Ave. at Opposite Blacks Hills Rd.,41.306782,-73.099396
+2333992,Center St. at Coram Ave.,41.316406,-73.093575
+2333993,Center St. at Coram Ave.,41.316029,-73.094147
+2333994,Center St. at Oak Ave.,41.31443,-73.095963
+2333995,Bridgeport Ave.. at Opposite Perry Hill Rd.,41.313747,-73.096123
+2333996,Bridgeport Ave. at Sullivan Ave.,41.309425,-73.098091
+2333997,Bridgeport Ave. at Opposite Sullivan Ave.,41.308983,-73.098534
+2333998,Central Ave. at Barnum Ave.,41.186237,-73.167206
+2333999,Central Ave. at Barnum Ave.,41.186642,-73.167435
+2334000,Central Ave. at Boston Ave.,41.193249,-73.16745
+2334001,Central Ave. at Connecticut Ave.,41.17997,-73.165894
+2334002,Central Ave. at Connecticut Ave.,41.180283,-73.166122
+2334003,Central Ave. at Deacon St.,41.181747,-73.16642
+2334004,Central Ave. at Opposite Deacon St.,41.181896,-73.166313
+2334005,Central Ave. at Grant St.,41.188725,-73.167435
+2334006,Central Ave. at Grant St.,41.189049,-73.167587
+2334007,Central Ave. at Ogden St. Ext.,41.191257,-73.167587
+2334008,Central Ave. at Opposite Ogden St. Ext.,41.191879,-73.16745
+2334009,Central Ave. at Orange St.,41.175732,-73.165253
+2334010,Central Ave. at Stratford Ave.,41.178665,-73.165657
+2334011,Central Ave. at Stratford Ave.,41.178581,-73.165771
+2334012,Central Ave. at Williston St.,41.18338,-73.166618
+2334013,Central Ave. at Williston St.,41.183769,-73.166847
+2334014,Cherry St. at 158 Cherry St.,41.228439,-73.050331
+2334015,Cherry St. at 50 Cherry St.,41.226864,-73.054306
+2334016,Cherry St. at 51-61 Cherry St.,41.226742,-73.054123
+2334017,Cherry St. at Boston Post Rd.,41.231895,-73.044945
+2334018,Cherry St. at Commerce Park Rd.,41.229725,-73.047997
+2334019,Cherry St. at Locust St.,41.231293,-73.046112
+2334020,Cherry St. at Milford Plaza,41.228218,-73.050339
+2334021,Cherry St. at Sunnyside Ct.,41.229652,-73.048454
+2334022,Chopsey Hill Rd. at Clearview Dr.,41.217216,-73.202339
+2334024,Chopsey Hill Rd. at Platt St.,41.21505,-73.202118
+2334025,Chopsey Hill Rd. at Trumbull Ave.,41.218334,-73.202484
+2334026,Church Hill Rd. at Bonita Ave.,41.253811,-73.213654
+2334027,Church Hill Rd. at Edison Rd.,41.246979,-73.202248
+2334028,Church Hill Rd. at Hardy Ln.,41.253361,-73.213257
+2334029,Church Hill Rd. at Middlebrooks Ave.,41.251289,-73.211189
+2334030,Church Hill Rd. at Rexview Cir.,41.248119,-73.204536
+2334031,Commerce Dr. at Chambers St.,41.164677,-73.231636
+2334032,Church Hill Rd. at Rockland Rd.,41.249905,-73.208427
+2334033,Church Hill Rd. at Trumbull Public Works Driveway,41.249512,-73.207954
+2334034,Church Hill Rd. at Woodlawn Dr.,41.251137,-73.210709
+2334035,Clinton Ave. at Beechwood Ave.,41.177731,-73.213463
+2334036,Clinton Ave. at Beechwood Ave.,41.177532,-73.213043
+2334037,Clinton Ave. at Maplewood Ave.,41.176567,-73.212173
+2334038,Commerce Dr. at 301 Commerce Dr.,41.165821,-73.229424
+2334039,Commerce Dr. at Berwick Ct.,41.167187,-73.226234
+2334040,Commerce Dr. at Black Rock Tpk.,41.163414,-73.233391
+2334041,Commerce Dr. at Brentwood Ave.,41.166897,-73.22789
+2334042,Commerce Dr. at I-95 Overpass,41.167469,-73.222839
+2334043,Commerce Dr. at Coolidge St.,41.167446,-73.224106
+2334044,Commerce Dr. at Mercedes-Benz Dealership,41.167019,-73.226433
+2334045,Connecticut Ave. at Bishop Ave.,41.183804,-73.156441
+2334046,West Broad St. at Main St.,41.189922,-73.131943
+2334047,Connecticut Ave. at Bunnell St.,41.17992,-73.166901
+2334048,Connecticut Ave. at Carroll Ave.,41.18103,-73.163971
+2334049,Connecticut Ave. at Central Ave.,41.180332,-73.165825
+2334050,Connecticut Ave. at Fifth St.,41.179314,-73.168518
+2334051,Connecticut Ave. at Opposite Hewitt St.,41.182343,-73.160469
+2334052,Connecticut Ave. at Wilmot Ave.,41.181381,-73.163048
+2334053,Connecticut Ave. at Third St.,41.178673,-73.170235
+2334054,Connecticut Ave. at Opposite Waterman St.,41.183048,-73.15863
+2334055,Constitution Blvd. South at Long Hill Ave.,41.303684,-73.097275
+2334056,Constitution Blvd. South at Long Hill Ave.,41.303406,-73.097214
+2334057,Constitution Blvd. South at Opposite Plaskon Dr.,41.296841,-73.091484
+2334058,Constitution Blvd. South at Plaskon Dr.,41.296982,-73.091408
+2334059,Constitution Blvd. South at Suresource Entrance,41.289555,-73.081383
+2334060,Constitution Blvd. South at Opposite Suresource Entrance,41.289806,-73.081345
+2334061,Corporate Dr. at 1 Corporate Dr.,41.276676,-73.130898
+2334062,Corporate Dr. at 3 Corporate Dr.,41.27615,-73.128777
+2334063,Corporate Dr. at 4 Corporate Dr.,41.276508,-73.130905
+2334064,Derby Railroad Station,41.320393,-73.083748
+2334065,Dock Shopping Center at Opposite Bj's Wholesale Club,41.203323,-73.112267
+2334066,Dock Shopping Center at Bj's Wholesale Club,41.202942,-73.112007
+2334067,Dock Shopping Center at Side Of Stop & Shop,41.203007,-73.115273
+2334068,East Ave. at Bettswood Rd.,41.118546,-73.407761
+2334069,East Wall St. at East Ave.,41.117939,-73.409233
+2334070,East Ave. at Park Hill Ave.,41.119999,-73.407242
+2334071,East Ave. at Saint Paul's Pl.,41.119682,-73.407516
+2334072,East Main St. at Alpine St.,41.206043,-73.178802
+2334073,East Main St. at Alpine St.,41.205948,-73.178986
+2334074,East Main St. at Arctic St.,41.189064,-73.180611
+2334075,East Main St. at Arctic St.,41.189323,-73.180748
+2334076,East Main St. at Barnum Ave.,41.187054,-73.180733
+2334077,East Main St. at Barnum Ave.,41.187317,-73.18087
+2334078,East Main St. at Beardsley Park Ter.,41.208637,-73.17897
+2334079,East Main St. at Berkeley Pl.,41.204266,-73.179092
+2334080,East Main St. at Opposite Berkeley Pl.,41.20425,-73.17926
+2334081,East Main St. at Boston Ave.,41.197601,-73.180275
+2334082,East Main St. at Burroughs St.,41.183121,-73.181084
+2334083,East Main St. at Opposite Burroughs St.,41.183071,-73.180923
+2334084,East Main St. at Crescent Ave.,41.185467,-73.180756
+2334085,East Main St. at Crescent Ave.,41.18536,-73.181038
+2334086,East Main St. at Dock Shopping Center Driveway,41.2019,-73.117004
+2334087,East Main St. at Edna Ave.,41.207237,-73.178955
+2334088,East Main St. at Essex St.,41.199455,-73.180199
+2334089,East Main St. at Opposite Essex St.,41.199352,-73.180351
+2334090,East Main St. at Howe St.,41.18158,-73.18116
+2334092,East Main St. at Kent St.,41.201225,-73.179726
+2334093,East Main St. at Opposite Kent St.,41.201317,-73.179878
+2334094,East Main St. at Louisiana Ave.,41.209496,-73.178818
+2334095,East Main St. at Nichols St.,41.180023,-73.181084
+2334096,East Main St. at Nichols St.,41.179897,-73.181252
+2334097,East Main St. at Noble Ave.,41.209812,-73.178986
+2334098,East Main St. at Putnam St.,41.194378,-73.180359
+2334099,East Main St. at Putnam St.,41.194614,-73.180504
+2334100,East Main St. at Shelton St.,41.190781,-73.180519
+2334101,East Main St. at Shelton St.,41.190998,-73.180656
+2334102,East Main St. at Silliman Pl.,41.197575,-73.180382
+2334103,East Main St. at Stillman St.,41.192436,-73.180443
+2334104,East Main St. at Stillman St.,41.192322,-73.180595
+2334105,East Main St. at I-95 Overpass,41.179115,-73.181122
+2334106,East Main St. at Barnum Ave. Cutoff,41.201248,-73.116867
+2334107,East Main St. at Texas Ave.,41.207439,-73.178795
+2334108,East Main St. at York St.,41.202896,-73.179314
+2334109,East Main St. at Opposite York St.,41.203583,-73.17939
+2334110,East Town Rd. at Westfield Ct Post Mall (Front Entry),41.238194,-73.033958
+2334111,East Town Rd. at Westfield Ct Post Mall (Front Entry),41.238235,-73.033752
+2334112,East Town Rd. at Westfield Ct Post Mall (Rear Entry),41.236744,-73.032364
+2334113,East Town Rd. at Westfield Ct Post Mall (Rear Entry),41.237183,-73.032608
+2334114,East Wall St. at Knight St.,41.118526,-73.411034
+2334115,East Washington Ave. at Harriet St.,41.185928,-73.185753
+2334116,East Washington Ave. at William St.,41.186096,-73.186386
+2334117,Eckart St. at Folino Dr.,41.22052,-73.234871
+2334120,Eckart St. at Marilyn Dr.,41.221466,-73.233025
+2334121,Enterprise Dr. at Cul-De-Sac,41.277443,-73.125999
+2334123,Fairfield Ave. at Albion St.,41.165173,-73.218872
+2334124,Fairfield Ave. at Beachview Ave.,41.155144,-73.23407
+2334125,Fairfield Ave. at Brewster St.,41.157352,-73.22644
+2334126,Fairfield Ave. at Brewster St.,41.157654,-73.226418
+2334127,Fairfield Ave. at Clinton Ave.,41.173931,-73.208626
+2334128,Fairfield Ave. at Colorado Ave.,41.173363,-73.21003
+2334129,Fairfield Ave. at Courtland Ave.,41.155472,-73.232132
+2334130,Fairfield Ave. at Davidson St.,41.155674,-73.231934
+2334131,Fairfield Ave. at Ellsworth St.,41.16032,-73.22361
+2334132,Fairfield Ave. at Ellsworth St.,41.161049,-73.223198
+2334133,Fairfield Ave. at Fox St.,41.155975,-73.228935
+2334134,Fairfield Ave. at Gilman St.,41.155709,-73.229315
+2334135,Fairfield Ave. at Hancock Ave.,41.171268,-73.212372
+2334136,Fairfield Ave. at Hansen St.,41.163597,-73.220718
+2334137,Fairfield Ave. at Howard Ave.,41.172623,-73.210876
+2334138,Fairfield Ave. at Iranistan Ave.,41.174511,-73.201538
+2334139,Fairfield Ave. at Martin Ter.,41.162018,-73.221954
+2334140,Fairfield Ave. at Melrose Ave.,41.158836,-73.224976
+2334141,Fairfield Ave. at Mountain Grove St.,41.170078,-73.213676
+2334142,Fairfield Ave. at Norman St.,41.174366,-73.203247
+2334143,Fairfield Ave. at Orland St.,41.165703,-73.218613
+2334144,Fairfield Ave. at Pine St.,41.16687,-73.217018
+2334145,Fairfield Ave. at Opposite Pine St.,41.166809,-73.217499
+2334146,Fairfield Ave. at Poland St.,41.155476,-73.233597
+2334147,Fairfield Ave. at Princeton St.,41.158783,-73.225342
+2334148,Fairfield Ave. at Scofield Ave.,41.160213,-73.224014
+2334149,Fairfield Ave. at Sherwood Ave.,41.174187,-73.205261
+2334150,Fairfield Ave. at Silliman Ave.,41.168922,-73.215004
+2334151,Fairfield Ave. at Waldorf Ave.,41.162983,-73.221313
+2334152,Fairfield Ave. at Wordin Ave.,41.16386,-73.220169
+2334153,Fairfield Woods Rd. at Stillson Rd.,41.186207,-73.252068
+2334154,Ferry Blvd. at Minor St.,41.196808,-73.120079
+2334155,Frank St. at Main St.,41.18803,-73.194992
+2334156,Garfield Ave. at Opposite Hathaway Dr.,41.170731,-73.148376
+2334157,Garfield Ave. at Honeyspot Rd.,41.173313,-73.148636
+2334158,Garfield Ave. at Honeyspot Rd.,41.172771,-73.148598
+2334159,Garfield Ave. at Lordship Blvd.,41.169518,-73.148483
+2334160,Garfield Ave. at Lordship Blvd.,41.169533,-73.148682
+2334161,George St. at Madison Ave.,41.186874,-73.196655
+2334162,George St. at Main St.,41.186882,-73.194084
+2334163,Golden Hill St. at Opposite Lyon Ter.,41.179832,-73.192116
+2334164,Golden Hill St. at Main St.,41.180378,-73.189995
+2334165,Golden Hill St. at Main St.,41.180428,-73.190254
+2334166,Granfield Ave. at Opposite Carnegie Ave.,41.1964,-73.160034
+2334167,Granfield Ave. at Pearl Harbor St.,41.196873,-73.162552
+2334168,Granfield Ave. at Pearl Harbor St.,41.196869,-73.162102
+2334169,Granfield Ave. at Opposite Wessels Ave.,41.197079,-73.163406
+2334170,Granfield Ave. at Wessels Ave.,41.197109,-73.163139
+2334171,Greensend Pl. at South Broad St.,41.219116,-73.063156
+2334172,Hawley Lane Mall at Back Of Bestbuy,41.232979,-73.152344
+2334173,Hawley Lane Mall at Front Of Target,41.233871,-73.151382
+2334174,Hawley Lane Mall at Side Of Khol's,41.232346,-73.153763
+2334175,Hawley Lane Mall at Opposite Side Of Khol's,41.232372,-73.153862
+2334183,Hollister Ave. at Alex St.,41.178268,-73.160896
+2334184,Hollister Ave. at Opposite Alex St.,41.177982,-73.160591
+2334185,Hollister Ave. at Orange St.,41.175831,-73.159676
+2334186,Hollister Ave. at Orange St.,41.175758,-73.15947
+2334187,Hollister Ave. at Stratford Ave.,41.179623,-73.1614
+2334188,Honeyspot Rd. at Benton St.,41.174744,-73.147743
+2334189,Honeyspot Rd. at Garfield Ave.,41.174519,-73.148041
+2334190,Housatoinic Ave. at Garland St.,41.193634,-73.19339
+2334191,Housatoinic Ave. at North Ave.,41.195497,-73.193573
+2334192,Housatonic Ave. at Congress St.,41.182442,-73.189034
+2334193,Housatonic Ave. at Congress St.,41.182796,-73.189651
+2334194,Housatonic Ave. at East Washington Ave.,41.185364,-73.191483
+2334195,Housatonic Ave. at East Washington Ave.,41.184982,-73.191383
+2334196,Housatonic Ave. at Opposite Garland St.,41.193535,-73.193214
+2334197,Housatonic Ave. at North Ave.,41.196236,-73.193352
+2334220,Huntington Tpk. at 1235 Huntington Tpk.,41.224796,-73.166817
+2334221,Huntington Tpk. at Opposite 1235 Huntington Tpk.,41.224693,-73.166679
+2334222,Huntington Tpk. at Broadbridge Rd.,41.220966,-73.169312
+2334223,Huntington Tpk. at Broadbridge Rd.,41.221424,-73.169197
+2334224,Huntington Tpk. at East Pasadena Pl.,41.21899,-73.170654
+2334225,Huntington Tpk. at Mapledale Pl.,41.21946,-73.170494
+2334226,Huntington Tpk. at Nutmeg Rd.,41.215569,-73.173149
+2334227,Huntington Tpk. at Priscilla St.,41.213943,-73.174812
+2334228,Huntington Tpk. at Opposite Priscilla St.,41.214195,-73.174789
+2334229,Huntington Tpk. at Rosewood Pl.,41.218018,-73.171524
+2334230,Huntington Tpk. at Virginia Ave.,41.211353,-73.177536
+2334231,Huntington Tpk. at Virginia Ave.,41.211212,-73.177834
+2334232,Iranistan Ave. at Black Rock Ave.,41.169411,-73.201035
+2334233,Iranistan Ave. at Burnham St.,41.165573,-73.198013
+2334234,Iranistan Ave. at Cottage St.,41.171169,-73.201073
+2334235,Iranistan Ave. at Cottage St.,41.171474,-73.201233
+2334236,Iranistan Ave. at Fairfield Ave.,41.174252,-73.201279
+2334237,Iranistan Ave. at Railroad Ave.,41.169106,-73.201195
+2334238,Iranistan Ave. at Ridge Ave.,41.165939,-73.198166
+2334239,Iranistan Ave. at South Ave.,41.167099,-73.199295
+2334240,Iranistan Ave. at South Ave.,41.166931,-73.199341
+2334241,Iranistan Ave. at State St.,41.172787,-73.201096
+2334242,Iranistan Ave. at State St.,41.17326,-73.201271
+2334243,John St. at Broad St.,41.177265,-73.191101
+2334244,Main St. at 4600 Main St.,41.222267,-73.217888
+2334245,John St. at Courtland St.,41.17635,-73.193779
+2334246,John St. at Lafayette Blvd.,41.176853,-73.192268
+2334247,John St. at Park Ave.,41.174713,-73.198174
+2334248,Kings Hwy. Cutoff at 1296 Kings Hwy. Cutoff,41.149662,-73.245033
+2334249,Kings Hwy. at Commerce Dr.,41.16214,-73.235863
+2334250,Kings Hwy. at Commerce Dr.,41.162128,-73.236069
+2334251,Kings Hwy. at Grasmere Ave.,41.157562,-73.239487
+2334252,Kings Hwy.  at New England Ave.,41.160072,-73.236847
+2334253,Kings Hwy. at Opposite New England Ave.,41.15992,-73.236771
+2334254,Arctic St. at Kossuth St.,41.189278,-73.18264
+2334260,Kossuth St. at Howe St.,41.181316,-73.182304
+2334261,Kossuth St. at Opposite Howe St.,41.181877,-73.183144
+2334262,Kossuth St. at Nichols St.,41.180218,-73.182442
+2334263,Kossuth St. at Opposite Nichols St.,41.180309,-73.182564
+2334264,Kossuth St. at Pulaski St.,41.1838,-73.182808
+2334265,Kossuth St. at Pulaski St.,41.184132,-73.18293
+2334266,Kossuth St. at Stratford Ave.,41.17852,-73.182549
+2334268,Lafayette Sq. at Golden Hill St.,41.179672,-73.194092
+2334269,Lafayette Sq. at Washington Ave.,41.17992,-73.194633
+2334272,Lindeman Dr. at 25 Lindeman Dr.,41.231636,-73.198067
+2334273,Lindeman Dr. at 30 Lindeman Dr.,41.231834,-73.197906
+2334274,Lindeman Dr. at 40 Lindeman Dr.,41.231956,-73.199661
+2334275,Lindeman Dr. at 39 Lindeman Dr.,41.231846,-73.199799
+2334276,Lindeman Dr. at Opposite Utility Pole 4573,41.23188,-73.20105
+2334277,Lindeman Dr. at Reservoir Ave.,41.231857,-73.195976
+2334278,Lindeman Dr. at Reservoir Ave.,41.231686,-73.195801
+2334279,Lindeman Dr. at Utility Pole 4573,41.231983,-73.200867
+2334280,Lordship Blvd. at Connecticut D.O.T. Driveway,41.173092,-73.15731
+2334281,Lordship Blvd. at Honeyspot Rd.,41.17112,-73.153008
+2334282,Lordship Blvd. at Honeyspot Rd. Ext.,41.170914,-73.153076
+2334283,Lordship Blvd. at Research Dr.,41.172264,-73.155518
+2334284,Lordship Blvd. at Opposite Research Dr.,41.172256,-73.156013
+2334285,Madison Ave. at Abric Dr.,41.228096,-73.232552
+2334286,Madison Ave. at Aldo St.,41.200748,-73.213463
+2334287,Madison Ave. at Amsterdam Ave.,41.198753,-73.210411
+2334288,Madison Ave. at Anton St.,41.219086,-73.225754
+2334289,Madison Ave. at Arlington St.,41.197338,-73.208061
+2334290,Madison Ave. at Ashton St.,41.208466,-73.223557
+2334291,Madison Ave. at Bankside St.,41.209831,-73.224022
+2334292,Madison Ave. at Beers St.,41.19043,-73.202827
+2334293,Madison Ave. at Opposite Beers St.,41.190281,-73.202805
+2334294,Madison Ave. at Bonheur Rd.,41.228859,-73.232796
+2334295,Madison Ave. at Bretton St.,41.203079,-73.216988
+2334296,Madison Ave. at Burnsford Ave.,41.205372,-73.221161
+2334297,Madison Ave. at Burnsford Ave.,41.20546,-73.221619
+2334298,Madison Ave. at Capitol Ave.,41.193962,-73.205696
+2334299,Madison Ave. at Capitol Ave.,41.193886,-73.205818
+2334300,Madison Ave. at Charles St.,41.1926,-73.204605
+2334301,Madison Ave. at Cherry Hill Dr.,41.213505,-73.225685
+2334302,Madison Ave. at D'eramo Pl.,41.213261,-73.225563
+2334303,Madison Ave. at Dobson St.,41.221981,-73.227493
+2334304,Madison Ave. at Opposite Dobson St.,41.22197,-73.227875
+2334305,Madison Ave. at Eckart St.,41.222385,-73.230789
+2334306,Madison Ave. at Opposite Eckart St.,41.222515,-73.230583
+2334307,Madison Ave. at Flint St.,41.203209,-73.217476
+2334308,Madison Ave. at Frank St.,41.187485,-73.197952
+2334309,Madison Ave. at Geduldig Ave.,41.215496,-73.227585
+2334310,Madison Ave. at Glendale Ave.,41.209904,-73.223839
+2334311,Madison Ave. at Grand St.,41.187988,-73.198418
+2334312,Madison Ave. at Grand St.,41.188095,-73.198746
+2334313,Madison Ave. at Green St.,41.22765,-73.232224
+2334314,Madison Ave. at Harlem Ave.,41.199799,-73.212334
+2334315,Madison Ave. at Imperial St.,41.200043,-73.212791
+2334316,Madison Ave. at Opposite Indian Field Rd.,41.220646,-73.226524
+2334317,Madison Ave. at Jackson Ave.,41.19294,-73.205063
+2334318,Madison Ave. at Jewett Ave.,41.208344,-73.223333
+2334319,Madison Ave. at Leslie Rd.,41.215324,-73.227318
+2334320,Madison Ave. at Lincoln Ave.,41.195107,-73.206573
+2334321,Madison Ave. at Lincoln Ave.,41.195469,-73.207001
+2334322,Madison Ave. at Macon Dr.,41.221401,-73.226929
+2334323,Madison Ave. at North Ave.,41.189026,-73.199745
+2334324,Madison Ave. at North Ave.,41.189098,-73.200111
+2334325,Madison Ave. at Old Town Rd.,41.226337,-73.231934
+2334326,Madison Ave. at Old Town Rd.,41.226147,-73.232109
+2334327,Madison Ave. at Patricia Rd.,41.21661,-73.227425
+2334328,Madison Ave. at Opposite Patricia Rd.,41.216877,-73.227592
+2334329,Madison Ave. at Ranch Dr.,41.219662,-73.225945
+2334330,Madison Ave. at Royce Pl.,41.224506,-73.23156
+2334331,Madison Ave. at Ruth St.,41.206966,-73.222847
+2334332,Madison Ave. at Ruth St.,41.207153,-73.223152
+2334333,Madison Ave. at Salem St.,41.196503,-73.207329
+2334334,Madison Ave. at Taft Ave.,41.191471,-73.203911
+2334335,Madison Ave. at Thorme St.,41.203964,-73.21859
+2334336,Madison Ave. at Thorme St.,41.204132,-73.21917
+2334337,Madison Ave. at Tremont St.,41.200844,-73.213341
+2334338,Madison Ave. at Truman St.,41.198566,-73.210342
+2334339,Madison Ave. at Vincelette St.,41.211678,-73.224098
+2334340,Madison Ave. at Opposite Vincellette St.,41.212494,-73.224358
+2334341,Madison Ave. at Wayne St.,41.197548,-73.208168
+2334342,Madison Ave. at Westfield Ave.,41.2019,-73.21479
+2334343,Madison Ave. at Westfield Ave.,41.20208,-73.215439
+2334344,Madison Ave. at Westfield Trumbull Mall Entrance,41.228828,-73.232544
+2334345,Madison Ave. at Wheeler Ave.,41.191444,-73.203697
+2334346,Main St. at Birch Pl.,41.206772,-73.131836
+2334347,Main St. at Brewster St.,41.207977,-73.13102
+2334348,Main St. at Opposite Curtis Pl.,41.200165,-73.131409
+2334349,Main St. at Opposite East Garden St.,41.205204,-73.131798
+2334350,Main St. at Hurd Ave.,41.203083,-73.131317
+2334351,Main St. at Opposite Fenelon Pl.,41.210232,-73.129509
+2334352,Stratford Train Station at 2505 Main St.,41.195004,-73.132034
+2334353,Main St. at 6905 Main St. (Homewood Suites),41.247154,-73.102028
+2334354,Main St. at Academy Hill Rd.,41.187996,-73.130302
+2334355,Main St. at Barrows St.,41.217148,-73.124588
+2334356,Main St. at Opposite Barrows St.,41.216999,-73.124489
+2334359,Main St. at Beechmont Ave.,41.212944,-73.210922
+2334360,Main St. at Brewster St.,41.208214,-73.131134
+2334362,Main St. at Broad St.,41.189991,-73.130409
+2334363,Main St. at Opposite Broadbridge Ave.,41.194878,-73.131721
+2334364,Main St. at Bronx Ave.,41.201061,-73.203346
+2334365,Main St. at Brookside Shopping Center,41.222473,-73.218147
+2334366,Main St. at Burnsford Ave.,41.21022,-73.209114
+2334367,Main St. at Capitol Ave.,41.196686,-73.200203
+2334368,Main St. at Capitol Ave.,41.196869,-73.200577
+2334369,Main St. at Catherine St.,41.185654,-73.192642
+2334370,Main St. at Cemetery Dr.,41.198284,-73.131676
+2334371,Main St. at Chapel St.,41.181816,-73.190247
+2334372,Main St. at Church St.,41.192951,-73.130524
+2334373,Main St. at Opposite Arch St.,41.18346,-73.191338
+2334374,Main St. at Arch St.,41.183533,-73.191658
+2334377,Main St. at Commerce Park,41.22348,-73.218285
+2334378,Main St. at Congress St.,41.182175,-73.190269
+2334379,Main St. at Cutspring Rd.,41.218243,-73.123238
+2334380,Main St. at East Main St.,41.218929,-73.120148
+2334381,Main St. at East Washington Ave.,41.185097,-73.192337
+2334384,Main St. at Opposite Elizabeth St.,41.31945,-73.088676
+2334385,Main St. at Elmhurst Ave.,41.215439,-73.125603
+2334386,Main St. at Essex Pl.,41.19825,-73.131927
+2334387,Main St. at Factory St.,41.319637,-73.085999
+2334388,Main St. at Fairfield Ave.,41.179474,-73.189423
+2334389,Main St. at Fairfield Ave.,41.17897,-73.189445
+2334390,Main St. at Fairview Ave.,41.202946,-73.204201
+2334391,Main St. at Fairview Ave.,41.202621,-73.204247
+2334392,Main St. at Fenelon Pl.,41.209553,-73.130203
+2334393,Main St. at Frank St.,41.188244,-73.194641
+2334394,Main St. at Frank St.,41.188122,-73.194756
+2334395,Main St. at Freeman Ave.,41.206738,-73.132072
+2334396,Main St. at Frenchtown Rd.,41.218147,-73.214783
+2334397,Main St. at Garden St. East,41.205318,-73.132019
+2334398,Main St. at George St.,41.187061,-73.194054
+2334399,Main St. at Glenavon St.,41.221848,-73.117317
+2334400,Main St. at Glendale Ave.,41.214783,-73.212532
+2334401,Main St. at Golden Hill St.,41.180367,-73.189659
+2334402,Main St. at Golden Hill St.,41.180546,-73.189888
+2334403,Main St. at Grand St.,41.189316,-73.195351
+2334404,Main St. at Grand St.,41.189533,-73.195686
+2334405,Main St. at Opposite Harvard Ave.,41.212788,-73.127464
+2334406,Main St. at Harvard St.,41.212757,-73.127258
+2334407,St. Vincent's Medical Center,41.200314,-73.202629
+2334408,Main St. at Hawley Ave.,41.200279,-73.20285
+2334409,Main St. at Highland Ave.,41.215969,-73.12545
+2334410,Main St. at Hillhouse Ave.,41.210087,-73.208763
+2334411,Main St. at Hillside Ave.,41.2024,-73.131332
+2334412,Main St. at Hillview  St.,41.223488,-73.218063
+2334413,Main St. at Jewett Ave.,41.212688,-73.210976
+2334414,Main St. at Judson Pl.,41.191257,-73.130287
+2334415,Main St. at Kaechele Pl.,41.220863,-73.217262
+2334416,Main St. at Opposite Kaechele Pl.,41.221291,-73.217896
+2334417,Main St. at Kings College Pl.,41.188766,-73.130608
+2334418,Main St. at Legrand Pl.,41.221664,-73.117561
+2334419,Stratford Train Station at Linden Ave.,41.193951,-73.131165
+2334422,Main St. at Opposite Mill River  Dr.,41.218994,-73.120979
+2334423,Main St. at Mill River Dr.,41.21883,-73.121292
+2334424,Main St. at Minerva St.,41.319641,-73.087959
+2334425,Main St. at North Ave.,41.192017,-73.197121
+2334426,Main St. at North Ave.,41.191841,-73.19722
+2334427,Main St. at Old Town Rd.,41.226833,-73.218658
+2334428,Main St. at Old Town Rd.,41.226757,-73.218842
+2334429,Main St. at Overland Ave.,41.214928,-73.212372
+2334430,Main St. at Oxford St.,41.219292,-73.215805
+2334431,Main St. at Park & Ride Lot,41.243839,-73.103188
+2334435,Main St. at Porter St.,41.193645,-73.198204
+2334437,Main St. at Renzy Ave.,41.211243,-73.20961
+2334438,Main St. at Riverton Ter.,41.218353,-73.122627
+2334441,Main St. at Ryders Ln.,41.243828,-73.102913
+2334442,Main St. at Salem St.,41.198715,-73.201553
+2334443,Main St. at Salem St.,41.198616,-73.201675
+2334444,Main St. at Savoy St.,41.205025,-73.205643
+2334445,Main St. at Selleck Pl.,41.195972,-73.132095
+2334446,Main St. at South Ave.,41.182377,-73.130157
+2334447,Main St. at South Ave.,41.182907,-73.130394
+2334450,Main St. at Stratford Ave.,41.187111,-73.130501
+2334451,Main St. at Summitt St.,41.204323,-73.204994
+2334452,Main St. at Temple Ct.,41.196381,-73.131805
+2334453,Main St. at Thorme St.,41.208298,-73.20755
+2334454,Main St. at Thorme St.,41.208481,-73.207916
+2334456,Main St. at Vincelette St.,41.219994,-73.216759
+2334457,Main St. at Water St.,41.319813,-73.086067
+2334458,Main St. at Wells Pl.,41.185413,-73.130424
+2334459,Main St. at Wells Pl.,41.18576,-73.130226
+2334460,Main St. at Opposite Wentworth  St.,41.206261,-73.206139
+2334461,Main St. at Wentworth St.,41.206291,-73.206451
+2334462,Main St. at West Broad St.,41.190445,-73.13063
+2334463,Main St. at Wheeler Ave.,41.194084,-73.198738
+2334465,Main St. at Woodside Ave.,41.215981,-73.213112
+2334466,Main St. at Woodside Ave.,41.216236,-73.213478
+2334467,Main St. at Woodstock Ave.,41.210991,-73.128853
+2334468,Main St. at Opposite Woodstock Ave.,41.211071,-73.12899
+2334469,Maplewood Ave. at Brothwell St.,41.179947,-73.206299
+2334470,Maplewood Ave. at Clinton Ave.,41.176636,-73.211823
+2334471,Maplewood Ave. at Laurel Ave.,41.177395,-73.210327
+2334472,Maplewood Ave. at Laurel Ave.,41.177769,-73.209999
+2334473,Maplewood Ave. at Norman St.,41.18005,-73.20639
+2334474,Maplewood Ave. at Park Ave.,41.181225,-73.204536
+2334475,Maplewood Ave. at Park Ave,41.181213,-73.204361
+2334476,Maplewood Ave. at Wood Ave.,41.178638,-73.208366
+2334477,Maplewood Ave. at Wood Ave.,41.178707,-73.208565
+2334478,Mill Hill Ave. at Boston Ave.,41.192612,-73.165245
+2334479,Bridgeport Hospital at Mill Hill Ave.,41.191856,-73.165169
+2334480,Bridgeport Hospital at Mill Hill Ave.,41.191841,-73.165306
+2334482,Mill Plain Rd. at Carolton Hospital,41.145603,-73.266212
+2334483,Mill Plain Rd. at Park & Ride Lot.,41.143093,-73.26458
+2334484,Monroe Tpk. at 220 Monroe Tpk.,41.298786,-73.22596
+2334485,Monroe Tpk. at Opposite 220 Monroe Tpk.,41.299042,-73.226036
+2334486,Monroe Tpk. at Opposite 48 Monroe Tpk.,41.292099,-73.233376
+2334487,Monroe Tpk. at 48 Monroe Tpk. (United Health),41.291767,-73.233353
+2334488,Monroe Tpk. at Corporate Dr,41.296013,-73.228828
+2334489,Monroe Tpk. at Purdy Hill Rd.,41.30175140304844,-73.2234203179809
+2334490,Monroe Tpk. at Purdy Hill Rd.,41.302544,-73.223473
+2334491,Monroe Tpk. at Opposite Spring Hill Rd.,41.301071,-73.223854
+2334492,Monroe Tpk. at Spring Hill Road,41.301182,-73.224075
+2334493,Monroe Tpk. at Technology Dr.,41.296585,-73.228577
+2334494,Newfield Ave. at Deforest Ave.,41.170815,-73.169777
+2334495,Newfield Ave. at Deforest Ave.,41.171009,-73.169815
+2334496,Newfield Ave. at Jefferson St.,41.171986,-73.169151
+2334497,Newfield Ave. at Jefferson St.,41.172321,-73.169098
+2334498,Newfield Ave. at Orange St.,41.175663,-73.167145
+2334499,Newfield Ave. at Seaview Ave.,41.169987,-73.170364
+2334500,Newfield Ave. at Smith St.,41.174427,-73.167824
+2334501,Newfield Ave. at Smith St.,41.174713,-73.167801
+2334502,Newtown Tpk. at Broadway Rd.,41.2855663654,-73.2346556833682
+2334503,Newtown Tpk. at Opposite Broadway Rd.,41.286766,-73.235481
+2334504,Newtown Tpk. at Church Hill Rd.,41.257847,-73.219551
+2334505,Newtown Tpk. at Opposite Church Hill Rd..,41.258083,-73.21981
+2334506,Newtown Tpk. at Clark Rd.,41.259567,-73.220222
+2334507,Newtown Tpk. at Opposite Clark Rd.,41.259571,-73.22007
+2334508,Newtown Tpk. at Gisella Rd.,41.280148,-73.230881
+2334509,Newtown Tpk. at Governors Ridge,41.278904,-73.229012
+2334510,Newtown Tpk. at Harned Pl.,41.271988,-73.226547
+2334511,Newtown Tpk. at Lake Ave.,41.265907,-73.224503
+2334512,Newtown Tpk. at Opposite Lake Ave.,41.265305,-73.223961
+2334513,Newtown Tpk. at Meadow Rd.,41.271637,-73.226662
+2334514,Newtown Tpk. at Oakland Dr.,41.269398,-73.2258
+2334515,Newtown Tpk. at Old Mine Rd.,41.289883,-73.23455
+2334516,Newtown Tpk. at Opposite Old Mine Rd.,41.28928,-73.234886
+2334517,Newtown Tpk. at Pinehurst St.,41.261349,-73.221031
+2334518,Newtown Tpk. at Opposite Pinehurst St.,41.261364,-73.221252
+2334519,Newtown Tpk. at Opposite Ridgeview Ave.,41.269211,-73.225563
+2334520,Newtown Tpk. at Stonehouse Rd.,41.274364,-73.227005
+2334521,Newtown Tpk. at Whitney Ave.,41.278313,-73.228195
+2334522,Nichols Ave. at Allencrest Dr.,41.22261,-73.150444
+2334523,Nichols Ave. at Connors Ln.,41.219959,-73.148628
+2334524,Nichols Ave. at Denise Dr.,41.221638,-73.149734
+2334525,Nichols Ave. at Dogwood Dr.,41.225258,-73.151627
+2334526,Nichols Ave. at Green Valley Rd.,41.22699,-73.152618
+2334527,Nichols Ave. at Hawley Ln..,41.230412,-73.153961
+2334528,Nichols Ave. at Lawlor Ter.,41.224453,-73.151398
+2334529,Nichols Ave. at Second Hill Ln.,41.219673,-73.148621
+2334530,Nichols Ave. at Silver Ln.,41.229729,-73.153687
+2334531,Nichols Ave. at Sunrise Ter.,41.226597,-73.152283
+2334532,Nichols Ave. at Val Dr.,41.228302,-73.153076
+2334533,Nichols Ave. at Opposite Val Dr.,41.228432,-73.152977
+2334534,Noble Ave. at Arctic St.,41.189281,-73.184196
+2334535,Noble Ave. at Arctic St.,41.189503,-73.184326
+2334536,Noble Ave. at Boston Ave.,41.200264,-73.183876
+2334537,Noble Ave. at Boston Ave.,41.200089,-73.184052
+2334538,Noble Ave. at East Washington Ave.,41.186172,-73.184456
+2334539,Noble Ave. at East Washington Ave.,41.186119,-73.184616
+2334540,Noble Ave. at Huntington Rd.,41.197075,-73.183502
+2334541,Noble Ave. at Huntington Rd.,41.196804,-73.183739
+2334542,Noble Ave. at Jane St.,41.190285,-73.18412
+2334543,Noble Ave. at Jane St.,41.190456,-73.184242
+2334544,Noble Ave. at Ogden St.,41.191635,-73.184006
+2334545,Noble Ave. at Ogden St.,41.191841,-73.184135
+2334546,Noble Ave. at Putnam St.,41.194519,-73.183723
+2334547,Noble Ave. at Putnam St.,41.194798,-73.183914
+2334548,Noble Ave. at Opposite Roosevelt  St.,41.198193,-73.183609
+2334549,Noble Ave. at Roosevelt St.,41.198345,-73.183853
+2334550,Noble Ave. at Spring St.,41.195942,-73.183594
+2334551,Noble Ave. at Stillman St.,41.192612,-73.183907
+2334552,Noble Ave. at Stillman St.,41.192802,-73.184059
+2334557,North Ave. at 2710 North Ave.,41.176712,-73.221046
+2334558,North Ave. at Brooklawn Ave.,41.178932,-73.215179
+2334559,North Ave. at Cartright St.,41.177322,-73.218575
+2334560,North Ave. at Cartright St.,41.177464,-73.218643
+2334561,North Ave. at Clinton Ave.,41.178875,-73.214897
+2334562,North Ave. at Colorado Ave.,41.178238,-73.216339
+2334563,North Ave. at Opposite Colorado Ave.,41.178444,-73.216293
+2334564,North Ave. at Fairmount St.,41.190475,-73.198486
+2334565,North Ave. at Goodman St.,41.184708,-73.205086
+2334566,North Ave. at Opposite Goodman St.,41.184776,-73.204803
+2334567,North Ave. at Howard Ave.,41.177673,-73.217644
+2334568,North Ave. at Hurd Ave.,41.190346,-73.198418
+2334569,North Ave. at Island Brook Ave.,41.200989,-73.191711
+2334570,North Ave. at Capitol Ave.,41.200455,-73.192398
+2334571,North Ave. at Lexington Ave.,41.185516,-73.204018
+2334572,North Ave. at Opposite Lexington Ave.,41.185776,-73.203979
+2334573,North Ave. at Madison Ave.,41.188877,-73.20002
+2334574,North Ave. at Madison Ave.,41.189278,-73.199844
+2334575,North Ave. at Main St.,41.191429,-73.197205
+2334576,North Ave. at Main St.,41.191509,-73.197357
+2334577,North Ave. at Moody Ave.,41.176437,-73.223251
+2334578,North Ave. at Opposite Moody Ave.,41.176285,-73.223114
+2334579,North Ave. at Mountain Grove Cemetary,41.176579,-73.220894
+2334580,North Ave. at Oak St.,41.187393,-73.202065
+2334581,North Ave. at Opposite Oak St.,41.187645,-73.201981
+2334582,North Ave. at Porter St.,41.192745,-73.196289
+2334583,North Ave. at Sylvan St.,41.202297,-73.190048
+2334584,North Ave. at Opposite Sylvan St.,41.20229,-73.189728
+2334585,North Frontage Rd. at Main St.,41.175247,-73.187912
+2334587,Oakview Dr. at 40 Oakview Dr.,41.230785,-73.202309
+2334588,Oakview Dr. at 23 Oakview Dr.,41.230629,-73.202225
+2334589,Oakview Dr. at Lindeman Dr.,41.231812,-73.203072
+2334590,Oakview Dr. at Old Town Rd.,41.229729,-73.20163
+2334591,Oakview Dr. at Old Town Rd.,41.22998,-73.201561
+2334592,Old Town Rd. at 2070 Old Town Rd.,41.228119,-73.209702
+2334593,Old Town Rd. at Cumberland Dr.,41.227722,-73.207497
+2334594,Old Town Rd. at Daniel Dr.,41.225609,-73.235573
+2334595,Old Town Rd. at Forestview Rd.,41.228428,-73.205093
+2334596,Old Town Rd. at Frenchtown Rd.,41.228497,-73.212173
+2334597,Old Town Rd. at Frenchtown Rd.,41.228317,-73.212624
+2334598,Old Town Rd. at Horseshoe Dr.,41.228954,-73.204773
+2334599,Old Town Rd. at Leighton Rd.,41.225754,-73.234962
+2334600,Old Town Rd. at Main St.,41.22657,-73.21846
+2334601,Old Town Rd. at Main St.,41.226524,-73.218178
+2334602,Old Town Rd. at Maybrook Rd.,41.225471,-73.239052
+2334603,Old Town Rd. at Opposite Maybrook Rd.,41.225342,-73.23909
+2334604,Old Town Rd. at Sequoia Rd.,41.227455,-73.215302
+2334605,Old Town Rd. at Opposite Sequoia Rd.,41.227551,-73.215393
+2334606,Orange at Newfield Ave.,41.175804,-73.166962
+2334607,Orange St. at Central Ave.,41.175488,-73.165451
+2334608,Palisade Ave. at 525 Palisade Ave.,41.2006,-73.165253
+2334609,Palisade Ave. at Opposite 525 Palisade Ave.,41.200714,-73.165092
+2334610,Palisade Ave. at Bullard-Havens School,41.199711,-73.164955
+2334611,Palisade Ave. at Granfield Ave.,41.197708,-73.165184
+2334612,Palisade Ave. at Shelter No. 1,41.202446,-73.165282
+2334613,Palisade Ave. at Opposite Shelter No. 1,41.202141,-73.165436
+2334614,Palisade Ave. at Shelter No. 2,41.203102,-73.165405
+2334615,Palisade Ave. at Opposite Shelter No. 2,41.202995,-73.16555
+2334616,Palisade Ave. at Stewart St.,41.198975,-73.165016
+2334617,Palisade Ave. at Stewart St.,41.198601,-73.164856
+2334618,Park Ave. at 2600 Park Ave. (Park Royal),41.19392,-73.215729
+2334619,Park Ave. at 2625 Park Ave.,41.194252,-73.216339
+2334620,Park Ave. at Opposite Brooklawn Ave.,41.197617,-73.218903
+2334621,Park Ave. at 3900 Park Ave.,41.208145,-73.227867
+2334622,Park Ave. at Opposite 3900 Park Ave.,41.208271,-73.228241
+2334623,Park Ave. at 4000 Park Ave.,41.209469,-73.229057
+2334624,Park Ave. at Opposite 4000 Park Ave.,41.209957,-73.229652
+2334625,Park Ave. at Atlantic St.,41.166672,-73.192245
+2334626,Park Ave. at Austin St.,41.168015,-73.193237
+2334627,Park Ave. at Beechwood Ave.,41.182014,-73.205719
+2334628,Park Ave. at Benham Ave.,41.179604,-73.203011
+2334629,Park Ave. at Benham Ave.,41.179737,-73.203423
+2334630,Park Ave. at Benson St.,41.195457,-73.217064
+2334631,Park Ave. at Brion Dr.,41.207348,-73.22747
+2334632,Park Ave. at Brooklawn Ave.,41.197853,-73.219391
+2334633,Park Ave. at Capitol Ave.,41.190483,-73.212799
+2334634,Park Ave. at Capitol Ave.,41.190643,-73.213219
+2334635,Park Ave. at Chalmers Ave.,41.186131,-73.209084
+2334636,Park Ave. at Clark St.,41.202972,-73.223442
+2334637,Park Ave. at Dixon St.,41.187702,-73.210693
+2334638,Park Ave. at Roncalli Hall - Sacred Heart University,41.22036,-73.238609
+2334639,Park Ave. at Opposite Eckart St.,41.219643,-73.238197
+2334640,Park Ave. at Geduldig Ave.,41.214809,-73.233841
+2334641,Park Ave. at Opposite Geduldig Ave.,41.21452,-73.233841
+2334642,Park Ave. at Jackman Ave.,41.199116,-73.220451
+2334643,Park Ave. at Jefferson St.,41.224205,-73.242134
+2334644,Park Ave. at Laurel Ave.,41.175831,-73.199181
+2334645,Park Ave. at Laurel Ave.,41.176033,-73.199562
+2334646,Park Ave. at Lincoln Ave.,41.191654,-73.213837
+2334647,Park Ave. at Linden Ave.,41.164112,-73.190315
+2334648,Park Ave. at Lorraine St.,41.18441,-73.207611
+2334649,Park Ave. at Lorraine Ter.,41.18425,-73.207748
+2334650,Park Ave. at Maplewood Ave.,41.180973,-73.204445
+2334651,Park Ave. at Maplewood Ave.,41.181229,-73.204926
+2334652,Park Ave. at Mayflower Dr.,41.196266,-73.218079
+2334653,Park Ave. at Mckinley Ave.,41.188797,-73.21138
+2334654,Park Ave. at Merritt St.,41.203831,-73.224251
+2334655,Park Ave. at Merritt St.,41.203896,-73.224564
+2334656,Park Ave. at North Ave.,41.182972,-73.206345
+2334657,Park Ave. at North Ave.,41.183664239093616,-73.20726058090784
+2334658,Park Ave. at Old Town Rd.,41.224316,-73.241943
+2334659,Park Ave. at Pequonnock St.,41.182377,-73.20578
+2334660,Park Ave. at Powell Ter.,41.19545,-73.217392
+2334661,Park Ave. at Prospect St.,41.171734,-73.195915
+2334662,Park Ave. at Queen St.,41.205177,-73.225403
+2334663,Park Ave. at Railroad Ave.,41.169155,-73.194122
+2334664,Park Ave. at Rooster River,41.207397,-73.227257
+2334665,Park Ave. at Sacred Heart University Entrance,41.222744,-73.240936
+2334666,Park Ave. at Saint Nicholas Dr.,41.222073,-73.240105
+2334667,Park Ave. at Opposite Sherley Pl.,41.200958,-73.221809
+2334668,Park Ave. at South Frontage Rd.,41.169819,-73.194534
+2334669,Park Ave. at Suburban Ave.,41.192753,-73.215057
+2334670,Park Ave. at Opposite Suburban Ave.,41.192776,-73.214752
+2334671,Park Ave. at Toilsome Hill Rd.,41.20224,-73.223129
+2334672,Park Ave. at Truman St.,41.196159,-73.21769
+2334673,Park Ave. at Opposite Valley Rd.,41.211746,-73.231071
+2334674,Park Ave. at Vine St.,41.178165,-73.201492
+2334675,Park Ave. at Wade St.,41.186031,-73.20929
+2334676,Waldemere Ave. at Park Ave.,41.163174,-73.189384
+2334677,Park Ave. at Washington Ave.,41.175308,-73.198746
+2334678,Park Ave. at West Liberty St.,41.172405,-73.19651
+2334679,Park Ave. at West Mckinley Ave.,41.188938,-73.211746
+2334680,Park Ave. at West Morgan Ave.,41.187489,-73.210266
+2334681,Park Ave. at Wilson St.,41.205479,-73.225853
+2334682,Park Ave. at Wood Ave.,41.177803,-73.201408
+2334683,Pearl Harbor St. at Manila St.,41.202301,-73.160835
+2334684,Pearl Harbor St. at Manila St.,41.202087,-73.157547
+2334685,Pearl Harbor St. at Opposite Pearl Harbor Cir.,41.20393,-73.158592
+2334686,Pearl Harbor St. at Pearl Harbor Pl.,41.204384,-73.159744
+2334687,Pearl Harbor St. at Success Ave.,41.201168,-73.156738
+2334688,Pearl Harbor St. at Wake St.,41.199879,-73.161186
+2334689,Penny Ave. at Huntington Tpk.,41.225739,-73.165642
+2334690,Penny Ave. at Intervale Rd.,41.225681,-73.165443
+2334691,Pequonnock St. at Benham Ave.,41.181694,-73.201073
+2334692,Pequonnock St. at Harral Ave.,41.181011,-73.198318
+2334693,Pequonnock St. at Jones St.,41.181786,-73.201027
+2334694,Pequonnock St. at Washington Ave.,41.180527,-73.195595
+2334695,Platt St. at Chopsey Hill Rd.,41.215042,-73.201782
+2334696,Post Rd. East at 1000 Post Rd. East,41.138645,-73.330391
+2334697,Post Rd. East at 1385 Post Rd. East (Balducci's),41.138802,-73.316193
+2334698,Post Rd. East at 1572 Post Rd. East (Goodwill),41.13847,-73.309242
+2334699,Post Rd. East at 286-292 Post Road East,41.140972,-73.355606
+2334700,Post Rd. East at 616 Post Rd. East,41.138607,-73.344734
+2334701,Post Rd. East at 991 Post Rd. East,41.13876,-73.33078
+2334702,Post Rd. East at North Bulkley Ave.,41.138397,-73.300949
+2334703,Post Rd. East at Bulkley Ave. South,41.13818,-73.298866
+2334704,Post Rd. East at Cedar Rd.,41.138481,-73.333023
+2334705,Post Rd. East at Church St. North,41.139069,-73.327606
+2334706,Post Rd. East at Church St. South,41.138889,-73.328178
+2334707,Post Rd. East at Compo Rd. South,41.140465,-73.353653
+2334708,Post Rd. East at 400 Post Rd. East,41.14011,-73.351906
+2334709,Post Rd. East at 431 Post Rd. East,41.140163,-73.351318
+2334710,Post Rd. East at Crescent Park Rd.,41.139927,-73.348145
+2334711,Post Rd. East at Crescent Rd.,41.137901,-73.342262
+2334712,Post Rd. East at Opposite Crescent Rd.,41.1395,-73.34726
+2334713,Post Rd. East at Hills Point Rd.,41.137676,-73.342216
+2334714,Post Rd. East at Long Lots Rd.,41.137978,-73.338005
+2334715,Post Rd. East at Opposite Long Lots Rd..,41.13768,-73.337784
+2334716,Post Rd. East at Maple Ave. North,41.138687,-73.311081
+2334717,Post Rd. East at Maple Ave. South,41.138535,-73.311813
+2334718,Post Rd. East at Mills St.,41.138699,-73.318192
+2334719,Post Rd. East at Morningside Dr. North,41.139034,-73.326042
+2334720,Post Rd. East at Morningside Dr. South,41.138863,-73.325844
+2334721,Post Rd. East at Compo Rd. North,41.140438,-73.352684
+2334722,Post Rd. East at Powers Ct.,41.140881,-73.354279
+2334723,Post Rd. East at Regents Park,41.138599,-73.315239
+2334724,Post Rd. East at 605 Post Rd. East,41.138809,-73.344749
+2334725,Post Rd. East at Sherwood Island Connector,41.138031,-73.334892
+2334726,Post Rd. East at Opposite Sherwood Island Connector,41.138187,-73.335388
+2334727,Post Rd. East at North Turkey Hill Rd,41.138947,-73.321159
+2334728,Post Rd. East at Turkey Hill Rd. South,41.138748,-73.320946
+2334729,Post Rd. East at West Parish Rd.,41.138268,-73.333191
+2334730,Post Rd. East at Westfair Dr.,41.13847,-73.303795
+2334731,Post Rd. East at Oppostie Westfair Dr.,41.138264,-73.303986
+2334732,Post Rd. East at Westport Inn,41.138626,-73.308754
+2334733,Post Rd. West at 375 Post Rd. West,41.129269,-73.379128
+2334734,Post Rd. West at Hills Ln.,41.128826,-73.380768
+2334735,Post Rd. West at Opposite Hills Ln.,41.128452,-73.381378
+2334736,Post Rd. East at Imperial Ave.,41.141384,-73.358368
+2335786,Atlantic St. at Barnum Dyke,41.160015,-73.202938
+2335791,Park Ave. at Valley Rd.,41.212532,-73.232048
+2335792,Grasmere Ave. at Home Depot,41.157028,-73.241867
+2335793,Grasmere Ave. at Home Depot,41.157452,-73.242096
+2335916,Monroe Tpk. at Monroe Mcdonalds,41.310696,-73.221245
+2335917,Monroe Tpk. at Opposite Monroe Mcdonalds,41.310612,-73.221458
+2370891,West Broad St. at I-95 Overpass,41.191017,-73.135101
+2370892,West Broad St. at California St.,41.191826,-73.13681
+2370893,West Broad St. at Rockwell Ave.,41.193722,-73.141441
+2370894,West Broad St. at Barnum Ave.,41.194099,-73.143211
+2382213,Bridgeport Transportation Center,41.181236307362,-73.187345630614
+2394891,PARK AVE. at YALE NEW HAVEN PARK AVENUE MEDICAL CENTER,41.227055,-73.242844
+2436143,Unquowa Rd. at Metro North Railroad Station,41.142992284229,-73.257666584946
+2436430,Arctic St. at Noble Ave.,41.189423,-73.183998
+2537792,Woodend Rd. at Century Dr.,41.170891,-73.137672
+2729476,MERRITT BLVD at OPPOSITE COMMERCE DR.,41.2439,-73.14875
+2729477,MERRITT BLVD. at NUTMEG DR.,41.242687,-73.147614
+2729478,MERRITT BLVD. at 80 MERRITT BLVD.,41.241276,-73.146477
+2729479,MERRITT BLVD. at OPPOSITE 95 MERRITT BLVD.,41.240009,-73.146011
+2729480,NUTMEG DR. at 35 NUTMEG DR,41.239162,-73.150223
+2729481,NUTMEG DR. at OPPOSITE 30 NUTMEG DR.,41.24078,-73.150192
+2729482,NUTMEG DR. at OPPOSITE 20 NUTMEG DR.,41.241901,-73.147789
+2734406,SPRING HILL RD. at OPPOSITE AMAZON DISTRIBUTION FACILITY,41.293301,-73.242302
+2734407,SPRING HILL RD. at AMAZON DISTRIBUTION FACILITY,41.293442,-73.24202
+2734408,SPRING HILL RD. at PEQUONNOCK RIVER TRAIL,41.294022,-73.240051
+2734409,TREFOIL DR. at SPRING HILL RD.,41.29467,-73.237671
+2734410,TREFOIL DR. at 29 TREFOIL DR.,41.293434,-73.235764
+2734413,TREFOIL DR. at 9 TREFOIL DR.,41.293633,-73.234543
+2734419,TREFOIL DR. AT 4 TREFOIL DR.,41.293797,-73.234306
+2734425,TREFOIL DR. at 20 TREFOIL DR.,41.29356,-73.23597
+2734427,TREFOIL DR. at SPRING HILL RD.,41.29472,-73.237541
+2734429,SPRING HILL RD. at PEQUONNOCK RIVER TRAIL,41.29414,-73.239998

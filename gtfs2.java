@@ -69,7 +69,10 @@ public class gtfs2
                     Scanner s = new Scanner(zis);
                     int z = 0;
                     int sIdx = -1, mIdx = -1, tIdx = -1, wIdx = -1, thIdx = -1, fIdx = -1, saIdx = -1, suIdx = -1, startIdx = -1, endIdx = -1;
-                    
+
+                    // window end being today to prevent future schedule changes
+                    windowEnd = Integer.parseInt(today.format(formatter)); 
+
                     while (s.hasNextLine()) {
                         String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");
                         String[] data = line.split(",");
@@ -109,6 +112,9 @@ public class gtfs2
                     Scanner s = new Scanner(zis);
                     int z = 0;
                     int sIdx = -1, dIdx = -1, eIdx = -1;
+                    
+                    // reset window end to be 7 days out for calendar_dates
+                    windowEnd = Integer.parseInt(sevenDaysOut.format(formatter));
                     
                     while (s.hasNextLine()) {
                         String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");

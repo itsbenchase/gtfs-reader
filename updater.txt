@@ -1,0 +1,3 @@
+ct-gbt;https://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip
+nfta;https://metro.nfta.com/__googletransit/google_transit.zip
+cdta;https://www.cdta.org/schedules/google_transit.zip
