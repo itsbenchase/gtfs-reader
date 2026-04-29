@@ -50,3 +50,4 @@ ne;nectd;NECTD (Putnam);
 ne;pvta;PVTA (Pioneer Valley);
 ne;ripta;RIPTA (Rhode Island);https://www.ripta.com/system/files/gtfs_file/RIPTA-GTFS.zip
 ne;ma-srta;SRTA (Fall River / New Bedford);https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
+rockies;uta;UTA (Salt Lake City);https://gtfsfeed.rideuta.com/GTFS.zip
