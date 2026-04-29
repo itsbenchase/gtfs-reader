@@ -12,6 +12,7 @@ cal;ca-nctd;NCTD (San Diego);https://lfportal.nctd.org/staticGTFS/google_transit
 cal;ca-octa;OCTA (San Diego);https://www.octa.net/current/google_transit.zip
 cal;samtrans;SamTrans (San Mateo);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SM
 midwest;cta;CTA (Chicago);
+midwest;mi-ddot;DDOT (Detroit);https://www.detroitmi.gov/Portals/0/docs/deptoftransportation/pdfs/ddot_gtfs.zip
 midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
 midwest;metrowi;Metro Transit (Madison);https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
 midwest;metromsp;Metro Transit (Twin Cities);https://svc.metrotransit.org/mtgtfs/gtfs.zip
@@ -49,5 +50,7 @@ ne;meva;MeVA (Lawrence / Haverhill);
 ne;nectd;NECTD (Putnam);
 ne;pvta;PVTA (Pioneer Valley);
 ne;ripta;RIPTA (Rhode Island);https://www.ripta.com/system/files/gtfs_file/RIPTA-GTFS.zip
+ne;ct-seat;SEAT (New London);https://gtfs.remix.com/seat_preston_ct_us.zip
 ne;ma-srta;SRTA (Fall River / New Bedford);https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
 rockies;uta;UTA (Salt Lake City);https://gtfsfeed.rideuta.com/GTFS.zip
+rockies;id-vrt;Valley Regional Transit (Boise);https://www.valleyregionaltransit.org/GTFS/vrt_transit1.zip

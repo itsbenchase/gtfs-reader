@@ -1,11 +1,11 @@
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
-import java.io.*;
 import java.util.*;
-import java.net.URL;
-import java.util.zip.ZipInputStream;
-import java.util.zip.ZipEntry;
 import java.time.LocalDate;
+import java.io.*;
+import java.net.*;
+import java.util.zip.*;
+import java.net.http.*;
 
 // 2026 reader style update
 // version connected to the web
@@ -58,110 +58,133 @@ public class gtfs2
 
         try {
             URL url = new URL(zipUrl);
-            ZipInputStream zis = new ZipInputStream(url.openStream());
-            ZipEntry entry;
+            HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+            conn.setRequestProperty("User-Agent", "Mozilla/5.0");
 
-            while ((entry = zis.getNextEntry()) != null) {
-                String fileName = entry.getName();
+            int status = conn.getResponseCode();
+    
+            // Check for redirects (301, 302, 303, 307, 308)
+            if (status == 301 || status == 302 || status == 307 || status == 308) {
+                String location = conn.getHeaderField("Location");
+                
+                // If the location is relative (starts with /), prepend the protocol and host
+                if (location.startsWith("/")) {
+                    location = url.getProtocol() + "://" + url.getHost() + location;
+                }
+                
+                System.out.println("Redirecting to full path: " + location);
+                
+                // Open the final connection
+                conn = (HttpURLConnection) new URL(location).openConnection();
+                conn.setRequestProperty("User-Agent", "Mozilla/5.0");
+            }
 
-                // --- PART 1: PROCESS CALENDAR.TXT ---
-                if (fileName.equals("calendar.txt")) {
-                    Scanner s = new Scanner(zis);
-                    int z = 0;
-                    int sIdx = -1, mIdx = -1, tIdx = -1, wIdx = -1, thIdx = -1, fIdx = -1, saIdx = -1, suIdx = -1, startIdx = -1, endIdx = -1;
+            try (ZipInputStream zis = new ZipInputStream(conn.getInputStream())) 
+            {
+                ZipEntry entry;
 
-                    // window end being today to prevent future schedule changes
-                    windowEnd = Integer.parseInt(today.format(formatter)); 
+                while ((entry = zis.getNextEntry()) != null) {
+                    String fileName = entry.getName();
 
-                    while (s.hasNextLine()) {
-                        String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");
-                        String[] data = line.split(",");
-                        if (z++ == 0) {
-                            List<String> h = Arrays.asList(data);
-                            sIdx = h.indexOf("service_id");
-                            mIdx = h.indexOf("monday"); tIdx = h.indexOf("tuesday"); wIdx = h.indexOf("wednesday");
-                            thIdx = h.indexOf("thursday"); fIdx = h.indexOf("friday"); saIdx = h.indexOf("saturday"); suIdx = h.indexOf("sunday");
-                            startIdx = h.indexOf("start_date"); endIdx = h.indexOf("end_date");
-                        } else {
-                            int calStartData = Integer.parseInt(data[startIdx]);
-                            int calEndData = Integer.parseInt(data[endIdx]);
+                    // --- PART 1: PROCESS CALENDAR.TXT ---
+                    if (fileName.equals("calendar.txt")) {
+                        Scanner s = new Scanner(zis);
+                        int z = 0;
+                        int sIdx = -1, mIdx = -1, tIdx = -1, wIdx = -1, thIdx = -1, fIdx = -1, saIdx = -1, suIdx = -1, startIdx = -1, endIdx = -1;
 
-                            // FILTER: Only process if the service range overlaps with our 7-day window
-                            if (calEndData >= windowStart && calStartData <= windowEnd) {
-                                String id = data[sIdx];
-                                activeInWindow.add(id); // Mark this ID as relevant
-                                ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
-                                
-                                profile.activeDays[0] = data[mIdx].equals("1");
-                                profile.activeDays[1] = data[tIdx].equals("1");
-                                profile.activeDays[2] = data[wIdx].equals("1");
-                                profile.activeDays[3] = data[thIdx].equals("1");
-                                profile.activeDays[4] = data[fIdx].equals("1");
-                                profile.activeDays[5] = data[saIdx].equals("1");
-                                profile.activeDays[6] = data[suIdx].equals("1");
-                                
-                                profile.start = Math.max(windowStart, calStartData);
-                                profile.end = Math.min(windowEnd, calEndData);
+                        // window end being today to prevent future schedule changes
+                        windowEnd = Integer.parseInt(today.format(formatter)); 
+
+                        while (s.hasNextLine()) {
+                            String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");
+                            String[] data = line.split(",");
+                            if (z++ == 0) {
+                                List<String> h = Arrays.asList(data);
+                                sIdx = h.indexOf("service_id");
+                                mIdx = h.indexOf("monday"); tIdx = h.indexOf("tuesday"); wIdx = h.indexOf("wednesday");
+                                thIdx = h.indexOf("thursday"); fIdx = h.indexOf("friday"); saIdx = h.indexOf("saturday"); suIdx = h.indexOf("sunday");
+                                startIdx = h.indexOf("start_date"); endIdx = h.indexOf("end_date");
+                            } else {
+                                int calStartData = Integer.parseInt(data[startIdx]);
+                                int calEndData = Integer.parseInt(data[endIdx]);
+
+                                // FILTER: Only process if the service range overlaps with our 7-day window
+                                if (calEndData >= windowStart && calStartData <= windowEnd) {
+                                    String id = data[sIdx];
+                                    activeInWindow.add(id); // Mark this ID as relevant
+                                    ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
+                                    
+                                    profile.activeDays[0] = data[mIdx].equals("1");
+                                    profile.activeDays[1] = data[tIdx].equals("1");
+                                    profile.activeDays[2] = data[wIdx].equals("1");
+                                    profile.activeDays[3] = data[thIdx].equals("1");
+                                    profile.activeDays[4] = data[fIdx].equals("1");
+                                    profile.activeDays[5] = data[saIdx].equals("1");
+                                    profile.activeDays[6] = data[suIdx].equals("1");
+                                    
+                                    profile.start = Math.max(windowStart, calStartData);
+                                    profile.end = Math.min(windowEnd, calEndData);
+                                }
                             }
                         }
                     }
-                }
 
-                // --- PART 2: PROCESS CALENDAR_DATES.TXT ---
-                else if (fileName.equals("calendar_dates.txt")) {
-                    Scanner s = new Scanner(zis);
-                    int z = 0;
-                    int sIdx = -1, dIdx = -1, eIdx = -1;
-                    
-                    // reset window end to be 7 days out for calendar_dates
-                    windowEnd = Integer.parseInt(sevenDaysOut.format(formatter));
-                    
-                    while (s.hasNextLine()) {
-                        String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");
-                        String[] data = line.split(",");
-                        if (z++ == 0) {
-                            List<String> h = Arrays.asList(data);
-                            sIdx = h.indexOf("service_id");
-                            dIdx = h.indexOf("date");
-                            eIdx = h.indexOf("exception_type");
-                        } else {
-                            String id = data[sIdx];
-                            String rawDate = data[dIdx];
-                            int dateVal = Integer.parseInt(rawDate);
+                    // --- PART 2: PROCESS CALENDAR_DATES.TXT ---
+                    else if (fileName.equals("calendar_dates.txt")) {
+                        Scanner s = new Scanner(zis);
+                        int z = 0;
+                        int sIdx = -1, dIdx = -1, eIdx = -1;
+                        
+                        // reset window end to be 7 days out for calendar_dates
+                        windowEnd = Integer.parseInt(sevenDaysOut.format(formatter));
+                        
+                        while (s.hasNextLine()) {
+                            String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");
+                            String[] data = line.split(",");
+                            if (z++ == 0) {
+                                List<String> h = Arrays.asList(data);
+                                sIdx = h.indexOf("service_id");
+                                dIdx = h.indexOf("date");
+                                eIdx = h.indexOf("exception_type");
+                            } else {
+                                String id = data[sIdx];
+                                String rawDate = data[dIdx];
+                                int dateVal = Integer.parseInt(rawDate);
 
-                            // FILTER: Only process exceptions that fall within our 7-day window
-                            if (dateVal >= windowStart && dateVal <= windowEnd) {
-                                // skip holidays
-                                if (rawDate.equals("20260525") || rawDate.equals("20260619") || rawDate.equals("20260704")) continue;
+                                // FILTER: Only process exceptions that fall within our 7-day window
+                                if (dateVal >= windowStart && dateVal <= windowEnd) {
+                                    // skip holidays
+                                    if (rawDate.equals("20260525") || rawDate.equals("20260619") || rawDate.equals("20260704")) continue;
 
-                                int type = Integer.parseInt(data[eIdx]);
-                                ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
-                                activeInWindow.add(id);
+                                    int type = Integer.parseInt(data[eIdx]);
+                                    ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
+                                    activeInWindow.add(id);
 
-                                if (type == 1) { // Service Added
-                                    LocalDate date = LocalDate.parse(rawDate, formatter);
-                                    profile.activeDays[date.getDayOfWeek().getValue() - 1] = true;
-                                    profile.start = Math.min(profile.start, dateVal);
-                                    profile.end = Math.max(profile.end, dateVal);
-                                } else if (type == 2) { // Service Removed
-                                    LocalDate date = LocalDate.parse(rawDate, formatter);
-                                    profile.activeDays[date.getDayOfWeek().getValue() - 1] = false;
+                                    if (type == 1) { // Service Added
+                                        LocalDate date = LocalDate.parse(rawDate, formatter);
+                                        profile.activeDays[date.getDayOfWeek().getValue() - 1] = true;
+                                        profile.start = Math.min(profile.start, dateVal);
+                                        profile.end = Math.max(profile.end, dateVal);
+                                    } else if (type == 2) { // Service Removed
+                                        LocalDate date = LocalDate.parse(rawDate, formatter);
+                                        profile.activeDays[date.getDayOfWeek().getValue() - 1] = false;
+                                    }
                                 }
                             }
                         }
                     }
                 }
-            }
 
-            // --- PART 3: LOAD ONLY VALID SERVICES ---
-            for (String id : activeInWindow) {
-                ServiceProfile p = masterMap.get(id);
-                if (p != null) {
-                    serviceIDcal.add(id);
-                    calStart.add(p.start);
-                    calEnd.add(p.end);
-                    for (int i = 0; i < 7; i++) {
-                        days[i].add(p.activeDays[i] ? "1" : "0");
+                // --- PART 3: LOAD ONLY VALID SERVICES ---
+                for (String id : activeInWindow) {
+                    ServiceProfile p = masterMap.get(id);
+                    if (p != null) {
+                        serviceIDcal.add(id);
+                        calStart.add(p.start);
+                        calEnd.add(p.end);
+                        for (int i = 0; i < 7; i++) {
+                            days[i].add(p.activeDays[i] ? "1" : "0");
+                        }
                     }
                 }
             }
