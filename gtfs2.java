@@ -6,6 +6,9 @@ import java.io.*;
 import java.net.*;
 import java.util.zip.*;
 import java.net.http.*;
+import java.nio.file.Path;
+import java.nio.file.Files;
+import java.nio.file.StandardCopyOption; // You will likely need this for copying the stream
 
 // 2026 reader style update
 // version connected to the web
@@ -28,11 +31,29 @@ public class gtfs2
 
         //String zipUrl = "https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=RG";
 
-        // import data
+        // all the arraylists
         ArrayList<String> serviceIDcal = new ArrayList<String>();
         ArrayList<Integer> calStart = new ArrayList<Integer>();
         ArrayList<Integer> calEnd = new ArrayList<Integer>();
         ArrayList<String> [] days = new ArrayList[7];
+
+        ArrayList<String> routeID = new ArrayList<String>();
+        ArrayList<String> routeName = new ArrayList<String>();
+        ArrayList<String> routeFull = new ArrayList<String>();
+
+        ArrayList<String> routeIDtrip = new ArrayList<String>();
+        ArrayList<String> serviceIDtrip = new ArrayList<String>();
+        ArrayList<String> tripIDtrip = new ArrayList<String>();
+        ArrayList<String> headsigntrip = new ArrayList<String>();
+
+        ArrayList<String> tripIDtimes = new ArrayList<String>();
+        ArrayList<String> departuretimes = new ArrayList<String>();
+        ArrayList<String> stopIDtimes = new ArrayList<String>();
+
+        ArrayList<String> stopID = new ArrayList<String>();
+        ArrayList<String> stopName = new ArrayList<String>();
+        ArrayList<String> stopLat = new ArrayList<String>();
+        ArrayList<String> stopLon = new ArrayList<String>();
 
         for (int i = 0; i < 7; i++) {
             days[i] = new ArrayList<String>();
@@ -56,15 +77,21 @@ public class gtfs2
         Set<String> activeInWindow = new HashSet<>();
         Map<String, ServiceProfile> masterMap = new HashMap<>();
 
-        try {
+        try
+        {
             URL url = new URL(zipUrl);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-            conn.setRequestProperty("User-Agent", "Mozilla/5.0");
+            conn.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36");
+            conn.setRequestProperty("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8");
+            conn.setRequestProperty("Accept-Language", "en-US,en;q=0.5");
+            conn.setRequestProperty("Connection", "keep-alive");
+            conn.setInstanceFollowRedirects(true);
 
             int status = conn.getResponseCode();
     
             // Check for redirects (301, 302, 303, 307, 308)
-            if (status == 301 || status == 302 || status == 307 || status == 308) {
+            if (status == 301 || status == 302 || status == 307 || status == 308)
+            {
                 String location = conn.getHeaderField("Location");
                 
                 // If the location is relative (starts with /), prepend the protocol and host
@@ -79,21 +106,30 @@ public class gtfs2
                 conn.setRequestProperty("User-Agent", "Mozilla/5.0");
             }
 
-            try (ZipInputStream zis = new ZipInputStream(conn.getInputStream())) 
+            // 2. Create a temporary file that deletes itself when the program exits
+            // This is our "no clutter" insurance policy.
+            Path tempFile = Files.createTempFile("gtfs_temp_", ".zip");
+            File file = tempFile.toFile();
+            file.deleteOnExit(); 
+
+            // 3. Download the stream to the temp file
+            try (InputStream input = conn.getInputStream()) {
+                Files.copy(input, tempFile, StandardCopyOption.REPLACE_EXISTING);
+            }
+
+            // 1. Open the file you downloaded to your temp directory
+            try (ZipFile zipFile = new ZipFile(tempFile.toFile()))
             {
-                ZipEntry entry;
-
-                while ((entry = zis.getNextEntry()) != null) {
-                    String fileName = entry.getName();
-
-                    // --- PART 1: PROCESS CALENDAR.TXT ---
-                    if (fileName.equals("calendar.txt")) {
-                        Scanner s = new Scanner(zis);
+                ZipEntry calendarEntry = zipFile.getEntry("calendar.txt");
+                if (calendarEntry != null)
+                {
+                    // We get a fresh InputStream for JUST this file
+                    try (InputStream is = zipFile.getInputStream(calendarEntry);
+                        Scanner s = new Scanner(is)) {
+                        
                         int z = 0;
                         int sIdx = -1, mIdx = -1, tIdx = -1, wIdx = -1, thIdx = -1, fIdx = -1, saIdx = -1, suIdx = -1, startIdx = -1, endIdx = -1;
-
-                        // window end being today to prevent future schedule changes
-                        windowEnd = Integer.parseInt(today.format(formatter)); 
+                        windowEnd = Integer.parseInt(today.format(formatter));
 
                         while (s.hasNextLine()) {
                             String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");
@@ -108,10 +144,9 @@ public class gtfs2
                                 int calStartData = Integer.parseInt(data[startIdx]);
                                 int calEndData = Integer.parseInt(data[endIdx]);
 
-                                // FILTER: Only process if the service range overlaps with our 7-day window
                                 if (calEndData >= windowStart && calStartData <= windowEnd) {
                                     String id = data[sIdx];
-                                    activeInWindow.add(id); // Mark this ID as relevant
+                                    activeInWindow.add(id);
                                     ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
                                     
                                     profile.activeDays[0] = data[mIdx].equals("1");
@@ -121,23 +156,24 @@ public class gtfs2
                                     profile.activeDays[4] = data[fIdx].equals("1");
                                     profile.activeDays[5] = data[saIdx].equals("1");
                                     profile.activeDays[6] = data[suIdx].equals("1");
-                                    
                                     profile.start = Math.max(windowStart, calStartData);
                                     profile.end = Math.min(windowEnd, calEndData);
                                 }
                             }
                         }
                     }
+                }
 
-                    // --- PART 2: PROCESS CALENDAR_DATES.TXT ---
-                    else if (fileName.equals("calendar_dates.txt")) {
-                        Scanner s = new Scanner(zis);
+                // --- PART 2: PROCESS CALENDAR_DATES.TXT ---
+                ZipEntry datesEntry = zipFile.getEntry("calendar_dates.txt");
+                if (datesEntry != null) {
+                    try (InputStream is = zipFile.getInputStream(datesEntry);
+                        Scanner s = new Scanner(is)) {
+                        
                         int z = 0;
                         int sIdx = -1, dIdx = -1, eIdx = -1;
-                        
-                        // reset window end to be 7 days out for calendar_dates
                         windowEnd = Integer.parseInt(sevenDaysOut.format(formatter));
-                        
+
                         while (s.hasNextLine()) {
                             String line = s.nextLine().replace("\uFEFF", "").replace("\"", "");
                             String[] data = line.split(",");
@@ -151,23 +187,23 @@ public class gtfs2
                                 String rawDate = data[dIdx];
                                 int dateVal = Integer.parseInt(rawDate);
 
-                                // FILTER: Only process exceptions that fall within our 7-day window
                                 if (dateVal >= windowStart && dateVal <= windowEnd) {
-                                    // skip holidays
+                                    // Holiday Filter
                                     if (rawDate.equals("20260525") || rawDate.equals("20260619") || rawDate.equals("20260704")) continue;
 
                                     int type = Integer.parseInt(data[eIdx]);
                                     ServiceProfile profile = masterMap.computeIfAbsent(id, k -> new ServiceProfile());
                                     activeInWindow.add(id);
 
-                                    if (type == 1) { // Service Added
-                                        LocalDate date = LocalDate.parse(rawDate, formatter);
-                                        profile.activeDays[date.getDayOfWeek().getValue() - 1] = true;
+                                    LocalDate date = LocalDate.parse(rawDate, formatter);
+                                    int dayIdx = date.getDayOfWeek().getValue() - 1;
+
+                                    if (type == 1) { // Added
+                                        profile.activeDays[dayIdx] = true;
                                         profile.start = Math.min(profile.start, dateVal);
                                         profile.end = Math.max(profile.end, dateVal);
-                                    } else if (type == 2) { // Service Removed
-                                        LocalDate date = LocalDate.parse(rawDate, formatter);
-                                        profile.activeDays[date.getDayOfWeek().getValue() - 1] = false;
+                                    } else if (type == 2) { // Removed
+                                        profile.activeDays[dayIdx] = false;
                                     }
                                 }
                             }
@@ -187,369 +223,279 @@ public class gtfs2
                         }
                     }
                 }
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
 
-        ArrayList<String> routeID = new ArrayList<String>();
-        ArrayList<String> routeName = new ArrayList<String>();
-        ArrayList<String> routeFull = new ArrayList<String>();
-        try {
-            URL url = new URL(zipUrl);
-            // Open a stream from the URL and wrap it in a ZipInputStream
-            ZipInputStream zis = new ZipInputStream(url.openStream());
-            ZipEntry entry;
-            boolean found = false;
+                ZipEntry routesEntry = zipFile.getEntry("routes.txt");
+                if (routesEntry != null) {
+                    try (InputStream is = zipFile.getInputStream(routesEntry);
+                        Scanner s = new Scanner(is)) {
+                        String [] headers2 = {};
+                        int idIndex = -999;
+                        int nameIndex = -999;
+                        int fullIndex = -999;
+                        int z = 0;
+                        while (s.hasNextLine()) {
+                            if (z == 0)
+                            {
+                                String rawLine = s.nextLine();
+                                String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                                cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                                
+                                headers2 = cleanLine.split(",");
+                                List<String> headers = Arrays.asList(headers2);
+                                idIndex = headers.indexOf("route_id");
+                                nameIndex = headers.indexOf("route_short_name");
+                                fullIndex = headers.indexOf("route_long_name");
 
-            // Iterate through the files inside the ZIP
-            while ((entry = zis.getNextEntry()) != null) {
-                if (entry.getName().equals("routes.txt")) {
-                    found = true;
-                    // Use Scanner to read the specific ZIP entry stream
-                    Scanner s = new Scanner(zis);
-                    String [] headers2 = {};
-                    int idIndex = -999;
-                    int nameIndex = -999;
-                    int fullIndex = -999;
-                    int z = 0;
-                    while (s.hasNextLine()) {
-                        if (z == 0)
-                        {
-                            String rawLine = s.nextLine();
-                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
-                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
-                            
-                            headers2 = cleanLine.split(",");
-                            List<String> headers = Arrays.asList(headers2);
-                            idIndex = headers.indexOf("route_id");
-                            nameIndex = headers.indexOf("route_short_name");
-                            fullIndex = headers.indexOf("route_long_name");
-
-                            System.out.println("routes: " + idIndex + " / " + nameIndex + " / " + fullIndex);
-                            z++;
-                        }
-                        else {
-                            String rawLine = s.nextLine();
-                            
-                            // 1. Split the RAW line using a limit of -1. 
-                            // This ensures empty columns (like "") don't get collapsed.
-                            String[] data = rawLine.split(",", -1);
-
-                            // 2. Clean only the specific piece of data you need
-                            String currentID = data[idIndex].replace("\"", "").trim();
-                            String currentShortName = data[nameIndex].replace("\"", "").trim();
-                            String currentLongName = data[fullIndex].replace("\"", "").trim();
-
-                            // Add the ID to your ID list
-                            routeID.add(currentID);
-
-                            // 3. Logic for the fallback
-                            if (currentShortName.length() > 0) {
-                                routeName.add(currentShortName); 
-                            } else {
-                                // This will now correctly add "20", "30", etc.
-                                routeName.add(currentID); 
+                                System.out.println("routes: " + idIndex + " / " + nameIndex + " / " + fullIndex);
+                                z++;
                             }
-                            
-                            routeFull.add(currentLongName);
-                        }
-                    }
-                    break; // We found the file, no need to look at other entries
-                }
-            }
-            
-            if (found) {
-                System.out.println("Routes loaded from web ZIP");
-            } else {
-                System.out.println("Error: routes.txt not found inside the ZIP.");
-            }
-            
-            zis.close();
-        } catch (Exception e) {
-            System.out.println("Error fetching or parsing ZIP: " + e.getMessage());
-        }
-
-        ArrayList<String> routeIDtrip = new ArrayList<String>();
-        ArrayList<String> serviceIDtrip = new ArrayList<String>();
-        ArrayList<String> tripIDtrip = new ArrayList<String>();
-        ArrayList<String> headsigntrip = new ArrayList<String>();
-        try {
-            URL url = new URL(zipUrl);
-            // Open a stream from the URL and wrap it in a ZipInputStream
-            ZipInputStream zis = new ZipInputStream(url.openStream());
-            ZipEntry entry;
-            boolean found = false;
-
-            // Iterate through the files inside the ZIP
-            while ((entry = zis.getNextEntry()) != null) {
-                if (entry.getName().equals("trips.txt")) {
-                    found = true;
-                    // Use Scanner to read the specific ZIP entry stream
-                    Scanner s = new Scanner(zis);
-                    String [] headers2 = {};
-                    int tripIndex = -999;
-                    int serviceIndex = -999;
-                    int routeIndex = -999;
-                    int headsignIndex = -999;
-                    int z = 0;
-                    while (s.hasNextLine())
-                    {
-                        if (z == 0)
-                        {
-                            String rawLine = s.nextLine();
-                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
-                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
-                            
-                            headers2 = cleanLine.split(",");
-                            List<String> headers = Arrays.asList(headers2);
-                            
-                            tripIndex = headers.indexOf("trip_id");
-                            serviceIndex = headers.indexOf("service_id");
-                            routeIndex = headers.indexOf("route_id");
-                            headsignIndex = headers.indexOf("trip_headsign");
-
-                            System.out.println("trips: " + tripIndex + " / " + serviceIndex + " / " + routeIndex + " / " + headsignIndex);
-                            z++;
-                        }
-                        else 
-                        {
-                            String rawLine = s.nextLine();
-                            // Split with -1 to ensure we don't drop empty trailing columns
-                            String[] data = rawLine.split(",", -1);
-
-                            // Clean only the fields we need to check
-                            String serviceID = data[serviceIndex].replace("\"", "").trim();
-                            
-                            if (serviceIDcal.contains(serviceID)) {
-                                String routeIDtemp = data[routeIndex].replace("\"", "").trim();
-                                String tripID = data[tripIndex].replace("\"", "").trim();
+                            else {
+                                String rawLine = s.nextLine();
                                 
-                                // 1. Find the correct Route Name fallback
-                                String finalRouteName = routeIDtemp; // Default fallback to the ID (20, 30, etc.)
-                                
-                                for (int x = 0; x < routeID.size(); x++) {
-                                    if (routeIDtemp.equals(routeID.get(x))) {
-                                        // If we found a match and the short name isn't empty, use it
-                                        if (routeName.get(x).length() > 0) {
-                                            finalRouteName = routeName.get(x);
-                                        }
-                                        break; // Stop looking once we find the matching route
-                                    }
+                                // 1. Split the RAW line using a limit of -1. 
+                                // This ensures empty columns (like "") don't get collapsed.
+                                String[] data = rawLine.split(",", -1);
+
+                                // 2. Clean only the specific piece of data you need
+                                String currentID = data[idIndex].replace("\"", "").trim();
+                                String currentShortName = data[nameIndex].replace("\"", "").trim();
+                                String currentLongName = data[fullIndex].replace("\"", "").trim();
+
+                                // Add the ID to your ID list
+                                routeID.add(currentID);
+
+                                // 3. Logic for the fallback
+                                if (currentShortName.length() > 0) {
+                                    routeName.add(currentShortName); 
+                                } else {
+                                    // This will now correctly add "20", "30", etc.
+                                    routeName.add(currentID); 
                                 }
                                 
-                                // 2. Add to lists (Only once per trip!)
-                                routeIDtrip.add(finalRouteName);
-                                serviceIDtrip.add(serviceID);
-                                tripIDtrip.add(tripID);
+                                routeFull.add(currentLongName);
+                            }
+                        }
+                    }
+                }
+            
+                ZipEntry tripsEntry = zipFile.getEntry("trips.txt");
+                if (tripsEntry != null) {
+                    try (InputStream is = zipFile.getInputStream(tripsEntry);
+                        Scanner s = new Scanner(is)) {
+                        String [] headers2 = {};
+                        int tripIndex = -999;
+                        int serviceIndex = -999;
+                        int routeIndex = -999;
+                        int headsignIndex = -999;
+                        int z = 0;
+                        while (s.hasNextLine())
+                        {
+                            if (z == 0)
+                            {
+                                String rawLine = s.nextLine();
+                                String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                                cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                                
+                                headers2 = cleanLine.split(",");
+                                List<String> headers = Arrays.asList(headers2);
+                                
+                                tripIndex = headers.indexOf("trip_id");
+                                serviceIndex = headers.indexOf("service_id");
+                                routeIndex = headers.indexOf("route_id");
+                                headsignIndex = headers.indexOf("trip_headsign");
 
-                                // 3. Robust Headsign handling
-                                if (headsignIndex != -1 && headsignIndex < data.length) {
-                                    String headsign = data[headsignIndex].replace("\"", "").trim();
-                                    if (headsign.length() > 0) {
-                                        headsigntrip.add(headsign);
+                                System.out.println("trips: " + tripIndex + " / " + serviceIndex + " / " + routeIndex + " / " + headsignIndex);
+                                z++;
+                            }
+                            else 
+                            {
+                                String rawLine = s.nextLine();
+                                // Split with -1 to ensure we don't drop empty trailing columns
+                                String[] data = rawLine.split(",", -1);
+
+                                // Clean only the fields we need to check
+                                String serviceID = data[serviceIndex].replace("\"", "").trim();
+                                
+                                if (serviceIDcal.contains(serviceID)) {
+                                    String routeIDtemp = data[routeIndex].replace("\"", "").trim();
+                                    String tripID = data[tripIndex].replace("\"", "").trim();
+                                    
+                                    // 1. Find the correct Route Name fallback
+                                    String finalRouteName = routeIDtemp; // Default fallback to the ID (20, 30, etc.)
+                                    
+                                    for (int x = 0; x < routeID.size(); x++) {
+                                        if (routeIDtemp.equals(routeID.get(x))) {
+                                            // If we found a match and the short name isn't empty, use it
+                                            if (routeName.get(x).length() > 0) {
+                                                finalRouteName = routeName.get(x);
+                                            }
+                                            break; // Stop looking once we find the matching route
+                                        }
+                                    }
+                                    
+                                    // 2. Add to lists (Only once per trip!)
+                                    routeIDtrip.add(finalRouteName);
+                                    serviceIDtrip.add(serviceID);
+                                    tripIDtrip.add(tripID);
+
+                                    // 3. Robust Headsign handling
+                                    if (headsignIndex != -1 && headsignIndex < data.length) {
+                                        String headsign = data[headsignIndex].replace("\"", "").trim();
+                                        if (headsign.length() > 0) {
+                                            headsigntrip.add(headsign);
+                                        } else {
+                                            headsigntrip.add("no headsign");
+                                        }
                                     } else {
                                         headsigntrip.add("no headsign");
                                     }
-                                } else {
-                                    headsigntrip.add("no headsign");
                                 }
                             }
                         }
+                        System.out.println("Trips loaded");
                     }
-                    System.out.println("Trips loaded");
                 }
-            }
-        }
-        catch (Exception e)
-        {
-            System.out.println("Error - no trips.txt.");
-        }
+        
+                ZipEntry timesEntry = zipFile.getEntry("stop_times.txt");
 
-        ArrayList<String> tripIDtimes = new ArrayList<String>();
-        ArrayList<String> departuretimes = new ArrayList<String>();
-        ArrayList<String> stopIDtimes = new ArrayList<String>();
+                Map<String, Integer> tripIndexMap = new HashMap<>();
+                for (int i = 0; i < tripIDtrip.size(); i++) {
+                    tripIndexMap.put(tripIDtrip.get(i), i);
+                }
 
-        Map<String, Integer> tripIndexMap = new HashMap<>();
-        for (int i = 0; i < tripIDtrip.size(); i++) {
-            tripIndexMap.put(tripIDtrip.get(i), i);
-        }
+                List<StopTime> stopTimeList = new ArrayList<>();
+                if (timesEntry != null) {
+                    try (InputStream is = zipFile.getInputStream(timesEntry);
+                        Scanner s = new Scanner(is)) {
 
-        List<StopTime> stopTimeList = new ArrayList<>();
-
-        try {
-            URL url = new URL(zipUrl);
-            ZipInputStream zis = new ZipInputStream(url.openStream());
-            ZipEntry entry;
-            boolean found = false;
-
-            while ((entry = zis.getNextEntry()) != null) {
-                if (entry.getName().equals("stop_times.txt")) {
-                    found = true;
-                    
-                    // Wrap the ZIP stream so BufferedReader can read it line-by-line
-                    BufferedReader br = new BufferedReader(new InputStreamReader(zis));
-                    
-                    String line = "no data";
-                    int count = 0;
-
-                    int tripIndex = -999;
-                    int timeIndex = -999;
-                    int stopIndex = -999;
-                    int stopHeadIndex = -999;
-
-                    while ((line = br.readLine()) != null)
-                    {    
-                        String cleanLine = line.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
-                        cleanLine = cleanLine.replace("\"", ""); // replace quotes
-                        String [] columns = cleanLine.split(",");
-
-                        if (count == 0)
-                        {
-                            List<String> headers = Arrays.asList(columns);
-                            tripIndex = headers.indexOf("trip_id");
-                            timeIndex = headers.indexOf("departure_time");
-                            stopIndex = headers.indexOf("stop_id");
-                            stopHeadIndex = headers.indexOf("stop_headsign");
-
-                            System.out.println("times: " + tripIndex + " / " + timeIndex + " / " + stopIndex);
-
-                            count++;
-                        }
-                        else {
-                            String tripID = columns[tripIndex];
-                            Integer index = tripIndexMap.get(tripID);
+                            BufferedReader br = new BufferedReader(new InputStreamReader(is));
                             
-                            if (index != null && columns[timeIndex].length() > 2) {
-                                String formattedTime;
+                            String line = "no data";
+                            int count = 0;
+
+                            int tripIndex = -999;
+                            int timeIndex = -999;
+                            int stopIndex = -999;
+                            int stopHeadIndex = -999;
+
+                            while ((line = br.readLine()) != null)
+                            {    
+                                String cleanLine = line.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                                cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                                String [] columns = cleanLine.split(",");
+
+                                if (count == 0)
+                                {
+                                    List<String> headers = Arrays.asList(columns);
+                                    tripIndex = headers.indexOf("trip_id");
+                                    timeIndex = headers.indexOf("departure_time");
+                                    stopIndex = headers.indexOf("stop_id");
+                                    stopHeadIndex = headers.indexOf("stop_headsign");
+
+                                    System.out.println("times: " + tripIndex + " / " + timeIndex + " / " + stopIndex);
+
+                                    count++;
+                                }
+                                else {
+                                    String tripID = columns[tripIndex];
+                                    Integer index = tripIndexMap.get(tripID);
+                                    
+                                    if (index != null && columns[timeIndex].length() > 2) {
+                                        String formattedTime;
+                                        
+                                        // Your existing time formatting logic
+                                        if (columns[timeIndex].substring(4, 5).equals(":")) {
+                                            formattedTime = "0" + columns[timeIndex].substring(0, 4);
+                                        } else {
+                                            formattedTime = columns[timeIndex].substring(0, 5);
+                                        }
+
+                                        // Add to our object list instead of 3 separate lists
+                                        stopTimeList.add(new StopTime(tripID, formattedTime, columns[stopIndex]));
+
+                                        // Handle the headsign update as you were before
+                                        if (stopHeadIndex != -1 && headsigntrip.get(index).equals("no headsign") && columns.length > stopHeadIndex && columns[stopHeadIndex].length() > 1) {
+                                            headsigntrip.set(index, columns[stopHeadIndex]);
+                                        }
+                                    }
+                                    count++;
+                                    if (count % 10000 == 0) { // Increased frequency for large files
+
+                                        System.out.println("Stop times processed: " + count);
+
+                                    }
+                                }
+                            }
+
+                            stopTimeList.sort(Comparator.comparing(StopTime::getDepartureTime));
+
+                            // Optional: If you strictly need those original separate lists for the rest of your app:
+                            for (StopTime st : stopTimeList) {
+                                tripIDtimes.add(st.tripId);
+                                departuretimes.add(st.departureTime);
+                                stopIDtimes.add(st.stopId);
+                            }
+                        }
+                    }
+                
+                ZipEntry stopsEntry = zipFile.getEntry("stops.txt");
+                if (routesEntry != null) {
+                    try (InputStream is = zipFile.getInputStream(stopsEntry);
+                        Scanner s = new Scanner(is)) {
+                            String [] headers2 = {};
+                            int idIndex = -999;
+                            int nameIndex = -999;
+                            int latIndex = -999;
+                            int lonIndex = -999;
+                            int typeIndex = -999;
+                            int z = 0;
+                            while (s.hasNextLine()) {
                                 
-                                // Your existing time formatting logic
-                                if (columns[timeIndex].substring(4, 5).equals(":")) {
-                                    formattedTime = "0" + columns[timeIndex].substring(0, 4);
-                                } else {
-                                    formattedTime = columns[timeIndex].substring(0, 5);
+                                if (z == 0)
+                                {
+                                    String rawLine = s.nextLine();
+                                    String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                                    cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                                    
+                                    headers2 = cleanLine.split(",");
+                                    List<String> headers = Arrays.asList(headers2);
+                                    idIndex = headers.indexOf("stop_id");
+                                    nameIndex = headers.indexOf("stop_name");
+                                    latIndex = headers.indexOf("stop_lat");
+                                    lonIndex = headers.indexOf("stop_lon");
+                                    typeIndex = headers.indexOf("location_type");
+
+                                    System.out.println("stops: " + idIndex + " / " + nameIndex + " / " + latIndex + " / " + lonIndex);
+
+                                    z++;
                                 }
+                                else
+                                {
+                                    String rawLine = s.nextLine();
+                                    String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
+                                    cleanLine = cleanLine.replace("\"", ""); // replace quotes
+                                    String [] data = cleanLine.split(",", -1);
 
-                                // Add to our object list instead of 3 separate lists
-                                stopTimeList.add(new StopTime(tripID, formattedTime, columns[stopIndex]));
-
-                                // Handle the headsign update as you were before
-                                if (stopHeadIndex != -1 && headsigntrip.get(index).equals("no headsign") && columns.length > stopHeadIndex && columns[stopHeadIndex].length() > 1) {
-                                    headsigntrip.set(index, columns[stopHeadIndex]);
+                                    if (typeIndex == -1 || data[typeIndex].isEmpty() || (!data[typeIndex].equals("2") && !data[typeIndex].equals("3")))
+                                    {
+                                        stopID.add(data[idIndex]);
+                                        stopName.add(data[nameIndex]);
+                                        stopLat.add(data[latIndex]);
+                                        stopLon.add(data[lonIndex]);
+                                    }
+                                    else if (typeIndex == -1)
+                                    {
+                                        stopID.add(data[idIndex]);
+                                        stopName.add(data[nameIndex]);
+                                        stopLat.add(data[latIndex]);
+                                        stopLon.add(data[lonIndex]);
+                                    }
                                 }
                             }
-                            count++;
-                            if (count % 10000 == 0) { // Increased frequency for large files
-
-                                System.out.println("Stop times processed: " + count);
-
-                            }
                         }
                     }
-
-                    stopTimeList.sort(Comparator.comparing(StopTime::getDepartureTime));
-
-                    // Optional: If you strictly need those original separate lists for the rest of your app:
-                    for (StopTime st : stopTimeList) {
-                        tripIDtimes.add(st.tripId);
-                        departuretimes.add(st.departureTime);
-                        stopIDtimes.add(st.stopId);
-                    }
-
-                    break; // Found and processed the file, exit loop
                 }
-            }
 
-            if (!found) {
-                System.out.println("Error: stop_times.txt not found in ZIP.");
-            } else {
-                System.out.println("Stop times loaded successfully.");
-            }
-            
-            zis.close();
-
-        } catch (IOException e) {
-            System.out.println("Error accessing web ZIP: " + e.getMessage());
-        }
-
-        ArrayList<String> stopID = new ArrayList<String>();
-        ArrayList<String> stopName = new ArrayList<String>();
-        ArrayList<String> stopLat = new ArrayList<String>();
-        ArrayList<String> stopLon = new ArrayList<String>();
-        try {
-            URL url = new URL(zipUrl);
-            // Open a stream from the URL and wrap it in a ZipInputStream
-            ZipInputStream zis = new ZipInputStream(url.openStream());
-            ZipEntry entry;
-            boolean found = false;
-
-            // Iterate through the files inside the ZIP
-            while ((entry = zis.getNextEntry()) != null) {
-                if (entry.getName().equals("stops.txt")) {
-                    found = true;
-                    // Use Scanner to read the specific ZIP entry stream
-                    Scanner s = new Scanner(zis);
-                    String [] headers2 = {};
-                    int idIndex = -999;
-                    int nameIndex = -999;
-                    int latIndex = -999;
-                    int lonIndex = -999;
-                    int typeIndex = -999;
-                    int z = 0;
-                    while (s.hasNextLine()) {
-                        
-                        if (z == 0)
-                        {
-                            String rawLine = s.nextLine();
-                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
-                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
-                            
-                            headers2 = cleanLine.split(",");
-                            List<String> headers = Arrays.asList(headers2);
-                            idIndex = headers.indexOf("stop_id");
-                            nameIndex = headers.indexOf("stop_name");
-                            latIndex = headers.indexOf("stop_lat");
-                            lonIndex = headers.indexOf("stop_lon");
-                            typeIndex = headers.indexOf("location_type");
-
-                            System.out.println("stops: " + idIndex + " / " + nameIndex + " / " + latIndex + " / " + lonIndex);
-
-                            z++;
-                        }
-                        else
-                        {
-                            String rawLine = s.nextLine();
-                            String cleanLine = rawLine.replace("\uFEFF", "").replaceAll("[^\\x20-\\x7e]", "");
-                            cleanLine = cleanLine.replace("\"", ""); // replace quotes
-                            String [] data = cleanLine.split(",", -1);
-
-                            if (typeIndex == -1 || data[typeIndex].isEmpty() || (!data[typeIndex].equals("2") && !data[typeIndex].equals("3")))
-                            {
-                                stopID.add(data[idIndex]);
-                                stopName.add(data[nameIndex]);
-                                stopLat.add(data[latIndex]);
-                                stopLon.add(data[lonIndex]);
-                            }
-                            else if (typeIndex == -1)
-                            {
-                                stopID.add(data[idIndex]);
-                                stopName.add(data[nameIndex]);
-                                stopLat.add(data[latIndex]);
-                                stopLon.add(data[lonIndex]);
-                            }
-                        }
-                    }
-                    break; // We found the file, no need to look at other entries
-                }
-            }
-            
-            if (found) {
-                System.out.println("Stops loaded from web ZIP");
-            } else {
-                System.out.println("Error: stops.txt not found inside the ZIP.");
-            }
-            
-            zis.close();
         } catch (Exception e) {
             System.out.println("Error fetching or parsing ZIP: " + e.getMessage());
         }
