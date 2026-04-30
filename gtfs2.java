@@ -8,7 +8,7 @@ import java.util.zip.*;
 import java.net.http.*;
 import java.nio.file.Path;
 import java.nio.file.Files;
-import java.nio.file.StandardCopyOption; // You will likely need this for copying the stream
+import java.nio.file.StandardCopyOption;
 
 // 2026 reader style update
 // version connected to the web
@@ -26,10 +26,7 @@ public class gtfs2
 
     public static void main(String [] args)
     {  
-        //final String agency = "wmata";
         Scanner in = new Scanner(System.in);
-
-        //String zipUrl = "https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=RG";
 
         // all the arraylists
         ArrayList<String> serviceIDcal = new ArrayList<String>();
@@ -120,10 +117,39 @@ public class gtfs2
             // 1. Open the file you downloaded to your temp directory
             try (ZipFile zipFile = new ZipFile(tempFile.toFile()))
             {
-                ZipEntry calendarEntry = zipFile.getEntry("calendar.txt");
+                // 1. Initialize variables to hold the entries once found
+                ZipEntry calendarEntry = null;
+                ZipEntry datesEntry = null;
+                ZipEntry stopsEntry = null;
+                ZipEntry timesEntry = null;
+                ZipEntry routesEntry = null;
+                ZipEntry tripsEntry = null;
+
+                // 2. Loop through the ZIP once to find your files
+                Enumeration<? extends ZipEntry> entries = zipFile.entries();
+                while (entries.hasMoreElements()) {
+                    ZipEntry entry = entries.nextElement();
+                    String name = entry.getName();
+
+                    if (!entry.isDirectory()) {
+                        if (name.endsWith("calendar.txt")) {
+                            calendarEntry = entry;
+                        } else if (name.endsWith("calendar_dates.txt")) {
+                            datesEntry = entry;
+                        } else if (name.endsWith("routes.txt")) {
+                            routesEntry = entry;
+                        } else if (name.endsWith("stops.txt")) {
+                            stopsEntry = entry;
+                        } else if (name.endsWith("stop_times.txt")) {
+                            timesEntry = entry;
+                        } else if (name.endsWith("trips.txt")) {
+                            tripsEntry = entry;
+                        }
+                    }
+                }
+
                 if (calendarEntry != null)
                 {
-                    // We get a fresh InputStream for JUST this file
                     try (InputStream is = zipFile.getInputStream(calendarEntry);
                         Scanner s = new Scanner(is)) {
                         
@@ -165,7 +191,6 @@ public class gtfs2
                 }
 
                 // --- PART 2: PROCESS CALENDAR_DATES.TXT ---
-                ZipEntry datesEntry = zipFile.getEntry("calendar_dates.txt");
                 if (datesEntry != null) {
                     try (InputStream is = zipFile.getInputStream(datesEntry);
                         Scanner s = new Scanner(is)) {
@@ -199,7 +224,11 @@ public class gtfs2
                                     int dayIdx = date.getDayOfWeek().getValue() - 1;
 
                                     if (type == 1) { // Added
-                                        profile.activeDays[dayIdx] = true;
+                                        LocalDate date2 = LocalDate.parse(rawDate, formatter);
+                                        int dayOfWeekIdx = date2.getDayOfWeek().getValue() - 1; // 0=Mon, 6=Sun
+                                        
+                                        profile.activeDays[dayOfWeekIdx] = true; 
+                                        
                                         profile.start = Math.min(profile.start, dateVal);
                                         profile.end = Math.max(profile.end, dateVal);
                                     } else if (type == 2) { // Removed
@@ -224,7 +253,6 @@ public class gtfs2
                     }
                 }
 
-                ZipEntry routesEntry = zipFile.getEntry("routes.txt");
                 if (routesEntry != null) {
                     try (InputStream is = zipFile.getInputStream(routesEntry);
                         Scanner s = new Scanner(is)) {
@@ -278,7 +306,6 @@ public class gtfs2
                     }
                 }
             
-                ZipEntry tripsEntry = zipFile.getEntry("trips.txt");
                 if (tripsEntry != null) {
                     try (InputStream is = zipFile.getInputStream(tripsEntry);
                         Scanner s = new Scanner(is)) {
@@ -356,8 +383,6 @@ public class gtfs2
                     }
                 }
         
-                ZipEntry timesEntry = zipFile.getEntry("stop_times.txt");
-
                 Map<String, Integer> tripIndexMap = new HashMap<>();
                 for (int i = 0; i < tripIDtrip.size(); i++) {
                     tripIndexMap.put(tripIDtrip.get(i), i);
@@ -438,7 +463,6 @@ public class gtfs2
                         }
                     }
                 
-                ZipEntry stopsEntry = zipFile.getEntry("stops.txt");
                 if (routesEntry != null) {
                     try (InputStream is = zipFile.getInputStream(stopsEntry);
                         Scanner s = new Scanner(is)) {

@@ -27,6 +27,7 @@ midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
 midatl;septa;SEPTA (Philadelphia);
 midatl;wmata;WMATA (Washington);
 west;wa-community;Community Transit (Everett, WA);https://www.soundtransit.org/GTFS-CT/current.zip
+west;wa-ctran;C-Tran (Vancouver, WA);https://mail.c-tran.com/images/Google/GoogleTransitUpload.zip
 west;wa-everett;Everett Transit (Everett, WA);https://gtfs.sound.obaweb.org/prod/97_gtfs.zip
 west;kcm;King County Metro (Seattle);http://metro.kingcounty.gov/GTFS/google_transit.zip
 west;wa-kitsap;Kitsap Transit (Bremerton, WA);https://gtfs.sound.obaweb.org/prod/20_gtfs.zip
@@ -56,3 +57,4 @@ rockies;rtd;RTD (Denver);https://www.rtd-denver.com/files/gtfs/google_transit.zi
 rockies;uta;UTA (Salt Lake City);https://gtfsfeed.rideuta.com/GTFS.zip
 rockies;id-vrt;Valley Regional Transit (Boise);https://www.valleyregionaltransit.org/GTFS/vrt_transit1.zip
 south;marta;MARTA (Atlanta);https://itsmarta.com/google_transit_feed/google_transit.zip
+south;miami-dade;Miami-Dade Transit (Miami);https://www.miamidade.gov/transit/googletransit/current/google_transit.zip
