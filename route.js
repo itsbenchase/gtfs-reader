@@ -146,19 +146,23 @@ function findRoute(result) {
             // Use the data parsed in getTrips() and getStops()
             const tripDetails = calculateTripStats(fullTripStopIds[l], fullTripStopTimes[l], allStopsMap);
             const statsString = `${tripDetails.duration} min</td><td>${tripDetails.distance} mi</td><td>${tripDetails.speed} mph</td>`;
-            
-            if (tripDetails.distance > maxDist) { maxDist = tripDetails.distance; }
-            if (tripDetails.distance < minDist) { minDist = tripDetails.distance; }
-            if (tripDetails.duration > maxTime) { maxTime = tripDetails.duration; }
-            if (tripDetails.duration < minTime) { minTime = tripDetails.duration; }
-            if (tripDetails.speed > maxSpeed) { maxSpeed = tripDetails.speed; }
-            if (tripDetails.speed < minSpeed) { minSpeed = tripDetails.speed; }
 
             // 2. PREPARE FREQUENCY DATA
             let timeStr = routeTimes[i][k]; // e.g., "08:30"
             let [hrs, mins] = timeStr.split(':').map(Number);
             let totalMins = (hrs * 60) + mins;
             let headsign = tripHeadsigns[l];
+
+            // sort into stats if a daytime trip -- filtering out overnight time/speed outliers
+            if (totalMins >= 360 && totalMins <= 1200)
+            {
+              if (tripDetails.distance > maxDist) { maxDist = tripDetails.distance; }
+              if (tripDetails.distance < minDist) { minDist = tripDetails.distance; }
+              if (tripDetails.duration > maxTime) { maxTime = tripDetails.duration; }
+              if (tripDetails.duration < minTime) { minTime = tripDetails.duration; }
+              if (tripDetails.speed > maxSpeed) { maxSpeed = tripDetails.speed; }
+              if (tripDetails.speed < minSpeed) { minSpeed = tripDetails.speed; }
+            }
 
             // 3. SORT INTO DAYS
             for (let j = 0; j < 7; j++) {
