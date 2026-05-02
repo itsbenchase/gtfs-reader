@@ -206,5 +206,6 @@ function findRoute(result) {
     document.getElementById("trip-count-" + j).innerHTML = (dayNames[j] + " Trips: " + dayCounts[j]);
   }
 
+  // need to somehow force a cache update to this somehow
   document.getElementById("stats").innerHTML += `<br>Distance: ${minDist} - ${maxDist} mi<br>Time: ${minTime} - ${maxTime} min<br>Speed: ${minSpeed} - ${maxSpeed} mph`;
 }

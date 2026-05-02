@@ -56,6 +56,7 @@ ne;pvta;PVTA (Pioneer Valley);
 ne;ripta;RIPTA (Rhode Island);https://www.ripta.com/system/files/gtfs_file/RIPTA-GTFS.zip
 ne;ct-seat;SEAT (New London);https://gtfs.remix.com/seat_preston_ct_us.zip
 ne;ma-srta;SRTA (Fall River / New Bedford);https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
+rockies;rtcsnv;RTC (Las Vegas);https://developer.rtcsnv.com/transitData/google_transit.zip
 rockies;rtd;RTD (Denver);https://www.rtd-denver.com/files/gtfs/google_transit.zip
 rockies;uta;UTA (Salt Lake City);https://gtfsfeed.rideuta.com/GTFS.zip
 rockies;id-vrt;Valley Regional Transit (Boise);https://www.valleyregionaltransit.org/GTFS/vrt_transit1.zip
