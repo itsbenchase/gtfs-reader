@@ -126,6 +126,13 @@ function findRoute(result) {
     timeBins[j] = {};
   }
 
+  var maxDist = Number.MIN_VALUE;
+  var minDist = Number.MAX_VALUE;
+  var maxTime = Number.MIN_VALUE;
+  var minTime = Number.MAX_VALUE;
+  var maxSpeed = Number.MIN_VALUE;
+  var minSpeed = Number.MAX_VALUE;
+
   for (let i = 0; i < routeID.length; i++) {
     if (routeID[i] == result) {
       // Set Route Header
@@ -139,6 +146,13 @@ function findRoute(result) {
             // Use the data parsed in getTrips() and getStops()
             const tripDetails = calculateTripStats(fullTripStopIds[l], fullTripStopTimes[l], allStopsMap);
             const statsString = `${tripDetails.duration} min</td><td>${tripDetails.distance} mi</td><td>${tripDetails.speed} mph</td>`;
+            
+            if (tripDetails.distance > maxDist) { maxDist = tripDetails.distance; }
+            if (tripDetails.distance < minDist) { minDist = tripDetails.distance; }
+            if (tripDetails.duration > maxTime) { maxTime = tripDetails.duration; }
+            if (tripDetails.duration < minTime) { minTime = tripDetails.duration; }
+            if (tripDetails.speed > maxSpeed) { maxSpeed = tripDetails.speed; }
+            if (tripDetails.speed < minSpeed) { minSpeed = tripDetails.speed; }
 
             // 2. PREPARE FREQUENCY DATA
             let timeStr = routeTimes[i][k]; // e.g., "08:30"
@@ -191,4 +205,6 @@ function findRoute(result) {
     document.getElementById("stats-" + j).innerHTML = statsHtml;
     document.getElementById("trip-count-" + j).innerHTML = (dayNames[j] + " Trips: " + dayCounts[j]);
   }
+
+  document.getElementById("stats").innerHTML = `<br>Distance: ${minDist} - ${maxDist} mi<br>Time: ${minTime} - ${maxTime} min<br>Speed: ${minSpeed} - ${maxSpeed} mph`;
 }

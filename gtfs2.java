@@ -56,13 +56,6 @@ public class gtfs2
             days[i] = new ArrayList<String>();
         }
 
-        // 1. Define a temporary structure to hold merged data
-        class ServiceProfile {
-            boolean[] activeDays = new boolean[7];
-            int start = Integer.MAX_VALUE;
-            int end = Integer.MIN_VALUE;
-        }
-
         LocalDate today = LocalDate.now();
         LocalDate sevenDaysOut = today.plusDays(7);
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyyMMdd");
@@ -674,6 +667,12 @@ public class gtfs2
             System.out.println("Ben, we have a problem: " + e.getMessage());
         }
     }
+}
+
+class ServiceProfile {
+    boolean[] activeDays = new boolean[7];
+    int start = Integer.MAX_VALUE;
+    int end = Integer.MIN_VALUE;
 }
 
 class TripData {
