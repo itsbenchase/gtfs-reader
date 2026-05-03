@@ -17,17 +17,21 @@ midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
 midwest;metrowi;Metro Transit (Madison);https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
 midwest;metromsp;Metro Transit (Twin Cities);https://svc.metrotransit.org/mtgtfs/gtfs.zip
 midwest;pace;Pace (Chicago);
+midwest;mi-smart;SMART (Detroit);https://apps1.smartbus.org/gtfs/smart_gtfs.zip
 midwest;ridekc;RideKC (Kansas City);https://www.kc-metro.com/gtf/google_transit.zip
 midwest;clerta;RTA (Cleveland);https://www.riderta.com/sites/default/files/gtfs/latest/google_transit.zip
+midatl;ny-beeline;Bee-Line (Westchester County);https://westchester-gmv.itoworld.com/production/ito_westchester_county_gtfs.zip
 midatl;cdta;CDTA (Albany, NY);https://www.cdta.org/schedules/google_transit.zip
 midatl;de-dart;DART (Delaware);https://www.dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip
 midatl;va-dash;DASH (Alexandria, VA);https://dashbus.com/google_transit.zip
 midatl;va-ffx;Fairfax Connector (Fairfax, VA);https://www.fairfaxcounty.gov/connector/sites/connector/files/assets/connector_gtfs.zip
 midatl;va-hrt;HRT (Hampton Roads, VA);https://gtfs.gohrt.com/gtfs/google_transit.zip
+midatl;ny-nice;NICE (Nassau County);https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip
 midatl;nfta;NFTA (Buffalo, NY);https://metro.nfta.com/__googletransit/google_transit.zip
 midatl;njt;NJT (New Jersey);
 midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
 midatl;septa;SEPTA (Philadelphia);
+midatl;ny-sct;SCT (Suffolk County);https://suffolkcountyny.gov/Portals/0/formsdocs/publicworks/Zip/google_transit.zip
 midatl;wmata;WMATA (Washington);
 west;wa-community;Community Transit (Everett, WA);https://www.soundtransit.org/GTFS-CT/current.zip
 west;wa-ctran;C-Tran (Vancouver, WA);https://mail.c-tran.com/images/Google/GoogleTransitUpload.zip
