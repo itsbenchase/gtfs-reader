@@ -186,6 +186,7 @@ public class gtfs2
                                 }
                             }
                         }
+                        System.out.println("Calendar loaded");
                     }
                 }
 
@@ -302,6 +303,7 @@ public class gtfs2
                                 routeFull.add(currentLongName);
                             }
                         }
+                        System.out.println("Routes loaded");
                     }
                 }
             

@@ -26,8 +26,8 @@ midatl;de-dart;DART (Delaware);https://www.dartfirststate.com/RiderInfo/Routes/g
 midatl;va-dash;DASH (Alexandria, VA);https://dashbus.com/google_transit.zip
 midatl;va-ffx;Fairfax Connector (Fairfax, VA);https://www.fairfaxcounty.gov/connector/sites/connector/files/assets/connector_gtfs.zip
 midatl;va-hrt;HRT (Hampton Roads, VA);https://gtfs.gohrt.com/gtfs/google_transit.zip
-midatl;ny-nice;NICE (Nassau County);https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip
 midatl;nfta;NFTA (Buffalo, NY);https://metro.nfta.com/__googletransit/google_transit.zip
+midatl;ny-nice;NICE (Nassau County);https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip
 midatl;njt;NJT (New Jersey);
 midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
 midatl;septa;SEPTA (Philadelphia);
@@ -63,5 +63,10 @@ rockies;rtcsnv;RTC (Las Vegas);https://developer.rtcsnv.com/transitData/google_t
 rockies;rtd;RTD (Denver);https://www.rtd-denver.com/files/gtfs/google_transit.zip
 rockies;uta;UTA (Salt Lake City);https://gtfsfeed.rideuta.com/GTFS.zip
 rockies;id-vrt;Valley Regional Transit (Boise);https://www.valleyregionaltransit.org/GTFS/vrt_transit1.zip
+south;fl-broward;Broward County Transit (Fort Lauderdale);https://www.broward.org/bct/documents/google_transit.zip
+south;capmetro;CapMetro (Austin);https://data.texas.gov/download/r4v4-vz24/application/zip
+south;nc-cats;CATS (Charlotte);https://gtfsrealtime.ridetransit.org/GTFSStatic/GTFS.zip
+south;tx-dart;DART (Dallas);http://www.dart.org/transitdata/latest/google_transit.zip
+south;fl-hart;HART (Tampa);http://www.gohart.org/google/google_transit.zip
 south;marta;MARTA (Atlanta);https://itsmarta.com/google_transit_feed/google_transit.zip
 south;miami-dade;Miami-Dade Transit (Miami);https://www.miamidade.gov/transit/googletransit/current/google_transit.zip
