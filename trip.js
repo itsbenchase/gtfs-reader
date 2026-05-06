@@ -138,11 +138,11 @@ function findTrip(result) {
           for (let k = 0; k < stopId.length; k++) {
               if (stopId[k] == tripStopIds[i][j]) {
                   const stopLink = `stop.html?agency=${agency}&stop=${tripStopIds[i][j]}`;
-                  
+                  let stopRow = "";
                   if (j < startStopIndex)
                   {
                     // before starting stop, blank columns for segment stats
-                    let stopRow = `<tr${rowClass}><td><a href="${stopLink}">${tripStopTimes[i][j]}</a></td>
+                    stopRow = `<tr${rowClass}><td><a href="${stopLink}">${tripStopTimes[i][j]}</a></td>
                                 <td>${stopName[k]}</td>
                                 <td>${totalStats.distance} mi</td>
                                 <td>${totalStats.duration} min</td>
@@ -153,7 +153,7 @@ function findTrip(result) {
                   else
                   {
                     // Updated row to include segment stats
-                    let stopRow = `<tr${rowClass}><td><a href="${stopLink}">${tripStopTimes[i][j]}</a></td>
+                    stopRow = `<tr${rowClass}><td><a href="${stopLink}">${tripStopTimes[i][j]}</a></td>
                                 <td>${stopName[k]}</td>
                                 <td>${totalStats.distance} mi</td>
                                 <td>${totalStats.duration} min</td>
