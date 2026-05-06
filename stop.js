@@ -138,7 +138,7 @@ function findTrips(result) {
             // 2. CREATE A TRIP OBJECT
             const tripObj = {
               timeMins: totalMins, // Used for sorting
-              html: `<td><a href="trip.html?agency=${agency}&trip=${tripIds[l]}">${timeStr}</a></td>
+              html: `<td><a href="trip.html?agency=${agency}&trip=${tripIds[l]}&from=${stopId[i]}">${timeStr}</a></td>
                      <td><a class=route href="route.html?agency=${agency}&route=${tripRoute[l]}">${tripRoute[l]}</a></td>
                      <td>${headsign}</td>
                      <td>${tripDetails.duration} min</td><td>${tripDetails.distance} mi</td><td>${tripDetails.speed} mph</td>`

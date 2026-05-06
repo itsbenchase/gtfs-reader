@@ -50,6 +50,16 @@ th, td
     color: #000000;
 }
 
+td.seg
+{
+    color: purple;
+}
+
+tr.highlight
+{
+    background-color: #ffe388;
+}
+
 a:link
 {
     color: green;

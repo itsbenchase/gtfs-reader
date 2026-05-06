@@ -18,6 +18,7 @@ const allStopsMap = [];
 
 var result = "no data";
 var agency = "no data";
+var fromStop = "no data";
 
 function funct()
 {
@@ -28,6 +29,8 @@ function funct()
   result = parsedUrl.searchParams.get(paramName);
   var paramName2 = 'agency';
   agency = parsedUrl.searchParams.get(paramName2);
+  var paramName3 = 'from';
+  fromStop = parsedUrl.searchParams.get(paramName3);
   
   const testAgencyUrl = ("trips/" + agency + "_trips.txt"); // provide file location
     fetch(testAgencyUrl)
@@ -102,39 +105,73 @@ function findTrip(result) {
       }  
 
       // 2. List the Stops & Calculate Cumulative Stats
+      // Define the starting stop index (e.g., if you want to start from the 3rd stop, set to 2)
+      let startStopIndex = 9999; 
+
       for (let j = 0; j < tripStopTimes[i].length; j++) {
-        
-        // --- CUMULATIVE CALCULATION START ---
-        // Create a slice of stops from index 0 up to the current stop (j + 1)
-        const currentStopSlice = tripStopIds[i].slice(0, j + 1);
-        const currentTimeSlice = tripStopTimes[i].slice(0, j + 1);
-        
-        // Calculate stats for the trip up to this specific stop
-        const stats = calculateTripStats(currentStopSlice, currentTimeSlice, allStopsMap);
-        
-        // Determine spacing (only if more than 1 stop has been reached)
-        const spacing = j > 0 ? (stats.distance / j) : 0;
-        // --- CUMULATIVE CALCULATION END ---
-
-        for (let k = 0; k < stopId.length; k++) {
-          if (stopId[k] == tripStopIds[i][j]) {
-            const stopLink = `stop.html?agency=${agency}&stop=${tripStopIds[i][j]}`;
-            
-            // Build the string for this specific stop row
-            // We include the cumulative distance/duration in the row itself
-            let stopRow = `<td><a href="${stopLink}">${tripStopTimes[i][j]}</a></td><td>${stopName[k]}</td><td>${stats.distance} mi</td><td>${stats.duration} min</td><td>${stats.speed} mph</td>`;
-            
-            document.getElementById("stops").innerHTML += stopRow;
-            currentStopIds.push(stopId[k]);
+          
+          if (tripStopIds[i][j] == fromStop)
+          {
+            startStopIndex = j;
           }
-        }
 
-        // 3. Update the Main UI Stats
-        // This will reflect the "Total" stats by the time the loop finishes
-        document.getElementById("duration").innerHTML = ("<b>Trip Duration:</b> " + stats.duration + " minutes");
-        document.getElementById("dist").innerHTML = ("<b>Trip Distance:</b> " + stats.distance + " miles");
-        document.getElementById("speed").innerHTML = ("<b>Trip Speed:</b> " + stats.speed + " miles per hour");
-        document.getElementById("spacing").innerHTML = ("<b>Stop Spacing:</b> " + (Math.round(spacing * 100) / 100) + " miles");
+          // 1. Existing Cumulative Stats (Entire trip from start of array)
+          const currentStopSlice = tripStopIds[i].slice(0, j + 1);
+          const currentTimeSlice = tripStopTimes[i].slice(0, j + 1);
+          const totalStats = calculateTripStats(currentStopSlice, currentTimeSlice, allStopsMap);
+          
+          // 2. New Segment Stats (From your pre-determined starting stop)
+          // Only calculate if current stop is at or after the startStopIndex
+          let segmentStats = { distance: 0, duration: 0, speed: 0 };
+          if (j >= startStopIndex) {
+              const segmentStopSlice = tripStopIds[i].slice(startStopIndex, j + 1);
+              const segmentTimeSlice = tripStopTimes[i].slice(startStopIndex, j + 1);
+              segmentStats = calculateTripStats(segmentStopSlice, segmentTimeSlice, allStopsMap);
+          }
+
+          // Existing spacing logic
+          const spacing = j > 0 ? (totalStats.distance / j) : 0;
+
+          const isStartRow = (j === startStopIndex);
+          const rowClass = isStartRow ? ' class="highlight"' : '';
+
+          for (let k = 0; k < stopId.length; k++) {
+              if (stopId[k] == tripStopIds[i][j]) {
+                  const stopLink = `stop.html?agency=${agency}&stop=${tripStopIds[i][j]}`;
+                  
+                  if (j < startStopIndex)
+                  {
+                    // before starting stop, blank columns for segment stats
+                    let stopRow = `<tr${rowClass}><td><a href="${stopLink}">${tripStopTimes[i][j]}</a></td>
+                                <td>${stopName[k]}</td>
+                                <td>${totalStats.distance} mi</td>
+                                <td>${totalStats.duration} min</td>
+                                <td></td>
+                                <td></td>
+                                <td>${totalStats.speed} mph</td></tr>`;
+                  }
+                  else
+                  {
+                    // Updated row to include segment stats
+                    let stopRow = `<tr${rowClass}><td><a href="${stopLink}">${tripStopTimes[i][j]}</a></td>
+                                <td>${stopName[k]}</td>
+                                <td>${totalStats.distance} mi</td>
+                                <td>${totalStats.duration} min</td>
+                                <td style=seg>(${segmentStats.distance} mi)</td>
+                                <td style=seg>(${segmentStats.duration} min)</td>
+                                <td>${totalStats.speed} mph</td></tr>`;
+                  }
+                  
+                  document.getElementById("stops").innerHTML += stopRow;
+                  currentStopIds.push(stopId[k]);
+              }
+          }
+
+          // 3. Update the Main UI Stats
+          document.getElementById("duration").innerHTML = ("<b>Total Trip Duration:</b> " + totalStats.duration + " minutes");
+          document.getElementById("dist").innerHTML = ("<b>Total Trip Distance:</b> " + totalStats.distance + " miles");
+          document.getElementById("speed").innerHTML = ("<b>Avg Trip Speed:</b> " + totalStats.speed + " mph");
+          document.getElementById("spacing").innerHTML = ("<b>Stop Spacing:</b> " + (Math.round(spacing * 100) / 100) + " miles");
       }
     }
   }
