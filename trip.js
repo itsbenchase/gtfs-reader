@@ -139,6 +139,7 @@ function findTrip(result) {
               if (stopId[k] == tripStopIds[i][j]) {
                   const stopLink = `stop.html?agency=${agency}&stop=${tripStopIds[i][j]}`;
                   let stopRow = "";
+                  // i need to force push this again
                   if (j < startStopIndex)
                   {
                     // before starting stop, blank columns for segment stats
