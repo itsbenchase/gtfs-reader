@@ -158,8 +158,8 @@ function findTrip(result) {
                                 <td>${stopName[k]}</td>
                                 <td>${totalStats.distance} mi</td>
                                 <td>${totalStats.duration} min</td>
-                                <td style=seg>(${segmentStats.distance} mi)</td>
-                                <td style=seg>(${segmentStats.duration} min)</td>
+                                <td class=seg>(${segmentStats.distance} mi)</td>
+                                <td class=seg>(${segmentStats.duration} min)</td>
                                 <td>${totalStats.speed} mph</td></tr>`;
                   }
                   
