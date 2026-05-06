@@ -11,6 +11,8 @@ cal;muni;Muni (San Francisco);https://api.511.org/transit/datafeeds?api_key=385f
 cal;ca-nctd;NCTD (San Diego);https://lfportal.nctd.org/staticGTFS/google_transit.zip
 cal;ca-octa;OCTA (San Diego);https://www.octa.net/current/google_transit.zip
 cal;samtrans;SamTrans (San Mateo);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SM
+cal;ca-vta;VTA (San Jose);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SC
+midwest;oh-cota;COTA (Columbus);http://www.cota.com/data/cota.gtfs.zip
 midwest;cta;CTA (Chicago);
 midwest;mi-ddot;DDOT (Detroit);https://www.detroitmi.gov/Portals/0/docs/deptoftransportation/pdfs/ddot_gtfs.zip
 midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
@@ -20,6 +22,7 @@ midwest;pace;Pace (Chicago);
 midwest;ridekc;RideKC (Kansas City);https://www.kc-metro.com/gtf/google_transit.zip
 midwest;clerta;RTA (Cleveland);https://www.riderta.com/sites/default/files/gtfs/latest/google_transit.zip
 midwest;mi-smart;SMART (Detroit);https://apps1.smartbus.org/gtfs/smart_gtfs.zip
+midwest;oh-sorta;SORTA (Cincinnati);https://www.go-metro.com/uploads/GTFS/google_transit_info.zip
 midatl;ny-beeline;Bee-Line (Westchester County);https://westchester-gmv.itoworld.com/production/ito_westchester_county_gtfs.zip
 midatl;cdta;CDTA (Albany, NY);https://www.cdta.org/schedules/google_transit.zip
 midatl;de-dart;DART (Delaware);https://www.dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip
