@@ -1,0 +1,347 @@
+82,13th & Long Branch,35.119411,-120.615530
+83,13th & Mentone,35.115310,-120.615841
+84,13th & Messina,35.110747,-120.616503
+85,13th & Belridge,35.104881,-120.616005
+88,Elm & Fair Oaks,35.112512,-120.600436
+89,Arroyo Grande Hospital,35.112616,-120.591185
+90,Arroyo Grande High School,35.117010,-120.581415
+91,Vine & 1st,35.615033,-120.692896
+92,1st & Oak,35.615394,-120.691468
+93,Spring & 3rd,35.617126,-120.690476
+94,Spring & 5th,35.619445,-120.690693
+95,North County Transit Center,35.622500,-120.688292
+96,Cuesta College North,35.651362,-120.670910
+97,Mission & 14th,35.752511,-120.696266
+99,Spring & 4th,35.618703,-120.690830
+100,Oak & 2nd,35.615832,-120.691859
+101,Walmart Shopping Center,35.614891,-120.681550
+102,Niblick & Nicklaus,35.615685,-120.674879
+103,Paso Robles High School,35.615657,-120.670484
+104,Rambouillet & Wade,35.612730,-120.669240
+105,Rambouillet & Torrey Pines,35.606773,-120.668847
+106,Stoney Creek Rd @ Dry Creek Apartments,35.605177,-120.660049
+107,Stoney Creek Rd @ Dry Creek Apartments,35.605305,-120.660230
+108,Creston & Myrtlewood,35.606426,-120.658872
+109,Scott @ Paso Robles Senior Center,35.608415,-120.655253
+110,Scott & Westfield,35.608426,-120.650116
+111,Scott & Westfield,35.608554,-120.650311
+112,Airport & Scott,35.608221,-120.643325
+113,Airport & Scott,35.608062,-120.643608
+114,Airport & Parkview,35.610431,-120.643956
+115,Sherwood & Quail Run,35.615812,-120.653893
+116,Creston & Niblick,35.616642,-120.659003
+117,Creston & Melody,35.623327,-120.662494
+118,Creston & Nickerson,35.625035,-120.669599
+119,Creston & Bolen,35.627269,-120.673494
+120,Creston & Shannon Hill,35.628968,-120.677203
+121,Creston & Capitol Hill,35.628993,-120.680872
+122,Riverside & 17th,35.632628,-120.687302
+123,Riverside & 20th,35.634997,-120.687474
+124,Riverside & 26th,35.641018,-120.688303
+125,Ysabel & 24th,35.641982,-120.687416
+126,Riverside & 24th,35.638242,-120.687957
+127,Riverside & 18th,35.632939,-120.687489
+128,Riverside & 14th,35.629241,-120.687183
+129,Spring & 14th,35.628497,-120.691462
+130,Spring & 17th,35.631755,-120.691734
+131,Spring & 21st,35.636469,-120.692146
+132,24th & Park,35.639134,-120.691559
+133,Spring & 24th,35.639629,-120.692389
+134,Spring & 28th,35.642943,-120.692663
+135,Spring & 30th,35.645139,-120.692857
+136,Oak & 34th,35.649409,-120.694492
+137,Spring & 34th,35.649171,-120.693385
+138,Spring & 32nd,35.647621,-120.693256
+139,Spring & 30th,35.645120,-120.693018
+140,Spring & 28th,35.643504,-120.692916
+141,Spring & 23rd,35.638449,-120.692494
+142,Spring & 22nd,35.636803,-120.692359
+143,Spring & 18th,35.632508,-120.691980
+144,Spring & 16th,35.630456,-120.691830
+145,El Camino Real & Patria,35.458697,-120.642612
+147,El Camino Real & Santa Clara,35.439682,-120.627785
+148,El Camino Real & Carmel,35.432733,-120.614150
+149,El Camino Real & Santa Margarita,35.429149,-120.606418
+150,Garden Farms,35.417958,-120.604468
+151,El Camino Real & Encina,35.392107,-120.607123
+152,El Camino Real & Encina,35.392005,-120.606846
+153,El Camino Real & Maria,35.388531,-120.613306
+154,El Camino Real & Pine,35.418336,-120.604269
+155,El Camino Real & Santa Margarita,35.429271,-120.606280
+156,El Camino Real & Carmel,35.433076,-120.614535
+157,El Camino Real & Santa Clara,35.440301,-120.628343
+158,Viejo Camino & Santa Barbara,35.449564,-120.632556
+159,Viejo Camino & Santa Barbara,35.449942,-120.632709
+160,Viejo Camino & Bocina,35.454516,-120.637844
+161,Viejo Camino & Bocina,35.454349,-120.637749
+162,El Camino Real & Buena Fortuna,35.457477,-120.641288
+163,El Camino Real & Musselman,35.461543,-120.644680
+164,El Camino Real & El Bordo,35.464943,-120.647552
+165,El Camino Real & Principal,35.467484,-120.650035
+166,El Camino Real & Solano,35.471963,-120.653287
+167,El Camino Real & Palomar,35.475369,-120.654752
+168,El Camino Real & Pueblo,35.480361,-120.657986
+170,El Camino Real & Highway 41,35.484990,-120.663082
+172,Atascadero Transit Center,35.489141,-120.664832
+173,El Camino Real & Traffic Way,35.489646,-120.670740
+174,El Camino Real & Rosario,35.490791,-120.673052
+175,El Camino Real & San Jacinto,35.495531,-120.679610
+176,El Camino Real & San Anselmo,35.499841,-120.683523
+177,El Camino Real & Maya,35.502226,-120.687059
+178,El Camino Real & San Benito,35.507521,-120.693052
+179,El Camino Real & Del Rio,35.513333,-120.697368
+180,Templeton Park & Ride,35.554189,-120.713889
+181,Theatre @ Gahan,35.587203,-120.697154
+182,Theatre @ Alexa,35.587080,-120.696855
+183,Target Shopping Center,35.583915,-120.696831
+184,Theatre & Via Santa Barbara,35.576105,-120.697883
+185,Morro Bay Park,35.366461,-120.844514
+186,Main & Errol,35.379061,-120.854620
+188,Ocean & Old Creek,35.428903,-120.881363
+189,Ocean & 8th,35.444286,-120.895027
+190,Ocean & 3rd,35.445915,-120.898234
+191,South Bay & Quintana,35.361647,-120.824679
+192,South Bay & Quintana,35.362039,-120.824239
+193,Santa Ysabel & 15th,35.329916,-120.826691
+194,Santa Ysabel & 15th,35.330011,-120.827072
+195,11th & El Morro,35.326458,-120.831094
+196,11th & Ramona,35.320599,-120.831109
+197,10th & Santa Ynez,35.314842,-120.832274
+198,10th & Los Osos Valley,35.311835,-120.832293
+199,Los Osos Valley Rd & Palisades,35.311908,-120.836071
+200,Los Osos Valley Rd & Pine,35.313082,-120.844782
+201,Pine & Loma,35.318176,-120.844808
+202,Ramona & 7th,35.320631,-120.835852
+203,7th & El Morro,35.326045,-120.835378
+204,2nd & Santa Maria,35.328325,-120.840876
+205,Santa Ysabel & 7th,35.329959,-120.834993
+206,Cal Poly Library,35.302311,-120.663581
+207,Cal Poly Library,35.302317,-120.663206
+208,Cal Poly Performing Arts Center,35.300265,-120.657669
+209,Cal Poly Performing Arts Center,35.300397,-120.657523
+210,Santa Rosa & Murray,35.291563,-120.667006
+214,Spring & 26th,35.641124,-120.692695
+215,Spring & 13th,35.627095,-120.691539
+216,Spring & 11th,35.625284,-120.691171
+217,Spring & 10th,35.624825,-120.691335
+218,7th & Park,35.621461,-120.689872
+220,Creston & Capitol Hill,35.628809,-120.680846
+221,Creston & Bolen,35.627100,-120.673550
+222,Georgia Brown Elementary,35.624513,-120.668260
+223,Creston & Melody,35.623064,-120.662328
+224,Creston & Oak Meadow,35.619365,-120.659290
+225,Sherwood & Creston,35.615646,-120.658604
+226,Sherwood & Quail Run,35.615726,-120.653177
+227,Fontana & Linne,35.613548,-120.650252
+228,Airport & Turtle Creek,35.611252,-120.644398
+229,Scott @ Paso Robles Senior Center,35.608534,-120.656234
+230,Creston & Cedarwood,35.606890,-120.659118
+231,Rambouillet & Torrey Pines,35.606488,-120.668430
+232,Paso Robles High School,35.615874,-120.670717
+234,El Camino Real & Santa Cruz,35.524066,-120.703597
+235,El Camino Real & Atalaya,35.520325,-120.703141
+236,El Camino Real & Atalaya,35.520236,-120.702924
+237,El Camino Real & Del Rio,35.512902,-120.697411
+238,El Camino Real & San Benito,35.506865,-120.692689
+239,El Camino Real & Maya,35.501984,-120.687143
+240,K Mart,35.499558,-120.683547
+241,El Camino Real & San Anselmo,35.497549,-120.681657
+242,El Camino Real & Rosario,35.490575,-120.673052
+243,El Camino Real & Entrada,35.488833,-120.669550
+244,El Camino Real & Highway 41,35.484711,-120.663087
+246,El Camino Real & Pueblo,35.480052,-120.658080
+247,El Camino Real & Junipero,35.475855,-120.655322
+248,El Camino Real & Plata,35.472828,-120.653923
+249,El Camino Real @ Santa Rosa,35.467481,-120.650386
+250,El Camino Real & El Bordo,35.464464,-120.647471
+251,El Camino Real & Maple,35.461691,-120.645125
+252,Grand & McCollum,35.294090,-120.653012
+253,Grand & McCollum,35.294289,-120.653282
+254,Grand & Wilson,35.291075,-120.653343
+256,Grand @ AM PM,35.120717,-120.585880
+257,Grand & Halcyon,35.118855,-120.591279
+258,Grand & Alder,35.118934,-120.594415
+259,Grand & Elm,35.120665,-120.600812
+260,Grand & Courtland,35.121002,-120.607220
+261,Grand & 16th,35.121186,-120.611830
+262,Grand & 13th,35.121373,-120.615592
+263,West Grand Ave & Nth 6th St,35.121767,-120.623841
+264,Grand & 2nd,35.121993,-120.628589
+265,Highway 1 & Le Sage,35.124149,-120.630715
+266,Highway 1 & Le Sage,35.123908,-120.630807
+267,Grand & 3rd,35.121722,-120.627300
+268,Grand & 7th,35.121505,-120.622850
+269,Grand & 13th,35.121164,-120.615735
+270,Grand & 16th,35.120983,-120.611948
+271,Grand & Oak Park,35.120801,-120.608232
+272,Grand & Elm,35.120499,-120.601791
+273,Grand & Alder,35.118548,-120.593406
+274,Grand & Branch,35.122006,-120.582030
+275,Traffic & Firefighters Park,35.121136,-120.577681
+276,Arroyo Grande City Hall,35.124232,-120.577198
+277,Grand & Branch,35.121971,-120.582416
+278,Halcyon Park & Ride,35.122760,-120.589812
+287,Elm & Paul,35.104262,-120.600542
+288,Highway 1 & 25th,35.098224,-120.602100
+289,Highway 1 & 21st,35.098243,-120.608930
+291,13th & Highway 1,35.101663,-120.615812
+296,Ramona Garden Park,35.122622,-120.620011
+297,Dolliver & Frady,35.134127,-120.635660
+298,Dolliver @ Butterfly Tree,35.128499,-120.631953
+299,Pismo Coast Village,35.134697,-120.636536
+300,Dolliver & Pomeroy,35.140551,-120.641145
+301,Dolliver & Hinds,35.139752,-120.640460
+302,Dolliver & San Luis,35.143580,-120.644000
+303,Dolliver & Bay,35.145369,-120.644890
+304,Price & Stimson,35.140580,-120.638888
+305,Price & Hinds,35.140903,-120.638967
+306,Price & Wadsworth,35.143718,-120.642118
+307,Price & Harbor View,35.147214,-120.646026
+309,Lighthouse Inn North,35.149566,-120.651741
+310,Shell Beach & Seacliff,35.163022,-120.686202
+311,Shell Beach & Terrace,35.159668,-120.677438
+312,Shell Beach & Cuyama,35.158796,-120.675246
+313,Shell Beach & Cliff,35.155230,-120.666070
+316,Mattie & Foothill,35.153803,-120.660601
+317,Pismo Beach City Hall,35.157011,-120.668586
+318,Mattie & Valencia,35.161853,-120.680686
+319,James Way & 4th,35.137308,-120.621042
+320,James Way & Ridge,35.137076,-120.614726
+321,James Way & Oak Park,35.134137,-120.606425
+322,Branch & Vernon,35.122458,-120.585023
+323,South County Library,35.123892,-120.590345
+324,Carl's Junior,35.130264,-120.604824
+325,James Way & Oak Park,35.134320,-120.606456
+326,James Way & Ridge,35.137202,-120.614716
+327,James Way & 4th,35.137429,-120.621390
+328,Avila Hot Springs,35.181425,-120.703899
+329,Avila Beach & First,35.180665,-120.735812
+330,Port San Luis,35.172278,-120.756540
+331,Avila Beach & First,35.180628,-120.735496
+333,Shell Beach & Ebb Tide,35.165657,-120.689814
+334,Cayucos & Ocean,35.449881,-120.905448
+335,Ardath & Green,35.550337,-121.072635
+336,Ardath & Green,35.550360,-121.072401
+337,Burton & Lucille,35.551288,-121.080099
+338,Burton & Ardath,35.550925,-121.080036
+339,Burton & Burton Cir,35.556184,-121.082757
+340,Burton & Yorkshire,35.557179,-121.082162
+341,Burton & Patterson,35.557999,-121.080708
+342,Burton & Main,35.563739,-121.082531
+343,Burton & Main,35.563622,-121.082626
+344,Bluebird Inn,35.563285,-121.085694
+345,Main & Bluebird Inn,35.563308,-121.086140
+346,Main & Tamson,35.562936,-121.092055
+347,Main & Tamson,35.562806,-121.092081
+348,Main & Cambria Drive,35.564661,-121.096388
+349,Main & Cambria Drive,35.564831,-121.096389
+350,Main & Cornwall,35.567958,-121.100899
+351,Main & Arlington,35.567191,-121.100094
+352,Moonstone Beach & Windsor,35.568934,-121.104932
+353,Moonstone Beach & Windsor,35.568797,-121.104882
+354,Cambria Beach Lodge,35.572089,-121.112245
+355,Cambria Beach Lodge,35.572283,-121.112475
+356,Castle Inn,35.577625,-121.115138
+357,Moonstone & Fireside Inn,35.578663,-121.115975
+358,Oceanpoint Ranch,35.583482,-121.120563
+359,Oceanpoint Ranch,35.584635,-121.121135
+360,Castillo @ Quality Inn,35.613016,-121.143648
+361,Hearst Castle Visitor Center,35.650392,-121.186588
+362,Hearst & San Simeon,35.612404,-121.143974
+363,Ocean & Cayucos,35.449786,-120.906513
+364,Ocean & 3rd,35.445956,-120.898721
+365,Ocean & 9th,35.443812,-120.894304
+366,Ocean & Old Creek,35.429211,-120.881836
+367,Highway 1 & San Jacinto,35.393256,-120.860517
+368,James Way & Highland,35.138575,-120.629911
+370,Higuera & South,35.270430,-120.670050
+371,Marsh & Broad,35.277964,-120.663928
+373,Higuera & South,35.271060,-120.670130
+375,D M V,35.256382,-120.668824
+376,Nipomo High School,35.052291,-120.486401
+378,Tefft & Carillo,35.039654,-120.480521
+379,Hancock College,34.944001,-120.418266
+380,Cypress & Nicholson,34.951041,-120.415996
+381,Marian Medical Center,34.952009,-120.413275
+382,Tefft & Carillo,35.039620,-120.480348
+383,Thompson & Branch,35.044050,-120.477084
+384,Nipomo High School,35.052439,-120.486288
+386,Higuera & Suburban,35.244406,-120.675079
+387,D M V,35.256393,-120.668556
+388,Government Center,35.282660,-120.662032
+390,Santa Rosa & Foothill,35.295596,-120.668936
+391,California Men's Colony,35.323142,-120.695011
+392,Cuesta College,35.332330,-120.742050
+393,Achievement House,35.324802,-120.744411
+394,Kansas Ave & Highway 1,35.320612,-120.716746
+395,Santa Rosa & Foothill,35.293039,-120.667706
+397,Walmart Shopping Center,35.128057,-120.596584
+399,Twin Cities Hospital,35.554813,-120.719989
+401,Rambouillet & Wade,35.612911,-120.669078
+402,Niblick & South River,35.615083,-120.682500
+403,Scott & Larkellen,35.607952,-120.646928
+404,Scott & Larkellen,35.608028,-120.646939
+405,Creston & Oak Meadow,35.619816,-120.659103
+410,Monterey @ Peach Tree Inn,35.290252,-120.649723
+413,El Camino Real & Maria,35.388722,-120.613256
+415,Monterey & Grand,35.289536,-120.650864
+416,Grand & Abbott,35.291390,-120.653049
+418,North County Transit Center,35.622423,-120.688066
+419,Higuera & Suburban,35.244527,-120.675266
+420,Pismo Beach Premium Outlets,35.136274,-120.626463
+422,Thompson & Cimarron,35.071771,-120.513571
+442,Ontario @ Bob Jones Trail,35.185582,-120.703054
+444,Oceano Airport,35.104587,-120.624791
+450,13th & Wilmar,35.104232,-120.615782
+451,James Way & Ventana,35.137529,-120.624669
+452,Santa Rosa & Higuera,35.281904,-120.659246
+453,Santa Rosa & Murray,35.290697,-120.667119
+464,Nipomo & Higuera,35.278453,-120.666068
+469,Pismo Beach Premium Outlets,35.136588,-120.627456
+470,Avila Barn,35.181919,-120.704078
+471,Ontario & Bob Jones Trail,35.185306,-120.703342
+473,Avila Beach & Cave Landing,35.182598,-120.723263
+474,Avila Beach & San Luis Bay Inn,35.179037,-120.738829
+479,Wilmar & 19th,35.104083,-120.610937
+480,Highway 1 & 21st,35.098083,-120.608694
+481,Highway 1 & 25th St,35.098079,-120.601519
+482,Elm & The Pike,35.106667,-120.600472
+488,Fair Oaks & Traffic Way,35.119500,-120.577067
+489,Arroyo Grande High School,35.116250,-120.583000
+490,Fair Oaks & Halcyon,35.112808,-120.591342
+491,Elm & Fair Oaks,35.112472,-120.600667
+492,Elm & The Pike,35.106028,-120.600583
+493,19th & Wilmar,35.103861,-120.610693
+494,Wilmar & 13th,35.104167,-120.615639
+495,13th & Farroll,35.112083,-120.615833
+496,13th & Trouville,35.116461,-120.615543
+497,Cuesta College,35.327184,-120.740882
+508,Higuera & Prado,35.254040,-120.669244
+510,Higuera & Prado,35.254116,-120.669411
+512,Morro Bay High School,35.380191,-120.858620
+514,Santa Maria Transit Center,34.946267,-120.431173
+515,North Thompson Avenue & West Chestnut Street,35.044210,-120.477640
+517,Piney Way & Anchor Street,35.361990,-120.845448
+518,Avila Beach Drive, Babe lane,35.176668
+519,Community/ Senior Center,35.368467,-120.845966
+520,Market Avenue & Morro Bay Boulevard,35.365880,-120.852400
+521,Main Street & Bonita Street,35.385980,-120.857210
+522,Main Street & Spencer's Market,35.389887,-120.857567
+523,Main Street & Sequoia Street,35.395505,-120.860749
+524,Main Street & Jamaica St,35.399090,-120.862400
+526,Beachcomber Drive & Mindoro Way,35.399992,-120.866184
+527,Sandalwood Avenue & San Jacinto Street,35.393573,-120.863289
+529,Atascadero Road & Motel 6,35.379975,-120.857522
+530,Quintana Road & Fitness Works,35.369858,-120.846364
+531,Quintana Road & Albertson's,35.367614,-120.843886
+535,Main Street & Morro Bay Boulevard,35.365802,-120.850125
+536,Morro Bay Blvd & Napa Avenue South,35.365828,-120.847819
+537,Kennedy Way & Piney Way,35.367784,-120.846243
+540,Tahiti Street & Main Street,35.403477,-120.866404
+541,Atlantic City Avenue; Vista Pacific Apartments,35.127050,-120.613740
+542,Atlantic City Avenue & Vista Pacific Apartments,35.127008,-120.613590
+543,Atlantic City Avenue & North 9th Street,35.127346,-120.618758
+544,Atlantic City Avenue & North 9th Street,35.127309,-120.619729
+545,East Church Street,34.952118,-120.413292
+546,South Higuera @ Madonna,35.267617,-120.670477
+547,Avila Park & Ride,35.179748,-120.700406

@@ -1,0 +1,164 @@
+1,San Luis Airport,35.239340,-120.637537
+4,Monterey at Osos,35.281780,-120.661556
+6,Monterey at Grand,35.288711,-120.651440
+7,Monterey at The Peach Tree Inn,35.290029,-120.649948
+8,Marsh at Johnson,35.282324,-120.656675
+9,Johnson at Lizzie (S.),35.278523,-120.650198
+10,Johnson at Bishop (S.),35.274796,-120.646931
+11,Marsh at Broad,35.277697,-120.664302
+12,Broad at Islay,35.274645,-120.660768
+13,Johnson at Sydney,35.271694,-120.644180
+14,Broad at Funston,35.268997,-120.656127
+15,Johnson at La Cita,35.269775,-120.642441
+16,Broad at Woodbridge,35.267065,-120.654570
+17,Laurel at Augusta,35.266479,-120.639877
+18,Broad at Sweeney (Brickyard),35.262760,-120.651237
+19,Laurel at Southwood,35.265072,-120.640907
+20,Laurel at Camden,35.263420,-120.642181
+21,Orcutt at Laurel,35.261260,-120.643167
+22,Orcutt at Lawnwood,35.261332,-120.637765
+23,Broad at Industrial (Damon-Garcia),35.253590,-120.645763
+24,Orcutt at Tiburon,35.258777,-120.633194
+25,Johnson at Gregory,35.263899,-120.635666
+26,Tiburon at Righetti,35.255996,-120.638276
+27,Southwood at Woodside,35.264950,-120.638611
+28,Righetti at Tank Farm,35.250630,-120.633738
+29,Southwood at Laurel,35.265134,-120.640209
+30,Laurel at Richard (Laurel Lane Market),35.266146,-120.639866
+31,Augusta at Laurel,35.267097,-120.640160
+32,Broad at Tank Farm (Creekside),35.247290,-120.642535
+33,Augusta at Gerda,35.269735,-120.644992
+34,Broad at Aerovista,35.243799,-120.640672
+35,Augusta at Bishop,35.272881,-120.647728
+36,Johnson at Bishop (N.),35.274711,-120.646550
+37,Tank Farm at Hollyhock,35.249790,-120.637222
+38,Johnson at Lizzie (N.),35.278671,-120.650070
+39,Tank Farm at Poinsettia,35.249300,-120.640855
+40,Johnson at Marsh,35.282928,-120.655678
+41,Broad at Industrial (Marigold Center),35.250204,-120.644000
+42,Monterey at Toro,35.283592,-120.658466
+43,Broad at Capitolio,35.254687,-120.646009
+44,Broad at Rockview,35.257965,-120.647530
+45,Broad at Sweeney (Brickyard),35.262730,-120.650871
+46,Tank Farm at Poinsettia,35.249364,-120.640236
+47,Broad at Humbert,35.264862,-120.652504
+48,Righetti at Tank Farm,35.250936,-120.633890
+49,Broad at Alphonso (The Village),35.268886,-120.655642
+50,Tiburon at Hayfield,35.255963,-120.637910
+51,Broad at Santa Barbara,35.270229,-120.656725
+52,Ranch House at Cerro Cabrillo,35.258394,-120.637509
+53,Broad at Leff,35.274567,-120.660516
+54,Marsh at Chorro,35.279125,-120.661933
+55,Marsh at Osos,35.280399,-120.659836
+56,Santa Rosa at Higuera,35.281815,-120.659172
+57,Pismo at Archer,35.273391,-120.667872
+58,Higuera at South (S.),35.271110,-120.670141
+59,Higuera at Bridge,35.267202,-120.670504
+60,Madonna Rd at Madonna Plaza (W.),35.264294,-120.676277
+61,Dalidio at Madonna (Promenade),35.261487,-120.678132
+62,Madonna at Oceanaire (W.),35.259518,-120.684104
+63,Higuera at Prado (Social Services) (S.),35.254098,-120.669446
+64,LOVR at Laguna Village (N.),35.258010,-120.691753
+65,Higuera at Granada (S.),35.251515,-120.670938
+66,LOVR at Oceanaire (N.),35.259762,-120.693764
+67,Higuera at Silver City,35.248482,-120.672798
+68,LOVR at Laguna Lane (Middle School),35.262443,-120.696960
+69,Higuera at Suburban,35.244300,-120.675317
+70,Prefumo Canyon at Del Rio,35.261795,-120.700691
+71,LOVR at Higuera (W.),35.242488,-120.678546
+72,Del Rio at Descanso,35.263124,-120.701912
+73,LOVR at Calle Joaquin,35.247060,-120.683068
+74,LOVR at Auto Park Way,35.250690,-120.685668
+75,LOVR at Laguna Lane (Middle School),35.261656,-120.696375
+76,LOVR at Oceanaire (S.),35.259994,-120.694431
+77,LOVR at Laguna Village (S.),35.257650,-120.691742
+78,LOVR at Madonna,35.256161,-120.690651
+79,LOVR at Froom (Irish Hills),35.251995,-120.687355
+80,LOVR at Higuera (E.),35.242408,-120.680013
+81,Higuera at Suburban,35.244363,-120.674982
+82,Higuera at Hind,35.249004,-120.672150
+83,Higuera at Prado (Social Services) (N.),35.253937,-120.669212
+84,Higuera at Margarita (DMV),35.256486,-120.668523
+85,Higuera at Chumash,35.259590,-120.668671
+86,Madonna at Oceanaire (E.),35.259323,-120.683975
+87,Higuera at Elks,35.264839,-120.670326
+88,Higuera at South (N.),35.270393,-120.670029
+89,Madonna Rd at Madonna Plaza,35.263824,-120.676392
+90,Marsh at Archer,35.274982,-120.668739
+91,Santa Rosa at Marsh,35.280918,-120.658604
+92,Mill at Santa Rosa (E.),35.284562,-120.660801
+93,Santa Rosa at Pismo,35.279716,-120.657539
+94,Mill at Johnson (E.),35.285749,-120.658792
+95,Santa Barbara at Church (S.),35.275282,-120.656380
+96,Santa Barbara at High (S.),35.272576,-120.656271
+97,Mill at Pepper,35.286762,-120.657036
+98,South at Meadow Park,35.269599,-120.659040
+99,Mill at Grand,35.289349,-120.652733
+100,South at King (W.),35.269613,-120.661501
+101,Grand at Abbott,35.291269,-120.653044
+102,South at Parker (W.),35.269617,-120.669158
+103,California at Taft,35.291329,-120.660522
+104,LOVR at Descanso,35.265236,-120.700264
+105,LOVR at Diablo (N.),35.267486,-120.702918
+106,LOVR at Valle Vista (N.),35.273930,-120.708875
+107,Kennedy Library  (Cal Poly) (E.),35.302233,-120.663178
+108,Foothill at Narrow,35.282650,-120.706458
+109,Foothill at La Entrada,35.294031,-120.682084
+110,Foothill at Casa (Mustang Village),35.294376,-120.665880
+111,Ramona at S. Tassajara,35.292844,-120.677472
+112,Foothill at University Square (W.),35.294195,-120.670180
+113,Ramona at Palomar,35.292711,-120.674013
+114,Foothill at Ferrini (W.),35.294209,-120.673721
+115,Foothill at Chorro (E.),35.293938,-120.669899
+116,Foothill at Cuesta (W.),35.294230,-120.677016
+117,Foothill at Casa,35.294025,-120.666176
+118,Foothill at Rosita,35.294243,-120.684433
+119,Foothill at Narrow,35.282791,-120.706535
+120,LOVR at Valle Vista (S.),35.273780,-120.709099
+121,LOVR at Diablo (S.),35.266926,-120.702697
+122,LOVR at Descanso,35.264646,-120.699952
+123,South at Parker (E.),35.269408,-120.668725
+124,California at Stafford,35.292076,-120.661348
+125,Grand at Wilson,35.291097,-120.653383
+126,South at King (E.),35.269422,-120.662000
+127,Mill at Park,35.289290,-120.653147
+128,South at Meadow Park,35.269420,-120.659022
+129,Mill at Pepper (W.),35.286898,-120.657201
+130,Santa Barbara at High (N.),35.272427,-120.656075
+131,Santa Barbara at Church (N.),35.275742,-120.656342
+132,Mill at Johnson (W.),35.285872,-120.658954
+133,Amtrak Station,35.276119,-120.654884
+134,Santa Rosa at Leff,35.277512,-120.655357
+135,Santa Rosa at Buchon (N.),35.278828,-120.656525
+136,Santa Rosa at Oak (Santa Rosa Park),35.289453,-120.665816
+137,Santa Rosa at Murray (N.),35.291550,-120.667006
+138,Monterey at Toro,35.283268,-120.658626
+139,Foothill at Patricia,35.294259,-120.682768
+140,Monterey at California,35.285768,-120.654950
+141,Highland at Cuesta (E.),35.298167,-120.677794
+142,Monterey at Grove,35.287137,-120.653154
+143,Performing Arts Center (Cal Poly) (S.),35.300260,-120.657760
+144,Grand at Monterey,35.289424,-120.652255
+145,Grand at Fredricks,35.293397,-120.653307
+146,Grand at McCollum,35.294069,-120.653007
+147,Grand at Mill,35.289170,-120.652407
+148,Performing Arts Center (Cal Poly) (N.),35.300415,-120.657485
+149,Monterey at Grove,35.287328,-120.653183
+150,Kennedy Library (Cal Poly) (W.),35.302350,-120.663585
+151,Monterey at California,35.285991,-120.654885
+152,Highland at Mt. Bishop,35.302551,-120.667580
+153,Highland at Cuesta (W.),35.298302,-120.677750
+154,Highland at Jeffrey,35.298307,-120.680706
+155,Patricia at Highland,35.297909,-120.683563
+156,Patricia at Foothill,35.294431,-120.683570
+157,Santa Rosa at Foothill,35.293108,-120.667762
+158,Santa Rosa at Murray (Santa Rosa Park),35.290016,-120.666656
+159,Downtown Transit Center,35.282734,-120.662285
+160,Higuera at Margarita (DMV),35.256448,-120.668861
+161,Prado at Elks,35.256266,-120.672809
+162,Dalidio at Froom Ranch,35.260210,-120.678875
+163,Madonna at Dalidio,35.261064,-120.680795
+166,Monterey at Grand (The Wayfarer),35.289255,-120.651033
+167,Nipomo at Higuera,35.278645,-120.666200
+168,Nipomo at Pismo,35.276046,-120.663900
+169,Monterey at La Cuesta Inn,35.290422,-120.649668

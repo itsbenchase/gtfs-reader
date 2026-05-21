@@ -13,6 +13,8 @@ cal;muni;Muni (San Francisco);https://api.511.org/transit/datafeeds?api_key=385f
 cal;ca-nctd;NCTD (San Diego);https://lfportal.nctd.org/staticGTFS/google_transit.zip
 cal;ca-octa;OCTA (San Diego);https://www.octa.net/current/google_transit.zip
 cal;samtrans;SamTrans (San Mateo);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SM
+cal;ca-slotransit;SLO Transit (San Luis Obispo);https://slocity.connexionz.net/rtt/public/resource/gtfs.zip
+cal;ca-slorta;SLORTA (San Luis Obispo);https://slo.connexionz.net/rtt/public/utility/gtfs.aspx
 cal;ca-vta;VTA (San Jose);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SC
 midwest;oh-cota;COTA (Columbus);http://www.cota.com/data/cota.gtfs.zip
 midwest;cta;CTA (Chicago);tba
@@ -73,7 +75,7 @@ south;fl-broward;Broward County Transit (Fort Lauderdale);https://www.broward.or
 south;capmetro;CapMetro (Austin);https://data.texas.gov/download/r4v4-vz24/application/zip
 south;nc-cats;CATS (Charlotte);https://gtfsrealtime.ridetransit.org/GTFSStatic/GTFS.zip
 south;tx-dart;DART (Dallas);http://www.dart.org/transitdata/latest/google_transit.zip
+south;okc;Embark (Oklahoma City);https://mna.mecatran.com/utw/ws/gtfsfeed/static/okc?apiKey=6a3b186a334d1e3e064f42782f6002520e60394c
 south;fl-hart;HART (Tampa);http://www.gohart.org/google/google_transit.zip
 south;marta;MARTA (Atlanta);https://itsmarta.com/google_transit_feed/google_transit.zip
 south;miami-dade;Miami-Dade Transit (Miami);https://www.miamidade.gov/transit/googletransit/current/google_transit.zip
-south;okc;Embark (Oklahoma City);https://mna.mecatran.com/utw/ws/gtfsfeed/static/okc?apiKey=6a3b186a334d1e3e064f42782f6002520e60394c
