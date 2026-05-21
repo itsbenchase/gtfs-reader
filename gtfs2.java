@@ -86,7 +86,6 @@ public class gtfs2
             {
                 String location = conn.getHeaderField("Location");
                 
-                // If the location is relative (starts with /), prepend the protocol and host
                 if (location.startsWith("/")) {
                     location = url.getProtocol() + "://" + url.getHost() + location;
                 }
@@ -102,13 +101,10 @@ public class gtfs2
                 conn.setRequestProperty("Referer", "https://www.google.com/");
             }
 
-            // 2. Create a temporary file that deletes itself when the program exits
-            // This is our "no clutter" insurance policy.
             Path tempFile = Files.createTempFile("gtfs_temp_", ".zip");
             File file = tempFile.toFile();
             file.deleteOnExit(); 
 
-            // 3. Download the stream to the temp file
             try (InputStream input = conn.getInputStream()) {
                 Files.copy(input, tempFile, StandardCopyOption.REPLACE_EXISTING);
             }
@@ -190,7 +186,6 @@ public class gtfs2
                     }
                 }
 
-                // --- PART 2: PROCESS CALENDAR_DATES.TXT ---
                 if (datesEntry != null) {
                     try (InputStream is = zipFile.getInputStream(datesEntry);
                         Scanner s = new Scanner(is)) {
@@ -240,7 +235,6 @@ public class gtfs2
                     }
                 }
 
-                // --- PART 3: LOAD ONLY VALID SERVICES ---
                 for (String id : activeInWindow) {
                     ServiceProfile p = masterMap.get(id);
                     if (p != null) {
@@ -280,23 +274,17 @@ public class gtfs2
                             else {
                                 String rawLine = s.nextLine();
                                 
-                                // 1. Split the RAW line using a limit of -1. 
-                                // This ensures empty columns (like "") don't get collapsed.
                                 String[] data = rawLine.split(",", -1);
 
-                                // 2. Clean only the specific piece of data you need
                                 String currentID = data[idIndex].replace("\"", "").trim();
                                 String currentShortName = data[nameIndex].replace("\"", "").trim();
                                 String currentLongName = data[fullIndex].replace("\"", "").trim();
 
-                                // Add the ID to your ID list
                                 routeID.add(currentID);
 
-                                // 3. Logic for the fallback
                                 if (currentShortName.length() > 0) {
                                     routeName.add(currentShortName); 
                                 } else {
-                                    // This will now correctly add "20", "30", etc.
                                     routeName.add(currentID); 
                                 }
                                 
@@ -338,22 +326,18 @@ public class gtfs2
                             else 
                             {
                                 String rawLine = s.nextLine();
-                                // Split with -1 to ensure we don't drop empty trailing columns
                                 String[] data = rawLine.split(",", -1);
 
-                                // Clean only the fields we need to check
                                 String serviceID = data[serviceIndex].replace("\"", "").trim();
                                 
                                 if (serviceIDcal.contains(serviceID)) {
                                     String routeIDtemp = data[routeIndex].replace("\"", "").trim();
                                     String tripID = data[tripIndex].replace("\"", "").trim();
                                     
-                                    // 1. Find the correct Route Name fallback
-                                    String finalRouteName = routeIDtemp; // Default fallback to the ID (20, 30, etc.)
+                                    String finalRouteName = routeIDtemp; // Default fallback to the ID
                                     
                                     for (int x = 0; x < routeID.size(); x++) {
                                         if (routeIDtemp.equals(routeID.get(x))) {
-                                            // If we found a match and the short name isn't empty, use it
                                             if (routeName.get(x).length() > 0) {
                                                 finalRouteName = routeName.get(x);
                                             }
@@ -361,12 +345,10 @@ public class gtfs2
                                         }
                                     }
                                     
-                                    // 2. Add to lists (Only once per trip!)
                                     routeIDtrip.add(finalRouteName);
                                     serviceIDtrip.add(serviceID);
                                     tripIDtrip.add(tripID);
 
-                                    // 3. Robust Headsign handling
                                     if (headsignIndex != -1 && headsignIndex < data.length) {
                                         String headsign = data[headsignIndex].replace("\"", "").trim();
                                         if (headsign.length() > 0) {
@@ -429,17 +411,14 @@ public class gtfs2
                                     if (index != null && columns[timeIndex].length() > 2) {
                                         String formattedTime;
                                         
-                                        // Your existing time formatting logic
                                         if (columns[timeIndex].substring(4, 5).equals(":")) {
                                             formattedTime = "0" + columns[timeIndex].substring(0, 4);
                                         } else {
                                             formattedTime = columns[timeIndex].substring(0, 5);
                                         }
 
-                                        // Add to our object list instead of 3 separate lists
                                         stopTimeList.add(new StopTime(tripID, formattedTime, columns[stopIndex]));
 
-                                        // Handle the headsign update as you were before
                                         if (stopHeadIndex != -1 && headsigntrip.get(index).equals("no headsign") && columns.length > stopHeadIndex && columns[stopHeadIndex].length() > 1) {
                                             headsigntrip.set(index, columns[stopHeadIndex]);
                                         }
@@ -455,7 +434,6 @@ public class gtfs2
 
                             stopTimeList.sort(Comparator.comparing(StopTime::getDepartureTime));
 
-                            // Optional: If you strictly need those original separate lists for the rest of your app:
                             for (StopTime st : stopTimeList) {
                                 tripIDtimes.add(st.tripId);
                                 departuretimes.add(st.departureTime);
@@ -543,30 +521,24 @@ public class gtfs2
                 serviceToDays.put(sId, daysAvailable);
             }
 
-            // --- STEP 2: GROUP STOP TIMES BY TRIP_ID (OUTSIDE LOOP) ---
-            // We use a Map of Lists so one TripID points to ALL its stops
             Map<String, List<String>> tripToStops = new HashMap<>();
             Map<String, List<String>> tripToTimes = new HashMap<>();
             
             for (int j = 0; j < tripIDtimes.size(); j++) {
                 String tId = tripIDtimes.get(j);
                 
-                // ComputeIfAbsent creates the list the first time it sees a Trip ID
                 tripToStops.computeIfAbsent(tId, k -> new ArrayList<>()).add(stopIDtimes.get(j));
                 tripToTimes.computeIfAbsent(tId, k -> new ArrayList<>()).add(departuretimes.get(j));
             }
 
-            // --- STEP 3: THE MAIN TRIP LOOP (NOW SUPER FAST) ---
             for (int i = 0; i < tripIDtrip.size(); i++) {
                 String currentTripId = tripIDtrip.get(i);
                 String currentServiceId = serviceIDtrip.get(i);
 
-                // Instant lookups from our pre-processed Maps
                 List<Integer> serviceDays = serviceToDays.getOrDefault(currentServiceId, new ArrayList<>());
                 List<String> stops = tripToStops.getOrDefault(currentTripId, new ArrayList<>());
                 List<String> times = tripToTimes.getOrDefault(currentTripId, new ArrayList<>());
 
-                // Write the data
                 tripFileWriter.write(currentTripId + ";" + 
                                 routeIDtrip.get(i) + ";" + 
                                 headsigntrip.get(i) + ";" + 
@@ -588,10 +560,8 @@ public class gtfs2
         // new route file - route_id, trip_ids, days of week
         try {
             File routeFile = new File("routes/" + agency + "_routes.txt");
-            // Use BufferedWriter for significantly better performance
             BufferedWriter writer = new BufferedWriter(new FileWriter(routeFile));
 
-            // 1. Pre-process Stop Times - Fixed for FIRST departure
             Map<String, String> tripToDeparture = new HashMap<>();
             for (int k = 0; k < tripIDtimes.size(); k++) {
                 // putIfAbsent ensures we keep the first occurrence (the earliest stop)
@@ -610,9 +580,7 @@ public class gtfs2
                 serviceToDays.put(sId, daysAvailable);
             }
 
-            // --- STEP 3: THE MAIN LOOP ---
             for (int i = 0; i < routeID.size(); i++) {
-                // Inside the route loop...
                 String targetRouteId = routeName.get(i);
                 List<TripData> tripList = new ArrayList<>();
 
@@ -624,18 +592,13 @@ public class gtfs2
                             String time = tripToDeparture.get(currentTripId);
                             List<Integer> days2 = serviceToDays.getOrDefault(serviceIDtrip.get(j), new ArrayList<>());
                             
-                            // Collect them as one unit
                             tripList.add(new TripData(currentTripId, time, days2));
                         }
                     }
                 }
 
-                // --- SORTING STEP ---
-                // This sorts the objects by the "time" string
                 tripList.sort((a, b) -> a.time.compareTo(b.time));
 
-                // --- WRITING STEP ---
-                // Now extract them back into the format you need for the file
                 List<String> sortedIDs = new ArrayList<>();
                 List<String> sortedTimes = new ArrayList<>();
                 List<List<Integer>> sortedDays = new ArrayList<>();
@@ -661,7 +624,6 @@ public class gtfs2
         // new stop file - id, name, lat, lon
         try {
             File stopsFile = new File("stops/" + agency + "_stops.txt");
-            // Use BufferedWriter for significantly better performance
             BufferedWriter writer = new BufferedWriter(new FileWriter(stopsFile));
 
             for (int i = 0; i < stopID.size(); i++)

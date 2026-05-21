@@ -16,7 +16,9 @@ public class Update
       while (s.hasNextLine())
       {
         String data = s.nextLine();
+        data = data.substring(data.indexOf(";") + 1); // skip region
         agencies.add(data.substring(0, data.indexOf(";")));
+        data = data.substring(data.indexOf(";") + 1); // skip name
         data = data.substring(data.indexOf(";") + 1);
         zips.add(data);
       }
@@ -28,8 +30,13 @@ public class Update
 
     for (int i = 0; i < agencies.size(); i++)
     {
-      gtfs2 g = new gtfs2(agencies.get(i), zips.get(i));
-      g.main(args);
+      // skip agencies with no feed link
+      if (zips.get(i).equals("tba")) { continue; }
+      else
+      {
+        gtfs2 g = new gtfs2(agencies.get(i), zips.get(i));
+        g.main(args);
+      }
     }
   }
 }

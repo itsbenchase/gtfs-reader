@@ -15,12 +15,12 @@ cal;ca-octa;OCTA (San Diego);https://www.octa.net/current/google_transit.zip
 cal;samtrans;SamTrans (San Mateo);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SM
 cal;ca-vta;VTA (San Jose);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SC
 midwest;oh-cota;COTA (Columbus);http://www.cota.com/data/cota.gtfs.zip
-midwest;cta;CTA (Chicago);
+midwest;cta;CTA (Chicago);tba
 midwest;mi-ddot;DDOT (Detroit);https://www.detroitmi.gov/Portals/0/docs/deptoftransportation/pdfs/ddot_gtfs.zip
 midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
 midwest;metrowi;Metro Transit (Madison);https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
 midwest;metromsp;Metro Transit (Twin Cities);https://svc.metrotransit.org/mtgtfs/gtfs.zip
-midwest;pace;Pace (Chicago);
+midwest;pace;Pace (Chicago);tba
 midwest;ridekc;RideKC (Kansas City);https://www.kc-metro.com/gtf/google_transit.zip
 midwest;clerta;RTA (Cleveland);https://www.riderta.com/sites/default/files/gtfs/latest/google_transit.zip
 midwest;mi-smart;SMART (Detroit);https://apps1.smartbus.org/gtfs/smart_gtfs.zip
@@ -33,10 +33,10 @@ midatl;va-ffx;Fairfax Connector (Fairfax, VA);https://www.fairfaxcounty.gov/conn
 midatl;va-hrt;HRT (Hampton Roads, VA);https://gtfs.gohrt.com/gtfs/google_transit.zip
 midatl;nfta;NFTA (Buffalo, NY);https://metro.nfta.com/__googletransit/google_transit.zip
 midatl;ny-nice;NICE (Nassau County);https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip
-midatl;njt;NJT (New Jersey);
+midatl;njt;NJT (New Jersey);tba
 midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
-midatl;septa;SEPTA (Philadelphia);
-midatl;wmata;WMATA (Washington);
+midatl;septa;SEPTA (Philadelphia);tba
+midatl;wmata;WMATA (Washington);tba
 west;wa-community;Community Transit (Everett, WA);https://www.soundtransit.org/GTFS-CT/current.zip
 west;wa-ctran;C-Tran (Vancouver, WA);https://mail.c-tran.com/images/Google/GoogleTransitUpload.zip
 west;wa-everett;Everett Transit (Everett, WA);https://gtfs.sound.obaweb.org/prod/97_gtfs.zip
@@ -47,21 +47,21 @@ west;wa-pierce;Pierce Transit (Tacoma, WA);https://www.soundtransit.org/GTFS-PT/
 west;sound;Sound Transit (Seattle);https://www.soundtransit.org/GTFS-rail/40_gtfs.zip
 west;hi-thebus;TheBus (Honolulu);https://www.thebus.org/transitdata/production/google_transit.zip
 west;trimet;TriMet (Portland);https://developer.trimet.org/schedule/gtfs.zip
-west;wta;WTA (Bellingham, WA);
+west;wta;WTA (Bellingham, WA);tba
 ne;ma-bat;BAT (Brockton);https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
 ne;ma-brta;BRTA (Berkshires);https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip
 ne;bsoob;BSOOB (Maine);https://gtfs.remix.com/bsoob_transit_biddeford_me_us.zip
 ne;ma-ccrta;CCRTA (Cape Cod);https://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip
 ne;nh-coast;COAST (Portsmouth);https://coastbus.org/sites/default/files/google_transit/google_transit.zip
-ne;cttransit;CTtransit (Connecticut);
+ne;cttransit;CTtransit (Connecticut);tba
 ne;ma-frta;FRTA (Greenfield);https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip
 ne;ct-gbt;GBT (Bridgeport, CT);https://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip
 ne;gpm;Greater Portland Metro (Portland);https://gtfs.gptd.cadavl.com/GPTD/GTFS/GTFS_GPTD.zip
-ne;lrta;LRTA (Lowell);
-ne;mbta;MBTA (Boston);
-ne;meva;MeVA (Lawrence / Haverhill);
-ne;nectd;NECTD (Putnam);
-ne;pvta;PVTA (Pioneer Valley);
+ne;lrta;LRTA (Lowell);tba
+ne;mbta;MBTA (Boston);tba
+ne;meva;MeVA (Lawrence / Haverhill);tba
+ne;nectd;NECTD (Putnam);tba
+ne;pvta;PVTA (Pioneer Valley);tba
 ne;ripta;RIPTA (Rhode Island);https://www.ripta.com/system/files/gtfs_file/RIPTA-GTFS.zip
 ne;ct-seat;SEAT (New London);https://gtfs.remix.com/seat_preston_ct_us.zip
 ne;ma-srta;SRTA (Fall River / New Bedford);https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
@@ -76,3 +76,4 @@ south;tx-dart;DART (Dallas);http://www.dart.org/transitdata/latest/google_transi
 south;fl-hart;HART (Tampa);http://www.gohart.org/google/google_transit.zip
 south;marta;MARTA (Atlanta);https://itsmarta.com/google_transit_feed/google_transit.zip
 south;miami-dade;Miami-Dade Transit (Miami);https://www.miamidade.gov/transit/googletransit/current/google_transit.zip
+south;okc;Embark (Oklahoma City);https://mna.mecatran.com/utw/ws/gtfsfeed/static/okc?apiKey=6a3b186a334d1e3e064f42782f6002520e60394c

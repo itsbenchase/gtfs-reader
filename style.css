@@ -78,6 +78,11 @@ a:hover
     text-decoration: none;
 }
 
+a.home
+{
+    color: #11ab2d;
+}
+
 a.route
 {
     color: red;
