@@ -60,7 +60,7 @@ ne;ma-frta;FRTA (Greenfield);https://data.trilliumtransit.com/gtfs/frta-ma-us/fr
 ne;ct-gbt;GBT (Bridgeport, CT);https://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip
 ne;gpm;Greater Portland Metro (Portland);https://gtfs.gptd.cadavl.com/GPTD/GTFS/GTFS_GPTD.zip
 ne;lrta;LRTA (Lowell);tba
-ne;mbta;MBTA (Boston);tba
+ne;mbta;MBTA (Boston);https://cdn.mbta.com/MBTA_GTFS.zip
 ne;meva;MeVA (Lawrence / Haverhill);tba
 ne;nectd;NECTD (Putnam);tba
 ne;pvta;PVTA (Pioneer Valley);tba
