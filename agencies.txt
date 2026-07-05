@@ -59,11 +59,12 @@ ne;cttransit;CTtransit (Connecticut);tba
 ne;ma-frta;FRTA (Greenfield);https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip
 ne;ct-gbt;GBT (Bridgeport, CT);https://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip
 ne;gpm;Greater Portland Metro (Portland);https://gtfs.gptd.cadavl.com/GPTD/GTFS/GTFS_GPTD.zip
-ne;lrta;LRTA (Lowell);tba
+ne;lrta;LRTA (Lowell);https://data.trilliumtransit.com/gtfs/lowell-ma-us/lowell-ma-us.zip
 ne;mbta;MBTA (Boston);https://cdn.mbta.com/MBTA_GTFS.zip
-ne;meva;MeVA (Lawrence / Haverhill);tba
+ne;meva;MeVA (Lawrence / Haverhill);https://data.trilliumtransit.com/gtfs/merrimackvalley-ma-us/merrimackvalley-ma-us.zip
+ne;ma-mwrta;MWRTA (Framingham);https://vc.mwrta.com/gtfs/google_transit.zip
 ne;nectd;NECTD (Putnam);tba
-ne;pvta;PVTA (Pioneer Valley);tba
+ne;pvta;PVTA (Pioneer Valley);https://www.pvta.com/g_trans/google_transit.zip
 ne;ripta;RIPTA (Rhode Island);https://www.ripta.com/system/files/gtfs_file/RIPTA-GTFS.zip
 ne;ct-seat;SEAT (New London);https://gtfs.remix.com/seat_preston_ct_us.zip
 ne;ma-srta;SRTA (Fall River / New Bedford);https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip
