@@ -6868,373 +6868,283 @@ Boat-Lovejoy,North Station/Lovejoy Wharf,42.36748,-71.06
 Boat-Quincy,Quincy,42.30188,-71.03187
 Boat-Rowes,Rowes Wharf,42.35558,-71.04902
 Boat-Winthrop,Winthrop Landing,42.36669,-70.97384
-place-CM-0493,Wareham Village,41.7604,-70.7171
 CM-0493-S,Wareham Village,41.7604,-70.7171
-place-CM-0547,Buzzards Bay,41.744805,-70.616226
 CM-0547-S,Buzzards Bay,41.744805,-70.616226
-place-CM-0564,Bourne,41.7464973,-70.5887722
 CM-0564-S,Bourne,41.7464973,-70.5887722
-place-CM-0790,Hyannis,41.660225,-70.276583
 CM-0790-S,Hyannis,41.660225,-70.276583
-place-DB-0095,Readville,42.238405,-71.133246
 DB-0095,Readville,42.238405,-71.133246
 DB-0095-B0,Readville - Lower Parking Lot,42.238773,-71.133271
 FB-0095-04,Readville,42.237769,-71.133569
 FB-0095-05,Readville,42.237781,-71.134295
 NEC-2192-02,Readville,42.238831,-71.133281
 NEC-2192-03,Readville,42.238864,-71.133433
-place-DB-2205,Fairmount,42.253638,-71.11927
 DB-2205,Fairmount,42.253638,-71.11927
 DB-2205-01,Fairmount,42.253638,-71.11927
 DB-2205-02,Fairmount,42.253638,-71.11927
 DB-2205-B0,Fairmount - Fairmount Ave opp Ramp,42.2537,-71.11933
 DB-2205-B1,Fairmount - Fairmount Ave @ Ramp,42.25362,-71.11946
-place-DB-2222,Blue Hill Avenue,42.271466,-71.095782
 DB-2222,Blue Hill Avenue,42.271466,-71.095782
 DB-2222-01,Blue Hill Avenue,42.271466,-71.095782
 DB-2222-02,Blue Hill Avenue,42.271466,-71.095782
 DB-2222-B0,Blue Hill Avenue - Blue Hill Ave @ Woodhaven St,42.27315,-71.093816
 DB-2222-B1,Blue Hill Avenue - Blue Hill Ave opp Woodhaven St,42.272976,-71.093404
-place-DB-2230,Morton Street,42.280994,-71.085475
 DB-2230,Morton Street,42.280994,-71.085475
 DB-2230-01,Morton Street,42.280994,-71.085475
 DB-2230-02,Morton Street,42.280994,-71.085475
 DB-2230-B0,Morton Street - Morton St @ Evans St,42.280886,-71.084654
 DB-2230-B1,Morton Street - Morton St opp Evans St,42.280779,-71.084621
-place-DB-2240,Talbot Avenue,42.292246,-71.07814
 DB-2240,Talbot Avenue,42.292246,-71.07814
 DB-2240-01,Talbot Avenue,42.292246,-71.07814
 DB-2240-02,Talbot Avenue,42.292246,-71.07814
 DB-2240-B0,Talbot Avenue - Talbot Ave opp Pick-up/Drop-off,42.291903,-71.077992
 DB-2240-B1,Talbot Avenue - Talbot Ave @ Pick-up/Drop-off,42.292015,-71.077978
-place-DB-2249,Four Corners/Geneva,42.305037,-71.076833
 DB-2249,Four Corners/Geneva,42.305037,-71.076833
 DB-2249-01,Four Corners/Geneva,42.303955,-71.077979
 DB-2249-02,Four Corners/Geneva,42.305692,-71.076096
 DB-2249-B2,Four Corners/Geneva - Opp 198 Geneva Ave,42.305093,-71.076623
 DB-2249-B3,Four Corners/Geneva - 198 Geneva Ave,42.305194,-71.076651
-place-DB-2258,Uphams Corner,42.319125,-71.068627
 DB-2258,Uphams Corner,42.319125,-71.068627
 DB-2258-01,Uphams Corner,42.319125,-71.068627
 DB-2258-02,Uphams Corner,42.319125,-71.068627
 DB-2258-B0,Uphams Corner - Dudley St @ Alexander St,42.31871,-71.069253
 DB-2258-B1,Uphams Corner - Dudley St @ Clifton St,42.318783,-71.069142
-place-DB-2265,Newmarket,42.327415,-71.065674
 DB-2265,Newmarket,42.327415,-71.065674
 DB-2265-01,Newmarket,42.327415,-71.065674
 DB-2265-02,Newmarket,42.327415,-71.065674
 DB-2265-B1,Newmarket - Newmarket Sq @ Massachusetts Ave,42.32755,-71.06588
-place-ER-0099,River Works,42.449927,-70.969848
 ER-0099,River Works,42.449927,-70.969848
 ER-0099-01,River Works,42.449927,-70.969848
 ER-0099-02,River Works,42.449927,-70.969848
-place-ER-0115,Lynn,42.462953,-70.945421
 14748,Lynn,42.461856,-70.945945
 ER-0115,Lynn,42.462953,-70.945421
 ER-0115-01,Lynn,42.462953,-70.945421
 ER-0115-02,Lynn,42.462953,-70.945421
-place-ER-0117,Lynn Interim,42.4652901,-70.9404344
 ER-0117-01,Lynn Interim,42.465397,-70.940001
 ER-0117-02,Lynn Interim,42.465165,-70.940878
-place-ER-0128,Swampscott,42.473743,-70.922537
 ER-0128,Swampscott,42.473743,-70.922537
 ER-0128-01,Swampscott,42.473743,-70.922537
 ER-0128-02,Swampscott,42.473743,-70.922537
 ER-0128-B0,Swampscott - Railroad Ave @ Burrill St,42.473543,-70.922023
 ER-0128-B1,Swampscott - Railroad Ave @ Pine St,42.47318,-70.92299
-place-ER-0168,Salem,42.524792,-70.895876
 37150,Salem,42.524714,-70.896477
 ER-0168-B,Salem - Busway,42.524495,-70.896899
 ER-0168-S,Salem,42.524792,-70.895876
-place-ER-0183,Beverly,42.547276,-70.885432
 ER-0183,Beverly,42.547276,-70.885432
 ER-0183-01,Beverly,42.547276,-70.885432
 ER-0183-02,Beverly,42.547276,-70.885432
 ER-0183-B,Beverly - Park St,42.547223,-70.885254
-place-ER-0208,North Beverly,42.583779,-70.883851
 ER-0208,North Beverly,42.583779,-70.883851
 ER-0208-01,North Beverly,42.583779,-70.883851
 ER-0208-02,North Beverly,42.583779,-70.883851
 ER-0208-B,North Beverly - Parking Lot,42.58379,-70.8839
 ER-0208-B0,North Beverly - Enon St @ Dodge St,42.583313,-70.88429
 ER-0208-B1,North Beverly - Enon St opp Dodge St,42.583264,-70.884463
-place-ER-0227,Hamilton/Wenham,42.609212,-70.874801
 ER-0227-B0,Hamilton/Wenham - Bay Rd opp Railroad Ave,42.610143,-70.874955
 ER-0227-B1,Hamilton/Wenham - Bay Rd @ Railroad Ave,42.610426,-70.874816
 ER-0227-S,Hamilton/Wenham,42.609212,-70.874801
-place-ER-0276,Ipswich,42.676921,-70.840589
 ER-0276-B,Ipswich - Saltonstall St @ Market St,42.677882,-70.840107
 ER-0276-S,Ipswich,42.676921,-70.840589
-place-ER-0312,Rowley,42.726845,-70.859034
 ER-0312-B,Rowley,42.727113,-70.859257
 ER-0312-S,Rowley,42.726845,-70.859034
-place-ER-0362,Newburyport,42.797837,-70.87797
 ER-0362,Newburyport,42.797837,-70.87797
 ER-0362-01,Newburyport,42.797837,-70.87797
 ER-0362-02,Newburyport,42.797837,-70.87797
 ER-0362-B,Newburyport - Route 1 Parking,42.797059,-70.877515
-place-FB-0109,Endicott,42.233249,-71.158647
 FB-0109,Endicott,42.233249,-71.158647
 FB-0109-01,Endicott,42.233249,-71.158647
 FB-0109-02,Endicott,42.233249,-71.158647
-place-FB-0118,Dedham Corporate Center,42.227079,-71.174254
 Dedham Corp Center-S,Dedham Corp Center,42.227079,-71.174254
 FB-0118,Dedham Corporate Center,42.227079,-71.174254
 FB-0118-01,Dedham Corporate Center,42.227079,-71.174254
 FB-0118-02,Dedham Corporate Center,42.227079,-71.174254
-place-FB-0125,Islington,42.22105,-71.183961
 FB-0125,Islington,42.22105,-71.183961
 FB-0125-01,Islington,42.22105,-71.183961
 FB-0125-02,Islington,42.22105,-71.183961
-place-FB-0143,Norwood Depot,42.196857,-71.196688
 FB-0143,Norwood Depot,42.196857,-71.196688
 FB-0143-01,Norwood Depot,42.196857,-71.196688
 FB-0143-02,Norwood Depot,42.196857,-71.196688
-place-FB-0148,Norwood Central,42.188775,-71.199665
 FB-0148,Norwood Central,42.188775,-71.199665
 FB-0148-01,Norwood Central,42.188775,-71.199665
 FB-0148-02,Norwood Central,42.188775,-71.199665
 Norwood Central-S,Norwood Central,42.18918,-71.20006
-place-FB-0166,Windsor Gardens,42.172127,-71.219366
 FB-0166-S,Windsor Gardens,42.172127,-71.219366
 Windsor Gardens-S,Windsor Gardens,42.172127,-71.219366
-place-FB-0177,Plimptonville,42.159123,-71.236125
 FB-0177-S,Plimptonville,42.159123,-71.236125
-place-FB-0191,Walpole,42.145477,-71.25779
 FB-0191-B,Walpole - North Parking Lot,42.145309,-71.257803
 FB-0191-S,Walpole,42.145548,-71.257646
-place-FB-0230,Norfolk,42.120694,-71.325217
 FB-0230-B,Norfolk - East Parking Lot,42.120474,-71.32447
 FB-0230-S,Norfolk,42.120694,-71.325217
-place-FB-0275,Franklin,42.083238,-71.396102
 FB-0275-B0,Franklin - E Central St @ Cottage St,42.08235,-71.396213
 FB-0275-B1,Franklin - Parking Lot,42.083443,-71.396111
 FB-0275-S,Franklin,42.083071,-71.396375
-place-FB-0303,Forge Park/495,42.089941,-71.43902
 13133,Forge Park/495 Station - Bus Shuttle,42.089822,-71.439085
 FB-0303-B,Forge Park/495 - South Parking Lot,42.089825,-71.439075
 FB-0303-S,Forge Park/495,42.089941,-71.43902
-place-FR-0064,Belmont,42.395896,-71.17619
 FR-0064,Belmont,42.395896,-71.17619
 FR-0064-01,Belmont,42.395896,-71.17619
 FR-0064-02,Belmont,42.395896,-71.17619
 FR-0064-B0,Belmont,42.396338,-71.176343
 FR-0064-B1,Belmont,42.396228,-71.176302
-place-FR-0074,Waverley,42.3876,-71.190744
 FR-0074,Waverley,42.3876,-71.190744
 FR-0074-01,Waverley,42.3876,-71.190744
 FR-0074-02,Waverley,42.3876,-71.190744
 FR-0074-B,Waverly,42.387511,-71.191096
-place-FR-0098,Waltham,42.374296,-71.235615
 FR-0098,Waltham,42.374296,-71.235615
 FR-0098-01,Waltham,42.373698,-71.238672
 FR-0098-B0,Waltham,42.374664,-71.235376
 FR-0098-B1,Waltham,42.374525,-71.235692
 FR-0098-S,Waltham,42.374296,-71.235615
-place-FR-0115,Brandeis/Roberts,42.361898,-71.260065
 FR-0115,Brandeis/Roberts,42.361898,-71.260065
 FR-0115-01,Brandeis/Roberts,42.361898,-71.260065
 FR-0115-02,Brandeis/Roberts,42.361898,-71.260065
 FR-0115-B0,Brandeis/Roberts,42.3622,-71.260587
 FR-0115-B1,Brandeis/Roberts,42.362233,-71.260361
-place-FR-0132,Kendal Green,42.37897,-71.282411
 FR-0132,Kendal Green,42.37897,-71.282411
 FR-0132-01,Kendal Green,42.37897,-71.282411
 FR-0132-02,Kendal Green,42.37897,-71.282411
-place-FR-0137,Hastings,42.385755,-71.289203
 FR-0137,Hastings,42.385755,-71.289203
 FR-0137-01,Hastings,42.385755,-71.289203
 FR-0137-02,Hastings,42.385755,-71.289203
-place-FR-0147,Silver Hill,42.395625,-71.302357
 FR-0147,Silver Hill,42.395625,-71.302357
 FR-0147-01,Silver Hill,42.395625,-71.302357
 FR-0147-02,Silver Hill,42.395625,-71.302357
-place-FR-0167,Lincoln,42.413641,-71.325512
 FR-0167,Lincoln,42.41342,-71.325404
 FR-0167-01,Lincoln,42.414983,-71.326462
 FR-0167-02,Lincoln,42.413641,-71.325512
 FR-0167-B,Lincoln,42.414846,-71.326243
-place-FR-0201,Concord,42.456565,-71.357677
 FR-0201,Concord,42.456565,-71.357677
 FR-0201-01,Concord,42.456565,-71.357677
 FR-0201-02,Concord,42.456565,-71.357677
 FR-0201-B0,Concord,42.45679,-71.357253
 FR-0201-B1,Concord,42.456678,-71.357301
-place-FR-0219,West Concord,42.457043,-71.392892
 FR-0219,West Concord,42.457043,-71.392892
 FR-0219-01,West Concord,42.457043,-71.392892
 FR-0219-02,West Concord,42.457043,-71.392892
 FR-0219-B,West Concord,42.456928,-71.394097
-place-FR-0253,South Acton,42.460375,-71.457744
 FR-0253,South Acton,42.460375,-71.457744
 FR-0253-01,South Acton,42.460375,-71.457744
 FR-0253-02,South Acton,42.460375,-71.457744
 FR-0253-B,South Acton,42.460524,-71.457814
-place-FR-0301,Littleton/Route 495,42.519236,-71.502643
 FR-0301,Littleton/Route 495,42.519236,-71.502643
 FR-0301-01,Littleton/Route 495,42.519236,-71.502643
 FR-0301-02,Littleton/Route 495,42.519236,-71.502643
 FR-0301-B,Littleton/Route 495,42.520092,-71.502629
-place-FR-0361,Ayer,42.559074,-71.588476
 FR-0361,Ayer,42.559074,-71.588476
 FR-0361-01,Ayer,42.559074,-71.588476
 FR-0361-02,Ayer,42.559074,-71.588476
 FR-0361-B0,Ayer,42.55996,-71.589507
 FR-0361-B1,Ayer,42.55977,-71.589267
-place-FR-0394,Shirley,42.545089,-71.648004
 FR-0394,Shirley,42.545089,-71.648004
 FR-0394-01,Shirley,42.545089,-71.648004
 FR-0394-02,Shirley,42.545089,-71.648004
 FR-0394-B0,Shirley - Front St @ Phoenix St,42.545003,-71.648064
 FR-0394-B1,Shirley - Front St @ Phoenix St,42.54485,-71.647958
-place-FR-0451,North Leominster,42.539017,-71.739186
 FR-0451,North Leominster,42.539017,-71.739186
 FR-0451-01,North Leominster,42.539017,-71.739186
 FR-0451-02,North Leominster,42.539017,-71.739186
 FR-0451-B,North Leominster - Busway,42.538727,-71.739104
-place-FR-0494,Fitchburg,42.58072,-71.792611
 FR-0494-B,Fitchburg - Intermodal Transportation Center,42.581041,-71.792811
 FR-0494-CS,Fitchburg,42.58072,-71.792611
-place-FR-3338,Wachusett,42.553477,-71.848488
 FR-3338-B,Wachusett - Parking Lot,42.553441,-71.8481267
 FR-3338-CS,Wachusett,42.553477,-71.848488
-place-FRS-0054,Freetown,41.773672,-71.090733
 FRS-0054-S,Freetown,41.773482,-71.091052
-place-FRS-0109,Fall River Depot,41.713982,-71.154182
 FRS-0109-S,Fall River Depot,41.713982,-71.154182
-place-FS-0049,Foxboro,42.0951,-71.26151
 FS-0049-S,Foxboro,42.0951,-71.26151
-place-GB-0198,Montserrat,42.562171,-70.869254
 GB-0198,Montserrat,42.562171,-70.869254
 GB-0198-01,Montserrat,42.562171,-70.869254
 GB-0198-02,Montserrat,42.562171,-70.869254
 GB-0198-B2,Montserrat - Essex St @ Parramatta Rd,42.561893,-70.86876
 GB-0198-B3,Montserrat - Essex St opp Parramatta Rd,42.561896,-70.868956
-place-GB-0222,Prides Crossing,42.559446,-70.825541
 GB-0222,Prides Crossing,42.559446,-70.825541
 GB-0222-01,Prides Crossing,42.559446,-70.825541
 GB-0222-02,Prides Crossing,42.559446,-70.825541
-place-GB-0229,Beverly Farms,42.561651,-70.811405
 GB-0229,Beverly Farms,42.561651,-70.811405
 GB-0229-01,Beverly Farms,42.561651,-70.811405
 GB-0229-02,Beverly Farms,42.561651,-70.811405
 GB-0229-B0,Beverly Farms - West St opp Oak St,42.561575,-70.812622
 GB-0229-B1,Beverly Farms - West St @ Oak St,42.561413,-70.812093
-place-GB-0254,Manchester,42.573687,-70.77009
 GB-0254,Manchester,42.573687,-70.77009
 GB-0254-01,Manchester,42.573687,-70.77009
 GB-0254-02,Manchester,42.573687,-70.77009
 GB-0254-B2,Manchester - 11 Summer St,42.574457,-70.768786
 Manchester-S,Manchester - Parking Lot,42.574016,-70.768962
-place-GB-0296,West Gloucester,42.611933,-70.705417
 GB-0296,West Gloucester,42.611933,-70.705417
 GB-0296-01,West Gloucester,42.611933,-70.705417
 GB-0296-02,West Gloucester,42.611933,-70.705417
 GB-0296-B0,West Gloucester - Essex Ave @ Lynwood Ave,42.611523,-70.70493
 GB-0296-B1,West Gloucester - Essex Ave opp Lynwood Ave,42.611626,-70.705014
 GB-0296-B2,West Gloucester - Parking Lot,42.611957,-70.70535
-place-GB-0316,Gloucester,42.616799,-70.668345
 GB-0316-B0,Gloucester,42.616435,-70.667627
 GB-0316-B1,Gloucester - Opp 24 Railroad Ave,42.61656,-70.66755
 GB-0316-S,Gloucester,42.616799,-70.668345
-place-GB-0353,Rockport,42.655491,-70.627055
 GB-0353-B,Rockport,42.656052,-70.626669
 GB-0353-S,Rockport,42.655491,-70.627055
-place-GRB-0118,Weymouth Landing/East Braintree,42.221503,-70.968152
 GRB-0118-S,Weymouth Landing/East Braintree,42.221503,-70.968152
-place-GRB-0146,East Weymouth,42.2191,-70.9214
 GRB-0146-S,East Weymouth,42.2191,-70.9214
-place-GRB-0162,West Hingham,42.235838,-70.902708
 GRB-0162-S,West Hingham,42.235838,-70.902708
-place-GRB-0183,Nantasket Junction,42.244959,-70.869205
 12000,Nantasket Junction Station,42.245089,-70.86815
 GRB-0183-S,Nantasket Junction,42.244959,-70.869205
-place-GRB-0199,Cohasset,42.24421,-70.837529
 GRB-0199-S,Cohasset,42.24421,-70.837529
-place-GRB-0233,North Scituate,42.219528,-70.788602
 GRB-0233-B,North Scituate,42.219761,-70.788884
 GRB-0233-S,North Scituate,42.219528,-70.788602
-place-GRB-0276,Greenbush,42.178776,-70.746641
 GRB-0276-B,Greenbush,42.1788,-70.746371
 GRB-0276-S,Greenbush,42.178776,-70.746641
-place-KB-0351,Kingston,41.97762,-70.721709
 KB-0351-B1,Kingston - Parking Lot,41.97777,-70.72169
 KB-0351-S,Kingston,41.97762,-70.721709
-place-MBS-0350,Middleborough,41.887,-70.923209
 MBS-0350-S,Middleborough,41.887,-70.923209
-place-MM-0150,Holbrook/Randolph,42.156343,-71.027371
 4255,Holbrook/Randolph,42.156334,-71.027588
 MM-0150-S,Holbrook/Randolph,42.156343,-71.027371
-place-MM-0186,Montello,42.106555,-71.022001
 39870,Montello,42.106726,-71.022045
 MM-0186,Montello,42.106555,-71.022001
 MM-0186-CS,Montello,42.106555,-71.022001
 MM-0186-S,Montello,42.106555,-71.022001
-place-MM-0200,Brockton,42.084659,-71.016534
 MM-0200,Brockton,42.084659,-71.016534
 MM-0200-CS,Brockton,42.084659,-71.016534
 MM-0200-S,Brockton,42.084659,-71.016534
-place-MM-0219,Campello,42.060951,-71.011004
 MM-0219-S,Campello,42.060951,-71.011004
-place-MM-0277,Bridgewater,41.984916,-70.96537
 MM-0277-S,Bridgewater,41.984916,-70.96537
-place-MM-0356,Lakeville,41.87821,-70.918444
 MM-0356-S,Lakeville,41.87821,-70.918444
-place-NB-0064,Roslindale Village,42.287442,-71.130283
 NB-0064-B0,Roslindale Village - Belgrade Ave @ Robert St,42.286921,-71.130665
 NB-0064-B1,Roslindale Village,42.286684,-71.13103
 NB-0064-B2,Roslindale Village - Corinth St @ Cohasset St,42.285956,-71.129553
 NB-0064-S,Roslindale Village,42.287442,-71.130283
-place-NB-0072,Bellevue,42.286588,-71.145557
 NB-0072-B,Bellevue,42.286765,-71.145682
 NB-0072-B0,Bellevue - Belgrade Ave @ Iona St,42.286077,-71.145052
 NB-0072-B1,Bellevue - Belgrade Ave @ McCraw St,42.285984,-71.145019
 NB-0072-S,Bellevue,42.286588,-71.145557
-place-NB-0076,Highland,42.284969,-71.153937
 NB-0076-B,Highland,42.285035,-71.154282
 NB-0076-B0,Highland - Centre St @ Corey St,42.286119,-71.155081
 NB-0076-B1,Highland - Centre St @ Corey St,42.286181,-71.15466
 NB-0076-S,Highland,42.284969,-71.153937
-place-NB-0080,West Roxbury,42.281358,-71.160065
 NB-0080-B0,West Roxbury,42.281487,-71.159678
 NB-0080-B1,West Roxbury,42.281377,-71.159686
 NB-0080-B2,West Roxbury - Centre St @ Lagrange St,42.280858,-71.158278
 NB-0080-B3,West Roxbury - Centre St @ Lagrange St,42.280826,-71.158096
 NB-0080-S,West Roxbury,42.281358,-71.160065
-place-NB-0109,Hersey,42.275648,-71.215528
 NB-0109-B0,Hersey,42.276121,-71.215341
 NB-0109-B1,Hersey,42.275926,-71.215243
 NB-0109-S,Hersey,42.275648,-71.215528
-place-NB-0120,Needham Junction,42.273187,-71.235559
 91852,Needham Junction,42.273039,-71.237947
 NB-0120-B0,Needham Junction,42.273341,-71.236062
 NB-0120-B1,Needham Junction,42.273275,-71.235835
 NB-0120-S,Needham Junction,42.273187,-71.235559
-place-NB-0127,Needham Center,42.280775,-71.237686
 NB-0127-B,Needham Center,42.280762,-71.237862
 NB-0127-B0,Needham Center - Chapel St @ Great Plain Ave,42.280372,-71.236875
 NB-0127-B1,Needham Center - Chestnut St @ Great Plain Ave,42.280087,-71.237058
 NB-0127-S,Needham Center,42.280775,-71.237686
-place-NB-0137,Needham Heights,42.293444,-71.236027
 NB-0137-B,Needham Heights,42.293373,-71.235923
 NB-0137-B0,Needham Heights - Highland Ave @ Mark Lee Rd,42.293995,-71.235193
 NB-0137-B1,Needham Heights - Highland Ave @ Avery Sq,42.294072,-71.235355
 NB-0137-S,Needham Heights,42.293444,-71.236027
-place-NBM-0374,East Taunton,41.868197,-71.061694
 NBM-0374,East Taunton,41.868197,-71.061694
 NBM-0374-01,East Taunton,41.868178,-71.061727
 NBM-0374-02,East Taunton,41.868213,-71.061671
-place-NBM-0523,Church Street,41.674308,-70.939322
 NBM-0523-S,Church Street,41.67433,-70.939126
-place-NBM-0546,New Bedford,41.643703,-70.9252
 NBM-0546-S,New Bedford,41.644306,-70.925211
-place-NEC-1659,Wickford Junction,41.581289,-71.491147
 NEC-1659-03,Wickford Junction,41.581289,-71.491147
 NEC-1659-B,Wickford Junction - Pick-up/Drop-off,41.581095,-71.49183
-place-NEC-1768,TF Green Airport,41.726599,-71.442453
 NEC-1768-03,TF Green Airport,41.726599,-71.442453
 NEC-1768-B,TF Green Airport - 700 Jefferson Blvd,41.727594,-71.443341
-place-NEC-1851,Providence,41.829293,-71.413301
 NEC-1851,Providence,41.829293,-71.413301
 NEC-1851-01,Providence,41.829293,-71.413301
 NEC-1851-02,Providence,41.829293,-71.413301
@@ -7243,32 +7153,23 @@ NEC-1851-05,Providence,41.829293,-71.413301
 NEC-1851-B0,Providence - Railroad St @ Providence Station,41.829073,-71.413033
 NEC-1851-B1,Providence - Gaspee St @ Providence Station,41.82929,-71.41377
 NEC-1851-B2,Providence - Gaspee St opp Providence Station,41.82941,-71.41391
-place-NEC-1891,Pawtucket/Central Falls,41.878762,-71.392
 NEC-1891,Pawtucket/Central Falls,41.878762,-71.392
 NEC-1891-01,Pawtucket/Central Falls,41.878804,-71.392048
 NEC-1891-02,Pawtucket/Central Falls,41.878721,-71.391959
 NEC-1891-B,Pawtucket/Central Falls - Transit Center,41.87853,-71.39181
-door-NEC-1891-barton,Barton St,,
-door-NEC-1891-pinebus,Buses,,
-door-NEC-1891-pinedrop,Pine St,,
-place-NEC-1919,South Attleboro,41.897943,-71.354621
 NEC-1919,South Attleboro,41.897943,-71.354621
 NEC-1919-01,South Attleboro,41.897943,-71.354621
 NEC-1919-02,South Attleboro,41.897943,-71.354621
-place-NEC-1969,Attleboro,41.940739,-71.285094
 NEC-1969,Attleboro,41.940739,-71.285094
 NEC-1969-03,Attleboro,41.940229,-71.285521
 NEC-1969-04,Attleboro,41.941732,-71.284214
 NEC-1969-B,Attleboro - Transit Center,41.94147,-71.28519
-place-NEC-2040,Mansfield,42.032787,-71.219917
 NEC-2040,Mansfield,42.032787,-71.219917
 NEC-2040-01,Mansfield,42.032787,-71.219917
 NEC-2040-02,Mansfield,42.032787,-71.219917
-place-NEC-2108,Sharon,42.124553,-71.184468
 NEC-2108,Sharon,42.124553,-71.184468
 NEC-2108-01,Sharon,42.124553,-71.184468
 NEC-2108-02,Sharon,42.124553,-71.184468
-place-NEC-2139,Canton Junction,42.163204,-71.15376
 16133,Canton Junction Station,42.163372,-71.153398
 61331,Canton Junction Station - Bus Shuttle,42.163372,-71.153398
 NEC-2139,Canton Junction,42.163204,-71.15376
@@ -7276,15 +7177,12 @@ NEC-2139-01,Canton Junction,42.162024,-71.153828
 NEC-2139-02,Canton Junction,42.162197,-71.153718
 SB-0150-04,Canton Junction,42.161746,-71.152837
 SB-0150-06,Canton Junction,42.163115,-71.153581
-place-NEC-2173,Route 128,42.210308,-71.147134
 NEC-2173,Route 128,42.210308,-71.147134
 NEC-2173-01,Route 128,42.210308,-71.147134
 NEC-2173-02,Route 128,42.210308,-71.147134
-place-NEC-2203,Hyde Park,42.25503,-71.125526
 NEC-2203,Hyde Park,42.25503,-71.125526
 NEC-2203-02,Hyde Park,42.25503,-71.125526
 NEC-2203-03,Hyde Park,42.25503,-71.125526
-place-NHRML-0055,West Medford,42.421776,-71.133342
 6303,High St @ Warren St - W Medford Sq,42.421129,-71.131224
 6316,High St @ Canal St - W Medford Sq,42.421059,-71.130609
 NHRML-0055,West Medford,42.421776,-71.133342
@@ -7292,121 +7190,89 @@ NHRML-0055-01,West Medford,42.422325,-71.133936
 NHRML-0055-02,West Medford,42.422221,-71.133987
 NHRML-0055-B0,West Medford - Playstead Rd @ Irving St,42.4218,-71.133027
 NHRML-0055-B1,West Medford - Playstead Rd opp Madison St,42.423177,-71.134641
-place-NHRML-0073,Wedgemere,42.444948,-71.140169
 NHRML-0073,Wedgemere,42.444948,-71.140169
 NHRML-0073-01,Wedgemere,42.444948,-71.140169
 NHRML-0073-02,Wedgemere,42.444948,-71.140169
 NHRML-0073-B,Wedgemere - Parking Lot,42.444724,-71.140463
-place-NHRML-0078,Winchester Center,42.451088,-71.13783
 NHRML-0078,Winchester Center,42.451088,-71.13783
 NHRML-0078-01,Winchester Center,42.451088,-71.13783
 NHRML-0078-02,Winchester Center,42.451088,-71.13783
-place-NHRML-0116,Mishawum,42.504402,-71.137618
 NHRML-0116,Mishawum,42.504402,-71.137618
 NHRML-0116-01,Mishawum,42.504402,-71.137618
 NHRML-0116-02,Mishawum,42.504402,-71.137618
-place-NHRML-0127,Anderson/Woburn,42.516987,-71.144475
 NHRML-0127,Anderson/Woburn,42.516987,-71.144475
 NHRML-0127-01,Anderson/Woburn,42.516987,-71.144475
 NHRML-0127-02,Anderson/Woburn,42.516987,-71.144475
 NHRML-0127-B,Anderson/Woburn - Busway,42.517604,-71.14387
-place-NHRML-0152,Wilmington,42.546624,-71.174334
 NHRML-0152,Wilmington,42.546624,-71.174334
 NHRML-0152-01,Wilmington,42.546624,-71.174334
 NHRML-0152-02,Wilmington,42.546624,-71.174334
 NHRML-0152-B,Wilmington - Parking Lot,42.5469479,-71.1743668
-place-NHRML-0218,North Billerica,42.593248,-71.280995
 NHRML-0218,North Billerica,42.593248,-71.280995
 NHRML-0218-01,North Billerica,42.593248,-71.280995
 NHRML-0218-02,North Billerica,42.593248,-71.280995
 NHRML-0218-B0,North Billerica - Billerica Ave @ East Parking Lot,42.5934182,-71.2797624
 NHRML-0218-B2,North Billerica - Station St @ West Parking Lot,42.592849,-71.281409
-place-NHRML-0254,Lowell,42.63535,-71.314543
 NHRML-0254,Lowell,42.63535,-71.314543
 NHRML-0254-03,Lowell,42.63535,-71.314543
 NHRML-0254-04,Lowell,42.63535,-71.314543
 NHRML-0254-B,Lowell - Busway,42.636561,-71.314554
-place-PB-0158,South Weymouth,42.155025,-70.953302
 PB-0158-S,South Weymouth,42.155025,-70.953302
 South Weymouth-S,South Weymouth,42.15482,-70.953304
-place-PB-0194,Abington,42.107156,-70.934405
 PB-0194-S,Abington,42.107156,-70.934405
-place-PB-0212,Whitman,42.082749,-70.923411
 PB-0212-S,Whitman,42.082749,-70.923411
-place-PB-0245,Hanson,42.043967,-70.882438
 PB-0245-S,Hanson,42.043967,-70.882438
-place-PB-0281,Halifax,42.014739,-70.824263
 PB-0281,Halifax,42.014739,-70.824263
 PB-0281-B0,Halifax - Parking Lot,42.01456,-70.82424
 PB-0281-CS,Halifax,42.014739,-70.824263
 PB-0281-S,Halifax,42.014739,-70.824263
-place-PB-0356,Plymouth,41.981278,-70.690421
 PB-0356-S,Plymouth,41.981278,-70.690421
-place-SB-0156,Canton Center,42.157095,-71.14628
 SB-0156-S,Canton Center,42.157095,-71.14628
-place-SB-0189,Stoughton,42.124084,-71.103627
 SB-0189-S,Stoughton,42.124084,-71.103627
-place-WML-0025,Lansdowne,42.347581,-71.099974
 WML-0025,Lansdowne,42.347581,-71.099974
 WML-0025-05,Lansdowne,42.347581,-71.099974
 WML-0025-07,Lansdowne,42.347581,-71.099974
-place-WML-0035,Boston Landing,42.357293,-71.139883
 WML-0035,Boston Landing,42.357293,-71.139883
 WML-0035-01,Boston Landing,42.357293,-71.139883
 WML-0035-02,Boston Landing,42.357293,-71.139883
 WML-0035-B,Boston Landing,42.357313,-71.141258
-place-WML-0081,Newtonville,42.351702,-71.205408
 WML-0081-02,Newtonville,42.351702,-71.205408
-place-WML-0091,West Newton,42.347878,-71.230528
 WML-0091-02,West Newton,42.347878,-71.230528
-place-WML-0102,Auburndale,42.345833,-71.250373
 WML-0102-02,Auburndale,42.345833,-71.250373
-place-WML-0125,Wellesley Farms,42.323608,-71.272288
 WML-0125,Wellesley Farms,42.323608,-71.272288
 WML-0125-01,Wellesley Farms,42.323608,-71.272288
 WML-0125-02,Wellesley Farms,42.323608,-71.272288
-place-WML-0135,Wellesley Hills,42.31037,-71.277044
 WML-0135,Wellesley Hills,42.31037,-71.277044
 WML-0135-01,Wellesley Hills,42.31037,-71.277044
 WML-0135-02,Wellesley Hills,42.31037,-71.277044
-place-WML-0147,Wellesley Square,42.297526,-71.294173
 WML-0147,Wellesley Square,42.297526,-71.294173
 WML-0147-01,Wellesley Square,42.296963,-71.295709
 WML-0147-02,Wellesley Square,42.296559,-71.296746
-place-WML-0177,Natick Center,42.285719,-71.347133
 WML-0177,Natick Center,42.285719,-71.347133
 WML-0177-01,Natick Center,42.285719,-71.347133
 WML-0177-02,Natick Center,42.285719,-71.347133
-place-WML-0199,West Natick,42.283064,-71.391797
 WML-0199,West Natick,42.283064,-71.391797
 WML-0199-01,West Natick,42.283064,-71.391797
 WML-0199-02,West Natick,42.283064,-71.391797
-place-WML-0214,Framingham,42.276108,-71.420055
 WML-0214,Framingham,42.276108,-71.420055
 WML-0214-01,Framingham,42.276108,-71.420055
 WML-0214-02,Framingham,42.276108,-71.420055
 WML-0214-B,Framingham - Waverly St @ Framingham Station,42.276009,-71.419555
-place-WML-0252,Ashland,42.26149,-71.482161
 WML-0252,Ashland,42.26149,-71.482161
 WML-0252-01,Ashland,42.26149,-71.482161
 WML-0252-02,Ashland,42.26149,-71.482161
 WML-0252-B,Ashland - South Parking Lot,42.261426,-71.482251
-place-WML-0274,Southborough,42.267024,-71.524371
 WML-0274,Southborough,42.267024,-71.524371
 WML-0274-01,Southborough,42.267024,-71.524371
 WML-0274-02,Southborough,42.267024,-71.524371
-place-WML-0340,Westborough,42.269644,-71.647076
 WML-0340,Westborough,42.269644,-71.647076
 WML-0340-01,Westborough,42.269644,-71.647076
 WML-0340-02,Westborough,42.269644,-71.647076
-place-WML-0364,Grafton,42.2466,-71.685325
 WML-0364,Grafton,42.2466,-71.685325
 WML-0364-01,Grafton,42.2466,-71.685325
 WML-0364-02,Grafton,42.2466,-71.685325
-place-WML-0442,Worcester,42.261291,-71.794927
 WML-0442-B,Worcester Union Station - Bus Terminal Bays 1-3,42.261444,-71.795707
 WML-0442-CS,Worcester,42.261056,-71.794428
-place-WR-0062,Wyoming Hill,42.451731,-71.069379
 WR-0062,Wyoming Hill,42.451731,-71.069379
 WR-0062-01,Wyoming Hill,42.451731,-71.069379
 WR-0062-02,Wyoming Hill,42.451731,-71.069379
@@ -7414,62 +7280,50 @@ WR-0062-B0,Wyoming Hill - Pleasant St @ W Wyoming Ave,42.45191,-71.070114
 WR-0062-B1,Wyoming Hill - W Wyoming Ave @ Wyoming Hill Station,42.451973,-71.069511
 WR-0062-B2,Wyoming Hill - Main St @ E Wyoming Ave,42.451734,-71.067239
 WR-0062-B3,Wyoming Hill - Main St @ W Wyoming Ave,42.451565,-71.067473
-place-WR-0067,Melrose/Cedar Park,42.458768,-71.069789
 WR-0067,Melrose/Cedar Park,42.458768,-71.069789
 WR-0067-01,Melrose/Cedar Park,42.458768,-71.069789
 WR-0067-02,Melrose/Cedar Park,42.458768,-71.069789
 WR-0067-B0,Melrose/Cedar Park - Essex St @ W Emerson St,42.45892,-71.06932
 WR-0067-B1,Melrose/Cedar Park - Tremont St @ W Emerson St,42.45925,-71.0695
-place-WR-0075,Melrose Highlands,42.469464,-71.068297
 WR-0075,Melrose Highlands,42.469464,-71.068297
 WR-0075-01,Melrose Highlands,42.469464,-71.068297
 WR-0075-02,Melrose Highlands,42.469464,-71.068297
 WR-0075-B0,Melrose Highlands - Franklin St @ Belmont St,42.468846,-71.068945
 WR-0075-B1,Melrose Highlands - Franklin St opp Marvin Rd,42.468743,-71.068381
 WR-0075-B2,Melrose Highlands - Nason Dr @ Belmont St,42.469786,-71.068366
-place-WR-0085,Greenwood,42.483005,-71.067247
 WR-0085,Greenwood,42.483005,-71.067247
 WR-0085-01,Greenwood,42.483005,-71.067247
 WR-0085-02,Greenwood,42.483005,-71.067247
 WR-0085-B0,Greenwood - Main St @ Walton Pl,42.484284,-71.067731
 WR-0085-B1,Greenwood - Main St @ Forest St,42.484184,-71.06779
-place-WR-0099,Wakefield,42.502126,-71.075566
 WR-0099,Wakefield,42.502126,-71.075566
 WR-0099-01,Wakefield,42.502126,-71.075566
 WR-0099-02,Wakefield,42.502126,-71.075566
 WR-0099-B0,Wakefield - North Ave @ Chestnut St,42.502715,-71.075737
 WR-0099-B1,Wakefield - North Ave @ Chestnut St,42.502661,-71.07588
-place-WR-0120,Reading,42.52221,-71.108294
 WR-0120-B,Reading - Lincoln St @ Prescott St,42.521793,-71.107921
 WR-0120-S,Reading,42.52221,-71.108294
-place-WR-0163,North Wilmington,42.571073,-71.160939
 WR-0163-B0,North Wilmington - 379 Middlesex Ave,42.569361,-71.159119
 WR-0163-B1,North Wilmington - Opp 279 Middlesex Ave,42.569402,-71.159299
 WR-0163-S,North Wilmington,42.571073,-71.160939
-place-WR-0205,Ballardvale,42.627356,-71.159962
 WR-0205-02,Ballardvale,42.627356,-71.159962
 WR-0205-B0,Ballardvale - Andover St opp Tewksbury St,42.626948,-71.160238
 WR-0205-B1,Ballardvale - Andover St @ Tewksbury St,42.626816,-71.160209
 WR-0205-B2,Ballardvale - Parking Lot,42.627691,-71.159803
-place-WR-0228,Andover,42.658336,-71.144502
 WR-0228-02,Andover,42.658336,-71.144502
 WR-0228-B0,Andover - Railroad St opp Amici Way,42.65796,-71.144712
 WR-0228-B1,Andover - Railroad St @ Amici Way,42.65817,-71.144893
-place-WR-0264,Lawrence,42.701806,-71.15198
 WR-0264-01,Lawrence,42.701806,-71.15198
 WR-0264-02,Lawrence,42.701806,-71.15198
 WR-0264-B2,Lawrence - Busway,42.701961,-71.152442
-place-WR-0325,Bradford,42.766912,-71.088411
 WR-0325,Bradford,42.766912,-71.088411
 WR-0325-01,Bradford,42.766912,-71.088411
 WR-0325-02,Bradford,42.766912,-71.088411
 WR-0325-B,Bradford - Parking Lot,42.766954,-71.088467
-place-WR-0329,Haverhill,42.773474,-71.086237
 WR-0329,Haverhill,42.773474,-71.086237
 WR-0329-01,Haverhill,42.773474,-71.086237
 WR-0329-02,Haverhill,42.773474,-71.086237
 WR-0329-B,Haverhill - Parking Lot,42.773574,-71.086418
-place-alfcl,Alewife,42.39583,-71.141287
 14112,Alewife,42.395325,-71.141439
 14118,Alewife,42.396228,-71.141735
 14120,Alewife,42.3958,-71.141524
@@ -7480,23 +7334,13 @@ place-alfcl,Alewife,42.39583,-71.141287
 9070061,Alewife,42.396091,-71.141886
 Alewife-01,Alewife,42.396218,-71.1407
 Alewife-02,Alewife,42.396071,-71.140695
-door-alfcl-cambridgepark,Cambridgepark Dr,,
-door-alfcl-pathbusway,Buses,,
-door-alfcl-steel,Steel Place,,
-place-alsgr,Allston Street,42.348701,-71.137955
 70126,Allston Street,42.348649,-71.137881
 70127,Allston Street,42.348546,-71.137362
-place-amory,Amory Street,42.350992,-71.114748
 170140,Amory Street,42.350901,-71.114318
 170141,Amory Street,42.351066,-71.115027
-door-amory-ebbuick,Buick St,,
-door-amory-wbbuick,Buick St,,
-place-andrw,Andrew,42.330154,-71.057655
 13,Andrew,42.329962,-71.057625
 70083,Andrew,42.330154,-71.057655
 70084,Andrew,42.330154,-71.057655
-door-andrw-dotave,Street,,
-place-aport,Airport,42.374262,-71.030395
 70047,Airport,42.374262,-71.030395
 70048,Airport,42.374262,-71.030395
 7096,Airport,42.3745,-71.029541
@@ -7504,45 +7348,20 @@ place-aport,Airport,42.374262,-71.030395
 7097,Airport,42.374304,-71.029726
 9070047,Airport,42.374955,-71.029323
 9170047,Airport,42.373878,-71.029861
-door-aport-buses,1 | Silver Line - SL3,,
-node-aport-ebpaidstairs-bridge,Airport,,42.374241
-node-aport-ebpaidstairs-platform,Airport,,42.374156
-node-aport-wbpaidstairs-bridge,Airport,,42.374479
-node-aport-wbpaidstairs-platform,Airport,,42.374431
-place-aqucl,Aquarium,42.359784,-71.051652
 70043,Aquarium,42.359784,-71.051652
 70044,Aquarium,42.359784,-71.051652
-place-armnl,Arlington,42.351902,-71.070893
 70156,Arlington,42.351902,-71.070893
 70157,Arlington,42.351902,-71.070893
-door-armnl-elevator,Elevator,,
-place-asmnl,Ashmont,42.28452,-71.063777
 334,Ashmont,42.284195,-71.063879
 70093,Ashmont,42.284508,-71.063833
 70094,Ashmont,42.28453,-71.063725
 70261,Ashmont,42.283768,-71.063191
-node-437-lobby,Ashmont,,42.284978
-node-437-platform,Ashmont,,42.28491
-node-438-lobby,Ashmont,,42.284065
-node-438-platform,Ashmont,,42.284128
-node-969-lobby,Ashmont,,42.284205
-node-969-platform,Ashmont,,42.284205
-node-970-lobby,Ashmont,,
-node-970-platform,Ashmont,,
-node-asmnl-mtpnbstair-lobby,Ashmont,,42.284137
-node-asmnl-mtpnbstair-platform,Ashmont,,42.284219
-place-astao,Assembly,42.392811,-71.077257
 70278,Assembly,42.392331,-71.077262
 70279,Assembly,42.392336,-71.07718
-place-babck,Babcock Street,42.351616,-71.119924
 170136,Babcock Street,42.351538,-71.119553
 170137,Babcock Street,42.351695,-71.120257
-door-babck-ebagganis,Harry Agganis Way,,
-door-babck-wbagganis,Harry Agganis Way,,
-place-balsq,Ball Square,42.399889,-71.111003
 70509,Ball Square,42.40038,-71.111331
 70510,Ball Square,42.400103,-71.111207
-place-bbsta,Back Bay,42.34735,-71.075727
 23391,Back Bay,42.347441,-71.074592
 70014,Back Bay,42.34735,-71.075727
 70015,Back Bay,42.34735,-71.075727
@@ -7553,57 +7372,35 @@ NEC-2276-03,Back Bay,42.347283,-71.075312
 NEC-2276-B,Back Bay,42.347497,-71.075894
 WML-0012-05,Back Bay,42.34759,-71.075393
 WML-0012-07,Back Bay,42.34759,-71.075393
-door-bbsta-buswayn,Clarendon St,,
-door-bbsta-busways,Clarendon St,,
-door-bbsta-clarcolum,Clarendon St,,
-place-bckhl,Back of the Hill,42.330139,-71.111313
 70257,Back of the Hill,42.329369,-71.111046
 70258,Back of the Hill,42.329399,-71.110931
-place-bcnfd,Beaconsfield,42.335765,-71.140455
 70176,Beaconsfield,42.335625,-71.140112
 70177,Beaconsfield,42.335912,-71.140903
-door-bcnfd-dean,Dean Rd,,
-node-bcnfd-stairs-platform,Beaconsfield,,42.336041
-place-bcnwa,Washington Square,42.339394,-71.13533
 70229,Washington Square,42.339471,-71.135139
 70230,Washington Square,42.339519,-71.134587
-place-belsq,Bellingham Square,42.395438,-71.033884
 74632,Bellingham Square,42.395328,-71.033291
 74633,Bellingham Square,42.395638,-71.034599
 ER-0042-B,Chelsea,42.395781,-71.034536
-place-bland,Blandford Street,42.349293,-71.100258
 70148,Blandford Street,42.349165,-71.099821
 70149,Blandford Street,42.349276,-71.100213
-place-bmmnl,Beachmont,42.3975423,-70.9923194
 70055,Beachmont,42.397219,-70.992647
 70056,Beachmont,42.397204,-70.992551
-place-bndhl,Brandon Hall,42.340023,-71.129082
 70225,Brandon Hall,42.340053,-71.128869
 70226,Brandon Hall,42.340038,-71.12866
-place-bomnl,Bowdoin,42.361365,-71.062037
 70038,Bowdoin,42.361365,-71.062037
 70838,Bowdoin,42.361365,-71.062037
-place-boxdt,Box District,42.394049,-71.028365
 74634,Box District,42.394018,-71.028439
 74635,Box District,42.394168,-71.028452
-place-boyls,Boylston,42.35302,-71.06459
 70158,Boylston,42.352531,-71.064682
 70159,Boylston,42.353214,-71.064545
-door-boyls-inbound,Boston Common,,
-door-boyls-outbound,Boston Common,,
-place-brdwy,Broadway,42.342622,-71.056967
 70081,Broadway,42.342622,-71.056967
 70082,Broadway,42.342622,-71.056967
-place-brico,Packard's Corner,42.351967,-71.125031
 70134,Packard's Corner,42.351891,-71.125067
 70135,Packard's Corner,42.351651,-71.12551
-place-brkhl,Brookline Hills,42.331316,-71.126683
 70178,Brookline Hills,42.331293,-71.126406
 70179,Brookline Hills,42.331413,-71.127025
-place-brmnl,Brigham Circle,42.334229,-71.104609
 70249,Brigham Circle,42.334331,-71.104487
 70250,Brigham Circle,42.334846,-71.103017
-place-brntn,Braintree,42.2078543,-71.0011385
 38671,Braintree,42.206892,-71.00129
 70105,Braintree,42.207424,-71.001645
 Braintree-01,Braintree,42.207428,-71.0016
@@ -7611,142 +7408,77 @@ Braintree-02,Braintree,42.207428,-71.001704
 MM-0109,Braintree,42.209959,-71.001053
 MM-0109-CS,Braintree,42.209961,-71.001031
 MM-0109-S,Braintree,42.209964,-71.001088
-door-brntn-busway,Garage, Buses, Ivory St
-door-brntn-faregates,Garage, Buses, Union St
-place-bucen,Boston University Central,42.350082,-71.106865
 70144,Boston University Central,42.350013,-71.106902
 70145,Boston University Central,42.350148,-71.107455
-place-buest,Boston University East,42.349735,-71.103889
 70146,Boston University East,42.349659,-71.103989
 70147,Boston University East,42.349811,-71.104657
-place-butlr,Butler,42.272429,-71.062519
 70265,Butler,42.272449,-71.062513
 70266,Butler,42.272477,-71.062438
-door-butlr-bearse,Bearse Ave,,
-door-butlr-branchfield,Branchfield St,,
-place-bvmnl,Brookline Village,42.332608,-71.116857
 70180,Brookline Village,42.332614,-71.116751
 70181,Brookline Village,42.33257,-71.117041
-door-bvmnl-boylston,Buses,,
-door-bvmnl-kent,Station St,,
-door-bvmnl-washington,Station St,,
-place-capst,Capen Street,42.267563,-71.087338
 70273,Capen Street,42.267589,-71.087139
 70274,Capen Street,42.267563,-71.087338
-place-ccmnl,Community College,42.373622,-71.069533
 70028,Community College,42.373622,-71.069533
 70029,Community College,42.373622,-71.069533
-door-ccmnl-main,Community College,,
-place-cedgr,Cedar Grove,42.279629,-71.060394
 70263,Cedar Grove,42.279546,-71.060392
 70264,Cedar Grove,42.279693,-71.060381
-place-cenav,Central Avenue,42.270027,-71.073444
 70269,Central Avenue,42.270054,-71.073523
 70270,Central Avenue,42.270001,-71.073358
-door-cenav-mattapan,Central Ave (North),,
-place-chels,Chelsea,42.397024,-71.041314
 74630,Chelsea,42.396661,-71.04029
 74631,Chelsea,42.39682,-71.040437
 ER-0042,Chelsea,42.397222,-71.04229
 ER-0042-01,Chelsea,42.397222,-71.04229
 ER-0042-02,Chelsea,42.397336,-71.042409
-door-chels-crnorthever,Everett Ave,,
-door-chels-mall,Buses 112,,
-place-chhil,Chestnut Hill,42.326753,-71.164699
 70172,Chestnut Hill,42.326799,-71.164146
 70173,Chestnut Hill,42.326782,-71.16478
-door-chhil-bc,Shopping Center,,
-door-chhil-museum,Brimmer and May,,
-place-chill,Chestnut Hill Avenue,42.338169,-71.15316
 70112,Chestnut Hill Avenue,42.33873,-71.152526
 70113,Chestnut Hill Avenue,42.33829,-71.153025
-place-chmnl,Charles/MGH,42.361166,-71.070628
 70073,Charles/MGH,42.361187,-71.071505
 70074,Charles/MGH,42.361263,-71.071602
-door-chmnl-main,Beacon Hill, Esplanade, Hospitals
-place-chncl,Chinatown,42.352547,-71.062752
 70018,Chinatown,42.352547,-71.062752
 70019,Chinatown,42.352547,-71.062752
-door-chncl-fhelevator,Washington St,,
-door-chncl-foresthills,Washington St,,
-door-chncl-ogessex,Washington St,,
-place-chswk,Chiswick Road,42.340805,-71.150711
 70114,Chiswick Road,42.340808,-71.150633
 70115,Chiswick Road,42.34054,-71.15114
-place-clmnl,Cleveland Circle,42.336142,-71.149326
 70237,Cleveland Circle,42.336216,-71.149201
 70238,Cleveland Circle,42.336252,-71.148774
-place-cntsq,Central,42.365486,-71.103802
 70069,Central,42.365304,-71.103621
 70070,Central,42.365379,-71.103554
-place-coecl,Copley,42.349974,-71.077447
 70154,Copley,42.349871,-71.078049
-70155,Copley,Kenmore & West, Heath Street
-door-coecl-church,Dartmouth St,,
-place-conrd,Silver Line Way,42.347154,-71.038385
+70155,Copley,42.350126,-71.077376
 74614,Silver Line Way,42.347241,-71.038801
 74624,Silver Line Way,42.347066,-71.037969
-place-cool,Coolidge Corner,42.342116,-71.121263
 70219,Coolidge Corner,42.342274,-71.120915
 70220,Coolidge Corner,42.342028,-71.121685
-place-crtst,Courthouse,42.35245,-71.04685
 74612,Courthouse,42.352161,-71.046469
 74616,Courthouse,42.352329,-71.046342
-place-davis,Davis,42.39674,-71.121815
 5104,Davis,42.396646,-71.121879
 70063,Davis,42.39674,-71.121815
 70064,Davis,42.39674,-71.121815
-door-davis-busway,College Ave, Tufts University, Buses
-door-davis-holland,Holland St,,
-place-denrd,Dean Road,42.337807,-71.141853
 70233,Dean Road,42.337807,-71.141753
 70234,Dean Road,42.337628,-71.142309
-place-dwnxg,Downtown Crossing,42.355518,-71.060225
 70020,Downtown Crossing,42.355518,-71.060225
 70021,Downtown Crossing,42.355518,-71.060225
 70077,Downtown Crossing,42.355518,-71.060225
 70078,Downtown Crossing,42.355518,-71.060225
-door-dwnxg-101arch,101 Arch St,,
-door-dwnxg-summer,Washington St,,
-door-dwnxg-summereast,Summer St,,
-door-dwnxg-temple,Temple Place,,
-door-dwnxg-winter,Washington St,,
-node-365-middle,Downtown Crossing,,
-node-892-lobby,Downtown Crossing,,
-node-dwnxg-stair10-lobby,Downtown Crossing,,
-node-dwnxg-stair10-middle,Downtown Crossing,,
-node-dwnxg-stair12-middle,Downtown Crossing,,
-place-eliot,Eliot,42.319045,-71.216684
 70166,Eliot,42.318871,-71.21642
 70167,Eliot,42.319214,-71.216949
-door-eliot-lincoln,Lincoln St,,
-place-engav,Englewood Avenue,42.336971,-71.14566
 70235,Englewood Avenue,42.336964,-71.145867
 70236,Englewood Avenue,42.337011,-71.145368
-place-esomr,East Somerville,42.379467,-71.086625
 70513,East Somerville,42.379881,-71.087032
 70514,East Somerville,42.379624,-71.086829
-place-estav,Eastern Avenue,42.388374,-71.023859
 74636,Eastern Avenue,42.388403,-71.02409
 74637,Eastern Avenue,42.388476,-71.023829
-place-fbkst,Fairbanks Street,42.339725,-71.131073
 70227,Fairbanks Street,42.33969,-71.131228
 70228,Fairbanks Street,42.339644,-71.131078
-place-fenwd,Fenwood Road,42.333706,-71.105728
 70251,Fenwood Road,42.33374,-71.105721
 70252,Fenwood Road,42.333706,-71.105583
-place-fenwy,Fenway,42.345403,-71.104213
 70186,Fenway,42.345328,-71.104269
 70187,Fenway,42.345029,-71.104968
-door-fenwy-longwood,Fenway Park, Park Dr, Longwood
-place-fldcr,Fields Corner,42.300093,-71.061667
 32301,Fields Corner,42.299774,-71.062396
 32302,Fields Corner,42.300011,-71.061485
 32303,Fields Corner,42.300142,-71.060923
 70089,Fields Corner,42.299993,-71.062021
 70090,Fields Corner,42.299935,-71.061945
-door-fldcr-busway,Busway,,
-place-forhl,Forest Hills,42.300713,-71.113943
 10642,Forest Hills,42.29985,-71.114261
 70001,Forest Hills,42.300926,-71.114129
 875,Forest Hills,42.300479,-71.113634
@@ -7755,48 +7487,21 @@ Forest Hills-02,Forest Hills,42.300972,-71.114283
 NEC-2237,Forest Hills,42.301085,-71.113551
 NEC-2237-03,Forest Hills,42.301065,-71.113491
 NEC-2237-05,Forest Hills,42.301105,-71.113625
-door-forhl-arborway,Arborway,Arborway, Arnold Arboretum
-door-forhl-lowern,Hyde Park Ave, West Roxbury Court, Franklin Park/Zoo (North)
-door-forhl-lowers,Hyde Park Ave, West Roxbury Court, Franklin Park/Zoo (South)
-door-forhl-south,Arborway,,
-node-724-lobby,Forest Hills,,42.301657
-node-724-platform,Forest Hills,,42.301657
-node-forhl-southstairs-lobby,Forest Hills,,42.301794
-node-forhl-southstairs-platform,Forest Hills,,42.301714
-place-gilmn,Gilman Square,42.387928,-71.096766
 70505,Gilman Square,42.388043,-71.096956
 70506,Gilman Square,42.387831,-71.096629
-place-gover,Government Center,42.359705,-71.059215
 70039,Government Center,42.359705,-71.059215
 70040,Government Center,42.359705,-71.059215
 70201,Government Center,42.359705,-71.059215
 70202,Government Center,42.359705,-71.059215
 Government Center-Brattle,Government Center,42.359705,-71.059215
-place-grigg,Griggs Street,42.348545,-71.134949
 70128,Griggs Street,42.348747,-71.1345
 70129,Griggs Street,42.348919,-71.134305
-place-grnst,Green Street,42.310525,-71.107414
 70002,Green Street,42.309832,-71.108059
 70003,Green Street,42.309796,-71.107988
-door-grnst-main,Woolsey Sq, Green St, Amory St
-place-haecl,Haymarket,42.363021,-71.05829
 70024,Haymarket,42.363021,-71.05829
 70025,Haymarket,42.363021,-71.05829
 70203,Haymarket,42.363021,-71.05829
 70204,Haymarket,42.363021,-71.05829
-door-haecl-busway,RMV, Sudbury St, New Chardon St
-door-haecl-congress,RMV, City Hall, Faneuil Hall Marketplace
-node-905-passage,Haymarket,,
-node-905-platform,Haymarket,,
-node-906-green,Haymarket,,
-node-906-passage,Haymarket,,
-node-907-passage,Haymarket,,
-node-907-platform,Haymarket,,
-node-haecl-passfhstair-passage,Haymarket,,
-node-haecl-passfhstair-platform,Haymarket,,
-node-haecl-passogstair-passage,Haymarket,,
-node-haecl-passogstair-platform,Haymarket,,
-place-harsq,Harvard,42.373362,-71.118956
 70067,Harvard,42.374663,-71.118814
 70068,Harvard,42.374663,-71.118814
 76121,Harvard,42.37372,-71.119121
@@ -7806,26 +7511,16 @@ place-harsq,Harvard,42.373362,-71.118956
 76125,Harvard,42.373448,-71.119959
 76126,Harvard,42.373414,-71.120134
 76129,Harvard,42.373612,-71.119323
-door-harsq-church,Church St,,
-door-harsq-yard,Church St,,
-place-harvd,Harvard Avenue,42.350243,-71.131355
 70130,Harvard Avenue,42.350263,-71.131298
 70131,Harvard Avenue,42.350602,-71.130727
-place-hsmnl,Heath Street,42.328316,-71.110252
 70260,Heath Street,42.328316,-71.110252
-place-hwsst,Hawes Street,42.344906,-71.111145
 70213,Hawes Street,42.344758,-71.111761
 70214,Hawes Street,42.344867,-71.111157
-place-hymnl,Hynes Convention Center,42.347888,-71.087903
 70152,Hynes Convention Center,42.347888,-71.087903
 70153,Hynes Convention Center,42.347888,-71.087903
-door-hymnl-mass,Massachusetts Ave,,
-place-jaksn,Jackson Square,42.323132,-71.099592
 11531,Jackson Square,42.323074,-71.099546
 70006,Jackson Square,42.323132,-71.099592
 70007,Jackson Square,42.323132,-71.099592
-door-jaksn-main,Centre St, Busway, Park
-place-jfk,JFK/UMass,42.320685,-71.052391
 121,JFK/UMass,42.320511,-71.05178
 12101,JFK/UMass,42.32051,-71.05178
 70085,JFK/UMass,42.320632,-71.052514
@@ -7833,129 +7528,57 @@ place-jfk,JFK/UMass,42.320685,-71.052391
 70095,JFK/UMass,42.320418,-71.052287
 70096,JFK/UMass,42.320434,-71.052215
 MM-0023-S,JFK/UMass,42.320685,-71.052391
-door-jfk-busway,Busway, JFK Library, Mount Vernon St (Ramp)
-door-jfk-oldcolony,Busway, JFK Library, Mount Vernon St (Stairs)
-node-830-lobby,JFK/UMass,,42.320576
-node-830-platform,JFK/UMass,,42.320576
-node-831-lobby,JFK/UMass,,42.32056
-node-831-platform,JFK/UMass,,42.32056
-node-jfk-ashcolstair-lobby,JFK/UMass,,42.321284
-node-jfk-ashcolstair-platform,JFK/UMass,,42.321173
-node-jfk-ashganstair-lobby,JFK/UMass,,42.320614
-node-jfk-ashganstair-platform,JFK/UMass,,42.320666
-node-jfk-ashgasstair-lobby,JFK/UMass,,42.320493
-node-jfk-ashgasstair-platform,JFK/UMass,,42.320412
-node-jfk-ashsydstair-lobby,JFK/UMass,,42.319999
-node-jfk-ashsydstair-platform,JFK/UMass,,42.320063
-node-jfk-bracolstair-lobby,JFK/UMass,,42.321148
-node-jfk-bracolstair-platform,JFK/UMass,,42.321051
-node-jfk-braganstair-lobby,JFK/UMass,,42.320626
-node-jfk-braganstair-platform,JFK/UMass,,42.320679
-node-jfk-bragasstair-lobby,JFK/UMass,,42.320507
-node-jfk-bragasstair-platform,JFK/UMass,,42.320427
-node-jfk-brasydstair-lobby,JFK/UMass,,42.319968
-node-jfk-brasydstair-platform,JFK/UMass,,42.320033
-node-jfk-busramp-lobby,JFK/UMass,,
-node-jfk-crcolstair-columbia,JFK/UMass,,
-node-jfk-crcolstair-street,JFK/UMass,,
-node-jfk-crramp-cr,JFK/UMass,,
-node-jfk-oldstaire-lobby,JFK/UMass,,
-node-jfk-oldstairw-lobby,JFK/UMass,,
-place-kencl,Kenmore,42.348949,-71.095169
 70150,Kenmore,42.348949,-71.095169
-70151,Kenmore,Cleveland Circle, Riverside
+70151,Kenmore,42.348949,-71.095169
 71150,Kenmore,42.348949,-71.095169
 71151,Kenmore,42.348949,-71.095169
 899,Kenmore,42.348918,-71.095456
-door-kencl-beacon,Boston University,,
-door-kencl-busway,Busway,,
-door-kencl-commonwealth,Fenway Park,,
-place-knncl,Kendall/MIT,42.3624908,-71.0861765
 70071,Kendall/MIT,42.362355,-71.085605
 70072,Kendall/MIT,42.362434,-71.085591
-door-knncl-nbhotel,Main St, Third St, Buses
-door-knncl-nbmain,Buses, Main St, Third St
-door-knncl-nbsecond,Main St,,
-door-knncl-sbelevator,Elevator, Carleton St,Elevator
-door-knncl-sbmain,Buses, Main St, Third St
-door-knncl-sbsecond,Main St,,
-place-kntst,Kent Street,42.344074,-71.114197
 70215,Kent Street,42.344117,-71.114097
 70216,Kent Street,42.343927,-71.114569
-place-lake,Boston College,42.340081,-71.166769
 70106,Boston College,42.340149,-71.167029
 70107,Boston College,42.34024,-71.166849
-place-lech,Lechmere,42.371572,-71.076584
 70500,Lechmere,42.371962,-71.07752
-70501,Lechmere,Union Square, Medford/Tufts
+70501,Lechmere,42.371566,-71.076457
 70502,Lechmere,42.370989,-71.07586
-door-lech-firstracks,Busway,,
-place-lngmd,Longwood Medical Area,42.33596,-71.100052
 70247,Longwood Medical Area,42.33608,-71.099883
 70248,Longwood Medical Area,42.336217,-71.099328
-place-longw,Longwood,42.341702,-71.109956
 70182,Longwood,42.341808,-71.109777
 70183,Longwood,42.341571,-71.110147
-door-longw-colchester,Chapel St,,
-door-longw-longwood,Chapel St,,
-place-masta,Massachusetts Avenue,42.341512,-71.083423
 70012,Massachusetts Avenue,42.340927,-71.084188
 70013,Massachusetts Avenue,42.340892,-71.084124
-place-matt,Mattapan,42.26762,-71.092486
 185,Mattapan,42.267715,-71.092067
 18511,Mattapan,42.267508,-71.091726
 70275,Mattapan,42.267625,-71.092389
 70276,Mattapan,42.267559,-71.092233
-door-matt-neponset,Neponset Trail,,
-place-mdftf,Medford/Tufts,42.407975,-71.117044
 70511,Medford/Tufts,42.408306,-71.11728
 70512,Medford/Tufts,42.40828,-71.117339
-door-mdftf-boston,Boston Ave,,
-place-mfa,Museum of Fine Arts,42.337711,-71.095512
 70245,Museum of Fine Arts,42.337875,-71.09524
 70246,Museum of Fine Arts,42.338017,-71.094682
-place-mgngl,Magoun Square,42.393682,-71.1063879
 70507,Magoun Square,42.394357,-71.106824
 70508,Magoun Square,42.39405,-71.106688
-place-miltt,Milton,42.270349,-71.067266
 70267,Milton,42.270388,-71.067253
 70268,Milton,42.270308,-71.067289
-door-miltt-wharf,Parking,,
-place-mispk,Mission Park,42.333195,-71.109756
 70253,Mission Park,42.333279,-71.109276
 70254,Mission Park,42.333092,-71.10968
-place-mlmnl,Malden Center,42.426632,-71.07411
 5072,Malden Center,42.426729,-71.074659
 5327,Malden Center,42.426507,-71.073919
 53270,Malden Center,42.426565,-71.074107
 70034,Malden Center,42.426677,-71.074381
 70035,Malden Center,42.426662,-71.074314
 WR-0045-S,Malden Center,42.426632,-71.07411
-door-mlmnl-commercial,Commercial St,,
-door-mlmnl-pleasant,Summer St,,
-door-mlmnl-ramp,Commercial St,,
-place-mvbcl,Maverick,42.3691186,-71.0395296
 5740,Maverick,42.369139,-71.039615
 57400,Maverick,42.36907,-71.039473
 70045,Maverick,42.3691186,-71.0395296
 70046,Maverick,42.3691186,-71.0395296
-door-mvbcl-square,Sumner St,,
-place-newtn,Newton Highlands,42.322381,-71.205509
 70168,Newton Highlands,42.322738,-71.205082
 70169,Newton Highlands,42.32253,-71.205421
 8155,Newton Highlands,42.322203,-71.206537
 8203,Newton Highlands,42.321916,-71.206479
 9070168,Newton Highlands,42.322368,-71.205831
-door-newtn-lake,Lake Ave,,
-door-newtn-walnut,Walnut St, Station Ave, Buses
-node-newtn-walnut-platform,Newton Highlands,,42.322224
-place-newto,Newton Centre,42.329443,-71.192414
 70170,Newton Centre,42.329552,-71.192024
 70171,Newton Centre,42.3294,-71.192622
-door-newto-braeland,Braeland Ave,,
-door-newto-herrick,Union St,,
-node-newto-herrick-landing,Newton Centre,,42.329161
-place-north,North Station,42.365577,-71.06129
 70026,North Station,42.36528,-71.060205
 70027,North Station,42.36528,-71.060205
 70205,North Station,42.36528,-71.060205
@@ -7973,63 +7596,24 @@ BNT-0000-09,North Station,42.366493,-71.062829
 BNT-0000-10,North Station,42.366493,-71.062829
 BNT-0000-B1,North Station - Causeway St opp Beverly St,42.366034,-71.060356
 BNT-0000-B2,North Station - Nashua St @ Red Auerbach Way,42.365641,-71.064022
-door-north-causeways,Causeway St,,
-door-north-crcanal,Causeway St,,
-node-302-bottom,North Station,,42.365038
-node-302-top,North Station,,42.364957
-node-303-bottom,North Station,,42.365051
-node-303-top,North Station,,42.364967
-node-391-bottom,North Station,,42.365349
-node-391-top,North Station,,42.365429
-node-392-bottom,North Station,,42.365359
-node-392-top,North Station,,42.365438
-node-910-bottom,North Station,,42.365187
-node-910-top,North Station,,42.365187
-node-north-centerstairs-bottom,North Station,,42.365266
-node-north-centerstairs-top,North Station,,42.365332
-node-north-northstairs-bottom,North Station,,42.36561
-node-north-northstairs-top,North Station,,42.365545
-node-north-southstairs-bottom,North Station,,42.365134
-node-north-southstairs-top,North Station,,42.365069
-place-nqncy,North Quincy,42.275275,-71.029583
 3125,North Quincy,42.275514,-71.02871
 70097,North Quincy,42.27577,-71.030194
 70098,North Quincy,42.275802,-71.030144
-node-326-lobby,North Quincy,,42.276388
-node-326-platform,North Quincy,,42.276301
-node-899-lobby,North Quincy,,42.27622
-node-899-platform,North Quincy,,42.27622
-node-nqncy-nhfarepaid,North Quincy,,42.27643
-node-nqncy-nhfareunpaid,North Quincy,,42.27643
-node-nqncy-nhpstair-lobby,North Quincy,,42.27638
-node-nqncy-nhpstair-platform,North Quincy,,42.276287
-place-nubn,Nubian,42.329544,-71.083982
 64,Nubian,42.329789,-71.083887
 64000,Nubian,42.329513,-71.083736
-place-nuniv,Northeastern University,42.340401,-71.088806
 70243,Northeastern University,42.339897,-71.09021
 70244,Northeastern University,42.340222,-71.0892
-place-ogmnl,Oak Grove,42.43668,-71.071097
 70036,Oak Grove,42.437735,-71.070875
 9328,Oak Grove Busway,42.436734,-71.07029
 Oak Grove-01,Oak Grove,42.437735,-71.070837
 Oak Grove-02,Oak Grove,42.437727,-71.070905
 WR-0053-S,Oak Grove,42.437731,-71.070705
-node-451-lobby,Oak Grove,,42.436916
-node-451-street,Oak Grove,,42.4369
-node-745-lobby,Oak Grove,,
-node-745-street,Oak Grove,,
-node-ogmnl-banksstair-lobby,Oak Grove,,
-node-ogmnl-banksstair-street,Oak Grove,,
-place-orhte,Orient Heights,42.386867,-71.004736
 15879,Orient Heights,42.386822,-71.00459
 15880,Orient Heights,42.386663,-71.00507
 5879,Orient Heights,42.386982,-71.00499
 5880,Orient Heights,42.38723,-71.004229
 70051,Orient Heights,42.386909,-71.004809
 70052,Orient Heights,42.386842,-71.004767
-door-orhte-saratoga,Saratoga St,,
-place-pktrm,Park Street,42.3563946,-71.0624242
 70075,Park Street,42.3563946,-71.0624242
 70076,Park Street,42.3563946,-71.0624242
 70196,Park Street,42.3563946,-71.0624242
@@ -8038,34 +7622,16 @@ place-pktrm,Park Street,42.3563946,-71.0624242
 70199,Park Street,42.3563946,-71.0624242
 70200,Park Street,42.3563946,-71.0624242
 71199,Park Street,42.356395,-71.062424
-door-pktrm-tremonte,2 | Park St,,
-door-pktrm-tremontw,1 | Park St,,
-node-808-gl,Park Street,,42.3562862
-node-808-rl,Park Street,,42.3562944
-node-pktrm-stair17-lobby,Park Street,,42.3561671
-node-pktrm-tremontstairs-lobby,Park Street,,42.3563513
-place-portr,Porter,42.3884,-71.119149
 70065,Porter,42.3884,-71.119149
 70066,Porter,42.3884,-71.119149
 FR-0034,Porter,42.388401,-71.119148
 FR-0034-01,Porter,42.3884,-71.119149
 FR-0034-02,Porter,42.3884,-71.119149
-door-portr-cracross,Massachusetts Ave (West),,
-door-portr-crtransfer,Massachusetts Ave (East),,
-door-portr-elevator982,Somerville Ave,,
-door-portr-escal,Somerville Ave,,
-node-983-nbplatform,Porter,,42.388524
-node-983-sbplatform,Porter,,42.388524
-node-987-nbplatform,Porter,,42.388489
-node-987-sbplatform,Porter,,42.388489
-place-prmnl,Prudential,42.34557,-71.081696
 70239,Prudential,42.34557,-71.081696
 70240,Prudential,42.34557,-71.081696
-place-qamnl,Quincy Adams,42.233391,-71.007153
 41031,Quincy Adams,42.233238,-71.007244
 70103,Quincy Adams,42.233391,-71.007153
 70104,Quincy Adams,42.233391,-71.007153
-place-qnctr,Quincy Center,42.251809,-71.005409
 32001,Quincy Center,42.251696,-71.004973
 32002,Quincy Center,42.251772,-71.005099
 32003,Quincy Center,42.251847,-71.005168
@@ -8074,30 +7640,18 @@ place-qnctr,Quincy Center,42.251809,-71.005409
 70101,Quincy Center,42.251809,-71.005409
 70102,Quincy Center,42.251809,-71.005409
 MM-0079-S,Quincy Center,42.251809,-71.005409
-place-rbmnl,Revere Beach,42.4078425,-70.9925332
 70057,Revere Beach,42.40776,-70.992586
 70058,Revere Beach,42.407874,-70.992497
-door-rbmnl-main,Ocean Ave,,
-place-rcmnl,Roxbury Crossing,42.331397,-71.095451
 70008,Roxbury Crossing,42.330671,-71.096121
 70009,Roxbury Crossing,42.33064,-71.09604
-place-river,Riverside,42.337352,-71.252685
 38155,Riverside,42.336666,-71.253304
 70160,Riverside,42.337317,-71.252256
 70161,Riverside,42.337348,-71.252236
-door-river-estairs,Grove Street,,
-door-river-ramp,Buses,,
-door-river-wstairs,Buses,,
 river-B,Riverside,42.336666,-71.2533
-place-rsmnl,Reservoir,42.335088,-71.148758
 21917,Reservoir,42.335069,-71.14933
 21918,Reservoir,42.335032,-71.148928
 70174,Reservoir,42.335181,-71.147879
 70175,Reservoir,42.335163,-71.148601
-door-rsmnl-eramp,Chestnut Hill Ave,,
-door-rsmnl-estairs,Chestnut Hill Ave,,
-door-rsmnl-wstairs,Chestnut Hill Ave,,
-place-rugg,Ruggles,42.336377,-71.088961
 17861,Ruggles,42.336855,-71.089449
 17862,Ruggles,42.33623,-71.089359
 17863,Ruggles,42.336359,-71.08922
@@ -8114,43 +7668,22 @@ NEC-2265,Ruggles,42.336608,-71.089208
 NEC-2265-01,Ruggles,42.336339,-71.089517
 NEC-2265-02,Ruggles,42.337659,-71.087737
 NEC-2265-03,Ruggles,42.336368,-71.089554
-door-rugg-buses,Columbus Ave,,
-door-rugg-columbus,Columbus Ave,,
-door-rugg-forsyth,Northeastern,,
-node-rugg-bus1crosswalk-1,Ruggles,,42.336111
-node-rugg-bus1crosswalk-2,Ruggles,,42.336489
-place-rvrwy,Riverway,42.331684,-71.111931
 70255,Riverway,42.331391,-71.111925
 70256,Riverway,42.331871,-71.111961
-place-sbmnl,Stony Brook,42.317062,-71.104248
 70004,Stony Brook,42.317062,-71.104248
 70005,Stony Brook,42.317062,-71.104248
-place-sdmnl,Suffolk Downs,42.3905007,-70.9971226
 70053,Suffolk Downs,42.390422,-70.997323
 70054,Suffolk Downs,42.39061,-70.99703
-node-sdmnl-unib-bridge,Suffolk Downs,,42.390654
-node-sdmnl-unib-street,Suffolk Downs,,42.390671
-place-shmnl,Savin Hill,42.31129,-71.053331
 70087,Savin Hill,42.310603,-71.053678
 70088,Savin Hill,42.310591,-71.053612
-place-smary,Saint Mary's Street,42.345974,-71.107353
 70211,Saint Mary's Street,42.345884,-71.107697
 70212,Saint Mary's Street,42.346007,-71.107166
-place-smmnl,Shawmut,42.2931258,-71.065738
 70091,Shawmut,42.2931258,-71.065738
 70092,Shawmut,42.2931258,-71.065738
-door-smmnl-clemen,Clementine Park,,
-place-sougr,South Street,42.3396,-71.157661
 70110,South Street,42.339371,-71.157057
 70111,South Street,42.339581,-71.157499
-place-spmnl,Science Park/West End,42.366664,-71.067666
 70207,Science Park/West End,42.366664,-71.067666
 70208,Science Park/West End,42.366664,-71.067666
-door-spmnl-nashua,Nashua St,,
-door-spmnl-nashuael,Nashua St,,
-door-spmnl-obrien,Monsignor O'Brien Hwy,,
-door-spmnl-obrienel,Monsignor O'Brien Hwy,,
-place-sstat,South Station,42.352271,-71.055242
 70079,South Station,42.352271,-71.055242
 70080,South Station,42.352271,-71.055242
 74611,South Station,42.352271,-71.055242
@@ -8174,62 +7707,14 @@ NEC-2287-B,South Station - Atlantic Ave @ Summer St,42.352293,-71.055529
 NEC-2287-B2,South Station - Bus Terminal Gates 28-29,42.350143,-71.055743
 NEC-2287-B36,South Station - Bus Terminal Gate 36,42.351239,-71.055337
 NEC-2287-B37,South Station - Bus Terminal Gate 37,42.351108,-71.05514
-door-sstat-finctr,5 | Summer St,,
-door-sstat-main,1 | Atlantic Ave, Dewey Sq, Summer St
-door-sstat-outmain,2 | Summer St,,
-door-sstat-reserve,3 | Summer St,,
-node-sstat-399stair-lobby,South Station,,42.3526934
-node-sstat-399stair-middle,South Station,,42.3527226
-node-sstat-419stair-lobby,South Station,,42.352753
-node-sstat-419stair-middle,South Station,,42.3527778
-node-sstat-deweystair-lobby,South Station,,42.3528031
-node-sstat-finctrstair-lobby,South Station,,
-node-sstat-north-farepaid,South Station,,42.3526585
-node-sstat-north-fareunpaid,South Station,,42.3526585
-node-sstat-outmainstair-lobby,South Station, Commuter Rail,
-node-sstat-reservestair-lobby,South Station,,42.3527442
-node-sstat-south-farepaid,South Station,,42.3525454
-node-sstat-south-fareunpaid,South Station,,42.3525454
-place-state,State,42.358978,-71.057598
 70022,State,42.358978,-71.057598
 70023,State,42.358978,-71.057598
 70041,State,42.358978,-71.057598
 70042,State,42.358978,-71.057598
-door-state-meeting,Washington St,,
-door-state-water,Devonshire St,,
-node-501-nbplatform,State,,
-node-501-sbplatform,State,,
-node-502-landing,State,,
-node-502-sbplatform,State,,
-node-6-landing,State,,
-node-6-nbplatform,State,,
-node-802-nbplatform,State,,
-node-802-sbplatform,State,,
-node-967-nbplatform,State,,
-node-967-sbplatform,State,,
-node-state-bowdoinoldstatestairs-landing,State,,
-node-state-bowdoinoldstatestairs-wbplatform,State,,
-node-state-ogoldstatehousestairs-landing,State,,
-node-state-ogoldstatehousestairs-nbplatform,State,,
-node-state-oldstateogministairs-landing,State,,
-node-state-oldstateogministairs-street,State,,
-node-state-oldstatepassageministairs-landing,State,,
-node-state-oldstatepassageministairs-street,State,,
-node-state-olnbplatformstairsmain-nbplatform,State,,
-node-state-olnbplatformstairsmain-sbplatform,State,,
-node-state-olnbplatformstairssec-nbplatform,State,,
-node-state-olnbplatformstairssec-sbplatform,State,,
-node-state-passageoldstatehousestairs-landing,State,,
-node-state-passageoldstatehousestairs-sbplatform,State,,
-node-state-wonderlandoldstatestairs-ebplatform,State,,
-node-state-wonderlandoldstatestairs-landing,State,,
-place-sthld,Sutherland Road,42.341614,-71.146202
 70116,Sutherland Road,42.341589,-71.146089
 70117,Sutherland Road,42.341577,-71.146607
-place-stpul,Saint Paul Street,42.343327,-71.116997
 70217,Saint Paul Street,42.34334,-71.116927
 70218,Saint Paul Street,42.343118,-71.117498
-place-sull,Sullivan Square,42.383975,-71.076994
 29001,Sullivan Square,42.384598,-71.076472
 29002,Sullivan Square,42.3843863,-71.076502
 29003,Sullivan Square,42.384266,-71.076519
@@ -8247,59 +7732,24 @@ place-sull,Sullivan Square,42.383975,-71.076994
 31092,Sullivan Square,42.383825,-71.076194
 70030,Sullivan Square,42.383975,-71.076994
 70031,Sullivan Square,42.383975,-71.076994
-door-sull-main,Buses, Parking, Street
-node-sull-sbstairs-lobby,Sullivan Square,,
-node-sull-sbstairs-platform,Sullivan Square,,
-place-sumav,Summit Avenue,42.34111,-71.12561
 70223,Summit Avenue,42.34112,-71.125652
 70224,Summit Avenue,42.341027,-71.125759
-place-symcl,Symphony,42.342687,-71.085056
 70241,Symphony,42.342687,-71.085056
 70242,Symphony,42.342687,-71.085056
-door-symcl-ebchurch,Massachusetts Ave,,
-door-symcl-ebsymphony,Massachusetts Ave,,
-door-symcl-falmouth,First Church,,
-door-symcl-hunte,Massachusetts Ave,,
-door-symcl-huntw,Massachusetts Ave,,
-door-symcl-westland,Westland Ave,,
-node-symcl-churstair-platform,Symphony,,
-node-symcl-falmstair-platform,Symphony,,
-node-symcl-hunestair-platform,Symphony,,
-node-symcl-hunwstair-platform,Symphony,,
-node-symcl-sympstair-platform,Symphony,,
-node-symcl-weststair-platform,Symphony,,
-place-tapst,Tappan Street,42.338459,-71.138702
 70231,Tappan Street,42.338498,-71.138731
 70232,Tappan Street,42.338567,-71.13819
-place-tumnl,Tufts Medical Center,42.349662,-71.063917
 70016,Tufts Medical Center,42.349662,-71.063917
 70017,Tufts Medical Center,42.349662,-71.063917
-door-tumnl-tremont,Tremont St,,
-door-tumnl-washington,Washington St,,
-node-tumnl-trenbstairs-lobby,Tufts Medical Center,,
-node-tumnl-trenbstairs-platform,Tufts Medical Center,,
-node-tumnl-tresbstairs-lobby,Tufts Medical Center,,
-node-tumnl-tresbstairs-platform,Tufts Medical Center,,
-node-tumnl-washnbstairs-lobby,Tufts Medical Center,,
-node-tumnl-washnbstairs-platform,Tufts Medical Center,,
-node-tumnl-washsbstairs-lobby,Tufts Medical Center,,
-node-tumnl-washsbstairs-platform,Tufts Medical Center,,
-place-unsqu,Union Square,42.377359,-71.094761
 70503,Union Square,42.377024,-71.093964
 70504,Union Square,42.37699,-71.093993
 Union Square-01,Union Square,42.377024,-71.093964
 Union Square-02,Union Square,42.37699,-71.093993
-door-unsqu-elevator,Prospect St,,
-place-valrd,Valley Road,42.268347,-71.081343
 70271,Valley Road,42.268389,-71.081504
 70272,Valley Road,42.268347,-71.081343
-place-waban,Waban,42.325845,-71.230609
 70164,Waban,42.325695,-71.230476
 70165,Waban,42.325967,-71.230714
-place-wascm,Washington Street,42.343864,-71.142853
 70120,Washington Street,42.344329,-71.142385
 70121,Washington Street,42.343974,-71.142731
-place-welln,Wellington,42.40237,-71.077082
 52710,Wellington,42.402533,-71.075586
 52711,Wellington,42.402469,-71.075826
 52712,Wellington,42.402463,-71.07609
@@ -8310,22 +7760,11 @@ place-welln,Wellington,42.40237,-71.077082
 52720,Wellington,42.402517,-71.076577
 70032,Wellington,42.401505,-71.077252
 70033,Wellington,42.401507,-71.07715
-door-welln-busway,Buses,,
-door-welln-garage,Station Landing,,
-node-welln-busramp-lobby,Wellington,,42.402409
-node-welln-busstair-lobby,Wellington,,42.402444
-place-wimnl,Wood Island,42.3796403,-71.0228654
 5666,Wood Island,42.380368,-71.023287
 70049,Wood Island,42.37974,-71.022818
 70050,Wood Island,42.379671,-71.022783
-node-wimnl-ibunpaidstairs-bridge,Wood Island,,
-node-wimnl-ibunpaidstairs-street,Wood Island,,
-place-wlsta,Wollaston,42.2665139,-71.0203369
 70099,Wollaston,42.266762,-71.020542
 70100,Wollaston,42.266788,-71.020457
-door-wlsta-beale,Beale Street,,
-door-wlsta-parking,Parking,,
-place-wondl,Wonderland,42.41342,-70.991648
 15796,Wonderland,42.413593,-70.992021
 15797,Wonderland,42.413375,-70.992039
 15798,Wonderland,42.413177,-70.992104
@@ -8333,15 +7772,287 @@ place-wondl,Wonderland,42.41342,-70.991648
 15800,Wonderland,42.412692,-70.992249
 70059,Wonderland,42.413514,-70.991714
 70060,Wonderland,42.413361,-70.991685
-place-woodl,Woodland,42.332902,-71.243362
 70162,Woodland,42.332703,-71.243055
 70163,Woodland,42.333094,-71.243659
-place-wrnst,Warren Street,42.348343,-71.140457
 70124,Warren Street,42.348285,-71.140436
 70125,Warren Street,42.348819,-71.140051
-place-wtcst,World Trade Center,42.34863,-71.04246
 74613,World Trade Center,42.348222,-71.042661
 74615,World Trade Center,42.348354,-71.042565
-place-wtrsq,Watertown Square,42.3654601,-71.1858058
 18178,Watertown Sq Terminal,42.365567,-71.185605
 8178,Watertown Sq Terminal,42.365513,-71.185529
+place-CM-0493,Wareham Village,41.7604,-70.7171
+place-CM-0547,Buzzards Bay,41.744805,-70.616226
+place-CM-0564,Bourne,41.7464973,-70.5887722
+place-CM-0790,Hyannis,41.660225,-70.276583
+place-DB-0095,Readville,42.238405,-71.133246
+place-DB-2205,Fairmount,42.253638,-71.11927
+place-DB-2222,Blue Hill Avenue,42.271466,-71.095782
+place-DB-2230,Morton Street,42.280994,-71.085475
+place-DB-2240,Talbot Avenue,42.292246,-71.07814
+place-DB-2249,Four Corners/Geneva,42.305037,-71.076833
+place-DB-2258,Uphams Corner,42.319125,-71.068627
+place-DB-2265,Newmarket,42.327415,-71.065674
+place-ER-0099,River Works,42.449927,-70.969848
+place-ER-0115,Lynn,42.462953,-70.945421
+place-ER-0117,Lynn Interim,42.4652901,-70.9404344
+place-ER-0128,Swampscott,42.473743,-70.922537
+place-ER-0168,Salem,42.524792,-70.895876
+place-ER-0183,Beverly,42.547276,-70.885432
+place-ER-0208,North Beverly,42.583779,-70.883851
+place-ER-0227,Hamilton/Wenham,42.609212,-70.874801
+place-ER-0276,Ipswich,42.676921,-70.840589
+place-ER-0312,Rowley,42.726845,-70.859034
+place-ER-0362,Newburyport,42.797837,-70.87797
+place-FB-0109,Endicott,42.233249,-71.158647
+place-FB-0118,Dedham Corporate Center,42.227079,-71.174254
+place-FB-0125,Islington,42.22105,-71.183961
+place-FB-0143,Norwood Depot,42.196857,-71.196688
+place-FB-0148,Norwood Central,42.188775,-71.199665
+place-FB-0166,Windsor Gardens,42.172127,-71.219366
+place-FB-0177,Plimptonville,42.159123,-71.236125
+place-FB-0191,Walpole,42.145477,-71.25779
+place-FB-0230,Norfolk,42.120694,-71.325217
+place-FB-0275,Franklin,42.083238,-71.396102
+place-FB-0303,Forge Park/495,42.089941,-71.43902
+place-FR-0064,Belmont,42.395896,-71.17619
+place-FR-0074,Waverley,42.3876,-71.190744
+place-FR-0098,Waltham,42.374296,-71.235615
+place-FR-0115,Brandeis/Roberts,42.361898,-71.260065
+place-FR-0132,Kendal Green,42.37897,-71.282411
+place-FR-0137,Hastings,42.385755,-71.289203
+place-FR-0147,Silver Hill,42.395625,-71.302357
+place-FR-0167,Lincoln,42.413641,-71.325512
+place-FR-0201,Concord,42.456565,-71.357677
+place-FR-0219,West Concord,42.457043,-71.392892
+place-FR-0253,South Acton,42.460375,-71.457744
+place-FR-0301,Littleton/Route 495,42.519236,-71.502643
+place-FR-0361,Ayer,42.559074,-71.588476
+place-FR-0394,Shirley,42.545089,-71.648004
+place-FR-0451,North Leominster,42.539017,-71.739186
+place-FR-0494,Fitchburg,42.58072,-71.792611
+place-FR-3338,Wachusett,42.553477,-71.848488
+place-FRS-0054,Freetown,41.773672,-71.090733
+place-FRS-0109,Fall River Depot,41.713982,-71.154182
+place-FS-0049,Foxboro,42.0951,-71.26151
+place-GB-0198,Montserrat,42.562171,-70.869254
+place-GB-0222,Prides Crossing,42.559446,-70.825541
+place-GB-0229,Beverly Farms,42.561651,-70.811405
+place-GB-0254,Manchester,42.573687,-70.77009
+place-GB-0296,West Gloucester,42.611933,-70.705417
+place-GB-0316,Gloucester,42.616799,-70.668345
+place-GB-0353,Rockport,42.655491,-70.627055
+place-GRB-0118,Weymouth Landing/East Braintree,42.221503,-70.968152
+place-GRB-0146,East Weymouth,42.2191,-70.9214
+place-GRB-0162,West Hingham,42.235838,-70.902708
+place-GRB-0183,Nantasket Junction,42.244959,-70.869205
+place-GRB-0199,Cohasset,42.24421,-70.837529
+place-GRB-0233,North Scituate,42.219528,-70.788602
+place-GRB-0276,Greenbush,42.178776,-70.746641
+place-KB-0351,Kingston,41.97762,-70.721709
+place-MBS-0350,Middleborough,41.887,-70.923209
+place-MM-0150,Holbrook/Randolph,42.156343,-71.027371
+place-MM-0186,Montello,42.106555,-71.022001
+place-MM-0200,Brockton,42.084659,-71.016534
+place-MM-0219,Campello,42.060951,-71.011004
+place-MM-0277,Bridgewater,41.984916,-70.96537
+place-MM-0356,Lakeville,41.87821,-70.918444
+place-NB-0064,Roslindale Village,42.287442,-71.130283
+place-NB-0072,Bellevue,42.286588,-71.145557
+place-NB-0076,Highland,42.284969,-71.153937
+place-NB-0080,West Roxbury,42.281358,-71.160065
+place-NB-0109,Hersey,42.275648,-71.215528
+place-NB-0120,Needham Junction,42.273187,-71.235559
+place-NB-0127,Needham Center,42.280775,-71.237686
+place-NB-0137,Needham Heights,42.293444,-71.236027
+place-NBM-0374,East Taunton,41.868197,-71.061694
+place-NBM-0523,Church Street,41.674308,-70.939322
+place-NBM-0546,New Bedford,41.643703,-70.9252
+place-NEC-1659,Wickford Junction,41.581289,-71.491147
+place-NEC-1768,TF Green Airport,41.726599,-71.442453
+place-NEC-1851,Providence,41.829293,-71.413301
+place-NEC-1891,Pawtucket/Central Falls,41.878762,-71.392
+place-NEC-1919,South Attleboro,41.897943,-71.354621
+place-NEC-1969,Attleboro,41.940739,-71.285094
+place-NEC-2040,Mansfield,42.032787,-71.219917
+place-NEC-2108,Sharon,42.124553,-71.184468
+place-NEC-2139,Canton Junction,42.163204,-71.15376
+place-NEC-2173,Route 128,42.210308,-71.147134
+place-NEC-2203,Hyde Park,42.25503,-71.125526
+place-NHRML-0055,West Medford,42.421776,-71.133342
+place-NHRML-0073,Wedgemere,42.444948,-71.140169
+place-NHRML-0078,Winchester Center,42.451088,-71.13783
+place-NHRML-0116,Mishawum,42.504402,-71.137618
+place-NHRML-0127,Anderson/Woburn,42.516987,-71.144475
+place-NHRML-0152,Wilmington,42.546624,-71.174334
+place-NHRML-0218,North Billerica,42.593248,-71.280995
+place-NHRML-0254,Lowell,42.63535,-71.314543
+place-PB-0158,South Weymouth,42.155025,-70.953302
+place-PB-0194,Abington,42.107156,-70.934405
+place-PB-0212,Whitman,42.082749,-70.923411
+place-PB-0245,Hanson,42.043967,-70.882438
+place-PB-0281,Halifax,42.014739,-70.824263
+place-PB-0356,Plymouth,41.981278,-70.690421
+place-SB-0156,Canton Center,42.157095,-71.14628
+place-SB-0189,Stoughton,42.124084,-71.103627
+place-WML-0025,Lansdowne,42.347581,-71.099974
+place-WML-0035,Boston Landing,42.357293,-71.139883
+place-WML-0081,Newtonville,42.351702,-71.205408
+place-WML-0091,West Newton,42.347878,-71.230528
+place-WML-0102,Auburndale,42.345833,-71.250373
+place-WML-0125,Wellesley Farms,42.323608,-71.272288
+place-WML-0135,Wellesley Hills,42.31037,-71.277044
+place-WML-0147,Wellesley Square,42.297526,-71.294173
+place-WML-0177,Natick Center,42.285719,-71.347133
+place-WML-0199,West Natick,42.283064,-71.391797
+place-WML-0214,Framingham,42.276108,-71.420055
+place-WML-0252,Ashland,42.26149,-71.482161
+place-WML-0274,Southborough,42.267024,-71.524371
+place-WML-0340,Westborough,42.269644,-71.647076
+place-WML-0364,Grafton,42.2466,-71.685325
+place-WML-0442,Worcester,42.261291,-71.794927
+place-WR-0062,Wyoming Hill,42.451731,-71.069379
+place-WR-0067,Melrose/Cedar Park,42.458768,-71.069789
+place-WR-0075,Melrose Highlands,42.469464,-71.068297
+place-WR-0085,Greenwood,42.483005,-71.067247
+place-WR-0099,Wakefield,42.502126,-71.075566
+place-WR-0120,Reading,42.52221,-71.108294
+place-WR-0163,North Wilmington,42.571073,-71.160939
+place-WR-0205,Ballardvale,42.627356,-71.159962
+place-WR-0228,Andover,42.658336,-71.144502
+place-WR-0264,Lawrence,42.701806,-71.15198
+place-WR-0325,Bradford,42.766912,-71.088411
+place-WR-0329,Haverhill,42.773474,-71.086237
+place-alfcl,Alewife,42.39583,-71.141287
+place-alsgr,Allston Street,42.348701,-71.137955
+place-amory,Amory Street,42.350992,-71.114748
+place-andrw,Andrew,42.330154,-71.057655
+place-aport,Airport,42.374262,-71.030395
+place-aqucl,Aquarium,42.359784,-71.051652
+place-armnl,Arlington,42.351902,-71.070893
+place-asmnl,Ashmont,42.28452,-71.063777
+place-astao,Assembly,42.392811,-71.077257
+place-babck,Babcock Street,42.351616,-71.119924
+place-balsq,Ball Square,42.399889,-71.111003
+place-bbsta,Back Bay,42.34735,-71.075727
+place-bckhl,Back of the Hill,42.330139,-71.111313
+place-bcnfd,Beaconsfield,42.335765,-71.140455
+place-bcnwa,Washington Square,42.339394,-71.13533
+place-belsq,Bellingham Square,42.395438,-71.033884
+place-bland,Blandford Street,42.349293,-71.100258
+place-bmmnl,Beachmont,42.3975423,-70.9923194
+place-bndhl,Brandon Hall,42.340023,-71.129082
+place-bomnl,Bowdoin,42.361365,-71.062037
+place-boxdt,Box District,42.394049,-71.028365
+place-boyls,Boylston,42.35302,-71.06459
+place-brdwy,Broadway,42.342622,-71.056967
+place-brico,Packard's Corner,42.351967,-71.125031
+place-brkhl,Brookline Hills,42.331316,-71.126683
+place-brmnl,Brigham Circle,42.334229,-71.104609
+place-brntn,Braintree,42.2078543,-71.0011385
+place-bucen,Boston University Central,42.350082,-71.106865
+place-buest,Boston University East,42.349735,-71.103889
+place-butlr,Butler,42.272429,-71.062519
+place-bvmnl,Brookline Village,42.332608,-71.116857
+place-capst,Capen Street,42.267563,-71.087338
+place-ccmnl,Community College,42.373622,-71.069533
+place-cedgr,Cedar Grove,42.279629,-71.060394
+place-cenav,Central Avenue,42.270027,-71.073444
+place-chels,Chelsea,42.397024,-71.041314
+place-chhil,Chestnut Hill,42.326753,-71.164699
+place-chill,Chestnut Hill Avenue,42.338169,-71.15316
+place-chmnl,Charles/MGH,42.361166,-71.070628
+place-chncl,Chinatown,42.352547,-71.062752
+place-chswk,Chiswick Road,42.340805,-71.150711
+place-clmnl,Cleveland Circle,42.336142,-71.149326
+place-cntsq,Central,42.365486,-71.103802
+place-coecl,Copley,42.349974,-71.077447
+place-conrd,Silver Line Way,42.347154,-71.038385
+place-cool,Coolidge Corner,42.342116,-71.121263
+place-crtst,Courthouse,42.35245,-71.04685
+place-davis,Davis,42.39674,-71.121815
+place-denrd,Dean Road,42.337807,-71.141853
+place-dwnxg,Downtown Crossing,42.355518,-71.060225
+place-eliot,Eliot,42.319045,-71.216684
+place-engav,Englewood Avenue,42.336971,-71.14566
+place-esomr,East Somerville,42.379467,-71.086625
+place-estav,Eastern Avenue,42.388374,-71.023859
+place-fbkst,Fairbanks Street,42.339725,-71.131073
+place-fenwd,Fenwood Road,42.333706,-71.105728
+place-fenwy,Fenway,42.345403,-71.104213
+place-fldcr,Fields Corner,42.300093,-71.061667
+place-forhl,Forest Hills,42.300713,-71.113943
+place-gilmn,Gilman Square,42.387928,-71.096766
+place-gover,Government Center,42.359705,-71.059215
+place-grigg,Griggs Street,42.348545,-71.134949
+place-grnst,Green Street,42.310525,-71.107414
+place-haecl,Haymarket,42.363021,-71.05829
+place-harsq,Harvard,42.373362,-71.118956
+place-harvd,Harvard Avenue,42.350243,-71.131355
+place-hsmnl,Heath Street,42.328316,-71.110252
+place-hwsst,Hawes Street,42.344906,-71.111145
+place-hymnl,Hynes Convention Center,42.347888,-71.087903
+place-jaksn,Jackson Square,42.323132,-71.099592
+place-jfk,JFK/UMass,42.320685,-71.052391
+place-kencl,Kenmore,42.348949,-71.095169
+place-knncl,Kendall/MIT,42.3624908,-71.0861765
+place-kntst,Kent Street,42.344074,-71.114197
+place-lake,Boston College,42.340081,-71.166769
+place-lech,Lechmere,42.371572,-71.076584
+place-lngmd,Longwood Medical Area,42.33596,-71.100052
+place-longw,Longwood,42.341702,-71.109956
+place-masta,Massachusetts Avenue,42.341512,-71.083423
+place-matt,Mattapan,42.26762,-71.092486
+place-mdftf,Medford/Tufts,42.407975,-71.117044
+place-mfa,Museum of Fine Arts,42.337711,-71.095512
+place-mgngl,Magoun Square,42.393682,-71.1063879
+place-miltt,Milton,42.270349,-71.067266
+place-mispk,Mission Park,42.333195,-71.109756
+place-mlmnl,Malden Center,42.426632,-71.07411
+place-mvbcl,Maverick,42.3691186,-71.0395296
+place-newtn,Newton Highlands,42.322381,-71.205509
+place-newto,Newton Centre,42.329443,-71.192414
+place-north,North Station,42.365577,-71.06129
+place-nqncy,North Quincy,42.275275,-71.029583
+place-nubn,Nubian,42.329544,-71.083982
+place-nuniv,Northeastern University,42.340401,-71.088806
+place-ogmnl,Oak Grove,42.43668,-71.071097
+place-orhte,Orient Heights,42.386867,-71.004736
+place-pktrm,Park Street,42.3563946,-71.0624242
+place-portr,Porter,42.3884,-71.119149
+place-prmnl,Prudential,42.34557,-71.081696
+place-qamnl,Quincy Adams,42.233391,-71.007153
+place-qnctr,Quincy Center,42.251809,-71.005409
+place-rbmnl,Revere Beach,42.4078425,-70.9925332
+place-rcmnl,Roxbury Crossing,42.331397,-71.095451
+place-river,Riverside,42.337352,-71.252685
+place-rsmnl,Reservoir,42.335088,-71.148758
+place-rugg,Ruggles,42.336377,-71.088961
+place-rvrwy,Riverway,42.331684,-71.111931
+place-sbmnl,Stony Brook,42.317062,-71.104248
+place-sdmnl,Suffolk Downs,42.3905007,-70.9971226
+place-shmnl,Savin Hill,42.31129,-71.053331
+place-smary,Saint Mary's Street,42.345974,-71.107353
+place-smmnl,Shawmut,42.2931258,-71.065738
+place-sougr,South Street,42.3396,-71.157661
+place-spmnl,Science Park/West End,42.366664,-71.067666
+place-sstat,South Station,42.352271,-71.055242
+place-state,State,42.358978,-71.057598
+place-sthld,Sutherland Road,42.341614,-71.146202
+place-stpul,Saint Paul Street,42.343327,-71.116997
+place-sull,Sullivan Square,42.383975,-71.076994
+place-sumav,Summit Avenue,42.34111,-71.12561
+place-symcl,Symphony,42.342687,-71.085056
+place-tapst,Tappan Street,42.338459,-71.138702
+place-tumnl,Tufts Medical Center,42.349662,-71.063917
+place-unsqu,Union Square,42.377359,-71.094761
+place-valrd,Valley Road,42.268347,-71.081343
+place-waban,Waban,42.325845,-71.230609
+place-wascm,Washington Street,42.343864,-71.142853
+place-welln,Wellington,42.40237,-71.077082
+place-wimnl,Wood Island,42.3796403,-71.0228654
+place-wlsta,Wollaston,42.2665139,-71.0203369
+place-wondl,Wonderland,42.41342,-70.991648
+place-woodl,Woodland,42.332902,-71.243362
+place-wrnst,Warren Street,42.348343,-71.140457
+place-wtcst,World Trade Center,42.34863,-71.04246
+place-wtrsq,Watertown Square,42.3654601,-71.1858058

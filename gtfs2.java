@@ -442,7 +442,7 @@ public class gtfs2
                         }
                     }
                 
-                if (routesEntry != null) {
+                if (stopsEntry != null) {
                     try (InputStream is = zipFile.getInputStream(stopsEntry);
                         Scanner s = new Scanner(is)) {
                             String [] headers2 = {};
