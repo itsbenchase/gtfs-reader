@@ -1,0 +1,1 @@
+midatl;nyc;MTA (New York City);https://github.com/itsbenchase/feeds/raw/refs/heads/main/nyc-merged.zip
