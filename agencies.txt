@@ -82,3 +82,10 @@ south;okc;Embark (Oklahoma City);https://mna.mecatran.com/utw/ws/gtfsfeed/static
 south;fl-hart;HART (Tampa);http://www.gohart.org/google/google_transit.zip
 south;marta;MARTA (Atlanta);https://itsmarta.com/google_transit_feed/google_transit.zip
 south;miami-dade;Miami-Dade Transit (Miami);https://www.miamidade.gov/transit/googletransit/current/google_transit.zip
+gta;on-burlington;Burlington Transit (Burlington);https://opendata.burlington.ca/gtfs-rt/GTFS_Data.zip
+gta;on-drt;Durham Region Transit (Durham Region);https://maps.durham.ca/OpenDataGTFS/GTFS_Durham_TXT.zip
+gta;on-hsr;Hamilton Street Railway (Hamilton);https://opendata.hamilton.ca/GTFS-Static/google_transit.zip
+gta;on-miway;MiWay (Mississauga);https://www.miapp.ca/GTFS/google_transit.zip
+gta;on-oakville;Oakville Transit (Oakville);https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data
+gta;on-ttc;TTC (Toronto);http://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/OpenData_TTC_Schedules.zip
+gta;on-yrt;York Region Transit (York Region);https://www.yrt.ca/google/google_transit.zip
