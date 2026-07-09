@@ -133,6 +133,10 @@ function findRoute(result) {
   var maxSpeed = Number.MIN_VALUE;
   var minSpeed = Number.MAX_VALUE;
 
+  let dists = [];
+  let times = [];
+  let speeds = [];
+
   for (let i = 0; i < routeID.length; i++) {
     if (routeID[i] == result) {
       // Set Route Header
@@ -162,6 +166,10 @@ function findRoute(result) {
               if (tripDetails.duration < minTime) { minTime = tripDetails.duration; }
               if (tripDetails.speed > maxSpeed) { maxSpeed = tripDetails.speed; }
               if (tripDetails.speed < minSpeed) { minSpeed = tripDetails.speed; }
+
+              dists.push(tripDetails.distance);
+              times.push(tripDetails.duration);
+              speeds.push(tripDetails.speed);
             }
 
             // 3. SORT INTO DAYS
@@ -210,6 +218,24 @@ function findRoute(result) {
     document.getElementById("trip-count-" + j).innerHTML = (dayNames[j] + " Trips: " + dayCounts[j]);
   }
 
+  // grab median trip details
+  var medDist = Math.round(getMedian(dists) * 100) / 100;
+  var medTime = Math.round(getMedian(times) * 100) / 100;
+  var medSpeed = Math.round(getMedian(speeds) * 100) / 100;
+
   // need to somehow force a cache update to this somehow
-  document.getElementById("stats").innerHTML += `<br>Distance: ${minDist} - ${maxDist} mi<br>Time: ${minTime} - ${maxTime} min<br>Speed: ${minSpeed} - ${maxSpeed} mph`;
+  document.getElementById("stats").innerHTML += `<br>Distance: ${minDist} - ${maxDist} mi (Median: ${medDist} mi)<br>Time: ${minTime} - ${maxTime} min (Median: ${medTime} min)<br>Speed: ${minSpeed} - ${maxSpeed} mph(Median: ${medSpeed} mpj)`;
+}
+
+function getMedian(arr)
+{
+  if (arr.length === 0) return undefined;
+
+  const sorted = [...arr].sort((a, b) => a - b);
+  
+  const mid = Math.floor(sorted.length / 2);
+
+  return sorted.length % 2 !== 0 
+    ? sorted[mid] 
+    : (sorted[mid - 1] + sorted[mid]) / 2;
 }
