@@ -224,7 +224,7 @@ function findRoute(result) {
   var medSpeed = Math.round(getMedian(speeds) * 100) / 100;
 
   // need to somehow force a cache update to this somehow
-  document.getElementById("stats").innerHTML += `<br>Distance: ${minDist} - ${maxDist} mi (Median: ${medDist} mi)<br>Time: ${minTime} - ${maxTime} min (Median: ${medTime} min)<br>Speed: ${minSpeed} - ${maxSpeed} mph(Median: ${medSpeed} mpj)`;
+  document.getElementById("stats").innerHTML += `<br>Distance: ${minDist} - ${maxDist} mi (Median: ${medDist} mi)<br>Time: ${minTime} - ${maxTime} min (Median: ${medTime} min)<br>Speed: ${minSpeed} - ${maxSpeed} mph (Median: ${medSpeed} mph)`;
 }
 
 function getMedian(arr)
