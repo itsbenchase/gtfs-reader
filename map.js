@@ -24,7 +24,6 @@ async function init() {
     const daySelect = document.getElementById("dayDrop");
     daySelect.addEventListener("change", handleSelectChange);
 
-    
     if (agencyString === "all") {
         // Correctly wait for the file to be fetched and parsed
         await getAllAgencies();
