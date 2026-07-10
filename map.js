@@ -13,7 +13,7 @@ let map;
 let allFeatures = [];
 let currentIndex = 0;
 let bounds = new maplibregl.LngLatBounds();
-let dayValue = "-1";
+let dayValue = "0"; // default to Monday
 const CHUNK_SIZE = 1000;
 
 // --- 2. INITIALIZATION FLOW ---

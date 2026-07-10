@@ -58,15 +58,14 @@ option
 <link href='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css' rel='stylesheet' />
 <script src='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js'></script>
 <script src="shared.js"></script>
-<script src="map.js?v=2a" defer></script>
+<script src="map.js?v=2b" defer></script>
 <body onload=init()>
 
 <div id="map" style="height: 100%; width: 100%;"></div>
 <div id="state-legend" class="legend">
 <span>Day of Week: 
     <select id="dayDrop">
-        <option value="none">None selected</option>
-        <option value="0">Monday</option>
+        <option value="0" selected>Monday</option>
         <option value="1">Tuesday</option>
         <option value="2">Wednesday</option>
         <option value="3">Thursday</option>
