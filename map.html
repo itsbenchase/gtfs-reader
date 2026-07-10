@@ -35,16 +35,45 @@ a, span, div
     margin-right: 10px;
     width: 10px;
 }
+
+select
+{
+    font-family: sourcesans;
+    font-size: 12pt;
+    color: #000000;
+    padding: 2px;
+    appearance: none;
+    background-color: #ebebeb;
+    border: 1px solid #ebebeb;
+}
+
+option
+{
+    font-family: sourcesans;
+    font-size: 12pt;
+    color: #000000;
+}
 </style>
 <title>localtransit.app</title>
 <link href='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css' rel='stylesheet' />
 <script src='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js'></script>
 <script src="shared.js"></script>
-<script src="map.js"></script>
+<script src="map.js?v=2"></script>
 <body onload=init()>
 
 <div id="map" style="height: 100%; width: 100%;"></div>
 <div id="state-legend" class="legend">
+<span>Day of Week: 
+    <select id="dayDrop">
+        <option value="none">None selected</option>
+        <option value="0">Monday</option>
+        <option value="1">Tuesday</option>
+        <option value="2">Wednesday</option>
+        <option value="3">Thursday</option>
+        <option value="4">Friday</option>
+        <option value="5">Saturday</option>
+        <option value="6">Sunday</option>
+    </select></span>
     <h4>Daytime Frequency</h4>
     <div><span style="background-color: #ae00c3"></span>Constant (&lt; 7.5 min.)</div>
     <div><span style="background-color: #00fff7"></span>Frequent (7.5 - 15 min.)</div>

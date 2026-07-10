@@ -13,12 +13,17 @@ let map;
 let allFeatures = [];
 let currentIndex = 0;
 let bounds = new maplibregl.LngLatBounds();
+let dayValue = "-1";
 const CHUNK_SIZE = 1000;
 
 // --- 2. INITIALIZATION FLOW ---
 async function init() {
     var parsedUrl = new URL(document.URL);
     var agencyString = parsedUrl.searchParams.get('agency');
+
+    const daySelect = document.getElementById("dayDrop");
+    daySelect.addEventListener("change", handleSelectChange);
+
     
     if (agencyString === "all") {
         // Correctly wait for the file to be fetched and parsed
@@ -221,7 +226,7 @@ function findTrips(fullId) {
         }
 
         // Thursday filter
-        if (tripData.days[l].includes("3")) {
+        if (tripData.days[l].includes(dayValue)) {
             let timeStr = tripData.stopTimes[l][k];
             let [hrs, mins] = timeStr.split(':').map(Number);
             let totalMins = (hrs * 60) + mins;
@@ -256,5 +261,10 @@ function findTrips(fullId) {
 
     return { trips: finalFreq, routes: stopRoutes };
 }
+
+function handleSelectChange(event) {
+  dayValue = event.target.value;
+}
+
 // Start the whole process
 init();
