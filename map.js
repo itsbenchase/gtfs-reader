@@ -22,23 +22,27 @@ async function init() {
     var agencyString = parsedUrl.searchParams.get('agency');
 
     const daySelect = document.getElementById("dayDrop");
-    daySelect.addEventListener("change", handleSelectChange);
+    if (daySelect) {
+        daySelect.addEventListener("change", handleSelectChange);
+    } else {
+        console.error("Could not find dayDrop dropdown element.");
+    }
 
     if (agencyString === "all") {
-        // Correctly wait for the file to be fetched and parsed
         await getAllAgencies();
     } else if (agencyString) {
         agencies = agencyString.split(",");
     }
 
-    // Now agencies will actually have data
     for (const agencyId of agencies) {
         console.log(`Loading ${agencyId}...`);
         await loadAgency(agencyId);
     }
     
     createMasterIndex();
-    mapFunct();
+    
+    // This builds the map and triggers the FIRST chunk processing
+    mapFunct(); 
 }
 
 async function getAllAgencies() {
@@ -261,8 +265,28 @@ function findTrips(fullId) {
     return { trips: finalFreq, routes: stopRoutes };
 }
 
+function resetGlobalState() {
+    allFeatures = [];
+    currentIndex = 0;
+    bounds = new maplibregl.LngLatBounds();
+}
+
 function handleSelectChange(event) {
-  dayValue = event.target.value;
+    dayValue = event.target.value;
+    
+    // 1. Reset chunking state
+    resetGlobalState();
+    
+    // 2. Clear out the map visually before reloading
+    if (map && map.getSource('bus-stops')) {
+        map.getSource('bus-stops').setData({
+            'type': 'FeatureCollection',
+            'features': []
+        });
+        
+        // 3. Restart the chunking loop for the new day
+        processChunks();
+    }
 }
 
 // Start the whole process
