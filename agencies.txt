@@ -11,7 +11,7 @@ cal;ca-montebello;Montebello Bus Lines (Los Angeles);https://mbl.rideralerts.com
 cal;mts;MTS (San Diego);https://www.sdmts.com/google_transit_files/google_transit.zip
 cal;muni;Muni (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SF
 cal;ca-nctd;NCTD (San Diego);https://lfportal.nctd.org/staticGTFS/google_transit.zip
-cal;ca-octa;OCTA (San Diego);https://www.octa.net/current/google_transit.zip
+cal;ca-octa;OCTA (Orange County);https://www.octa.net/current/google_transit.zip
 cal;samtrans;SamTrans (San Mateo);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SM
 cal;ca-slotransit;SLO Transit (San Luis Obispo);https://slocity.connexionz.net/rtt/public/resource/gtfs.zip
 cal;ca-slorta;SLORTA (San Luis Obispo);https://slo.connexionz.net/rtt/public/utility/gtfs.aspx
