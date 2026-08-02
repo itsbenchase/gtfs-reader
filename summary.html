@@ -1,0 +1,57 @@
+<link rel=stylesheet href=style.css>
+<title>localtransit.app</title>
+
+<h1><a class=home href=index.html>localtransit.app</a></h1>
+<h3>Agency Summary</h3>
+
+<script src="shared.js"></script>
+<script src="summary.js"></script>
+<body onload=funct()>
+
+<div style="display: flex; flex-direction: column; gap: 8px; font-family: sourcesans; font-size: 16pt;">
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <svg width="20" height="20" style="flex-shrink: 0;"><rect width="20" height="20" style="fill:#AE00C3" /></svg>
+    <span>Constant (< 7.5 min.)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <svg width="20" height="20" style="flex-shrink: 0;"><rect width="20" height="20" style="fill:#00FFF7" /></svg>
+    <span>Frequent (7.5 - 15 min.)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <svg width="20" height="20" style="flex-shrink: 0;"><rect width="20" height="20" style="fill:#56FF34" /></svg>
+    <span>Usable (15 - 30 min.)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <svg width="20" height="20" style="flex-shrink: 0;"><rect width="20" height="20" style="fill:#FCFF00" /></svg>
+    <span>Infrequent (30 - 60 min.)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <svg width="20" height="20" style="flex-shrink: 0;"><rect width="20" height="20" style="fill:#FF0725" /></svg>
+    <span>Sparse (60 - 120 min.)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <svg width="20" height="20" style="flex-shrink: 0;"><rect width="20" height="20" style="fill:#8D6726" /></svg>
+    <span>Rare (> 120 min.)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <svg width="20" height="20" style="flex-shrink: 0;"><rect width="20" height="20" style="fill:#CFCFCF" /></svg>
+    <span>No Daytime Trips</span>
+  </div>
+</div>
+
+<p>
+<table id="table">
+<tr><th>Route</th><th>Headsign</th><th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th><th>Sa</th><th>Su</th><th>Week Trips</th><th>Week Distance</th></tr>
+</table>
+</p>
+<p>
+<table id="table2">
+<tr><th>Route</th><th>Name</th><th>Median Distance</th><th>Median Speed</th></tr>
+</table>
+</p>

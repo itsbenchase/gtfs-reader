@@ -1,0 +1,2 @@
+cal;ca-lbt;Long Beach Transit (Long Beach);https://drive.google.com/uc?export=download&id=1869EVa1z6m_iD6QmvRXyTHtYiaSUBROl
+ne;cttransit;CTtransit (Connecticut);https://www.cttransit.com/sites/default/files/2026-07/googlect_transit.zip

@@ -1,6 +1,6 @@
 cal;ca-ac;AC Transit (Oakland);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=AC
 cal;ca-bbb;Big Blue Bus (Santa Monica);https://gtfs.bigbluebus.com/current.zip
-cal;ca-culver;Culver CityBus (Los Angeles);https://www.culvercity.org/files/assets/public/documents/information-technology/maps/gtfsexport.zip
+cal;ca-culver;Culver CityBus (Los Angeles);https://web.culvercity.org/gtfs/gtfsexport.zip
 cal;ca-foothill;Foothill Transit (Los Angeles);https://foothilltransit.rideralerts.com/myStop/GTFS-Zip.ashx
 cal;ca-ggt;Golden Gate Transit (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=GG
 cal;ca-gtrans;GTrans (Los Angeles);https://ridegtrans.com/gtfs.zip
@@ -56,7 +56,7 @@ ne;ma-brta;BRTA (Berkshires);https://data.trilliumtransit.com/gtfs/berkshire-ma-
 ne;bsoob;BSOOB (Maine);https://gtfs.remix.com/bsoob_transit_biddeford_me_us.zip
 ne;ma-ccrta;CCRTA (Cape Cod);https://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip
 ne;nh-coast;COAST (Portsmouth);https://coastbus.org/sites/default/files/google_transit/google_transit.zip
-ne;cttransit;CTtransit (Connecticut);tba
+ne;cttransit;CTtransit (Connecticut);https://www.cttransit.com/sites/default/files/2026-07/googlect_transit.zip
 ne;ma-frta;FRTA (Greenfield);https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip
 ne;ct-gbt;GBT (Bridgeport, CT);https://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip
 ne;gpm;Greater Portland Metro (Portland);https://gtfs.gptd.cadavl.com/GPTD/GTFS/GTFS_GPTD.zip
