@@ -205,7 +205,7 @@ function buildAllRoutesTableAsync() {
         const medSpeed = getMedian(daytimeSpeeds);
 
         const formattedMedDist = medDist !== undefined ? medDist.toFixed(2) : "N/A";
-        const formattedMedSpeed = medSpeed !== undefined ? medSpeed.toFixed(1) : "N/A";
+        const formattedMedSpeed = medSpeed !== undefined ? medSpeed.toFixed(2) : "N/A";
 
         summaryRowsHtml += `<tr>
           <td><a class="route" href="route.html?agency=${agency}&route=${currentRoute}">${currentRoute}</a></td>
