@@ -76,11 +76,11 @@ rockies;uta;UTA (Salt Lake City);https://gtfsfeed.rideuta.com/GTFS.zip
 rockies;id-vrt;Valley Regional Transit (Boise);https://www.valleyregionaltransit.org/GTFS/vrt_transit1.zip
 south;fl-broward;Broward County Transit (Fort Lauderdale);https://www.broward.org/bct/documents/google_transit.zip
 south;capmetro;CapMetro (Austin);https://data.texas.gov/download/r4v4-vz24/application/zip
-south;lextran;Lextran (Lexington);https://mystop.lextran.com/InfoPoint/gtfs-zip.ashx
 south;nc-cats;CATS (Charlotte);https://gtfsrealtime.ridetransit.org/GTFSStatic/GTFS.zip
 south;tx-dart;DART (Dallas);http://www.dart.org/transitdata/latest/google_transit.zip
 south;okc;Embark (Oklahoma City);https://mna.mecatran.com/utw/ws/gtfsfeed/static/okc?apiKey=6a3b186a334d1e3e064f42782f6002520e60394c
 south;fl-hart;HART (Tampa);http://www.gohart.org/google/google_transit.zip
+south;lextran;Lextran (Lexington);https://mystop.lextran.com/InfoPoint/gtfs-zip.ashx
 south;marta;MARTA (Atlanta);https://itsmarta.com/google_transit_feed/google_transit.zip
 south;miami-dade;Miami-Dade Transit (Miami);https://www.miamidade.gov/transit/googletransit/current/google_transit.zip
 gta;on-burlington;Burlington Transit (Burlington);https://opendata.burlington.ca/gtfs-rt/GTFS_Data.zip
