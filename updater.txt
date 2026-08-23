@@ -1,0 +1,1 @@
+midatl;wmata;WMATA (Washington);https://github.com/itsbenchase/feeds/raw/refs/heads/main/wmata.zip

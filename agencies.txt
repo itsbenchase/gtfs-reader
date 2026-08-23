@@ -39,7 +39,7 @@ midatl;ny-nice;NICE (Nassau County);https://www.nicebus.com/NICE/media/nicebus-g
 midatl;njt;NJT (New Jersey);tba
 midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
 midatl;septa;SEPTA (Philadelphia);tba
-midatl;wmata;WMATA (Washington);tba
+midatl;wmata;WMATA (Washington);https://github.com/itsbenchase/feeds/raw/refs/heads/main/wmata.zip
 west;wa-community;Community Transit (Everett, WA);https://www.soundtransit.org/GTFS-CT/current.zip
 west;wa-ctran;C-Tran (Vancouver, WA);https://mail.c-tran.com/images/Google/GoogleTransitUpload.zip
 west;wa-everett;Everett Transit (Everett, WA);https://gtfs.sound.obaweb.org/prod/97_gtfs.zip
