@@ -1,0 +1,881 @@
+10,North Broadway @ Loudon Outbound,38.060009,-84.48384
+100,West Main @ 707,38.053199,-84.5045
+1000,Mount Tabor @ 633 Outbound,37.995098,-84.459975
+1001,Yellowstone @ Winter Park Outbound,37.995293,-84.457778
+1002,Eureka Springs @ East Hills Outbound,37.995132,-84.455047
+1003,East Hills @ 2916 Outbound,37.993255,-84.451767
+1004,East Hills @ 2956 Outbound,37.992123,-84.449654
+1006,Squires @ 625 Outbound,37.986758,-84.451553
+1007,Buckhorn @ 3205 Outbound,37.985373,-84.453835
+1008,Buckhorn @ 3261 Outbound,37.982886,-84.45179
+1009,Buckhorn @ 3309 Outbound,37.979912,-84.452872
+101,West Main @ 833,38.056095,-84.508598
+1010,Buckhorn @ Fenwick Outbound,37.978824,-84.454658
+1011,Buckhorn @ 3469 Outbound,37.976299,-84.459029
+1012,Buckhorn @ Mirror Lake,37.975768,-84.462966
+1013,Pimlico @ Custer Outbound,37.986523,-84.461036
+1014,Pimlico @ Yellowstone Outbound,37.988613,-84.463387
+1015,Pimlico @ Carriage Outbound,37.990135,-84.467087
+1016,Pimlico @ 3287 Outbound,37.990619,-84.470435
+1018,Pimlico @ Gainsway Outbound,37.987327,-84.475594
+102,West Main @ 1313,38.062705,-84.518982
+1021,Centre @ River Park,37.979733,-84.477577
+1022,Centre @ Canonero,37.981086,-84.476021
+1024,Pimlico @ 3447 Inbound,37.984801,-84.475409
+1025,Pimlico @ 3403 Inbound,37.9869,-84.475769
+1026,Pimlico @ 3362 Inbound,37.988789,-84.474105
+1027,Pimlico @ 3290 Inbound,37.990543,-84.470551
+1028,Pimlico @ 3246 Inbound,37.990028,-84.467704
+1029,Pimlico @ 3194 Inbound,37.988753,-84.464005
+1030,Pimlico @ Man O' War Inbound,37.985928,-84.460381
+1031,Man O' War @ Mt Mckinley Inbound,37.983775,-84.460747
+1033,Buckhorn @ 3478 Inbound,37.976096,-84.458534
+1034,Buckhorn @ 3438 Inbound,37.976645,-84.455672
+1036,Buckhorn @ Squires Inbound,37.985786,-84.453689
+1037,Squires @ 613 Inbound,37.987651,-84.450477
+1038,Squires @ 461 Inbound,37.990261,-84.448707
+1039,East Hills @ 2953 Inbound,37.992382,-84.449943
+104,Leestown @ 2017,38.073139,-84.534492
+1040,East Hills @ 2801 Inbound,37.995128,-84.454597
+1041,Yellowstone @ Winter Park Inbound,37.995113,-84.458336
+1042,Mount Tabor @ 604 Inbound,37.996384,-84.459166
+1043,Mount Tabor @ Baybrook Inbound,37.999535,-84.457527
+1044,Mount Tabor @ 420 Inbound,38.001903,-84.455994
+105,Winburn @ Russell Cave Inbound,38.086307,-84.468589
+1052,Rose @ Lyndhurst Outbound,38.040924,-84.495445
+1054,Euclid @ Woodland Outbound,38.034527,-84.496246
+1055,Euclid @ Oldham Outbound,38.033214,-84.494656
+1057,Fontaine @ 1014 Outbound,38.029162,-84.488837
+1058,Fontaine @ 1204 Outbound,38.02743,-84.485763
+1059,Fontaine @ 1370 Outbound,38.025626,-84.482552
+106,Woodhill @ Codell Outbound,38.016827,-84.452736
+1060,Fontaine @ Chinoe Outbound,38.023647,-84.479469
+1061,Fontaine @ Clinton Outbound,38.021656,-84.476456
+1062,Fontaine @ 2000 Outbound,38.019447,-84.473259
+1067,Woodhill @ Osage Outbound,38.015994,-84.450034
+1068,Woodhill @ Hedgewood Outbound,38.014259,-84.447289
+1069,Woodhill @ Wedgefield,38.012504,-84.444556
+107,Leestown @ 2057,38.074363,-84.536377
+1070,Woodhill @ Fairleaf Outbound,38.011218,-84.44329
+1071,Toods @ Pinewood Outbound,38.009575,-84.440598
+1072,Todds @ Palumbo Outbound,38.009369,-84.436893
+1073,Darby Creek @ Palumbo,38.00404,-84.433296
+1074,Palumbo @ 2875 Inbound,38.005355,-84.435639
+1075,Palumbo @ Bainbridge,38.002564,-84.431495
+108,Leestown @ 2239 (Westhampton),38.077152,-84.54058
+1081,Fontaine @ Lakeshore Inbound,38.017532,-84.469681
+1082,Fontaine @ 2005 Inbound,38.019332,-84.472931
+1083,Fontaine @ Chinoe Inbound,38.023406,-84.479012
+1084,Fontaine @ 1909 Inbound,38.021091,-84.475417
+1085,Fontaine @ Woodspoint Inbound,38.025639,-84.482413
+1086,Fontaine @ McDowell Inbound,38.027496,-84.485793
+1087,Fontaine @ High Inbound,38.029358,-84.489623
+109,Leestown @ 2451,38.07959,-84.544196
+1090,Euclid @ Woodland Inbound,38.034491,-84.495902
+1091,Rose @ Maxwell Inbound,38.039363,-84.497513
+1092,Rose @ 224 Inbound,38.040881,-84.495337
+1093,East Main @ Deweese,38.043163,-84.493301
+1094,East Main @ Esplanade,38.044514,-84.494819
+1096,West Main @ 269,38.047896,-84.498633
+1099,2nd @ Old Georgetown,38.055618,-84.502594
+11,South Broadway @ Nelms,38.039153,-84.51487
+110,Citation @ Mercer,38.083732,-84.542641
+1100,Georgetown @ 411 (Rallys) Outbound,38.060663,-84.501315
+1101,Georgetown @ 536 Outbound,38.063434,-84.502173
+1102,Georgetown @ Glen Arvin Outbound,38.065292,-84.502784
+1103,Douglas @ Georgetown Outbound,38.066463,-84.503814
+1104,Florence @ 730 Outbound,38.066532,-84.506579
+1109,Georgetown @ 1012 (Waffle House) Outboun,38.077124,-84.506923
+111,Citation @ Buck,38.086322,-84.540816
+1110,Nandino @ 1088 (Post Office),38.077904,-84.505547
+1111,Nandino @ Whipple,38.078597,-84.50193
+1112,Georgetown @ Briarwood,38.08057,-84.508377
+1121,Georgetown @ Parallel Outbound,38.087939,-84.51133
+1125,Georgetown @ Sandersville Inbound,38.085178,-84.510529
+1126,Georgetown @ Oakwood Inbound,38.081733,-84.509047
+1127,Georgetown @ 1221 Inbound,38.07792,-84.507358
+1128,Georgetown @ Lima Inbound,38.073084,-84.505492
+1129,Don Anna Inbound,38.072558,-84.50872
+113,Wal Mart @ Nichols Park,37.978692,-84.533041
+1131,DePorres @ 921 Inbound,38.070189,-84.508331
+1132,Florence @ 803 Inbound,38.06824,-84.507515
+1133,Florence @ 707 Inbound,38.065754,-84.506209
+1134,Georgetown @ Ash Inbound,38.06522,-84.502907
+1135,Georgetown @ Elm Inbound,38.06251,-84.501968
+1136,Georgetown @ 431 Inbound,38.061074,-84.50156
+1138,3rd @ 478,38.054749,-84.498428
+1140,Vine @ Mill,38.047153,-84.499625
+1143,Student Center,38.040314,-84.502655
+1144,Euclid @ Rose Inbound,38.037624,-84.499435
+1146,Avenue of Champions @ Lexington IB,38.039443,-84.501517
+1147,Singletary Center,38.037929,-84.500037
+1150,Tates Creek @ 918 Outbound,38.026763,-84.490699
+1151,Tates Creek @ Montclair Outbound,38.019686,-84.494276
+1152,Tates Creek @ Garden Grove,38.016109,-84.4952
+1153,Tates Creek @ Alumni Outbound,38.013798,-84.4953
+1154,Tates Creek @ Old Dobbin Outbound,38.009784,-84.495857
+1155,Tates Creek @ Rebecca Outbound,38.007075,-84.496078
+1156,Tates Creek @ Albany Outbound,38.003543,-84.496056
+1157,Tates Creek @ Raven Outbound,37.998177,-84.495865
+1158,Tates Creek @ Lansdowne Shoppes,37.995017,-84.495598
+1159,Tates Creek @ Kirklevington,37.988602,-84.494743
+116,New Circle @ 142 (O'Reilly's),38.063748,-84.468691
+1160,Tates Creek @ 3543 (Saddlebrook Apts),37.985537,-84.494196
+1161,Armstrong Mill @ Tates Creek Inbound,37.982533,-84.493599
+1162,Armstrong Mill @ 1100 Outbound,37.98125,-84.491249
+1164,Appian Way @ Olympia Circle Outbound,37.979438,-84.485702
+1169,Centre Parkway @ 1349 (Briarwood Apt),37.982786,-84.474987
+117,Fayette Mall,37.987783,-84.526415
+1170,Centre Parkway @ 1301,37.980376,-84.476668
+1171,River Park @ 3535 Outbound,37.977531,-84.476584
+1172,River Park @ 3599 Outbound,37.975056,-84.477546
+1173,Trent @ Crosby Outbound,37.971293,-84.485359
+1174,Trent @ 1127 Outbound,37.971915,-84.490303
+1175,Trent @ Appian Way Outbound,37.974189,-84.493877
+1177,Wilson Downing @ Tates Creek Ctr Inbound,37.974339,-84.499862
+1178,Belleau Wood @ 3717 Outbound,37.97443,-84.502991
+1179,Camelot @ 3816 (Sayre Village) Outbound,37.974261,-84.507544
+118,Magnolia Spring @ 2701,38.093317,-84.533768
+1181,Camelot @ Whispering Hills Outbound,37.978553,-84.510216
+1182,Camelot @ 3532 Outbound,37.981246,-84.508895
+1183,Camelot @ Laredo Outbound,37.98331,-84.507407
+1184,Laredo @ 3500 Outbound,37.986019,-84.508293
+1185,Laredo @ 3404 Outbound,37.988688,-84.506865
+1186,Redding @ Bellmeade Outbound,37.98986,-84.510056
+1187,Lansdowne @ 3489 Outbound,37.990081,-84.513817
+1188,Lansdowne @ Tartan Outbound,37.986961,-84.516075
+1189,Lansdowne @ 3589 Outbound,37.984355,-84.518027
+1190,Wilson Downing @ 211 Outbound,37.984024,-84.519928
+1191,Nicholasville Road @ Fayette Mall Outbou,37.985594,-84.526441
+1192,Nicholasville @ Rojay Outbound,37.983487,-84.527229
+1198,Wilson Downing @ 116 Inbound,37.985415,-84.523849
+1199,Wilson Downing @ 202 Inbound,37.984473,-84.521296
+120,Keeneland Race Track,38.048252,-84.604828
+1200,Lansdowne @ 3564 Inbound,37.984852,-84.517379
+1201,Lansdowne @ 3516 Inbound,37.987194,-84.515648
+1202,Lansdowne @ 3480 Inbound,37.990055,-84.513518
+1203,Redding @ Ormond Inbound,37.990725,-84.511932
+1204,Redding @ Warwick Inbound,37.98909,-84.508972
+1205,Laredo @ Laredo Ct Inbound,37.988597,-84.506981
+1206,Laredo @ 3501 Inbound,37.985985,-84.508498
+1207,Camelot @ Laredo Inbound,37.983292,-84.507697
+1208,Camelot @ 3549 Inbound,37.980907,-84.508918
+1209,Camelot @ 3713 Inbound,37.97834,-84.510451
+121,Terminal @ Bluegrass Field,38.039157,-84.598519
+1210,Camelot @ 3745 Inbound,37.975826,-84.510941
+1212,Camelot @ Belleau Wood Inbound,37.973129,-84.50672
+1213,Belleau Wood @ 3732 Inbound,37.973598,-84.503311
+1214,Wilson Downing @ Tates Creek Ctr,37.974632,-84.500129
+1215,Trent @ 1118 Inbound,37.972054,-84.490905
+1216,Trent @ 1202 Inbound,37.97121,-84.486969
+1218,River Park @ 3594 Inbound,37.975306,-84.477295
+1219,River Park @ 3530 Inbound,37.977875,-84.476563
+1227,Armstrong Mill @ Greentree,37.981487,-84.491554
+1228,Armstrong Mill @ Tates Creek Outbound,37.982216,-84.4934
+1229,Tates Creek @ Gainesway,37.987147,-84.494285
+1230,Tates Creek @ Dove Run,37.995216,-84.495284
+1231,Tates Creek @ 3300/Mayfair Manor,37.998141,-84.49559
+1233,Tates Creek @ Albany Inbound,38.0032,-84.495758
+1234,Tates Creek @ 3100/Immanuel Church,38.007136,-84.495773
+1235,Tates Creek @ Alumni Inbound,38.012877,-84.49488
+1236,Tates Creek @ Turkey Foot,38.016231,-84.494689
+1238,Tates Creek @ 1003 Inbound,38.026562,-84.490662
+1239,Euclid @ LaFayette (Piggy Bank Stop) Inb,38.031761,-84.492873
+1242,Euclid @ Rose/Linden Walk Outbound,38.037147,-84.49913
+1243,Jewell Hall,38.04013,-84.502257
+1246,North Martin Luther King @ Corral Outbou,38.046238,-84.493339
+1247,4th @ Johnson,38.050422,-84.489853
+1248,4th @ Campbell,38.052395,-84.491996
+1249,4th @ Bourbon Ave,38.05506,-84.494941
+125,Monarch @ Kroger (Beaumont Center),38.021515,-84.557823
+1250,4th @ Jefferson,38.056239,-84.496223
+1251,4th @ BCTC Newtown,38.059219,-84.499619
+1252,Newtown @ BCTC,38.062588,-84.499923
+1253,Newtown @ Loudon (Health Dept),38.064732,-84.499168
+1254,Newtown @ Freight Blvd,38.068362,-84.497688
+1255,Newtown @ Newtown Court Outbound,38.075975,-84.494421
+1256,Newtown Springs @ Newtown Ctr Way,38.083062,-84.487236
+1257,Newtown @ Olivia (Happy Dragon Rest),38.087359,-84.489487
+1258,Newtown @ Pintail (Marriott),38.09262,-84.48722
+1260,Bull Lea @ Citation,38.0874,-84.49485
+1262,Newtown @ Sugar Maple Inbound,38.08779,-84.489623
+1263,Newtown @ 1351 (Comp Care),38.083916,-84.491332
+1265,Newtown @ 771 Inbound,38.069655,-84.497428
+1266,Newtown @ Douglas,38.066399,-84.498787
+1267,Newtown @ Ash,38.064387,-84.499579
+1268,Newtown @ 429 Inbound,38.06144,-84.500687
+127,Lucille @ 553,38.094096,-84.537208
+1271,3rd @ 424,38.052948,-84.496398
+1272,3rd @ Mill,38.051101,-84.4944
+1273,3rd @ North Limestone,38.049205,-84.492309
+1274,North Martin Luther King @ Short Inbound,38.045806,-84.494155
+128,Red Mile @ 845 Inbound/CCW,38.044124,-84.523818
+1285,New Circle @ 207 Outbound,38.068336,-84.473331
+1286,New Circle @ Russell Cave Outbound,38.070499,-84.475951
+1287,Russell Cave @ 1518 Outbound,38.072673,-84.474967
+129,Chestnut Ridge @ 109,38.084442,-84.55236
+1295,Valley Farm @ Bedinger,38.091457,-84.477533
+1296,Palumbo @ Ruskin Outbound,38.01728,-84.44471
+13,North Broadway @ Loudon Inbound,38.059986,-84.484116
+1300,Russell Cave @ Consolidated Church,38.078205,-84.471537
+1301,Asbury @ 425 Inbound,38.077206,-84.474892
+1302,Asbury @ 469 Inbound,38.07888,-84.477203
+1303,LaSalle @ 1583 Inbound,38.079685,-84.479591
+1304,Hollow Creek @ 522 Inbound,38.075561,-84.479187
+1306,Hollow Creek @ Russell Cave Inbound,38.072647,-84.475219
+131,Oliver Lewis @ Merino Outbound,38.046643,-84.509198
+1310,North Broadway @ 12th Inbound,38.063312,-84.479401
+1311,North Broadway @ Morrison,38.058643,-84.486076
+1312,North Broadway @ 6th Inbound,38.056609,-84.489127
+1313,North Broadway @ 501 Inbound,38.055134,-84.491211
+1318,East Main @ 137 (Fayette Cigar Store),38.045787,-84.496238
+1320,North Broadway @ 2nd Outbound,38.050624,-84.497391
+1322,North Broadway @ 5th Outbound,38.054905,-84.491312
+1323,North Broadway @ 6th Outbound,38.056355,-84.489173
+1324,North Broadway @ 738 Outbound,38.058651,-84.485953
+1325,North Broadway @ 916 Outbound,38.061442,-84.481827
+1329,Hollow Creek @ 425 Outbound,38.073555,-84.476333
+1330,Hollow Creek @ 505 Outbound,38.075264,-84.478607
+1332,Asbury @ 468 Outbound,38.079123,-84.477676
+1333,Asbury @ 436 Outbound,38.077491,-84.475356
+1336,Russell Cave @ 1724 Outbound,38.079945,-84.470299
+1338,Russell Cave @ Burgess Outbound,38.082603,-84.469153
+1339,Winburn @ McCullough Outbound,38.087874,-84.472343
+134,Oliver Lewis @ Davis Park Outbound,38.050381,-84.509783
+1340,Winburn @ 1169 (Community Action),38.088759,-84.473777
+1341,Winburn @ Pennebaker,38.089477,-84.476578
+1343,Pennebaker @ Winburn Inbound,38.089546,-84.476852
+1346,Russell Cave @ 1733 (Library),38.079594,-84.470672
+1348,Russell Cave @ Hollow Creek Inbound,38.07334,-84.47477
+1349,New Circle @ 300 (Housing Authority),38.070224,-84.476013
+135,Manchester @ 941 (The Manchester) OB,38.053155,-84.510228
+1350,New Circle @ 208 Inbound,38.068356,-84.473717
+1351,North Broadway @ Northland Inbound,38.065188,-84.476662
+1357,North Broadway @ 2nd Inbound,38.05094,-84.497223
+1359,South Upper @ 323,38.045627,-84.500175
+136,Manchester @ Thompson Outbound,38.056387,-84.518534
+1360,South Upper @ Pine,38.043617,-84.50322
+1364,Limestone @ Virginia Avenue,38.035271,-84.508315
+1365,South Limestone @ State Street,38.030148,-84.510094
+1366,Nicholasville @ Forest Park,38.027453,-84.510978
+1367,Nicholasville @ 1529,38.023398,-84.512482
+1368,Nicholasville @ Arcadia,38.020763,-84.513428
+1369,Nicholasville @ 1729 (Central Baptist),38.0187,-84.514144
+137,Old Frankfort @ 1375 Outbound,38.05786,-84.527129
+1370,Nicholasville @ Wabash,38.014983,-84.515385
+1371,Nicholasville @ Goodrich,38.013144,-84.516105
+1372,Nicholasville @ Regency Center,38.004783,-84.518976
+1373,Nicholasville @ Pasadena,38.003496,-84.519432
+1374,Nicholasville @ 2467 Outbound,38.00185,-84.520039
+1375,Lexington Green @ Target,37.993457,-84.527267
+1378,Nicholasville @ The Summit,37.978717,-84.528846
+1379,West Tiverton @ 117,37.980857,-84.530289
+138,Leestown @ 2700 (Venture Ct.),38.083396,-84.549788
+1380,Nicholasville @ Mansion Apts,37.982971,-84.527373
+1382,Nicholasville @ Larkin,38.00067,-84.520203
+1383,Nicholasville @ 2368 Inbound,38.004008,-84.519134
+1384,Nicholasville @ Zandale Shopping Center,38.007373,-84.517974
+1387,Nicholasville @ 1636 Inbound,38.02087,-84.513229
+1388,Nicholasville @ Alumni,38.02327,-84.51226
+1389,Nicholasville @ Farm,38.025696,-84.511444
+1393,South Limestone @ Samaritan Hospital,38.042713,-84.502022
+1396,North Limestone @ 216 (Sayre School),38.048519,-84.493895
+1397,North Limestone @ Rand,38.052929,-84.487656
+1398,North Limestone @ 7th Outbound,38.055205,-84.484412
+1399,North Limestone @ 928 Outbound,38.059448,-84.478363
+14,North Broadway @ Main Inbound,38.049095,-84.499762
+140,Old Frankfort @ 1799 Outbound,38.061038,-84.539879
+1400,North Limestone @ 1206 Outbound,38.061271,-84.475753
+1401,North Limestone @ New Circle Outbound,38.064338,-84.471351
+1402,New Circle @ 228 (Salv Army) Outbound,38.061709,-84.466614
+1403,New Circle @ 328 Outbound,38.059269,-84.464179
+1404,New Circle @ 424 Outbound,38.056495,-84.461547
+1405,New Circle @ 560 Outbound,38.052948,-84.458168
+1407,Eastland Parkway @ Jennifer Outbound,38.047778,-84.449737
+1408,Eastland Parkway @ Gayle Outbound,38.049755,-84.446074
+1409,Eastland Parkway @ Durham Outbound,38.051987,-84.443634
+141,Old Frankfort @ Old Frankfort Circle,38.063422,-84.546805
+1410,Raleigh @ Augusta,38.054073,-84.442237
+1411,Augusta @ 1854,38.055172,-84.439751
+1412,Eastland Parkway @ Memphis,38.055118,-84.434997
+1413,Eastland Parkway @ Charleston,38.050861,-84.435874
+1414,Eastland Parkway @ Fort Sumter Inbound,38.049624,-84.440169
+1415,Eastland Parkway @ Dalna,38.047675,-84.442787
+1416,Eastland Parkway @ Barwick,38.044918,-84.446975
+1417,Jennifer @ Gaidry,38.044547,-84.449089
+1418,Jennifer @ Green Hills,38.046603,-84.449279
+1419,Eastland Parkway @ Continental Square,38.046982,-84.450989
+142,Leestown @ 2600,38.081683,-84.547545
+1420,New Circle @ 597 Inbound,38.051681,-84.456696
+1421,New Circle @ 487 Inbound,38.054752,-84.459648
+1422,New Circle @ Bryan Station Inbound,38.059009,-84.463614
+1423,New Circle @ 211 Inbound,38.062312,-84.467003
+1424,North Limestone @ 1317 Inbound,38.062244,-84.474648
+1425,North Limestone @ North Broadway Park,38.059928,-84.477905
+1426,North Limestone @ 741 Inbound,38.056224,-84.483146
+1427,North Upper @ 6th,38.054764,-84.487126
+1428,North Upper @ 5th,38.053265,-84.48922
+1429,North Upper @ 4th,38.051841,-84.491332
+143,Leestown @ U-Haul Storage,38.078864,-84.543686
+1430,North Upper @ 2nd,38.049075,-84.495215
+1432,High @ Hyatt Regency,38.048396,-84.502433
+1433,High @ Jefferson,38.049984,-84.504943
+1434,High @ Oliver Lewis Way,38.050663,-84.511222
+1435,Versailles @ Robertson,38.050411,-84.514602
+1436,Versailles @ Bennett,38.050124,-84.518493
+1437,Versailles @ 1409 Outbound,38.04952,-84.526373
+1438,Versailles @ 1511 (Christian Towers),38.049238,-84.529361
+1439,Versailles @ 1617 Outbound,38.0488,-84.533676
+144,Leestown @ Trade,38.077128,-84.541077
+1440,Versailles @ 1721 Outbound,38.048576,-84.535576
+1441,Oxford @ Versailles Outbound,38.048537,-84.539405
+1442,Oxford @ 1915 Outbound,38.050026,-84.541809
+1443,Cambridge @ 1941 Outbound,38.050709,-84.54525
+1444,Cambridge @ 2013 Outbound,38.052974,-84.548392
+1445,Village @ 1261 Outbound,38.052367,-84.550963
+1446,Village @ Devonport Outbound,38.049018,-84.549254
+1447,Alexandria @ 1565 Outbound,38.045218,-84.551918
+1448,Alexandria @ 1667 (Gardenside Bapt),38.041911,-84.551986
+1449,Alexandria @ Darien Outbound,38.03827,-84.552477
+145,West Main @ 1310,38.062928,-84.519579
+1450,Alexandria @ 1909 Outbound,38.034389,-84.55024
+1453,Lane Allen @ Harrodsburg,38.026874,-84.53546
+1454,Larkspur @ 2265,38.023434,-84.541961
+1455,Larkspur @ Garden Springs,38.025763,-84.543998
+1456,Garden Springs @ Emerson Center,38.027404,-84.543014
+1457,Garden Springs @ Lane Allen,38.029415,-84.541832
+1459,Alexandria @  Kroger,38.037183,-84.551776
+1460,Alexandria @ 1642 Inbound,38.042168,-84.551781
+1461,Alexandria @ 1548 Inbound,38.045555,-84.551849
+1462,Devonport @ Village Inbound,38.048823,-84.549544
+1463,Village @ Daniel,38.051326,-84.550849
+1464,Cambridge @ 2036 Inbound,38.052952,-84.549994
+1465,Cambridge @ 1972 Inbound,38.051311,-84.546249
+1467,Oxford @ Versailles Inbound,38.049163,-84.53978
+1468,Versailles @ 1724 Inbound,38.04832,-84.536284
+1469,Versailles @ 1608 Inbound,38.04874,-84.532645
+147,West Main @ 830,38.055598,-84.508201
+1470,Versailles @ 1510 Inbound,38.049148,-84.529258
+1471,Versailles @ 1306 (MECU/Ale8),38.049823,-84.521706
+1472,Versailles @ 1060 Inbound,38.050133,-84.514914
+1473,Versailles @ Oliver Lewis Way Inbound,38.050533,-84.510535
+1474,Maxwell @ 808,38.049374,-84.508049
+1475,Maxwell @ Patterson,38.047808,-84.506305
+1476,South Broadway @ 366 Inbound,38.046325,-84.503426
+1477,South Broadway @ Vine,38.0481,-84.500899
+1479,Elm Tree @ Main Outbound,38.042538,-84.492958
+148,Newtown @ 201,38.056488,-84.50325
+1480,Elm Tree @ Corral Outbound,38.044536,-84.490963
+1481,Elm Tree @ 3rd Outbound,38.046326,-84.489264
+1482,Elm Tree @ 4th Outbound,38.047778,-84.487327
+1485,Shropshire @ Breckenridge Outbound,38.048682,-84.478408
+1487,Loudon @ 662 Outbound,38.049277,-84.472014
+1488,Loudon @ 700 Outbound,38.047573,-84.468856
+1489,Loudon @ Royal,38.043175,-84.466621
+149,West Main @ 722 (Salvation Army),38.05318,-84.504814
+1490,Winchester @ Strader,38.042141,-84.464638
+1491,Goodwin @ Catholic Action Center,38.044449,-84.460966
+1492,Eastland @ Industry Outbound,38.046284,-84.460959
+1493,Eastland @ Eastland SC,38.045784,-84.457679
+1494,New Circle @ 1030 Outbound,38.037724,-84.454558
+1495,New Circle @ Family (McDonald's),38.034058,-84.453696
+1497,Creative @ Liberty Inbound,38.029819,-84.455047
+15,Buena Vista @ Elkhorn,38.042129,-84.424126
+1500,Liberty @ 1701 Inbound,38.036179,-84.462195
+1503,Loudon @ 853 Inbound,38.042754,-84.466399
+1505,Loudon @ Darley,38.048527,-84.470664
+1506,Loudon @ Warfield,38.050636,-84.47355
+1507,Shropshire @ 617 Inbound,38.048434,-84.478934
+1508,6th @ Nelson Inbound,38.046737,-84.477851
+151,Alexandria @ 2069/Oleander,38.02803,-84.550972
+1510,4th @ Chestnut Inbound,38.046452,-84.485488
+1511,4th @ Elm Tree Inbound,38.047829,-84.487
+1512,Elm Tree @ 3rd Inbound,38.046771,-84.488937
+1513,Elm Tree @ Short Inbound,38.044304,-84.491463
+1514,Rose @ 137 Inbound,38.042244,-84.493683
+1515,South Broadway @ High Outbound,38.047175,-84.502555
+1516,South Broadway @ Pine Outbound,38.045324,-84.505117
+1518,South Broadway @ 843,38.040669,-84.512902
+1519,South Broadway @ 1093 Outbound,38.03723,-84.517928
+152,Garden Springs @ Jasmine,38.026054,-84.549965
+1520,South Broadway @ 1221 (Lexington Clinic),38.03537,-84.521048
+1521,Harrodsburg @ Saint Joseph Hosp Outbound,38.032771,-84.525374
+1523,Harrodsburg @ Clays Mill Outbound,38.030756,-84.528696
+1524,Harrodsburg @ Allendale Outbound,38.027454,-84.53369
+1525,Harrodsburg @ Larkspur Outbound,38.022442,-84.542046
+1526,Harrodsburg @ Sullivan University,38.020949,-84.54399
+1527,Harrodsburg @ Alexandria,38.017895,-84.548019
+1529,Harrodsburg @ 3421 Outbound,38.007369,-84.564559
+153,Garden Springs @ Tamarack,38.025088,-84.545738
+1530,Harrodsburg @ Kerr Brothers Inbound,38.007026,-84.564522
+1531,Harrodsburg @ Fort Harrods Outbound,38.009868,-84.560912
+1532,Harrodsburg @ 2444 Inbound,38.017498,-84.548079
+1533,Harrodsburg @ Burbank  Inbound,38.019611,-84.545188
+1534,Harrodsburg @ Longview Inbound,38.02291,-84.541046
+1535,Harrodsburg @ 1946 Inbound,38.027269,-84.533517
+1536,Harrodsburg @ Clays Mill Inbound,38.030335,-84.528956
+1537,Harrodsburg @ Saint Joseph Hosp Inbound,38.032448,-84.525344
+1538,South Broadway @ 1250,38.034828,-84.521392
+1539,South Broadway @ Simpson Inbound,38.036735,-84.518356
+154,Newtown @ 298 (2nd Street),38.056109,-84.503409
+1540,South Broadway @ Foreman Inbound,38.040934,-84.512286
+1541,South Broadway @ 604 Inbound,38.043522,-84.507476
+1542,South Broadway @ Pine Inbound,38.044861,-84.505576
+1543,Bainbridge @ 309,38.004021,-84.431076
+1544,Bainbridge @ Bainbridge Court,38.004547,-84.428932
+1545,Lindenhurst @ 304,38.003074,-84.429549
+1546,Woodland Glen,38.031685,-84.499915
+1547,Greek Park South,38.034614,-84.501468
+1548,Greek Park West,38.036223,-84.50193
+1549,Memorial Coliseum,38.038479,-84.500397
+155,Buena Vista @ Thunderstick Inbound,38.042511,-84.425414
+156,Leestown @ 2250 Inbound,38.07542,-84.538544
+1602,Red Mile @ Red Mile Court,38.041514,-84.524139
+1604,Virginia @ Export,38.037158,-84.513915
+1605,South Limestone @ Washington,38.035477,-84.508041
+1607,Memorial Hall,38.037491,-84.507316
+1608,Winslow Street,38.042221,-84.504538
+1611,Angliana @ Curry CCW,38.041813,-84.512
+1612,Angliana @ 475 (Alltech),38.043632,-84.513091
+1614,Red Mile @ Nancy Hanks Inbound,38.047315,-84.52339
+1617,Garrigus Building,38.027145,-84.508315
+1618,University Health,38.032764,-84.508965
+1624,Barnhart Building,38.02785,-84.510055
+1625,Tobacco Research,38.026027,-84.506331
+1628,University @ Cooper Outbound,38.027191,-84.505966
+1629,W. T. Young Library,38.031574,-84.501762
+1630,Todds @ Palumbo (Galls) Inbound,38.00954,-84.438491
+1631,Todds @ Chelsa Wood Inbound,38.009647,-84.44059
+1632,Woodhill @ Larkwood,38.012222,-84.444046
+1633,Woodhill @ Hedgewood,38.014137,-84.446907
+1634,Woodhill @ 2457 Inbound,38.015841,-84.449593
+1635,Palumbo @ Link Belt Inbound,38.012309,-84.437972
+1636,Palumbo @ 2401 Inbound,38.02103,-84.449738
+1645,Old Frankfort @ Humane Society Outbound,38.059528,-84.535568
+1646,Old Frankfort @ Humane Society Inbound,38.059493,-84.535865
+165,Nelson @ 5th Inbound,38.045268,-84.479467
+166,5th @ Shropshire Inbound,38.04626,-84.481498
+1668,Rogers @ Mary Todd Park Outbound,38.08313,-84.451485
+1669,Rogers @ Mary Todd Park Inbound,38.083335,-84.451453
+167,Russell Cave @ Walmart,38.069938,-84.478481
+1670,Parkside @ Circle Drive,38.079716,-84.451286
+1672,Chandler Hospital,38.030884,-84.509544
+1673,Woodhill @ Thorntons Outbound,38.017399,-84.455353
+1674,Codell @ Woodhill Inbound,38.017543,-84.453392
+1675,Woodhill @ Codell Inbound,38.017068,-84.453114
+1677,Centre Parkway @ Bold Bidder Outbound,37.982493,-84.475043
+1678,Winburn @ McCullough Inbound,38.087999,-84.472768
+1679,Winburn @ Colchester,38.086513,-84.468842
+168,Park Place @ 455,38.068747,-84.482719
+1685,Fortune @ Haddon Outbound,38.030292,-84.446761
+1688,Centre Parkway @ Appian Inbound,37.980903,-84.482326
+169,Alysheba @ 1816 (Meijer),38.017729,-84.420603
+1691,LaSalle/Grn Acres Park,38.078704,-84.480759
+1692,Industry @ New Circle,38.049144,-84.456145
+1693,Cambridge @ Oxford Inbound,38.049213,-84.543304
+1696,Coburn @ St William Night Only,38.020264,-84.465529
+1697,Angliana @ 525 CCW,38.045994,-84.51516
+17,Centre Parkway @ Appian Way,37.980594,-84.48194
+170,Fortune @ Liberty Inbound,38.029368,-84.447945
+1704,Georgetown @ 1574 OB,38.082931,-84.509383
+1705,Georgetown @ Keller OB,38.072247,-84.505073
+171,Newtown @ 342 (3rd Street),38.058364,-84.501373
+172,Polo Club @ MOW,38.025565,-84.407051
+173,Polo Club @ 2924,38.024192,-84.405562
+174,Bryant @ Pleasant Ridge,38.016383,-84.410232
+175,Sir Barton @ Pavilion Way Inbound,38.021193,-84.419166
+176,Walmart @ Northpark,38.070655,-84.4813
+177,Fitzgerald @ 1500 (Costco),38.025374,-84.410404
+178,Nandino @ Rushwood,38.079288,-84.496306
+183,Nandino @ Trotwood,38.078186,-84.505127
+184,Trade @ Merchant,38.076832,-84.543518
+187,New Circle @ 745 (Old IBM),38.073729,-84.486618
+189,Trade@ 164,38.073966,-84.547066
+19,Costigan @ Pennebaker,38.091727,-84.480039
+190,Trade @ 124,38.076347,-84.543831
+191,Walmart @ Sir Barton Inbound,38.038696,-84.424842
+192,Walmart @ Sir Barton Outbound,38.037228,-84.424201
+193,Sir Barton @ 2530,38.03418,-84.42157
+194,Georgetown @ Capstone Outbound,38.090942,-84.512009
+197,Seaton Center,38.029113,-84.505104
+198,Lewis Hall,38.031447,-84.503563
+199,The 90,38.031253,-84.501625
+2,Oliver Lewis Way @ High,38.051197,-84.509232
+20,Creative @ Post Office,38.028164,-84.453841
+200,Woodland @ Columbia Inbound,38.032238,-84.499146
+201,Woodland @ Euclid Inbound,38.034065,-84.496619
+202,Woodland @ Maxwell Inbound,38.03622,-84.493522
+209,Westhampton @ 108 Inbound,38.078853,-84.540648
+210,Palumbo @ KI Lumber Inbound,38.015469,-84.442055
+211,Palumbo @ 2439 Inbound,38.01945,-84.447524
+212,Codell @ Mirahill Inbound,38.020373,-84.452292
+213,Palumbo @ 2580 Outbound,38.014113,-84.440375
+214,Codell @ 370 Outbound,38.019215,-84.452605
+215,Codell @ Palumbo Outbound,38.021808,-84.451636
+216,Palumbo @ 2544 Outbound,38.015621,-84.442504
+217,Palumbo @ 2430 Outbound,38.019618,-84.448029
+218,Palumbo @ Link Belt Outbound,38.011932,-84.437851
+219,Woodland @ Euclid Outbound,38.033828,-84.497124
+22,Eagle Creek @ St Joseph Hospital East,37.999172,-84.44171
+220,Woodland @ Columbia Outbound,38.032702,-84.498741
+221,Mercer @ 1850 Inbound,38.077682,-84.531334
+222,Hospital Drive,38.029181,-84.505355
+226,Southland @ 450 Inbound,38.01937,-84.527823
+227,Southland @ Cherrybark Inbound,38.017997,-84.526466
+228,Southland @ Eastway Inbound,38.016227,-84.524346
+23,Eastland Pkwy @ New Circle Outbound,38.045878,-84.453094
+231,Mercer @ 2008 Inbound,38.079678,-84.536948
+235,Southland @ 201 Outbound,38.012402,-84.519257
+236,Southland @ 353 Outbound,38.016487,-84.524536
+24,Eastland Shopping Center,38.04507,-84.4579
+241,Nicholasville @ Central Baptist Inbound,38.017483,-84.514365
+242,High @ 341 IB,38.040357,-84.494139
+243,Red Lot,38.025722,-84.506104
+244,Man O' War @ Liberty Outbound,38.008048,-84.424835
+245,Man O' War @ pole #63,38.006618,-84.436951
+247,Pimlico @ Bold Bidder,37.978972,-84.472655
+248,Pimlico @ 3576,37.980469,-84.471321
+249,Pimlico @ 3501,37.983382,-84.47203
+250,Enterprise @ 709 Inbound,38.061815,-84.550412
+251,Man O' War @ Mount McKinley Outbound,37.981808,-84.461426
+252,Buckhorn @ Deer Lake Inbound,37.975825,-84.463508
+253,Buckhorn @ 3332 Inbound,37.978915,-84.454436
+254,Buckhorn @ Cool Water Inbound,37.982478,-84.451644
+257,Beaumont Centre Circle @ KY Blood Center,38.01944,-84.554626
+259,Mercer @ 1702 (UPS) Inbound,38.075938,-84.526244
+260,Midland @ 3rd Outbound,38.04237,-84.482169
+261,Liberty @ 1664 Outbound,38.036479,-84.462661
+262,Fortune @ 2330 Outbound,38.039733,-84.447089
+263,Vendor Way,38.020566,-84.422467
+264,Pleasant Ridge @ Plaudit Outbound,38.018058,-84.41603
+265,Bryant @ Plaudit,38.019217,-84.413756
+266,Bryant @ 2033 Outbound,38.018176,-84.41085
+267,Pleasant Ridge @ Malones,38.017081,-84.414268
+269,Mercer @ Fairman  Inbound,38.075503,-84.522155
+271,Sir Barton @ National College Inbound,38.026924,-84.421874
+273,Fortune @ 2433 Inbound,38.03437,-84.447594
+2736,Nicholasville @ Dundee,37.988913,-84.524635
+274,Liberty @ Christian,38.028998,-84.451156
+276,Harrodsburg @ Man-O-War,38.002743,-84.570663
+277,Lyon @ Cottage Circle,38.007716,-84.572222
+278,Shropshire @ 5th Outbound,38.046157,-84.481773
+279,Nelson @ Triple Crown,38.045442,-84.479011
+28,Palumbo @ Ruskin Inbound,38.017216,-84.444449
+280,Bluegrass Park @ Shropshire Outbound,38.047718,-84.479469
+281,Loudon @ Magoffin Outbound,38.050728,-84.47399
+282,Shropshire @ Shelby Outbound,38.050331,-84.476363
+284,Lyon @ 3792,38.006573,-84.573599
+285,New Circle East @ 771,38.046674,-84.453819
+286,Radcliffe @ Bishop Outbound,38.085857,-84.466698
+287,Radcliffe @ Bishop Inbound,38.085857,-84.466187
+288,Radcliffe @ Radcliffe Court Outbound,38.084545,-84.46392
+289,Radcliffe @ 343 Outbound,38.081801,-84.461554
+290,Radcliffe @ Benton Outbound,38.078815,-84.462173
+291,Radcliffe @ 332 Inbound,38.083568,-84.462546
+292,Radcliffe @ Benton Inbound,38.079329,-84.461304
+293,Haggard @ Haggard Court IB,38.075999,-84.461204
+294,Haggard @ Blueridge Outbound,38.076255,-84.461754
+295,Parkside @ Paris Pike Outbound,38.079334,-84.450835
+296,Parkside @ Mary Todd School,38.082825,-84.454178
+297,Parkside @ Allen Outbound,38.084953,-84.456627
+298,Parkside @ 530 Inbound,38.081843,-84.453261
+299,Parkside @ Allen Inbound,38.084717,-84.456634
+3,Alexandria @ Devonport IB,38.048149,-84.552108
+300,Rogers @ Allen Inbound,38.086234,-84.453575
+301,Rogers @ Nancy Outbound,38.085792,-84.453429
+304,Old Paris @ 1961 Outbound,38.074219,-84.457245
+305,Old Paris @ 1849 Outbound,38.071571,-84.461136
+306,Old Paris @ 1906 Inbound,38.072925,-84.458939
+307,Bryan Station Road @ Mariemont,38.063026,-84.45584
+308,Eastin @ Old Paris Inbound,38.07022,-84.462584
+309,Eastin @ 327 Inbound,38.06383,-84.455429
+310,Bryan Station @ Rookwood Outbound,38.061623,-84.460227
+311,Bryan Station @ 1742 Inbound,38.061932,-84.458681
+313,Russell Cave @ 1678 Outbound,38.077301,-84.472075
+314,Russell Cave @ Wesley Methodist IB,38.084203,-84.468447
+315,4th @ North Broadway Outbound,38.053435,-84.493117
+316,Hackney @ Stanton,38.10165,-84.481773
+320,Citation @ Newtown,38.085849,-84.491172
+321,Newtown @ Coleman,38.095387,-84.486304
+322,Martin Luther King @ Constitution,38.047751,-84.49133
+323,North Broadway @ 4th Outbound,38.053473,-84.493376
+324,North Broadway @ Withers,38.063755,-84.478477
+325,North Broadway @ Northland Outbound,38.065158,-84.476386
+326,2nd @ Connie Griffith OB,38.054362,-84.50119
+327,Florence @ 802 Outbound,38.068382,-84.507446
+328,Georgetown @ Sandersville Outbound,38.085223,-84.510306
+329,Douglas @ Georgetown Inbound,38.066376,-84.503776
+33,4th @ Race Outbound,38.045448,-84.484558
+330,3rd @ Jefferson,38.054816,-84.499022
+331,Rose @ Maxwell Outbound,38.039851,-84.496932
+332,Fontaine @ Dinsmore Outbound,38.017853,-84.466948
+333,Fontaine @ 2117 Inbound,38.017791,-84.467346
+334,Palumbo @ Blake James Outbound,38.007942,-84.436378
+335,Palumbo @ Blake James Inbound,38.007979,-84.436241
+336,Westhampton @ Mercer,38.080246,-84.539298
+341,BCTC Leestown Campus,38.068637,-84.536567
+342,Bull Lea @ ESHosp,38.083851,-84.498191
+343,Saint Margaret @ Richmond Inbound,38.021079,-84.467087
+344,Armstrong Mill @ 1186 Outbound,37.979393,-84.487373
+345,Opportunity Way @ 2250 (VA Housing),38.070659,-84.535652
+346,Camelot @ 3748 Outbound,37.976211,-84.510863
+348,Tates Creek @ Old Tates Creek,37.977337,-84.498283
+349,Tates Creek @ Armstrong Mill (PM/Sunday),37.982089,-84.495292
+35,Harrodsburg @ Turfland Mall IB,38.025883,-84.536071
+350,Tates Creek @ Lakewood Inbound,38.019778,-84.494094
+352,Alexandria @ 2009/Camelia Dr.,38.03102,-84.549416
+353,Lane Allen @ Garden Springs Plaza,38.029587,-84.540352
+354,Lane Allen @ 606 Inbound,38.02462,-84.533606
+357,UK Healthcare/Turfland Clinic,38.025424,-84.539925
+359,Beaumont Centre @ Beaumont Centre Circle,38.016616,-84.555587
+36,Harrodsburg @ Beaumont Centre,38.013297,-84.555496
+360,Beaumont Centre @ 3251 (YMCA),38.017039,-84.561226
+361,Camelot @ 211 Inbound,37.974563,-84.50978
+362,Appian Way @ Olympia Inbound,37.979808,-84.485282
+364,Beaumont @ Snaffle,38.015246,-84.558852
+366,Snaffle @ Bamboo,38.01226,-84.560264
+369,Fort Harrod @ Mantilla,38.012299,-84.564941
+37,Harrodsburg @ Corporate Inbound,38.013203,-84.554909
+372,Lyon @ 3475 (Quail Run),38.010779,-84.570151
+373,Mercer @ Trane Inbound,38.07492,-84.51445
+374,Mercer @ 1418 Inbound,38.07526,-84.508202
+375,Nandino @ Primrose Inbound,38.078578,-84.503249
+376,Nandino @ 944 Inbound,38.076709,-84.499167
+377,Nandino @ 848 Inbound,38.078892,-84.496361
+378,Man O' War @ Pink Pigeon,38.01519,-84.420333
+379,Enterprise @ 700 Inbound,38.062976,-84.548018
+38,Jefferson @ 176,38.05323,-84.501012
+380,Miles Point Way @ 709,38.067214,-84.555801
+382,Miles Point Way @ 765,38.064182,-84.554679
+383,Enterprise @ 780 Inbound,38.062416,-84.553664
+384,MLK Blvd,38.041302,-84.501163
+385,Student Center (Yellow Route),38.040047,-84.502418
+387,Man O' War @ Helmsdale Outbound,38.012996,-84.420532
+39,Lane Allen @ Abelia Lane,38.030986,-84.54531
+390,Georgetown @ Citation (Publix),38.094529,-84.512943
+392,Kearney Ridge @ 2559,38.11016,-84.521212
+393,Spurr @ Georgetown,38.104458,-84.5168
+394,Innovation @ 2440,38.103794,-84.520621
+395,Innovation @ 2348,38.099621,-84.521133
+396,Innovation @ Jaggie Fox,38.098122,-84.518517
+397,Rosemont Garden @ Southland Drive,38.022365,-84.528998
+4,Alexandria Drive @ 1944 Inbound,38.032527,-84.549255
+40,LaSalle @ Hollow Creek Inbound,38.077884,-84.482108
+401,Vine Street @ Beck Alley LexRide/UK FB O,38.043408,-84.495811
+41,Hollow Creek @ LaSalle Outbound,38.077579,-84.481873
+42,VA Medical Center/Leestown,38.074348,-84.538541
+45,Kentucky Clinic IB,38.033828,-84.508705
+46,Limestone @ Fourth (LTMS),38.050453,-84.491127
+47,North Limestone @ Loudon Outbound,38.057133,-84.481605
+48,College of Pharmacy,38.032992,-84.50917
+5,Oliver Lewis Way @ Main,38.053617,-84.506244
+50,North Limestone @ Loudon Inbound,38.058075,-84.480537
+5002,Rogers Rd @ Joyland Outbound,38.081325,-84.450638
+5003,Eastin @ Bryan Station HS Inbound,38.066533,-84.458224
+5004,Eastland Drive @ Commercial,38.045933,-84.457351
+5007,Rogers @ Joyland Inbound,38.081294,-84.450461
+5012,Fontaine @ Lakeshore Outbound,38.017653,-84.470428
+5013,Euclid @ Kroger Outbound,38.031083,-84.492273
+5015,Main @ Jefferson,38.05164,-84.502907
+5016,Appian Way @ Tates Creek Outbound,37.974205,-84.496895
+5018,Alexandria @ Lane Allen Outbound,38.031905,-84.548958
+5021,Versailles @ Forbes Inbound,38.049675,-84.524024
+5022,South Broadway @ Virginia IB,38.038184,-84.516159
+5023,Harrodsburg @ Fort Harrods Inbound,38.009491,-84.560889
+5024,Eastin @ BSHS Outbound,38.066616,-84.45851
+5025,Southland @ Rainbow,38.012279,-84.519362
+5026,Harrodsburg @ Arrowhead,38.011494,-84.557686
+5031,Southland @ 457 Outbound,38.019824,-84.527893
+5051,Connie Griffith,38.05381,-84.50154
+5052,Alexandria @ Devonport OB,38.048011,-84.552185
+5055,4th @ Race Inbound,38.045237,-84.484146
+5056,Liberty @ Creative Outbound,38.030082,-84.455223
+5057,St Ann @ Coburn Outbound,38.019035,-84.464004
+5059,West Blue Lot,38.023216,-84.508361
+5075,Short Street @ Upper Street (Visitor Cen,38.047777,-84.497337
+5076,North Broadway @ 4th,38.053795,-84.493149
+5077,Distillery District @ 1170 Manchester,38.055492,-84.517468
+5079,Third Street @ Withrow Way,38.04306,-84.482744
+5080,Walton Avenue @ Bullock Place,38.037375,-84.484669
+5081,Walton Avenue @ National Avenue,38.040809,-84.480343
+5082,Third Street @ Lyric Theatre,38.046187,-84.488788
+51,North Limestone @ New Circle Inbound,38.064281,-84.471671
+53,Locust Hill @ Mist Lake Center WB,38.001647,-84.449783
+54,Locust Hill @ Man-O-War Center/Kroger,38.004236,-84.445997
+55,Locust Hill @ Mist Lake Center EB,38.001376,-84.450088
+555,Masterson Station @ Sandersville Inbound,38.094471,-84.540421
+556,Masterson Station @ 333 Inbound,38.093707,-84.544301
+557,Masterson Station @ 229 Inbound,38.092541,-84.549598
+558,Masterson Station @ Gateway Inbound,38.091376,-84.551543
+559,Masterson Station @ Leestown Rd.,38.088027,-84.555037
+56,Man O' War @ Darby Creek,38.007004,-84.4319
+560,McConnells Trace @ 101 Inbound,38.089359,-84.558532
+561,McConnells Trace @ 153 Inbound,38.087456,-84.559844
+562,McConnells Trace @ Trailwood Inbound,38.085544,-84.561751
+563,Trailwood @ Blackwater Inbound,38.083515,-84.557343
+564,Trailwood @ Chestnut Ridge Inbound,38.082347,-84.554764
+569,Old Frankfort @ McConnell Springs Inboun,38.057857,-84.528716
+57,Man O' War @ Mapleleaf Inbound,38.007366,-84.428932
+570,Manchester @ Thompson Inbound,38.056228,-84.518321
+571,Manchester @ 920 Inbound,38.052884,-84.509917
+572,Oliver Lewis @ Davis Park Inbound,38.049929,-84.510247
+573,Oliver Lewis @ Scott Inbound,38.045326,-84.508859
+574,Main @ Tucker,38.051372,-84.50264
+575,4th @ BCTC Inbound,38.059287,-84.499847
+576,4th @ Blackburn Inbound,38.057899,-84.498275
+578,Meeting @ Frederick Douglass Outbound,38.038197,-84.439368
+579,Meeting @ FDHS (Bus Entrance) Outbound,38.036162,-84.432105
+58,Martin Luther King @ 3rd,38.047855,-84.491057
+580,Sir Barton Way @ War Admiral OB,38.038588,-84.427611
+581,Manchester @ Gatton Park,38.05185,-84.50734
+582,North Mill @ New Street,38.050458,-84.495695
+583,North Mill @ Short Street,38.048687,-84.498146
+59,Mercer @ Georgetown,38.076042,-84.507621
+6,Augusta @ Anniston,38.055856,-84.438071
+60,Man O' War @ Todds Inbound,38.00825,-84.423218
+602,Pimlico @ Oaklawn Outbound,37.990107,-84.47348
+603,Pimlico @ 3455 Outbound,37.984405,-84.475143
+604,Maxwell @ South Limestone,38.042889,-84.500815
+605,Life Lane @ Southland Christian Inbound,38.018496,-84.459572
+606,Coburn @ St Ann,38.018659,-84.463712
+607,Price @ Georgetown,38.070538,-84.504798
+608,Maxwell @ Rose,38.039996,-84.497513
+609,Tates Creek @ 107 Outbound,38.028773,-84.490294
+610,Maxwell @ 460 (Woodland),38.036949,-84.494064
+611,Rosemont Garden @ 507,38.022717,-84.529433
+617,Life Lane @ Coburn (SCC) Outbound,38.01847,-84.461623
+618,Lane Allen @ 619,38.025139,-84.533835
+619,Life Lane @ Southland Christian Outbound,38.018214,-84.459319
+62,River Park @ Trent Outbound,37.970752,-84.480743
+63,LexMark Inbound,38.071422,-84.496689
+64,LexMark Outbound,38.071442,-84.496261
+65,Nicholasville @ Southland Outbound,38.010417,-84.517051
+66,Nicholasville @ 2134 Inbound,38.009927,-84.517056
+67,South Park,37.992995,-84.522696
+69,Wellington Way @ Palomar Center Dr,38.005119,-84.569679
+7,Appian Way @ Trent,37.974208,-84.494239
+70,Martin Luther King @ 4th (Living Arts an,38.049209,-84.489143
+74,River Park @ Trent Inbound,37.970649,-84.480651
+77,Shropshire @ 723 Inbound,38.050406,-84.476455
+80,St Ann @ Richmond (Walgreen's),38.018622,-84.464264
+803,South Upper @ 535 (Winslow),38.042571,-84.504722
+804,College of Education,38.039954,-84.506682
+805,Prall Street,38.036845,-84.507735
+81,Stanton Way @ Shell Service Station,38.102336,-84.483699
+814,Antique @ 1447 (Meadowthorpe Landing),38.065292,-84.521064
+815,Leestown @ Boiling Springs Outbound,38.067096,-84.525421
+816,Leestown @ Taylor Outbound,38.069401,-84.528922
+817,Mercer @ Baker Court Outbound,38.075084,-84.514984
+82,Tates Creek @ Cooper Outbound,38.022773,-84.492209
+820,Mercer @ Harbison,38.075774,-84.524924
+821,Mercer @ Transport,38.077755,-84.531105
+822,Mercer @ Greendale,38.080001,-84.537308
+823,Transport Court (Weekends Only),38.077928,-84.53124
+824,Mercer @ Citation,38.083089,-84.542491
+825,Westhampton @ 101,38.078509,-84.541236
+826,Leestown @ Opportunity Way,38.073123,-84.535032
+827,Leestown @ Towne Center Inbound,38.068461,-84.528083
+828,Leestown @ Boiling Springs Inbound,38.066791,-84.52526
+83,Tates Creek @ Cooper Inbound,38.021488,-84.492897
+830,Leestown @ 1490 Inbound,38.065022,-84.522682
+84,Transit Center,38.044144,-84.496696
+840,South Limestone @ Warren,38.043804,-84.500594
+842,East Main @ 652/Old Lafayette Ave,38.036713,-84.486281
+843,Main @ Ashland Outbound,38.034881,-84.484252
+845,Richmond @ Sycamore,38.030688,-84.479499
+850,Saint Margaret @ 158 Outbound,38.022422,-84.464783
+853,Saint Michael @ 2132 Outbound,38.023338,-84.457207
+854,Saint Michael @ 2044 Outbound,38.025348,-84.457839
+855,Saint Ann @ Saint Mathilda Outbound,38.021445,-84.460304
+861,Patchen @ 420,38.001903,-84.453917
+862,Blazer @ Yorkshire,37.999661,-84.435316
+863,Blazer @ 3250,38.003253,-84.439094
+864,Eagle Creek @ 171,38.001883,-84.438811
+865,Richmond @ Mt Tabor Outbound,38.006474,-84.451697
+870,Saint Margaret @ Coburn Outbound,38.020926,-84.466857
+872,Richmond @ 1805 Inbound,38.026402,-84.47403
+874,Richmond @ Hanover Inbound,38.034087,-84.483032
+875,Richmond @ 1107 Inbound,38.032615,-84.481171
+876,East Main @ 701 Inbound,38.03648,-84.485725
+877,Richmond @ 1311 Inbound,38.030738,-84.479041
+881,Main @ Kentucky Outbound,38.038608,-84.488373
+885,Richmond @ Irvine Outbound,38.032356,-84.481368
+887,Richmond @ 1628 Outbound,38.028159,-84.476631
+888,Richmond @ 1810 Outbound,38.025761,-84.47383
+889,Richmond @ Shriners Outbound,38.023078,-84.470665
+891,Richmond @ 2234 Outbound,38.017978,-84.46471
+892,Richmond @ 2420 Outbound,38.013995,-84.460205
+894,Richmond @ Patchen,38.008791,-84.454224
+895,Mount Tabor @ 125 Outbound,38.004753,-84.451958
+897,Rio Dosa @ The Ridge,38.00536,-84.441864
+899,Richmond @ Prosperous,38.000465,-84.444992
+9,North Broadway @ Short OB,38.049228,-84.499305
+900,Richmond @ 2907 (Golden Buffet),38.004516,-84.449225
+901,Richmond @ 2895 Inbound,38.00661,-84.451363
+902,Richmond @ Todds Inbound,38.01015,-84.455345
+903,Richmond @ Southland Christian Church,38.016663,-84.461196
+904,Sir Barton Way @ War Admiral Way Inbound,38.039687,-84.428925
+905,Saint Ann @ Saint Phillip Inbound,38.021167,-84.460732
+906,Saint Michael @ 2109,38.023951,-84.457336
+907,Saint Michael @ 2029 Inbound,38.025986,-84.458264
+908,Saint Margaret @ 249 Inbound,38.025592,-84.460914
+909,Saint Margaret @ 177 Inbound,38.023505,-84.463554
+910,Meeting @ FDHS (Bus Entrance) Inbound,38.036468,-84.430885
+911,Meeting @ Frederick Douglass High School,38.038311,-84.439231
+913,Richmond @ 1601 Inbound,38.028979,-84.477111
+916,Main @ Bell Court,38.038235,-84.487754
+917,Main @ 463 Inbound,38.040198,-84.490021
+918,Alysheaba @ Sir Barton,38.020557,-84.418567
+920,Midland @ Short OB (Hill Ctr),38.041303,-84.489295
+922,Winchester @ 768 (McDonald's),38.041137,-84.476569
+923,Winchester @ 800 (Speedway),38.041643,-84.470739
+924,Liberty @ 1028 Outbound,38.039948,-84.467566
+925,Liberty @ 1136 Outbound,38.038382,-84.465369
+926,Liberty @ 1744 Outbound,38.033466,-84.460074
+927,Liberty @ 1825 Outbound,38.032252,-84.458649
+929,Liberty @ 2126 Outbound,38.028705,-84.450195
+930,Fortune @ 2456 Outbound,38.033367,-84.445953
+931,Fortune @ 2400 Outbound,38.035811,-84.447945
+932,Fortune @ Fortune Court Inbound,38.040069,-84.447059
+933,Buena Vista @ 2240 Outbound,38.042586,-84.427109
+934,Buena Vista @ 2241 Inbound,38.042712,-84.427246
+935,Sir Barton @ National College Outbound,38.027293,-84.42195
+936,Sir Barton @ 2517 Outbound,38.033908,-84.421707
+937,Sir Barton @ 2404 Inbound,38.028896,-84.420791
+939,Sir Barton @ 2321 Outbound,38.023972,-84.423264
+940,Sir Barton @ Meeting (Limited),38.037788,-84.426848
+941,Sir Barton @ Grey Lag Outbound (Limited),38.036083,-84.424361
+944,Sir Barton @ Star Shoot Inbound,38.023277,-84.42279
+946,Sir Barton @ Old Rosebud Outbound,38.028956,-84.421035
+948,Fortune @ Trade Center Inbound,38.036873,-84.448082
+949,Fortune @ Cornerstone Inbound,38.031379,-84.445694
+951,Liberty @ Creative Inbound,38.02969,-84.453933
+952,Liberty @ 1825 Inbound,38.032199,-84.458328
+953,Liberty @ 1749 Inbound,38.034087,-84.460456
+954,Liberty @ 1601 Inbound,38.038139,-84.464896
+955,Liberty @ 1019 Inbound,38.040241,-84.467833
+956,Winchester @ 909,38.041759,-84.471267
+957,Winchester @ Jif,38.041202,-84.477874
+958,Midland @ Lewis,38.042229,-84.484291
+959,Midland @ Short,38.041503,-84.488884
+962,Red Mile @ 1051 Inbound,38.03968,-84.521956
+97,Harrodsburg @ Turfland Mall OB,38.025653,-84.537041
+970,South Broadway @ Hayman Avenue,38.042987,-84.508994
+973,Red Mile @ South Broadway,38.039474,-84.51609
+98,North Upper @ Transylvania,38.05069,-84.492896
+980,Huguelet Drive,38.031306,-84.504143
+985,Ag North,38.028689,-84.510376
+986,College of Law,38.036208,-84.507729
+987,Main Building,38.039927,-84.505889
+988,College of Fine Arts,38.036411,-84.501938
+989,Columbia Avenue,38.034373,-84.501349
+99,Versailles @ Forbes,38.049846,-84.522926
+990,Woodland Avenue,38.031676,-84.500153
+991,Man O' War @ Mapleleaf Outbound,38.007645,-84.428421
+992,Man O' War @ Palumbo Outbound,38.006954,-84.434188
+993,Man O' War @ Palumbo Inbound,38.006264,-84.437584
+994,Rio Dosa @ Richmond Place,38.00534,-84.441634
+996,Locust Hill @ 115,38.004312,-84.446047
+997,Patchen @ 425 (Good Shepherd Church),38.002116,-84.454024
+998,Mount Tabor @ 465 Outbound,38.001125,-84.456924
+999,Mount Tabor @ 541 Outbound,37.998005,-84.458495
