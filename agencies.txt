@@ -20,6 +20,7 @@ midwest;oh-cota;COTA (Columbus);http://www.cota.com/data/cota.gtfs.zip
 midwest;cta;CTA (Chicago);tba
 midwest;mi-ddot;DDOT (Detroit);https://www.detroitmi.gov/Portals/0/docs/deptoftransportation/pdfs/ddot_gtfs.zip
 midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
+midwest;metra;Metra (Chicago);https://github.com/itsbenchase/feeds/raw/refs/heads/main/metra.zip
 midwest;metrowi;Metro Transit (Madison);https://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip
 midwest;metromsp;Metro Transit (Twin Cities);https://svc.metrotransit.org/mtgtfs/gtfs.zip
 midwest;pace;Pace (Chicago);tba
