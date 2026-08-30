@@ -41,6 +41,7 @@ midatl;ny-nice;NICE (Nassau County);https://www.nicebus.com/NICE/media/nicebus-g
 midatl;njt;NJT (New Jersey);tba
 midatl;prt;PRT (Pittsburgh);https://www.rideprt.org/developerresources/GTFS.zip
 midatl;septa;SEPTA (Philadelphia);tba
+midatl;va-roanoke;Valley Metro (Roanoke);https://github.com/itsbenchase/feeds/raw/refs/heads/main/roanoke.zip
 midatl;wmata;WMATA (Washington);https://github.com/itsbenchase/feeds/raw/refs/heads/main/wmata.zip
 west;wa-community;Community Transit (Everett, WA);https://www.soundtransit.org/GTFS-CT/current.zip
 west;wa-ctran;C-Tran (Vancouver, WA);https://mail.c-tran.com/images/Google/GoogleTransitUpload.zip
@@ -52,6 +53,7 @@ west;wa-pierce;Pierce Transit (Tacoma, WA);https://www.soundtransit.org/GTFS-PT/
 west;sound;Sound Transit (Seattle);https://www.soundtransit.org/GTFS-rail/40_gtfs.zip
 west;hi-thebus;TheBus (Honolulu);https://www.thebus.org/transitdata/production/google_transit.zip
 west;trimet;TriMet (Portland);https://developer.trimet.org/schedule/gtfs.zip
+west;az-valley;Valley Metro (Phoenix);https://www.phoenixopendata.com/dataset/3eae9a4a-98b9-40c8-8df7-8c00c1756235/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7/download/googletransit.zip
 west;wta;WTA (Bellingham, WA);tba
 ne;ma-bat;BAT (Brockton);https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
 ne;ma-brta;BRTA (Berkshires);https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip

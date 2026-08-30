@@ -1,0 +1,815 @@
+10361628,Blue Hills Dr At Adcance Auto Parts,37.309964,-79.900773
+10361629,Blue Hills Drive at Amazon,37.30279,-79.909565
+10535476,Litton Reeves,37.22242592184756,-80.42357225644875
+11046740,Frankin Road at Colony House,37.236076,-79.969566
+11047288,College Ave at 7th St,37.283428,-80.05199
+11066939,East Main at Strawberry Alley,37.29366,-80.05308
+11095427,Duck Pond at Vet Med,37.21834181405771,-80.42503011408617
+11434051,Jefferson at RMH,37.250428,-79.944107
+11736607,Roanoke Memorial Hospital,37.25202522040566,-79.94312586508178
+12471180,Walmart Valley View,37.3014366773374,-79.9589801616936
+4227226,Downtown Market,37.27179,-79.93926
+4227227,Jefferson & Kirk ,37.271243,-79.940582
+4227228,Jefferson & Bullitt,37.269161,-79.940657
+4227229,Jefferson & Mountain,37.265962,-79.941055
+4227231,Jefferson & Reserve (Southbound),37.256187,-79.94216
+4235766,Crystal Spring & McClanahan,37.25029,-79.945209
+4235767,Carillion Roanoke Memorial Hospital ,37.251808,-79.943068
+4235769,Radford University Carilion ,37.265781,-79.940977
+4235770,Jefferson & Bullitt (Northbound),37.268357,-79.940632
+4235771,Jefferson & Luck,37.269959,-79.940551
+4235772,Church & Market,37.270458,-79.939109
+4235980,VTC,37.257185,-79.94303
+4238977,Airport,37.320702,-79.96927
+4239395,Exit 140 -Park and Ride,37.316316,-80.055211
+4239462,Exit 118 - Park and Ride,37.133394,-80.371633
+4313718,Blackburg Municipal Building ,37.227494,-80.411981
+4351330,Research Building 26,37.198939,-80.405563
+4351332,Kraft Drive at Pratt,37.201728,-80.409721
+4351333,Kraft at Research Center,37.198919,-80.405477
+4372205,Integrated Life Sciences Building,37.201885,-80.40975
+4387937,Laurel St,37.162249,-80.42121
+4402968,VTC,37.257165,-79.943021
+4402969,Wells at Jefferson,37.27535,-79.940613
+4420546,Roanoke Amtrak Station,37.273161,-79.940434
+4674736,Jefferson & Walnut,37.260551,-79.941503
+4674737,Jefferson & Walnut,37.260543,-79.941436
+5695774,10th NB at Courtland,37.295796,-79.94741
+5695775,10th NB at Greenhurst,37.294392,-79.948325
+5695776,10th at Staunton,37.28517,-79.953404
+5695777,10th SB at Courtland,37.295961,-79.947427
+5695778,10th SB at Greenhurst,37.294554,-79.948366
+5695779,10th SB at Hanover,37.284458,-79.953741
+5695780,10th SB at Hunt,37.292675,-79.94959
+5695781,10th at Staunton,37.285351,-79.95345
+5695783,11th SB at Highland,37.268722,-79.925318
+5695784,11th SB at Jamison,37.269697,-79.925692
+5695785,11th SB at Montrose,37.266498,-79.924935
+5695786,11th SB at Moorman,37.281404,-79.956254
+5695787,13th NB at Campbell,37.270563,-79.963768
+5695788,13th NB at Cleveland,37.268882,-79.965145
+5695789,13th NB at Montrose,37.268838,-79.920315
+5695790,13th NB at Patterson,37.27238,-79.963427
+5695791,13th NB at Tayloe,37.265521,-79.918875
+5695792,13th SB at Campbell,37.270714,-79.963834
+5695793,13th SB at Cleveland,37.269104,-79.965039
+5695794,14th NB at Kenwood,37.270591,-79.91934
+5695795,18th NB at Salem,37.275956,-79.970205
+5695796,18th SB at Patterson,37.274089,-79.970942
+5695797,19th at Andrews,37.294001,-79.965152
+5695804,4th Street WB at College,37.287093,-80.052738
+5695805,5th at Harrison,37.279085,-79.947146
+5695808,8th NB at Dale,37.282171,-79.908859
+5695809,8th NB at Hill,37.280484,-79.909114
+5695810,8th SB at Hill,37.280565,-79.909196
+5695812,9th NB at Buena Vista/Penmar,37.263353,-79.926505
+5695813,9th NB at Centre,37.277078,-79.954678
+5695814,9th NB at Highland (CVS),37.267485,-79.928007
+5695815,9th NB at Montrose,37.264686,-79.926984
+5695816,9th NB at Morehead,37.259682,-79.92512
+5695817,9th NB at Pechin,37.261878,-79.925931
+5695819,9th NB at Stewart,37.270826,-79.929276
+5695821,9th SB at Buena Vista/Penmar,37.263646,-79.926779
+5695822,9th SB at Centre,37.277237,-79.954653
+5695823,9th SB at Dale,37.270102,-79.929192
+5695826,9th SB at Montrose,37.264895,-79.92724
+5695827,9th SB at Morehead,37.259668,-79.925297
+5695828,9th SB at Pechin,37.261946,-79.926119
+5695829,Airport NB at Nelms (opposite Skyline College),37.31975,-79.958464
+5695830,Airport NB at Williamson,37.318173,-79.956005
+5695831,Airport SB at Nelms,37.31996,-79.95893
+5695832,Airport SB at Williamson,37.318009,-79.956005
+5695834,Andrews at 19th,37.294066,-79.965268
+5695835,Andrews at Cove,37.295919,-79.970728
+5695836,Andrews at Florida,37.294629,-79.968157
+5695837,Andrews at Florida,37.294699,-79.968093
+5695838,Andrews at Leon,37.295853,-79.969708
+5695839,Antique Mall at Orange and Gus Nicks,37.291031,-79.910208
+5695840,Apperson EB at Dillard (Food Lion),37.269613,-80.031195
+5695841,Apperson EB at Dillard (Old Salem Mercantile),37.268618,-80.028931
+5695843,Apperson EB at Riverview,37.271372,-80.036471
+5695850,Bennington NB at Brownlee,37.262282,-79.913561
+5695851,Bennington NB at Dundee,37.256538,-79.913549
+5695852,Bennington NB at Queen Ann,37.254418,-79.914791
+5695853,Bennington NB at Riverdale,37.259944,-79.912924
+5695858,Bennington Street Food Lion,37.251193,-79.915369
+5695859,Bennington Street Food Lion Driveway at Rutrough,37.251128,-79.914579
+5695860,Blue Hills Drive at Creative Kids,37.309548,-79.89108
+5695861,Blue Hills Drive at FedEx,37.307996,-79.903234
+5695862,Blue Hills NB at Blue Hills Circle,37.311301,-79.897787
+5695863,Blue Hills NB at RCIT/Blue Hills Village,37.308097,-79.889783
+5695864,Blue Hills SB at Semco,37.305221,-79.906665
+5695865,Braeburn EB at Braeburn (Chateau Riviere Apts),37.264414,-80.028132
+5695866,Braeburn WB at Braeburn (Chateau Riviere Apts),37.264462,-80.028109
+5695867,Brambleton NB at Brandon,37.256834,-79.968585
+5695868,Brambleton NB at Clifford,37.246906,-79.983889
+5695869,Brambleton NB at Overland,37.250866,-79.973304
+5695870,Brambleton NB at Rosewood,37.24603,-79.986791
+5695871,Brambleton NB at Ross,37.249827,-79.977988
+5695872,Brambleton NB at Spring,37.24465,-79.989441
+5695873,Brambleton NB at Welch,37.251762,-79.971282
+5695874,Brambleton SB at Ashby,37.243752,-79.991009
+5695875,Brambleton SB at Brandon,37.256784,-79.968782
+5695876,Brambleton SB at Clifford,37.247047,-79.983829
+5695878,Brambleton SB at Rosewood,37.246145,-79.98687
+5695879,Brambleton SB at Ross,37.249948,-79.978051
+5695880,Brambleton SB at Carillion,37.247908,-79.980933
+5695881,Brambleton SB at Spring,37.244941,-79.98914
+5695882,Brambleton SB at Welch,37.251856,-79.971406
+5695883,Brandon EB at 23rd,37.256438,-79.959402
+5695884,Brandon EB at Carlton,37.261281,-79.992212
+5695885,Brandon EB at Ferguson Bath Kitchen & Lighting Showroom,37.263918,-80.004161
+5695886,Brandon EB at Gale,37.264779,-80.022252
+5695887,Brandon EB at ITT Technical Institute,37.264602,-80.020004
+5695888,Brandon EB at Malcolm,37.257108,-79.963756
+5695889,Brandon EB at Stratford Park (Brandon Oaks),37.26383,-80.012268
+5695890,Brandon EB at Westland,37.262601,-80.002097
+5695891,Brandon WB at Avon,37.259231,-79.985587
+5695892,Brandon WB at Ferguson Bath Kitchen & Lighting Showroom,37.264021,-80.004108
+5695893,Brandon WB at Gale (Wendy's),37.26481,-80.021992
+5695894,Brandon WB at ITT Technical Institute,37.264678,-80.019966
+5695895,Brandon WB at Malcolm,37.257282,-79.963724
+5695896,Brandon WB at New York,37.260473,-79.987507
+5695897,Brandon WB at Peters Creek (Carwash),37.265677,-80.008038
+5695898,Brandon WB at Skating Center,37.264272,-80.018324
+5695899,Brandon WB at Stratford Park (Brandon Oaks),37.263931,-80.012256
+5695900,Brandon WB at Westland,37.262717,-80.002117
+5695901,Brandon WB at Windsor,37.25666,-79.959504
+5695902,Bullitt EB at 12th,37.269881,-79.923762
+5695903,Bullitt EB at 13th,37.270669,-79.92189
+5695904,Bullitt EB at 6th,37.267165,-79.933298
+5695905,Bullitt EB at 9th,37.268268,-79.928585
+5695906,Bullitt EB at 7th,37.267605,-79.93135
+5695907,Bullitt EB at Elm,37.266857,-79.934897
+5695908,Burrell NB at Douglass,37.283372,-79.941156
+5695909,Burrell NB at Whitten,37.285828,-79.942687
+5695910,Burrell SB at Douglass,37.283458,-79.941355
+5695911,Burrell SB at Whitten,37.28586,-79.94295
+5695912,Bypass SB at River Park Center,37.275868,-79.882507
+5695913,Bypass SB at Roop (opposite Hardy Road CVS),37.273682,-79.883624
+5695915,Campbell EB at 5th,37.271219,-79.949546
+5695916,Campbell EB at 7th,37.272485,-79.933142
+5695917,Campbell EB at 8 1/2,37.273,-79.930784
+5695918,Campbell EB at Norfolk (Citgo station),37.272132,-79.934552
+5695919,Campbell WB at 3rd,37.271822,-79.936446
+5695920,Campbell WB at 5th,37.27124,-79.9504
+5695921,Campbell WB at 7th,37.272556,-79.933203
+5695922,Campbell WB at 8 1/2,37.273159,-79.930602
+5695923,Campbell WB at Norfolk (Valley Metro Admin Bldg),37.274546,-79.92729
+5695925,Carlton SB at Avenel,37.259318,-79.992698
+5695926,Carlton SB at Grandin,37.25388,-79.993314
+5695927,Carlton SB at Northview,37.256526,-79.993013
+5695928,Centre EB at 5th,37.275419,-79.949065
+5695929,Centre EB at 7th,37.276216,-79.951676
+5695930,Chesterfield NB at Berkley,37.268436,-79.981566
+5695931,Chesterfield NB at Mountain View,37.269536,-79.981305
+5695932,Chesterfield SB at Berkley,37.268879,-79.981531
+5695933,Chesterfield SB at Memorial,37.266666,-79.982061
+5695935,Clearview Manor on Vinyard,37.270151,-79.88765
+5695936,College NB at East Main,37.29244,-80.054341
+5695937,College SB at 4th,37.286657,-80.052899
+5695938,College SB at Calhoun,37.292353,-80.054466
+5695939,Colonial NB at 220S On-Ramp ,37.252277,-79.960053
+5695940,Colonial NB at Brandon,37.256085,-79.953637
+5695941,Colonial NB at Broadway (Colonial Hills Office Building),37.250782,-79.962802
+5695942,Colonial NB at Clearfield,37.248584,-79.966837
+5695943,Colonial NB at McNeil (VWCC),37.246855,-79.971412
+5695945,Colonial NB at Pasley,37.24195,-79.97994
+5695946,Colonial NB at Winding Way,37.245319,-79.974871
+5695947,Colonial NB at Woodland,37.238958,-79.98692
+5695948,Colonial SB at 220S On-Ramp (The Roanoker),37.252377,-79.960143
+5695949,Colonial SB at Broadway (Colonial Hills Office Building),37.250859,-79.96287
+5695950,Colonial SB at Clearfield,37.248686,-79.96695
+5695952,Colonial SB at Pasley,37.24198,-79.980161
+5695953,Colonial SB at Towers Shopping Center,37.254839,-79.956077
+5695954,Colonial SB at VWCC Pedestrian Overpass,37.24603,-79.973561
+5695955,Colonial SB at Woodland,37.238815,-79.987244
+5695956,Colonial SB at Wright,37.240324,-79.984787
+5695958,Cove at Abbott,37.300581,-79.976407
+5695959,Cove at Fairland,37.298652,-79.973253
+5695960,Cove at Golfside,37.302122,-79.980099
+5695961,Cove at Guildhall,37.302635,-79.981328
+5695962,Cove at Hershberger ,37.303863,-79.983931
+5695963,Cove at Abbott,37.30055,-79.976637
+5695964,Cove at Fairland,37.298632,-79.973417
+5695965,Cove SB at Food Lion Entrance,37.315156,-80.003471
+5695966,Cove at Golfside,37.302067,-79.980274
+5695967,Cove at Hershberger (Lee Hartman),37.303002,-79.982422
+5695968,Cove at Hershberger ,37.303807,-79.984032
+5695969,Cove SB at Lynnhope,37.312242,-79.997949
+5695970,Cove SB at Ranch,37.311244,-79.99542
+5695971,Cove SB at Routt,37.308512,-79.990209
+5695972,Cove at Sherman,37.296721,-79.971671
+5695973,Cove SB at Willow Walk,37.313821,-80.000567
+5695974,Dale EB at 19th,37.272636,-79.917308
+5695975,Dale EB at 21st,37.273331,-79.913489
+5695976,Dale EB at Walmart,37.274065,-79.910529
+5695977,Dale NB at 6th,37.282204,-79.906816
+5695978,Dale NB at Clyde,37.283742,-79.904383
+5695979,Dale SB at 6th,37.282314,-79.90678
+5695980,Dale WB at 13th,37.27146,-79.921257
+5695981,Dale WB at 19th,37.272903,-79.916982
+5695982,Dale WB at 8th,37.282336,-79.908805
+5695983,Dale WB at Fallon Park,37.273797,-79.912535
+5695984,Dale WB at Vernon,37.27468,-79.908944
+5695985,Denniston SB at Hampton,37.265392,-79.972901
+5695986,Denniston SB at Maiden,37.263954,-79.971857
+5695987,Denniston SB at Westover,37.264773,-79.972175
+5695988,Dunkirk SB at Clyde,37.283811,-79.904418
+5695989,Dunkirk SB at Gus Nicks,37.285569,-79.901547
+5695990,E Main EB at Park,37.294126,-80.049148
+5695991,E Main WB at Dalewood,37.298721,-80.025622
+5695993,East Main EB at Lakeside Plaza,37.297787,-80.028855
+5695995,East Main EB at Parkdale,37.297063,-80.035096
+5695996,East Main EB at Pinehurst,37.296617,-80.038267
+5695997,East Main EB at Wortham,37.295347,-80.043836
+5695998,East Main WB at Brand,37.295508102402074,-80.04369611541367
+5695999,East Main WB at College,37.293496,-80.054326
+5696000,East Main WB at Craig,37.294012,-80.051325
+5696001,East Main WB at Lakeside Plaza (Goodwill),37.297868,-80.029532
+5696002,East Main WB at Lynchburg,37.294652,-80.047203
+5696003,East Main WB at Parkdale,37.297232,-80.034942
+5696004,Edgewood EB at Malvern,37.264371,-79.994308
+5696005,Edgewood NB at Brandon (Family Dollar),37.261893,-79.999539
+5696006,Edgewood NB at Westover,37.266817,-79.990137
+5696007,Edgewood NB at Windsor,37.265397,-79.991519
+5696008,Edgewood SB at Westover,37.267022,-79.99013
+5696009,Edgewood SB at Windsor,37.265469,-79.991548
+5696010,Edgewood WB at Malvern,37.264443,-79.994335
+5696011,Edgewood WB at Shell Station,37.262231,-79.999404
+5696012,Electric NB at Indiana/Midland,37.274769,-80.036797
+5696013,Electric NB at Lancing,37.268213,-80.03568
+5696015,Electric NB at Tanglewood Mall Driveway (Copper Croft Apartments),37.228776,-79.976985
+5696017,Elm EB at 4th,37.266846,-79.948544
+5696020,Elm EB at Jefferson (Community Hospital),37.266776,-79.939947
+5696021,Elm WB at 4th,37.266966,-79.948357
+5696024,Elm WB at Jefferson,37.266965,-79.94014
+5696025,End of Thirlane (Airport),37.317642,-79.968452
+5696027,Fauquier NB at Denniston,37.268469,-79.986873
+5696028,Fauquier SB at Denniston,37.268613,-79.986911
+5696029,Fauquier SB at Memorial,37.267529,-79.98721
+5696030,Ferncliff at Ferncliff Apartments,37.30939,-79.986574
+5696031,Ferncliff at Routt,37.310202,-79.987834
+5696032,Ferncliff at William Fleming High School,37.308272,-79.984642
+5696033,Ferncliff at Ferncliff Apartments,37.309261,-79.986556
+5696034,Ferncliff at Hoback,37.305725,-79.980709
+5696035,Ferncliff at William Fleming High School,37.307878,-79.984155
+5696036,Fleetwood NB at Ashby,37.243783,-79.991375
+5696037,Floraland EB at Grandview,37.307113,-79.955928
+5696038,Floraland WB at Grandview,37.307217,-79.956021
+5696039,Floraland WB at Huff,37.30544,-79.958483
+5696040,Franklin EB at Earth Fare,37.251462,-79.953308
+5696041,Franklin EB at Broadway Ave,37.249496,-79.955815
+5696042,Franklin NB at Beechwood,37.244616,-79.962389
+5696043,Franklin NB at Roberts Rd,37.245664,-79.960953
+5696044,Franklin NB at Day,37.267708,-79.945704
+5696045,Franklin NB at Edinburgh (River's Edge Sports Complex),37.25421,-79.950468
+5696046,Franklin NB at Highland,37.264752,-79.946393
+5696048,Franklin NB at Mountain,37.265653,-79.946242
+5696049,Franklin NB at Penarth,37.234246,-79.970816
+5696050,Franklin NB at Reserve,37.255899,-79.949006
+5696052,Franklin NB at Burger King,37.247501,-79.95845
+5696053,Franklin NB at Transmission America,37.243112,-79.964004
+5696054,Franklin NB at Walnut,37.261742,-79.946628
+5696055,Franklin NB at Willow Oak,37.237939,-79.967321
+5696056,Franklin NB at Woods,37.26056,-79.946934
+5696057,Franklin SB at 220N On-Ramp (BP station),37.233588,-79.971559
+5696058,Franklin SB at Albemarle,37.263222,-79.946747
+5696059,Franklin SB at Avenham,37.239253,-79.966301
+5696060,Franklin SB at Beechwood,37.244752,-79.962551
+5696061,Franklin SB at Day,37.267777,-79.945944
+5696062,Franklin SB at Edinburgh (Ramada Inn),37.254371,-79.950693
+5696063,Franklin SB at Highland,37.264994,-79.946506
+5696064,Franklin SB at Public Storage,37.237144,-79.968998
+5696065,Franklin SB at Reserve,37.256007,-79.94911
+5696066,Franklin SB at Roberts (Carilion Laundry),37.245604,-79.961355
+5696067,Franklin SB at Townside Festival Shopping Center,37.235326,-79.970396
+5696068,Franklin SB at Talecris Plasma,37.247651,-79.958569
+5696069,Franklin SB at Transmission America,37.243317,-79.964133
+5696070,Franklin SB at Woods,37.260949,-79.947056
+5696071,Franklin WB at Carilion Orthopedic,37.249946,-79.955562
+5696072,Franklin WB at Earth Fare,37.251651,-79.953399
+5696073,Franklin WB at Jefferson,37.269414,-79.940289
+5696074,Gainsboro NB at Harrison (Our Lady of the Valley),37.277826,-79.941575
+5696075,Gainsboro at Loudon,37.274716,-79.943283
+5696076,Gainsboro NB at Madison,37.279828,-79.941284
+5696077,Gainsboro at Patton,37.276897,-79.94163
+5696078,Gainsboro SB at Loudon,37.274787,-79.943483
+5696079,Gainsboro SB at Madison,37.280108,-79.941439
+5696080,Gainsboro at Patton,37.277005,-79.941756
+5696081,Gainsboro SB at Wells,37.275591,-79.942876
+5696082,Garden City NB at Carico (Garden City Elementary),37.228396,-79.929803
+5696083,Garden City NB at Craig Robertson,37.244086,-79.92053
+5696084,Garden City NB at Davenport/Ivywood,37.236348,-79.927147
+5696085,Garden City NB at Findlay,37.241876,-79.921715
+5696086,Garden City NB at Ray,37.232117,-79.928545
+5696087,Garden City NB at Thomason,37.245774,-79.920419
+5696088,Garden City SB at Craig Robertson,37.244172,-79.920651
+5696089,Garden City SB at Davenport/Ivywood,37.23646,-79.927194
+5696091,Garden City SB at Gearhart,37.234158,-79.928057
+5696092,Garden City SB at Hartsook,37.23831,-79.924777
+5696093,Garden City SB at Ray,37.232165,-79.928649
+5696094,Garden City SB at Thomason,37.245735,-79.92052
+5696103,Grandin NB at Avenel (Patrick Henry High School),37.255889,-79.985881
+5696105,Grandin NB at Maiden,37.263548,-79.977626
+5696106,Grandin NB at Memorial (Grandin Theatre),37.265116,-79.977155
+5696107,Grandin NB at Sherwood,37.260937,-79.979569
+5696108,Grandin NB at Windsor,37.262089,-79.978437
+5696109,Grandin SB at Brandon,37.257617,-79.983526
+5696110,Grandin SB at Maiden,37.263721,-79.977673
+5696111,Grandin SB at Memorial (Natural Foods Co-op),37.265128,-79.977232
+5696112,Grandin SB at Sherwood,37.261073,-79.979546
+5696113,Grandin SB at Windsor,37.262261,-79.978434
+5696114,Grandview NB at Edinburgh,37.311067,-79.960179
+5696115,Grandview NB at Marr,37.31246,-79.961833
+5696116,Grandview NB at Vancouver,37.308695,-79.957438
+5696117,Grandview SB at Edinburgh,37.311097,-79.960379
+5696118,Grandview SB at Hershberger,37.313783,-79.963499
+5696119,Grandview SB at Marr,37.312466,-79.961998
+5696120,Grandview SB at Vancouver,37.308751,-79.957691
+5696121,Greenbrier EB at Clinton,37.269414,-79.911843
+5696122,Greenland NB at 10th,37.296664,-79.946923
+5696123,Greenland NB at Cumberland,37.298304,-79.949384
+5696124,Greenland NB at Maycrest,37.300804,-79.953211
+5696125,Greenland NB at Northminster,37.303024,-79.955999
+5696126,Greenland NB at Oakland,37.299471,-79.951079
+5696127,Greenland SB at 10th,37.296603,-79.947021
+5696128,Greenland SB at Avalon,37.303574,-79.956691
+5696129,Greenland SB at Cumberland,37.298352,-79.949643
+5696130,Greenland SB at Oakland,37.299698,-79.951353
+5696131,Gus Nicks NB at Eastern,37.289039,-79.908033
+5696132,Gus Nicks NB at Orange,37.29039,-79.909537
+5696133,Gus Nicks SB at Eastern,37.289067,-79.908273
+5696134,Gus Nicks SB at King,37.286273,-79.902305
+5696135,Gus Nicks SB at Orange,37.290283,-79.909623
+5696136,Hardy EB at Kroger,37.273063,-79.886848
+5696137,Hardy WB at Bedford,37.27323,-79.886826
+5696138,Hardy WB at Bypass (CVS),37.273585,-79.883438
+5696142,Hershberger EB at Bean,37.315399,-79.957391
+5696143,Hershberger EB at Bluebell (Friendship Manor),37.321537,-79.945128
+5696144,Hershberger EB at Eden,37.31476,-79.959497
+5696145,Hershberger EB at Hazelridge,37.320431,-79.947237
+5696146,Hershberger EB at Hubert/Winsloe,37.3187,-79.950809
+5696147,Hershberger EB at Plantation (Skate Center),37.323375,-79.937454
+5696148,Hershberger EB at Williamson (Walgreen's),37.316611,-79.95471
+5696149,Hershberger EB at Williamson (Shell station),37.316204,-79.955471
+5696150,Hershberger WB at Bean (McDonalds),37.315611,-79.958012
+5696151,Hershberger WB at Bluebell (Friendship Manor),37.321618,-79.945255
+5696152,Hershberger WB at Cove (Valley View Garden Apartments),37.303138,-79.985576
+5696153,Hershberger WB at Fairhope,37.302276,-79.992021
+5696154,Hershberger WB at Friends (Friendship Manor),37.322231,-79.943703
+5696155,Hershberger WB at Hazelridge,37.320623,-79.947181
+5696156,Hershberger WB at Hubert/Winsloe,37.318866,-79.950813
+5696157,Hershberger at Ordway (U-haul),37.305668,-79.977888
+5696158,Hershberger WB at Plantation (Edinburgh Square),37.323724,-79.937047
+5696159,Hershberger WB at Prestige Motors,37.303667,-80.006709
+5696160,Hershberger WB at Rutgers (Krispy Kreme)),37.31438,-79.962275
+5696161,Hershberger WB at Westside,37.302053,-79.996554
+5696162,Hershberger WB at Williamson (Radio Shack),37.316721,-79.954787
+5696164,Hoback at Big Lots parking lot,37.305544,-79.980067
+5696165,Hollins EB at Plantation,37.307463,-79.931724
+5696166,Hollins NB at Mason Mill,37.293181,-79.925541
+5696167,Hollins NB at Missouri,37.288789,-79.924937
+5696168,Hollins NB at Mohawk,37.287037,-79.924854
+5696169,Hollins NB at Norton,37.298864,-79.925326
+5696170,Hollins NB at Old Mountain,37.305541,-79.925853
+5696171,Hollins NB at Orange (Car Wash),37.283355,-79.924704
+5696172,Hollins NB at Pearl,37.302637,-79.925437
+5696173,Hollins NB at Shull,37.294838,-79.925544
+5696174,Hollins SB at Liberty,37.29784,-79.925477
+5696175,Hollins SB at Mason Mill,37.293294,-79.925604
+5696176,Hollins SB at Missouri,37.288849,-79.925059
+5696177,Hollins SB at Mohawk,37.287118,-79.924987
+5696178,Hollins SB at Old Mountain,37.30564,-79.926177
+5696179,Hollins SB at Orange,37.283637,-79.92505
+5696180,Hollins SB at Pearl,37.302792,-79.925611
+5696181,Hollins SB at Riley,37.306771,-79.92767
+5696182,Hollins SB at Shull,37.294755,-79.925702
+5696183,Hollins WB at Plantation,37.3076,-79.931776
+5696184,Huff NB at Floraland,37.305309,-79.958394
+5696185,Hunt EB at 8th,37.290799,-79.945182
+5696186,Hunt EB at Liberty,37.289989,-79.943109
+5696187,Hunt WB at 10th,37.292559,-79.949463
+5696188,Hunt WB at 8th,37.290847,-79.945085
+5696189,Hunt WB at Liberty,37.290044,-79.943033
+5696190,Jamison EB at 14th,37.27179,-79.920469
+5696191,Jamison WB at 10th,37.269621,-79.927285
+5696192,Jamison WB at 12th,37.270375,-79.924087
+5696193,Jamison WB at 4th St,37.267046,-79.935492
+5696194,Jamison WB at 6th St,37.26814,-79.932642
+5696195,Jamison WB at 8th St,37.268938,-79.930215
+5696196,Jefferson NB at Albemarle,37.263238,-79.941334
+5696199,Jefferson NB at Reid,37.265768,-79.940966
+5696200,Jefferson SB at Albemarle,37.263436,-79.941484
+5696201,Jefferson SB at Bullitt,37.268492,-79.940736
+5696203,Jefferson SB at Luck,37.26996,-79.940661
+5696204,Jefferson SB at Marion (Breast Cancer Center),37.261834,-79.941606
+5696205,Jefferson SB at McClanahan,37.250031,-79.944331
+5696209,Keagy NB at Apperson (McDonalds),37.265198,-80.024391
+5696210,Keagy SB at Apperson (McDonalds),37.265266,-80.024443
+5696211,Kenwood EB at 17th,37.270625,-79.916076
+5696212,Kenwood WB at 14th,37.270825,-79.919128
+5696213,Kenwood WB at 15th,37.270502,-79.918204
+5696214,Kenwood WB at 17th,37.270703,-79.916118
+5696216,Kimball NB at 4th,37.275198,-79.93456
+5696217,Kimball NB at Orange,37.282103,-79.929216
+5696218,Kimball NB at Rutherford (Roanoke Gas),37.27777,-79.930968
+5696219,Kimball SB at 4th,37.27539,-79.934168
+5696220,Kimball SB at McDowell,37.281359,-79.929236
+5696221,Kimball SB at Rutherford,37.277828,-79.931046
+5696223,King NB at Gus Nicks,37.28612,-79.902194
+5696224,Lafayette NB at Florida,37.294997,-79.973548
+5696225,Lafayette NB at Massachusetts,37.293072,-79.975112
+5696226,Lafayette NB at New York,37.290235,-79.976089
+5696227,Lafayette SB at Florida,37.295144,-79.973673
+5696228,Lafayette SB at Massachusetts,37.293267,-79.975174
+5696229,Lafayette SB at New York,37.290337,-79.976288
+5696230,Lewis Gale Medical Center,37.263075,-80.029423
+5696231,Liberty NB at Dupree,37.288383,-79.943502
+5696232,Liberty SB at Dupree (Lincoln Terrace Elementary),37.288462,-79.943615
+5696233,Loudon EB at 10th,37.278441,-79.955859
+5696234,Loudon EB at 12th,37.279326,-79.958719
+5696235,Loudon EB at 14th,37.280197,-79.961578
+5696236,Loudon EB at 16th,37.281082,-79.96449
+5696237,Loudon EB at 18th,37.281955,-79.967388
+5696238,Loudon EB at 20th,37.282835,-79.970222
+5696239,Loudon EB at 22nd,37.283992,-79.97402
+5696240,Loudon WB at 10th,37.278354,-79.955425
+5696241,Loudon WB at 12th,37.279275,-79.958472
+5696242,Loudon WB at 14th,37.280161,-79.961372
+5696243,Loudon WB at 16th,37.281036,-79.964245
+5696244,Loudon WB at 18th,37.28192,-79.967138
+5696245,Loudon WB at 20th,37.28281,-79.970027
+5696246,Loudon WB at 22nd,37.283876,-79.973524
+5696247,Madison at 10th,37.282149,-79.954577
+5696248,Madison at 8th,37.281753,-79.95155
+5696249,Madison at 10th,37.282221,-79.954604
+5696250,Madison at 8th,37.281735,-79.951246
+5696251,Maiden WB at Bluemont,37.264663,-79.968434
+5696252,Maiden WB at Denniston,37.263973,-79.971574
+5696253,Main NB at Howbert,37.263018,-79.958825
+5696254,Main NB at Kerns,37.261587,-79.960457
+5696255,Main NB at Summit,37.260052,-79.964325
+5696256,Main NB at Windsor,37.258509,-79.965568
+5696258,Main SB at Howbert,37.263262,-79.959005
+5696259,Main SB at Kerns,37.261808,-79.96041
+5696260,Main SB at Summit,37.260222,-79.964366
+5696261,Main SB at Windsor,37.258681,-79.965768
+5696263,Marr EB at Rutgers,37.313547,-79.96033
+5696264,McClanahan EB at Jefferson,37.249302,-79.944729
+5696265,McClanahan EB at Rosalind,37.250349,-79.946926
+5696266,McClanahan NB at Fresenius Dialysis Center,37.251948,-79.95009
+5696267,McClanahan SB at Fresenius Dialysis Center,37.251748,-79.949916
+5696268,McClanahan WB at Rosalind,37.250403,-79.946721
+5696269,McDowell at 5th,37.28129,-79.946457
+5696270,McDowell at 6th,37.281779,-79.948673
+5696271,McDowell at 5th,37.281332,-79.946445
+5696272,McDowell at 6th (Blue Ridge Behavioral Health),37.281986,-79.9495
+5696274,Melrose EB at 12th,37.282448,-79.95741
+5696277,Melrose EB at 18th,37.284543,-79.966407
+5696278,Melrose EB at 20th,37.285075,-79.969463
+5696279,Melrose EB at 23rd,37.285933,-79.973957
+5696280,Melrose EB at 35th,37.292949,-79.994603
+5696281,Melrose EB at Fentress,37.293892,-79.997317
+5696282,Melrose EB at Forest Park,37.288111,-79.980784
+5696283,Melrose EB at Gun Club,37.298457,-80.014279
+5696284,Melrose EB at Lafayette (Goodwill),37.287787,-79.977953
+5696285,Melrose EB at Monroe,37.295958,-80.003563
+5696286,Melrose EB at Old Country Club (Burger King),37.290364,-79.988543
+5696287,Melrose EB at Peck,37.298929,-80.018285
+5696288,Melrose EB at Peters Creek (Uhaul),37.297152,-80.009194
+5696289,Melrose EB at Van Buren,37.295369,-80.001625
+5696290,Melrose EB at Victoria (Melrose Towers),37.289338,-79.98594
+5696291,Melrose EB at Westside,37.294498,-79.999176
+5696292,Melrose EB near Country Club (opposite ABC store),37.291515,-79.99112
+5696293,Melrose WB at 12th,37.282481,-79.957129
+5696294,Melrose WB at 14th,37.283451,-79.960092
+5696295,Melrose WB at 16th,37.284034,-79.963004
+5696296,Melrose WB at 18th,37.284568,-79.966129
+5696297,Melrose WB at 20th,37.285138,-79.969163
+5696298,Melrose WB at 23rd,37.285974,-79.973704
+5696299,Melrose WB at 35th,37.293132,-79.994392
+5696300,Melrose WB at Bellevue,37.299224,-80.022682
+5696301,Melrose WB at Comer,37.29655,-80.005086
+5696302,Melrose WB at Fentress,37.294058,-79.997104
+5696303,Melrose WB at Forest Park,37.288311,-79.980399
+5696304,Melrose WB at Gun Club,37.298794,-80.014623
+5696305,Melrose WB at Lafayette (opposite Goodwill),37.287849,-79.977528
+5696306,Melrose WB at Old Country Club,37.290467,-79.988227
+5696307,Melrose WB at Otter,37.299249,-80.020646
+5696308,Melrose WB at Palmetto,37.288957,-79.983572
+5696309,Melrose WB at Peck,37.299108,-80.01809
+5696310,Melrose WB at Pilot,37.297785,-80.011061
+5696311,Melrose WB at Victoria,37.289586,-79.986091
+5696312,Melrose WB at Westside,37.294895,-79.999543
+5696313,Melrose WB near Country Club (ABC Store),37.291726,-79.991002
+5696314,Memorial EB at Brunswick,37.266207,-79.979918
+5696315,Memorial EB at Fauquier,37.267367,-79.987294
+5696316,Memorial EB at Oxford,37.266652,-79.972253
+5696317,Memorial EB at Winborne,37.265783,-79.975868
+5696318,Memorial WB at Amherst (Virginia Heights Elementary),37.265869,-79.977289
+5696319,Memorial WB at Brunswick,37.26626,-79.979755
+5696320,Memorial WB at Chesterfield,37.266619,-79.981959
+5696321,Memorial WB at Oxford,37.26676,-79.972112
+5696322,Memorial WB at Wasena,37.267203,-79.970322
+5696323,Memorial WB at Winborne,37.265904,-79.975616
+5696324,Montrose WB at 13th,37.268981,-79.920227
+5696325,Moorman EB at 10th,37.280909,-79.954828
+5696326,Moorman EB at 7th,37.278524,-79.950927
+5696327,Moorman EB at 8th,37.279354,-79.952101
+5696328,Moorman EB at 9th,37.280157,-79.953324
+5696329,Moorman WB at 10th,37.280927,-79.954638
+5696330,Moorman WB at 11th,37.281207,-79.956026
+5696331,Moorman WB at 7th,37.278275,-79.950556
+5696332,Moorman WB at 8th,37.279367,-79.951975
+5696333,Mountain View EB at Bridge,37.270006,-79.9822
+5696334,Mountain View EB at Byrne,37.270597,-79.984091
+5696335,Mountain View EB at Mountain View Terrace Apartments,37.270288,-79.985799
+5696336,Mountain View WB at Bridge,37.270008,-79.982065
+5696337,Mountain View WB at Byrne,37.27067,-79.984103
+5696338,Mountain View WB at Mountain View Terrace Apartments,37.270352,-79.985821
+5696339,Mt Pleasant EB at Medical Center Driveway,37.250401,-79.916163
+5696340,New Spring Branch SB at Baltimore,37.228553,-79.932153
+5696341,New Spring Branch SB at Tipton,37.230665,-79.930937
+5696342,New Spring Branch SB at Yellow Mountain,37.2269,-79.933031
+5696343,Norfolk EB at Campbell (Valley Metro Admin Bldg.),37.274834,-79.927464
+5696344,Ogden NB at Circle Brook (Pebble Creek Apartments),37.234864,-79.982951
+5696345,Ogden NB at Colonial,37.236604,-79.98829
+5696346,Ogden NB at Honeywood/Windward (Honeywood Apartments),37.231913,-79.981291
+5696347,Ogden SB at Circle Brook (Pebble Creek Apartments),37.23493,-79.983156
+5696348,Ogden SB at Colonial,37.236511,-79.988337
+5696349,Ogden SB at Honeywood/Windward (Honeywood Apartments),37.232156,-79.981422
+5696350,Ogden SB at Leslie,37.229927,-79.981592
+5696351,Orange EB at 3 1/2 Street,37.282687,-79.944096
+5696352,Orange EB at 5th,37.283092,-79.947328
+5696353,Orange EB at 8th,37.283387,-79.950955
+5696354,Orange EB at Hickory Woods,37.296941,-79.898544
+5696355,Orange EB at King ,37.300238,-79.894485
+5696356,Orange EB at Mecca,37.295217,-79.901433
+5696357,Orange EB at Wells Fargo,37.303798,-79.891703
+5696358,Orange EB east of 24th (at BP station),37.292675,-79.905863
+5696359,Orange WB at 3 1/2 Street,37.28285067056349,-79.94421885648346
+5696360,Orange WB at 5th,37.28324,-79.946957
+5696361,Orange WB at 8th,37.283542,-79.950586
+5696362,Orange WB at Hickory Woods,37.296897,-79.89918
+5696363,Orange WB at King,37.300981,-79.894122
+5696364,Orange WB at Mecca,37.295444,-79.901518
+5696365,Orange WB east of 24th (opposite car wash),37.29199,-79.907605
+5696366,Patterson EB at 10th,37.271766,-79.959098
+5696367,Patterson EB at 12th,37.27223,-79.962136
+5696368,Patterson EB at 13th,37.272421,-79.96369
+5696369,Patterson EB at 14th,37.272687,-79.96502
+5696370,Patterson EB at 16th,37.273337,-79.968004
+5696371,Patterson EB at 8th,37.271319,-79.955985
+5696372,Patterson WB at 10th,37.271819,-79.958635
+5696373,Patterson WB at 12th,37.272281,-79.961892
+5696374,Patterson WB at 14th,37.272798,-79.964757
+5696375,Patterson WB at 16th,37.273436,-79.96779
+5696376,Patterson WB at 18th,37.274023,-79.970795
+5696377,Patterson WB at 7th,37.27119,-79.95441
+5696378,Peters Creek NB at Appleton,37.306232,-80.00658
+5696379,Peters Creek NB at Food Lion Entrance,37.313823,-80.00555
+5696380,Peters Creek NB at Woodbridge,37.311026,-80.006595
+5696381,Plantation NB at 4411,37.317497,-79.933077
+5696382,Plantation NB at Columbia/Preston,37.313946,-79.933158
+5696383,Plantation NB at Fleming,37.310595,-79.932477
+5696384,Plantation NB at Hollins/John Richardson (Food Lion Driveway),37.322016,-79.934627
+5696385,Plantation SB at Columbia/Preston,37.314251,-79.933326
+5696386,Plantation SB at Fleming,37.310838,-79.932681
+5696387,Plantation SB at Frontier,37.317495,-79.933347
+5696388,Plantation SB at Walmart,37.322328,-79.935084
+5696389,Pollard NB at Jackson,37.27896,-79.897972
+5696390,Pollard NB at Jefferson,37.277304,-79.898775
+5696391,Pollard SB at Cedar,37.277328,-79.898957
+5696392,Pollard SB at Municipal Building,37.278397,-79.898279
+5696393,Pollard SB at Post Office,37.280271,-79.897622
+5696395,Red Rock NB at Brambleton (Shell station),37.241766,-79.994341
+5696399,Roanoke -Blacksburg Regional Airport,37.320612,-79.969222
+5696400,Roanoke Blvd EB at Disabled Veterans Store,37.278855,-80.014268
+5696401,Roanoke Blvd EB at Easton,37.276575,-80.030224
+5696402,Roanoke Blvd EB at General Electric,37.278125,-80.032731
+5696403,Roanoke Blvd EB at McDivitt (Arnold R Burton School),37.275849,-80.027657
+5696404,Roanoke Blvd NB at 8th (Salem Civic Center),37.283941,-80.040876
+5696405,Roanoke Blvd NB at General Electric,37.278678,-80.033324
+5696406,Roanoke Blvd WB at Arch,37.287315,-80.048418
+5696407,Roanoke Blvd WB at Disabled Veterans Store,37.278872,-80.0143
+5696408,Roanoke Blvd WB at Idaho/Roanoke (Carolina Forest Apts),37.286536,-80.044667
+5696409,Roanoke Blvd WB at McDivitt (East Salem Elementary),37.275966,-80.027239
+5696410,Roanoke Campbell Court,37.272483,-79.941501
+5696411,Roanoke Memorial Hospital,37.251817,-79.943017
+5696412,Roanoke NB at Catawba,37.280237,-80.035681
+5696413,Routt at Cove,37.308595,-79.990009
+5696414,Routt at Ferncliff,37.310106,-79.988057
+5696415,Routt at Cove,37.308676,-79.990092
+5696416,Rugby at 10th,37.286948,-79.952846
+5696417,Rugby at 12th,37.287443,-79.95601
+5696418,Rugby at 14th,37.289454,-79.958065
+5696419,Rugby at 16th,37.290645,-79.961729
+5696420,Rugby at 10th,37.287058,-79.952857
+5696421,Rugby at 12th,37.287473,-79.95585
+5696422,Rugby at 14th,37.28952,-79.95801
+5696423,Rugby at 16th,37.290659,-79.961542
+5696424,Rutgers SB at K&W,37.315959,-79.962233
+5696425,Rutgers SB at Kroger Fuel Center,37.317883,-79.963828
+5696426,Salem Avenue EB at 10th,37.273546,-79.95875
+5696427,Salem Avenue EB at 13th,37.274261,-79.963344
+5696428,Salem Avenue EB at 16th,37.275219,-79.967379
+5696429,Salem Avenue EB at 6th,37.272643,-79.952246
+5696430,Salem Avenue WB at 10th,37.273576,-79.95824
+5696431,Salem Avenue WB at 12th,37.27407,-79.961491
+5696432,Salem Avenue WB at 14th,37.274436,-79.964046
+5696433,Salem Avenue WB at 16th,37.275235,-79.967178
+5696436,Salem Avenue WB at 5th,37.272404,-79.949678
+5696437,Salem Avenue WB at 6th,37.272716,-79.952056
+5696438,Salem Avenue WB at 8th,37.273109,-79.955443
+5696439,Salem EB at 4th,37.272331,-79.948892
+5696440,Salem EB at 8th,37.273067,-79.955681
+5696441,Salem Turnpike EB at 24th,37.284735,-79.976766
+5696442,Salem Turnpike EB at 30th,37.285222,-79.984598
+5696443,Salem Turnpike EB at 31st (Structural Steel),37.285569473175606,-79.98743120468521
+5696444,Salem Turnpike EB at Delta,37.284838,-79.980159
+5696445,Salem Turnpike EB near 31st (Contractor's Building Supply),37.285972,-79.990607
+5696446,Salem Turnpike WB at 24th,37.28477,-79.976684
+5696447,Salem Turnpike WB at 29th,37.285167,-79.983734
+5696448,Salem Turnpike WB at 31st (Structural Steel),37.285789,-79.988732
+5696449,Salem Turnpike WB at Delta,37.284862,-79.979871
+5696450,Salem Turnpike WB at Westwood,37.286434,-79.994226
+5696451,Salem Walmart Parking Lot,37.290311,-80.087793
+5696452,Shenandoah EB at 36th/Beech,37.281351,-79.997136
+5696453,Shenandoah EB at Cherry Hill,37.279209,-80.007108
+5696454,Shenandoah EB at Old Spanish Trail,37.279269,-80.010125
+5696455,Shenandoah EB at Westside (Convenience Store),37.280194,-80.003461
+5696456,Shenandoah WB at 36th/Beech,37.281411,-79.996964
+5696457,Shenandoah WB at 6th,37.274933,-79.950533
+5696458,Shenandoah WB at 8th,37.275814,-79.953424
+5696459,Shenandoah WB at Calvary Chapel,37.280226,-80.003523
+5696460,Shenandoah WB at Food Lion,37.279273,-80.007739
+5696461,Staunton EB at 12th,37.285654,-79.956497
+5696462,Staunton EB at 14th,37.285956,-79.958759
+5696463,Staunton EB at 16th,37.286703,-79.962591
+5696464,Staunton EB at 18th,37.287263,-79.965608
+5696465,Staunton EB at 20th,37.287841,-79.968663
+5696466,Staunton EB at 22nd,37.288389,-79.971666
+5696467,Staunton EB at 24th,37.288913,-79.974735
+5696468,Staunton EB at 25th,37.289199,-79.976304
+5696469,Staunton WB at 12th,37.285729,-79.956243
+5696470,Staunton WB at 14th,37.286154,-79.958905
+5696471,Staunton WB at 16th,37.286785,-79.962289
+5696472,Staunton WB at 18th,37.287365,-79.965303
+5696473,Staunton WB at 20th,37.287929,-79.968384
+5696474,Staunton WB at 22nd,37.288532,-79.971633
+5696475,Staunton WB at 24th,37.289064,-79.97473
+5696476,Staunton WB at Lafayette,37.289417,-79.976682
+5696477,Tanglewood Mall (Barnes and Noble),37.232593,-79.977558
+5696478,Electric Road at Tanglewood Mall,37.2289,-79.977144
+5696480,Tanglewood Mall at TJ Maxx,37.22864,-79.980161
+5696481,Tayloe SB at Miami,37.26517,-79.920189
+5696482,Tayloe SB at Morton,37.265798,-79.923817
+5696483,Tazewell EB at 4th,37.270373,-79.935282
+5696484,Tazewell EB at 7th,37.270939,-79.932834
+5696485,Tazewell EB at 8 1/2,37.271593,-79.92991
+5696486,Tazewell WB at 7th,37.271082,-79.932717
+5696487,Tazewell WB at 8 1/2,37.271709,-79.929974
+5696488,Tazewell WB at I-581 Bridge,37.270209,-79.936589
+5696489,Towers Mall at Dunkin Donuts,37.256315,-79.957698
+5696490,Towne Square Blvd EB at Kroger,37.318131,-79.965571
+5696491,Towne Square EB at ECPI,37.319387,-79.960639
+5696492,Towne Square EB at Office Max,37.318963,-79.961332
+5696493,Towne Square WB at Office Max,37.3191,-79.961418
+5696494,Towne Square WB at Rutgers (Golden Corral),37.318477,-79.964446
+5696496,VA Veterans Care Center,37.27789,-80.01237
+5696497,Valley Court,37.311519,-79.971885
+5696498,Valley View Blvd SB at Crab Dejour,37.301796,-79.957433
+5696499,Valley View Blvd SB at Target,37.298886,-79.957187
+5696500,Valley View Mall ,37.302629,-79.96331
+5696501,Valley View Ring Road at Lewis Gale Clinic,37.304518,-79.967121
+5696502,Valley View Ring Road SB at Olive Garden,37.307429,-79.964098
+5696503,Valley View Ring Road SB at Buffalo Wild Wings,37.305588,-79.966866
+5696505,Valley View Road at Best Western,37.308924,-79.969408
+5696506,Valley View Road at Lewis Gale Clinic,37.305169,-79.968142
+5696507,Valley View Road at Main Stay Hotel,37.310136,-79.969242
+5696508,Valley View Road at Dollar Tree,37.30642,-79.96913
+5696509,Vernon NB at Kenwood,37.271497,-79.908714
+5696510,Vineyard NB at Lancerlot,37.270755,-79.888349
+5696511,Vineyard NB at Verizon,37.272666,-79.888545
+5696512,Vineyard SB at Rosies ,37.270721,-79.888396
+5696514,Virginia EB at 3rd,37.276133,-79.903194
+5696515,Virginia EB at Glade (Tinker Creek),37.2754,-79.906962
+5696516,Virginia EB at PFG,37.276032,-79.905527
+5696517,Virginia WB at 2nd,37.276375,-79.901441
+5696518,Virginia WB at 4th,37.276388,-79.90522
+5696519,Virginia WB at Glade (Tinker Creek),37.27554,-79.907046
+5696521,Walnut EB at 8th (Alvaro's Store),37.27901,-79.909412
+5696523,Walnut WB at Booker,37.278703,-79.910754
+5696525,Wasena NB at Richard T Wellins Rd.,37.267029,-79.970252
+5696526,Wasena SB at Hampton,37.266172,-79.969909
+5696527,Wasena SB at Maiden,37.26502,-79.968096
+5696528,Washington EB at Blair,37.280106,-79.894014
+5696529,Washington EB at Maple,37.280693,-79.896571
+5696530,Washington EB at Mountain View,37.278788,-79.887961
+5696531,Washington EB at Pine,37.279536,-79.891264
+5696532,Washington EB at River Park Shopping Center Driveway,37.277952,-79.883861
+5696534,Washington WB at Meadow,37.279719,-79.891446
+5696535,Washington WB at Mountain View,37.278896,-79.887531
+5696536,Washington WB at Poplar,37.280496,-79.894849
+5696537,Washington WB at Preston,37.277703,-79.882018
+5696538,West Main EB at Broad,37.292547,-80.05894
+5696539,West Main EB at Chestnut/Lewis,37.291834,-80.062904
+5696540,West Main EB at Maple,37.290833,-80.06895
+5696541,West Main EB at Mill/Spartan (Sheetz),37.289596,-80.079351
+5696542,West Main WB at Academy/Union,37.292352,-80.060973
+5696543,West Main WB at Broad,37.292684,-80.058941
+5696544,West Main WB at Goodwin,37.290218,-80.075874
+5696546,West Main WB at Poplar,37.289387,-80.082698
+5696547,West Main WB at Shanks,37.291527,-80.065376
+5696548,West Main WB at Spartan (Kmart),37.289838,-80.07905
+5696549,West Main WB at Valleydale,37.290659,-80.072241
+5696550,Westwood NB at Fairview Elementary (and Greenvale School),37.284971,-79.995179
+5696551,Westwood NB at Salem Turnpike,37.286448,-79.994913
+5696552,Westwood NB at Shenandoah,37.281573,-79.995785
+5696553,Westwood NB at Troutland,37.283669,-79.995412
+5696554,Westwood SB at Fairview Elementary (and Greenvale School),37.28499,-79.995215
+5696555,Westwood SB at Shenandoah,37.281545,-79.995819
+5696556,Westwood SB at Troutland,37.283893,-79.995421
+5696557,Williamson NB at 10th,37.30098,-79.942211
+5696558,Williamson NB at Angell (AutoZone),37.305874,-79.946271
+5696559,Williamson NB at Bowman (opposite NY Deli),37.297162,-79.938188
+5696560,Williamson NB at Carver,37.283416,-79.932962
+5696561,Williamson NB at Clover,37.291097,-79.934668
+5696562,Williamson NB at Compton,37.285036,-79.932767
+5696563,Williamson NB at Frontier,37.312566,-79.951381
+5696564,Williamson NB at Fugate,37.298484,-79.939551
+5696565,Williamson NB at Laconia,37.292746,-79.935252
+5696566,Williamson NB at Liberty,37.295287,-79.936329
+5696567,Williamson NB at Maplelawn,37.314005,-79.952781
+5696568,Williamson NB at Oakland,37.303432,-79.944431
+5696569,Williamson NB at Preston,37.310734,-79.949925
+5696570,Williamson NB at Rutherford,37.278377,-79.934456
+5696571,Williamson NB at Sycamore,37.287398,-79.933514
+5696572,Williamson NB at Truman,37.308316,-79.948068
+5696573,Williamson SB at 10th,37.301022,-79.942482
+5696574,Williamson SB at Angell,37.305849,-79.946469
+5696575,Williamson SB at Berglund,37.289487,-79.934338
+5696576,Williamson SB at Bowman (NY Deli),37.296926,-79.938196
+5696577,Williamson SB at Carver (Sheetz),37.283161,-79.933289
+5696578,Williamson SB at Chatham,37.298044,-79.939411
+5696579,Williamson SB at Clover,37.291187,-79.934903
+5696580,Williamson SB at Compton,37.285136,-79.933014
+5696581,Williamson SB at Laconia,37.292873,-79.935486
+5696582,Williamson SB at Liberty,37.295294,-79.936521
+5696583,Williamson SB at Life Pointe,37.314285,-79.95342
+5696584,Williamson SB at Lyndhurst,37.298684,-79.940019
+5696585,Williamson SB at Oakland,37.303446,-79.944681
+5696586,Williamson SB at Preston,37.310749,-79.950179
+5696587,Williamson SB at Rutherford (Roanoke Civic Center),37.278793,-79.934544
+5696588,Williamson SB at Sycamore,37.287451,-79.933726
+5696589,Williamson SB at Truman,37.308367,-79.948373
+5696590,Williamson at Wells (Hotel Roanoke),37.274869849855115,-79.93699557539368
+5696591,Williamson SB at Yardley,37.312974,-79.952032
+5696592,Wise EB at 14th,37.276331,-79.923943
+5696593,Wise EB at 16th,37.276974,-79.921681
+5696594,Wise EB at 18th,37.277486,-79.918419
+5696595,Wise EB at Indian Village,37.277518,-79.915066
+5696597,Wise WB at 16th,37.277055,-79.921696
+5696598,Wise WB at 18th,37.277603,-79.918347
+5696599,Wise WB at Indian Village,37.277603,-79.915274
+7082392,Harper Hall ,37.222276,-80.423372
+7319796,Salem at 18th,37.276024,-79.970071
+7533948,Elm Ave at 2nd St,37.266789,-79.943929
+7629981,5th St at Harrison,37.279345,-79.946998
+7629983,5th St at Gilmer Ave,37.276955,-79.948074
+7629984,3rd St at Church Ave ,37.271026,-79.945482
+7629985,5th St at Moorman Ave,37.27687,-79.948181
+7629986,3rd St at Church Ave ,37.270937,-79.945521
+7629988,Elm Ave at 2nd St WB,37.266887,-79.943376
+7631928,Campbell Ave at Market,37.2718,-79.93933
+7667183,3rd St Station Star Line ,37.272268,-79.945623
+7684479,Grandin Rd at Carter Rd,37.25514,-79.98837
+7722544,Franklin Road at Avenham ,37.23985,-79.9656
+8021577,Salem VA Medical Center,37.276882,-80.019038
+8281534,Orange at Lynn Brae,37.304131,-79.891818
+8447867,Bulitt at 9th,37.268432,-79.927973
+8681302,3rd St Station Slip Q,37.272643,-79.946005
+8706243,3rd St Station Slip J,37.272686,-79.94702
+8706707,3rd St Station Slip P,37.272699,-79.94628
+8706988,3rd St Station Slip I,37.27269,-79.946819
+8707141,3rd St Station Slip O,37.272715,-79.946523
+8707422,3rd St Station Slip H,37.272625,-79.946484
+8707874,3rd St Station Slip N,37.272738,-79.946642
+8708298,3rd St Station Slip A,37.272431,-79.946283
+8708666,3rd St Station Slip L,37.272741,-79.947097
+8708992,3rd St Station Slip M,37.272758,-79.946856
+8710893,3rd St Station Slip K,37.272718,-79.947204
+8713499,3rd St Station Slip G,37.27256,-79.94636
+8713818,3rd St Station Slip B,37.272447,-79.946455
+8714447,3rd St Station Slip F,37.272544,-79.946101
+8715019,3rd St Station Slip C,37.272411,-79.946727
+8717188,3rd St Station Slip D,37.27244,-79.946962
+9329399,Melrose at 15th St (Melrose Park),37.283655,-79.961429
+9387812,Jefferson at Albermarle,37.263418,-79.941404
+9493908,5th and Elm Ave,37.267326,-79.950428
+9493909,Marshall Ave at 8th St,37.26932,-79.955347
+9494282,Marshall Ave at 8th St,37.26929861322127,-79.95550011772156
+9494283,5th St at Elm Ave,37.26730654497716,-79.95051578567505
+9568747,Roanoke Blvd (Salem Health and Rehab),37.27674,-80.021804
+9718538,Perry Street Slip 1,37.232026,-80.424586
