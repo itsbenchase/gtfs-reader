@@ -29,6 +29,7 @@ midwest;clerta;RTA (Cleveland);https://www.riderta.com/sites/default/files/gtfs/
 midwest;mi-smart;SMART (Detroit);https://apps1.smartbus.org/gtfs/smart_gtfs.zip
 midwest;oh-sorta;SORTA (Cincinnati);https://www.go-metro.com/uploads/GTFS/google_transit_info.zip
 midatl;ny-beeline;Bee-Line (Westchester County);https://westchester-gmv.itoworld.com/production/ito_westchester_county_gtfs.zip
+midatl;va-bt;Blacksburg Transit (Blacksburg, VA);https://www.bt4uclassic.org/gtfs/google_transit.zip
 midatl;cdta;CDTA (Albany, NY);https://www.cdta.org/schedules/google_transit.zip
 midatl;de-dart;DART (Delaware);https://www.dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip
 midatl;va-dash;DASH (Alexandria, VA);https://dashbus.com/google_transit.zip
