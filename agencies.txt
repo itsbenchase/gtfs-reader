@@ -53,7 +53,6 @@ west;wa-pierce;Pierce Transit (Tacoma, WA);https://www.soundtransit.org/GTFS-PT/
 west;sound;Sound Transit (Seattle);https://www.soundtransit.org/GTFS-rail/40_gtfs.zip
 west;hi-thebus;TheBus (Honolulu);https://www.thebus.org/transitdata/production/google_transit.zip
 west;trimet;TriMet (Portland);https://developer.trimet.org/schedule/gtfs.zip
-west;az-valley;Valley Metro (Phoenix);https://www.phoenixopendata.com/dataset/3eae9a4a-98b9-40c8-8df7-8c00c1756235/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7/download/googletransit.zip
 west;wta;WTA (Bellingham, WA);tba
 ne;ma-bat;BAT (Brockton);https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
 ne;ma-brta;BRTA (Berkshires);https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip
@@ -77,6 +76,7 @@ ne;ma-wrta;WRTA (Worcester);https://data.trilliumtransit.com/gtfs/wrta-ma-us/wrt
 rockies;rtcsnv;RTC (Las Vegas);https://developer.rtcsnv.com/transitData/google_transit.zip
 rockies;rtd;RTD (Denver);https://www.rtd-denver.com/files/gtfs/google_transit.zip
 rockies;uta;UTA (Salt Lake City);https://gtfsfeed.rideuta.com/GTFS.zip
+rockies;az-valley;Valley Metro (Phoenix);https://www.phoenixopendata.com/dataset/3eae9a4a-98b9-40c8-8df7-8c00c1756235/resource/28ccc0a5-49c8-495c-b91f-193de5ce2cb7/download/googletransit.zip
 rockies;id-vrt;Valley Regional Transit (Boise);https://www.valleyregionaltransit.org/GTFS/vrt_transit1.zip
 south;fl-broward;Broward County Transit (Fort Lauderdale);https://www.broward.org/bct/documents/google_transit.zip
 south;capmetro;CapMetro (Austin);https://data.texas.gov/download/r4v4-vz24/application/zip
@@ -94,3 +94,7 @@ gta;on-miway;MiWay (Mississauga);https://www.miapp.ca/GTFS/google_transit.zip
 gta;on-oakville;Oakville Transit (Oakville);https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data
 gta;on-ttc;TTC (Toronto);http://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/OpenData_TTC_Schedules.zip
 gta;on-yrt;York Region Transit (York Region);https://www.yrt.ca/google/google_transit.zip
+can;calgary;Calgary Transit (Calgary);https://data.calgary.ca/download/npk7-z3bj/application/zip
+can;edmonton;ETS (Edmonton);https://gtfs.edmonton.ca/TMGTFSRealTimeWebService/GTFS/gtfs.zip
+can;stm;STM (Montreal);https://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip
+can;translink;Translink (Vancouver);https://gtfs-static.translink.ca/gtfs/google_transit.zip
