@@ -94,7 +94,6 @@ gta;on-miway;MiWay (Mississauga);https://www.miapp.ca/GTFS/google_transit.zip
 gta;on-oakville;Oakville Transit (Oakville);https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data
 gta;on-ttc;TTC (Toronto);http://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/OpenData_TTC_Schedules.zip
 gta;on-yrt;York Region Transit (York Region);https://www.yrt.ca/google/google_transit.zip
-can;calgary;Calgary Transit (Calgary);https://data.calgary.ca/download/npk7-z3bj/application/zip
 can;edmonton;ETS (Edmonton);https://gtfs.edmonton.ca/TMGTFSRealTimeWebService/GTFS/gtfs.zip
 can;stm;STM (Montreal);https://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip
 can;translink;Translink (Vancouver);https://gtfs-static.translink.ca/gtfs/google_transit.zip
