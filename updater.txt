@@ -1,1 +1,1 @@
-ne;pvta;PVTA (Pioneer Valley);https://www.pvta.com/g_trans/google_transit.zip
+ne;ma-mwrta;MWRTA (Framingham);https://vc.mwrta.com/gtfs/google_transit.zip
