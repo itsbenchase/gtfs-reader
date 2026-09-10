@@ -18,6 +18,7 @@ cal;ca-slorta;SLORTA (San Luis Obispo);https://slo.connexionz.net/rtt/public/uti
 cal;ca-vta;VTA (San Jose);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SC
 midwest;oh-cota;COTA (Columbus);http://www.cota.com/data/cota.gtfs.zip
 midwest;cta;CTA (Chicago);tba
+midwest;il-dekalb;DeKalb Transit (DeKalb, IL);http://data.trilliumtransit.com/gtfs/cityofdekalb-il-us/cityofdekalb-il-us.zip
 midwest;mi-ddot;DDOT (Detroit);https://www.detroitmi.gov/Portals/0/docs/deptoftransportation/pdfs/ddot_gtfs.zip
 midwest;mcts;MCTS (Milwaukee);https://kamino.mcts.org/gtfs/google_transit.zip
 midwest;metra;Metra (Chicago);https://github.com/itsbenchase/feeds/raw/refs/heads/main/metra.zip
