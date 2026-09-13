@@ -28,6 +28,7 @@ midwest;ridekc;RideKC (Kansas City);https://www.kc-metro.com/gtf/google_transit.
 midwest;clerta;RTA (Cleveland);https://www.riderta.com/sites/default/files/gtfs/latest/google_transit.zip
 midwest;mi-smart;SMART (Detroit);https://apps1.smartbus.org/gtfs/smart_gtfs.zip
 midwest;oh-sorta;SORTA (Cincinnati);https://www.go-metro.com/uploads/GTFS/google_transit_info.zip
+midwest;mi-rapid;The Rapid (Grand Rapids);https://connect.ridetherapid.org/InfoPoint/gtfs-zip.ashx
 midatl;ny-beeline;Bee-Line (Westchester County);https://westchester-gmv.itoworld.com/production/ito_westchester_county_gtfs.zip
 midatl;va-bt;Blacksburg Transit (Blacksburg, VA);https://www.bt4uclassic.org/gtfs/google_transit.zip
 midatl;cdta;CDTA (Albany, NY);https://www.cdta.org/schedules/google_transit.zip
