@@ -1,0 +1,799 @@
+10,Commercial @ Vista,44.911579,-123.044884
+1013,River Rd @ Claggett,45.000712,-123.026795
+1024,River Rd @ Homewood,44.982015,-123.026734
+1027,River Rd @ Garland,44.975992,-123.027235
+1045,Reed @ Barnes,44.881312,-123.015582
+1046,Reed @ Shilo,44.879075,-123.015565
+105,Lancaster @ Sundial,44.906639,-122.977405
+1059,Marion @ Liberty,44.944302,-123.035775
+106,Marion Co. Correctional Facility,44.894989,-122.96162
+1063,Wallace @ Bassett,44.946509,-123.050034
+1064,Center @ Liberty,44.943302,-123.037394
+1067,7th @ Patterson,44.947269,-123.056814
+1068,8th @ Patterson,44.947519,-123.058261
+1069,Gerth @ Ruge,44.94397,-123.060806
+107,Lancaster @ Carson,44.909791,-122.978305
+1070,Gerth @ 3rd,44.941992,-123.059687
+1071,Edgewater @ Rosemont,44.938339,-123.063078
+1072,Edgewater @ Manorview,44.936098,-123.070264
+109,Winter @ Belmont,44.949186,-123.02681
+1092,Eola @ Turnage,44.940451,-123.078611
+1096,Edgewater @ Rosemont,44.938189,-123.063011
+1099,7th @ Patterson,44.947169,-123.056613
+11,Liberty @ Kearney,44.932103,-123.04225
+1100,Lancaster @ Durbin,44.921574,-122.981779
+1101,Lancaster @ Mahrt,44.925521,-122.983319
+1102,Lancaster @ Amber,44.93122,-122.983097
+1103,Lancaster @ Monroe,44.933263,-122.98302
+1104,Lancaster @ Auburn,44.936365,-122.982905
+1105,Lancaster @ Denver,44.941526,-122.982988
+1106,Hyacinth @ Salem Industrial,44.982368,-123.005673
+1107,Verda @ Claxter,44.986898,-123.009301
+1108,Verda @ Chelan,44.990532,-123.011619
+1109,Verda @ Dearborn,44.993508,-123.011854
+1111,River Rd @ Claggett,45.000339,-123.026492
+1112,River Rd @ Keizer Creekside Shopping,45.003188,-123.026332
+1113,Lockhaven @ River Rd,45.004667,-123.023667
+1114,Lockhaven @ Verda,45.005206,-123.019317
+1117,Manzanita @ 14th,45.011427,-123.013822
+113,Brown @ Surfwood (North Entrance),44.967451,-122.970769
+1133,Lockhaven @ Verda,45.005378,-123.019057
+1134,Lockhaven @ River Rd,45.004932,-123.023649
+1135,Chemawa @ Rickman,44.996817,-123.018756
+1136,Chemawa @ Verda,44.997157,-123.013132
+1137,Verda @ Dearborn,44.993787,-123.012041
+1138,Verda @ Chelan,44.990381,-123.011775
+1139,Verda @ Claxter,44.987505,-123.009984
+114,Winter @ Belmont,44.949117,-123.027036
+1140,Hyacinth @ Salem Industrial,44.981506,-123.004871
+1142,Lancaster @ Hayesville,44.98907,-122.983278
+1144,Lancaster @ Newcastle,44.984721,-122.983422
+1145,Lancaster @ Iberis,44.982091,-122.98346
+1146,Lancaster @ Satter,44.979148,-122.983508
+1147,Lancaster @ Manor,44.945739,-122.98379
+1148,Lancaster @ D St,44.943518,-122.983537
+1149,Lancaster @ Denver,44.941332,-122.983312
+1150,Lancaster @ Monroe,44.933242,-122.983344
+1151,Lancaster @ Amber,44.931497,-122.98341
+1152,365 Lancaster,44.924025,-122.983674
+1153,Lancaster @ Durbin,44.921754,-122.982205
+1156,Broadway @ Pine,44.962164,-123.028506
+1157,Broadway @ Locust,44.964142,-123.028486
+1159,Broadway @ Plaza Del Rey,44.972425,-123.028403
+1160,River Rd @ Sunset,44.984489,-123.026478
+1161,River Rd @ Manbrin,44.986634,-123.026479
+1162,River Rd @ Cummings,44.98954,-123.026475
+1163,River Rd @ Dearborn,44.993218,-123.026508
+1164,River Rd @ Lockhaven,45.005254,-123.024626
+1175,River Rd @ Dearborn,44.993572,-123.026777
+1176,River Rd @ Cummings,44.98982,-123.026768
+1177,River Rd @ Manbrin,44.986971,-123.026754
+1178,River Rd @ Sunset,44.984263,-123.026764
+1179,Broadway @ Plaza Del Rey,44.97218,-123.028625
+1181,Broadway @ Locust,44.964569,-123.028708
+1182,Broadway @ Pine,44.962497,-123.028706
+1186,Doaks Ferry @ Brush College,44.970983,-123.076935
+1190,Glen Creek @ Karen,44.950218,-123.05885
+1215,Wallace @ Taggart,44.947309,-123.050171
+1219,6450 Fairway Ave,44.862435,-123.019859
+1222,Taggart @ Wallace,44.947371,-123.051262
+1223,Liberty @ Mill,44.936366,-123.04051
+1229,Lancaster @ Rich,44.967784,-122.983312
+1230,Lancaster @ Rich,44.968353,-122.983647
+1231,Cottage @ Center,44.941799,-123.032558
+1233,Commercial @ Trade,44.93868,-123.04149
+1236,Lancaster @ Saddle Club,44.901867,-122.972009
+1246,Baxter @ Snowflake,44.877566,-123.0195
+1250,River Rd @ Promenade,45.005619,-123.024675
+1251,River Rd @ McNary Estates,45.010395,-123.021354
+1256,Union @ Winter,44.943907,-123.02988
+1257,Center @ Cottage,44.941922,-123.032027
+1258,Fairgrounds Rd @ Columbia,44.958816,-123.016942
+1259,Portland Rd @ Highland (Center 50+),44.960507,-123.015414
+1262,Commercial @ Rural,44.921344,-123.044834
+1263,State @ Cottage,44.93861,-123.033725
+1264,Center @ Winter,44.941494,-123.030381
+1266,Market @ Capitol,44.948983,-123.022748
+128,Court @ Capitol,44.938806,-123.028874
+1283,Eola @ Mule Deer,44.942396,-123.08185
+1285,Center @ Vinyard,44.939908,-122.995594
+1298,Fairgrounds Rd @ Academy,44.957511,-123.018755
+13,D St @ 14th,44.94516,-123.020166
+130,Mission @ University,44.930314,-123.032091
+1301,Brooks @ Highland (Center 50+),44.960462,-123.016352
+1304,D St @ Capitol,44.946318,-123.024898
+1305,Wilsonville Transit Center - 1X,45.310938,-122.776191
+1308,Bill Frey Dr @ Kroc Center,44.975847,-123.00859
+131,Mission @ 23rd,44.923969,-123.013979
+1314,4155 Rickey,44.915615,-122.977421
+1323,Pennsylvania @ 49th,44.922987,-122.961065
+1324,Pennsylvania @ Wagon Road,44.923606,-122.958996
+1325,Rickey @ Connecticut,44.916841,-122.971032
+1327,Davis @ Joynak,44.873213,-123.064012
+1328,Davis @ Stockton,44.873222,-123.066821
+1330,Red Leaf @ Summercrest,44.879819,-123.070391
+1331,Summercrest @ Skyline,44.880014,-123.07313
+1332,Skyline @ Skyline Village,44.88239,-123.070654
+1333,Skyline @ Joseph,44.886945,-123.065753
+1334,Red Leaf @ Cedarcrest,44.877709,-123.070395
+1335,Skyline @ Liberty Circle,44.889148,-123.061879
+1336,Liberty @ Hrubetz,44.891257,-123.05934
+1337,Madrona @ Neef,44.904857,-123.044198
+1338,Madrona @ Halifax,44.904791,-123.04889
+1340,Lone Oak @ Idylwood,44.891114,-123.048118
+1341,Pine @ Brooks,44.96213,-123.015781
+1344,Silverton Rd @ Lancaster,44.969559,-122.982759
+1345,Portland Rd @ Northgate,44.973573,-123.002314
+1346,Portland Rd @ Bill Frey Dr,44.973632,-123.002662
+1347,8th @ McNary,44.946756,-123.059673
+1350,Happy @ Kale,44.99684,-122.975404
+1355,Sunnyview @ El Rancho,44.953836,-122.980479
+1356,Sunnyview @ Hollywood,44.953834,-122.977173
+1357,Sunnyview @ 45th,44.954033,-122.972461
+1358,Sunnyview @ 45th,44.954188,-122.972524
+1359,Sunnyview @ Hollywood,44.954011,-122.976652
+1360,Sunnyview @ Scotsman,44.953995,-122.980768
+1361,Portland Rd @ Lana,44.966662,-123.009048
+1362,Portland Rd @ Carleton,44.971028,-123.004776
+1363,Portland Rd @ Donald,44.971042,-123.00516
+1369,Brush College @ Wintergreen,44.971651,-123.067953
+137,Baxter @ Commercial,44.87763,-123.026068
+1371,Gerth @ 7th,44.945002,-123.061246
+1374,25th @ Mission,44.921929,-123.010883
+1375,25th @ McGilchrist,44.916254,-123.010449
+1382,Ulali @ Keizer Station Blvd,45.011068,-122.996462
+1384,Chemawa @ Elizabeth,44.99684,-123.028684
+1385,Chemawa @ Delight,44.996923,-123.03423
+1386,Chemawa @ Shoreline,44.996994,-123.039934
+1387,Windsor Island @ Willow Lake,45.000077,-123.042799
+1389,Lockhaven @ Inland Shores,45.004467,-123.027187
+1390,Lockhaven @ Lakefair,45.003919,-123.030985
+1391,Lockhaven @ McClure,45.003998,-123.037829
+1392,Lockhaven @ Wildwood,45.004018,-123.041554
+1393,Windsor Island @ Trent,45.003121,-123.044798
+1394,Chemawa @ Springtime,45.001582,-123.009476
+1396,Swegle @ 45th,44.949516,-122.973133
+1397,Lancaster @ Center,44.939951,-122.983142
+1398,Lancaster @ Center,44.939455,-122.982789
+1399,Wallace @ Taggart,44.948009,-123.050942
+1407,Fuhrer @ Hayesville,44.990867,-122.962195
+1408,Hayesville @ Janice,44.990214,-122.966733
+1409,Hayesville @ Lisa,44.990062,-122.973667
+1412,Kale @ Portland Rd,44.997228,-122.978986
+1415,Fuhrer @ WB Post,44.988426,-122.962456
+1421,Silverton Rd @ Hawthorne,44.967878,-122.991862
+1422,Silverton Rd @ Fisher,44.968342,-122.988875
+1424,Silverton Rd @ Tierra,44.969948,-122.977697
+1425,Silverton Rd @ Fisher,44.968707,-122.988094
+1426,Silverton Rd @ Hawthorne,44.968177,-122.991384
+1427,Pine @ Maple,44.962323,-123.024759
+1428,Pine @ Maple,44.962187,-123.024445
+1437,Silverton Rd @ Sedona,44.966336,-123.000047
+1438,Brown @ Wyoming,44.968893,-122.970502
+1439,State @ Oakmont,44.92799,-122.962562
+1440,Marion @ 12th,44.941539,-123.025503
+1441,Red Leaf @ Waln Creek,44.875617,-123.070412
+1442,Gerth @ Elm,44.942501,-123.059822
+1446,Happy @ Geranium,44.993381,-122.975642
+1447,17th @ Grant,44.953444,-123.011218
+1448,Lockhaven @ Kafir,45.005798,-123.013627
+1453,Center @ 36th,44.939844,-122.987214
+1454,Market @ 15th,44.948942,-123.017716
+1455,Silverton Rd @ 30th,44.96697,-122.996717
+1456,Silverton Rd @ Evergreen,44.965572,-123.001894
+1457,Brooks - Portland Rd @ Riverton,45.04772,-122.954574
+1459,Woodburn Transit Center - 1st @ Arthur,45.142389,-122.857903
+146,Hayesville @ Nandale,44.989879,-122.985621
+1460,Woodburn Bi-Mart - 1700 Mt Hood Ave,45.151246,-122.834956
+1464,Mt. Angel - Church @ Cleveland,45.067492,-122.797739
+1468,Aumsville - Main @ 5th,44.84091,-122.870477
+1469,Stayton - 1st @ Regis,44.807674,-122.794404
+147,Kale @ Happy,44.997078,-122.975767
+1470,Stayton DMV - Sublimity Rd @ Golf Club,44.830502,-122.82134
+148,Fuhrer @ Bohannon,44.990378,-122.962421
+1482,Aumsville - Main @ 4th,44.840687,-122.868659
+1483,Sublimity - Johnson @ Starr,44.83095,-122.79567
+1484,Stayton Downtown - Washington @ 4th,44.800709,-122.791321
+1486,Mehama - Gingerbread @ Grove,44.792076,-122.618823
+1487,Lyons - Main @ 10th,44.773456,-122.610847
+1488,Gates Park and Ride - Central @ Horeb,44.755626,-122.416812
+1489,Mill City - Ivy @ 1st,44.749211,-122.477588
+1491,Stayton - 1st @ Regis,44.807821,-122.794197
+1492,Stayton Downtown - Washington @ 4th,44.800847,-122.791385
+1495,Lyons - Main @ 10th,44.773706,-122.611055
+1496,3501 State,44.928059,-122.989884
+15,Lancaster @ Market,44.949967,-122.983519
+1500,Dallas Walmart - 321 NE Kings Valley Hwy,44.93141,-123.30832
+1506,W Valley Hospital - Washington @ Lewis,44.919333,-123.310682
+1509,Center @ Park,44.939791,-122.999366
+1513,Western Oregon U - Monmouth Ave @ Church,44.85222,-123.23748
+1514,Main @ Warren (Monmouth City Hall),44.848471,-123.235967
+1515,Independence Library - Monmouth St @ 2nd,44.851058,-123.185527
+1516,Independence North - Main @ Polk,44.860219,-123.184561
+1517,Independence North - Main @ Polk,44.860219,-123.184793
+1518,Independence Library - Monmouth St @ 2nd,44.851243,-123.18628
+152,D St @ 14th,44.945142,-123.019499
+1520,Western Oregon U - Monmouth Ave @ Church,44.8525,-123.23724
+1522,West Valley Hospital - Washington @ Lyle,44.919509,-123.312363
+1523,Dallas Downtown - Jefferson @ Mill,44.921798,-123.31523
+1524,Dallas Aquatic Ctr - Lacreole @ Barberry,44.918877,-123.300207
+1550,12th @ Leslie,44.931187,-123.030125
+1553,Ulali @ Stadium,45.008707,-122.999087
+1554,Ulali @ Jorie,45.007286,-122.99909
+1555,Stadium @ Ulali,45.009326,-122.998445
+1556,McLeod @ Tepper,45.013707,-123.006756
+1557,McLeod @ Dennis Ray,45.00758,-123.006803
+1558,McLeod @ Manzanita,45.011686,-123.006751
+1559,14th @ Stone Hedge,45.01365,-123.013568
+156,Lancaster @ Cypress,44.948392,-122.983896
+1560,Manzanita @ Trail,45.010611,-123.019449
+1562,Chemawa @ Chemawa Indian School,45.004404,-122.984276
+1566,River Rd @ Bever,44.979333,-123.026708
+1570,Lancaster @ State,44.927222,-122.983597
+1573,12th @ Mill,44.933781,-123.028879
+1574,Winter @ Salem Hospital,44.933462,-123.034827
+1578,Waln @ Commercial,44.865181,-123.020371
+1579,Parkmeadow @ Oneil,45.024573,-123.012565
+1580,Barnes @ Commercial,44.88129,-123.03048
+1583,Liberty @ Kuebler,44.883376,-123.061054
+1584,Skyline @ Kuebler,44.882556,-123.070802
+1585,Sunnyside @ Woodmansee,44.888395,-123.035768
+1586,Boone @ Cumberland,44.884938,-123.059715
+1587,Boone @ Cumberland,44.885077,-123.059672
+1588,Walker @ Swegle,44.94948,-122.964127
+159,Royalty @ Center,44.940019,-122.966794
+1590,Trade @ Church,44.93717,-123.037005
+1591,3000 Ryan Dr,44.919602,-123.000261
+1595,Pringle Pkwy @ Church,44.937765,-123.035374
+1598,Broadway @ Belmont,44.949864,-123.032194
+1599,Commercial @ Bellevue,44.936574,-123.04251
+16,Lancaster @ Devonshire,44.965713,-122.983331
+1600,Commercial @ Royvonne,44.88514,-123.032309
+1602,Madras @ Fircrest,44.866299,-123.024699
+1606,Fire Protection Way @ East Campus Loop,44.97676,-122.975319
+1608,45th @ Pacifica,44.974026,-122.973299
+1614,Sunnyview @ Icabod,44.954783,-122.968311
+1618,Walker @ Future,44.951734,-122.963549
+1623,Wallace @ Glen Creek,44.950396,-123.051905
+163,Del Webb @ Salem Industrial,44.970172,-123.017417
+1634,Mildred @ Marstone,44.872932,-123.029049
+1635,Barnes @ Les Schwab,44.881127,-123.027675
+1637,Church @ Mill Creek,44.946143,-123.031959
+1638,17th @ Kansas,44.94498,-123.015294
+1639,Lansing @ Dorothy,44.957619,-122.997562
+1640,Lansing @ Keen,44.962058,-122.997495
+1641,Hawthorne @ Silverton Rd,44.968937,-122.991554
+1642,Hawthorne @ Northgate Park,44.972516,-122.991486
+1643,Hawthorne @ Felina,44.975986,-122.991463
+1644,Hawthorne @ Felina,44.976362,-122.991798
+1645,Hawthorne @ Northgate Park,44.97257,-122.991746
+1646,Hawthorne @ Silverton Rd,44.968832,-122.991776
+1647,Lansing @ Sedona,44.965741,-122.997659
+1648,Lansing @ Keen,44.961399,-122.997671
+1649,Lansing @ Dorothy,44.957942,-122.99776
+1650,Lansing @ Sunnyview,44.95409,-122.997812
+1651,Church @ Mill Creek,44.946252,-123.032091
+1654,Lancaster @ Winema,44.974099,-122.98323
+1655,Jade @ 47th,44.986148,-122.965836
+1656,47th @ Ward,44.98301,-122.96669
+1657,47th @ Satter,44.980303,-122.966843
+1661,47th @ Ward,44.982627,-122.966617
+1662,47th @ Jade,44.985698,-122.966019
+1668,Madrona @ Peck,44.905109,-123.034545
+1669,Madrona @ Pioneer,44.905076,-123.038201
+167,Winter @ Salem Hospital,44.933564,-123.034532
+1670,Madrona @ Commercial,44.904863,-123.040566
+1672,Summercrest @ Springcrest,44.879861,-123.072359
+1673,Red Leaf @ Elmwood,44.876766,-123.070592
+1674,Davis @ Red Leaf,44.873031,-123.06823
+1675,Davis @ Joynak,44.873071,-123.06404
+1676,Liberty @ Rock Creek,44.87622,-123.061313
+1677,Liberty @ Kevin,44.880223,-123.061154
+1678,Boone @ Lone Oak,44.883361,-123.051406
+1679,Boone @ Pam,44.882929,-123.042223
+1680,Boone @ Sunnyside,44.882941,-123.037705
+1681,13th @ Amtrak Station,44.932431,-123.028508
+1682,Croisan Scenic @ Red Oak,44.880489,-123.073733
+1683,Croisan Scenic @ Country,44.882603,-123.072957
+1684,Idylwood @ Jones,44.890782,-123.044626
+1686,Sunnyside @ Boxwood,44.885921,-123.036236
+1687,Idylwood @ Jones,44.890903,-123.044595
+1688,Lone Oak @ Hrubetz,44.888392,-123.049329
+1689,Lone Oak @ Boone,44.883539,-123.051134
+1695,River Rd @ Manzanita,45.011193,-123.02074
+1696,Cherry @ Shady,44.979881,-123.023394
+1697,Cherry @ Locust,44.964751,-123.019495
+1698,Pine @ 5th,44.962335,-123.027676
+170,Liberty @ Madrona,44.904353,-123.050497
+1700,River Rd @ Hidden Creek,45.014206,-123.020078
+1701,River Rd @ Northrup,45.019736,-123.017954
+1702,Parkmeadow @ Wheatland,45.024266,-123.024877
+1703,Wheatland @ Ridgecrest,45.021125,-123.025355
+1704,Wheatland @ Russett,45.017188,-123.02424
+1705,Wheatland @ River Rd,45.012248,-123.021354
+1706,Fairview Industrial @ 27th,44.89536,-123.004441
+1707,Fairview Industrial @ 27th,44.895534,-123.004763
+1710,4051 Fairview Industrial,44.894841,-123.000287
+1711,4050 Fairview Industrial,44.895012,-123.000152
+1728,Eola @ Burley Hill,44.943038,-123.087417
+1729,Burley Hill @ Feather Sky,44.945544,-123.083191
+173,Liberty @ Ferry,44.938864,-123.039299
+1736,Boone @ Lone Oak,44.883413,-123.050906
+1743,Barnes @ Reed,44.881035,-123.015683
+1744,Sunnyside @ Boone,44.883389,-123.036752
+1745,Commercial @ Hilfiker,44.891317,-123.035225
+1746,Titan @ Orchard Heights,44.959513,-123.08612
+1747,Monmouth - Main @ Ecols,44.84846,-123.23157
+1748,Monmouth - Main @ Catron,44.84859,-123.2311
+1749,Broadway @ Market,44.951398,-123.031171
+175,High @ Division,44.946408,-123.033954
+1751,Gervais - 4th @ Douglas,45.10744,-122.899369
+1752,Brooks - Portland Rd @ Riverton,45.047378,-122.954637
+1753,Silverton Hospital - Center @ Fairview,45.003358,-122.790337
+1754,Silverton Hospital - Center @ Fairview,45.003204,-122.790161
+1755,Turner - Boise @ 2nd,44.84314,-122.951977
+1756,Sunnyside @ Mildred,44.870856,-123.035217
+1757,Aumsville Hwy @ Depot,44.896414,-122.964242
+1758,Aumsville Hwy @ Depot,44.897779,-122.965816
+176,River Rd @ Chemawa,44.997196,-123.026815
+1761,Dallas Aquatic Ctr - Lacreole @ Barberry,44.918994,-123.299988
+1763,Mill City - Ivy @ 1st,44.749275,-122.477725
+1764,Mehama - Gingerbread @ Grove,44.791957,-122.618863
+1765,Commercial @ Owens,44.929931,-123.044225
+1766,Skyline @ Liberty Circle,44.889387,-123.061789
+1767,Skyline @ Joseph,44.886366,-123.06663
+1768,Silverton Rd @ Portland Rd,44.960539,-123.014222
+1769,Silverton Rd @ Portland Rd,44.960471,-123.014815
+177,Broadway @ Dr. MLK Jr. Pkwy,44.968938,-123.028715
+1777,Silverton Rd @ Lana,44.964683,-123.00405
+1778,3831 Fairview Industrial,44.900495,-123.013085
+1780,Boone @ Terrylee,44.884331,-123.056345
+1781,Boone @ Nina,44.884267,-123.05521
+1785,45th @ CCC Brown Lot,44.9787,-122.97323
+1786,Lancaster @ Silverton Rd,44.97041,-122.983307
+1788,Salem Walmart - 1950 Turner Rd,44.913242,-122.996591
+1791,32nd @ Litchfield,44.887599,-122.995756
+1792,32nd @ Litchfield,44.887641,-122.995515
+1793,25th @ Aviation Loop,44.911851,-123.010149
+1794,Chemawa @ McLeod,45.004827,-123.004591
+1795,Parkmeadow @ Meadowglen,45.024978,-123.017567
+1796,Sunnyview @ Walker,44.95485,-122.962748
+1797,Commercial @ Fabry,44.874177,-123.025169
+1798,Satter @ Bramble,44.980075,-122.970493
+1799,Silverton Roth's - 2nd @ Bowtie,45.012898,-122.784027
+1800,Silverton Roth's - 2nd @ Bowtie,45.012927,-122.783862
+1802,Orchard Heights @ Mousebird,44.960186,-123.070101
+1803,Orchard Heights @ Linwood,44.960152,-123.066696
+1804,Orchard Heights @ Chapman Hill,44.957152,-123.063414
+1805,Orchard Heights @ Karen,44.955448,-123.059027
+1806,Orchard Heights @ Valley View,44.954302,-123.055736
+1807,Gehlar @ Crouchen,44.944592,-123.093218
+1808,Glen Creek @ Sunburst,44.950236,-123.07131
+1809,Glen Creek @ Burley Hill,44.950898,-123.077888
+1810,Glen Creek @ Doaks Ferry,44.952252,-123.084872
+1811,Titan @ Islander,44.955032,-123.086958
+1812,Burley Hill @ Polk,44.943839,-123.08556
+1813,Eola @ Eagle Feather,44.942867,-123.093432
+1814,Eola @ Sunwood,44.942762,-123.086127
+1815,Burley Hill @ Deerwind,44.950303,-123.076697
+1816,Burley Hill @ Fawn,44.94827,-123.080866
+1819,Dallas Downtown - Oak @ Robb,44.922675,-123.31752
+182,Edgewater @ Kingwood,44.939799,-123.060016
+1820,Wallace @ Glen Creek,44.950653,-123.051624
+1821,Riverbend @ Linwood,44.968151,-123.065025
+1822,Linwood @ Orchardview,44.965967,-123.064507
+1823,Orchardview @ Woodhill,44.96569,-123.060707
+1824,Silverton Downtown - 1st @ Lewis,45.004794,-122.78158
+1825,Silverton Downtown - 1st @ Lewis,45.004938,-122.78151
+1826,Downtown Transit Center - Bay A,44.940993,-123.03606
+1827,Downtown Transit Center - Bay B,44.940942,-123.035902
+1829,Downtown Transit Center - Bay D,44.94083,-123.03541
+1830,Downtown Transit Center - Bay E,44.940775,-123.035132
+1832,Downtown Transit Center - Bay G,44.940999,-123.035288
+1833,Downtown Transit Center - Bay H,44.941051,-123.035489
+1834,Downtown Transit Center - Bay I,44.941102,-123.035693
+1836,Downtown Transit Center - Bay K,44.941191,-123.036101
+1837,Downtown Transit Center - Bay L,44.941242,-123.035979
+1838,Downtown Transit Center - Bay M,44.941193,-123.035783
+1839,Downtown Transit Center - Bay N,44.94114,-123.035571
+184,Lancaster @ State,44.927628,-122.983232
+1840,Downtown Transit Center - Bay O,44.941091,-123.035378
+1841,Downtown Transit Center - Bay P,44.941044,-123.035192
+1842,Downtown Transit Center - Bay Q,44.941006,-123.034986
+1843,Downtown Transit Center - Bay R,44.941193,-123.035013
+1845,Downtown Transit Center - Bay T,44.941304,-123.035447
+1846,Downtown Transit Center - Bay U,44.941359,-123.035674
+1847,Downtown Transit Center - Bay V,44.941422,-123.03597
+1848,Keizer Transit Center - Bay A,45.007007,-123.00264
+1850,Keizer Transit Center - Bay C,45.007162,-123.0022
+1851,Keizer Transit Center - Bay D,45.006981,-123.00211
+1852,Keizer Transit Center - Bay E,45.006792,-123.002105
+1854,Keizer Transit Center - Bay G,45.006443,-123.002115
+1859,West Salem Transit Center - Bay D,44.951102,-123.048501
+1860,West Salem Transit Center - Bay E,44.950925,-123.0485
+1861,West Salem Transit Center - Bay F,44.950756,-123.048486
+1862,West Salem Transit Center - Bay G,44.950594,-123.048501
+1863,Chemeketa College - Bldg 2 - Bay A,44.979028,-122.978941
+1864,Chemeketa College - Bldg 2 - Bay B,44.979343,-122.978925
+1865,Chemeketa College - Bldg 2 - Bay C,44.979448,-122.979122
+1866,Chemeketa College - Bldg 2 - Bay D,44.979223,-122.979214
+1867,Chemeketa College - Bldg 2 - Bay E,44.97956,-122.980057
+1869,Silverton Rd @ 45th,44.970196,-122.972688
+1870,Wheatland @ McNary Heights,45.014658,-123.023107
+1871,Capitol @ Shipping,44.951928,-123.021735
+1872,2045 Silverton Rd,44.963085,-123.008358
+1873,Ryan @ Hawthorne,44.919702,-122.997812
+1874,Hawthorne @ Mission,44.918578,-122.997547
+1875,25th @ Mission,44.923165,-123.010556
+1877,Royalty @ Squire,44.947606,-122.968513
+1878,3620 State,44.927827,-122.989104
+1879,17th @ Nebraska,44.945868,-123.015074
+1880,Main @ Oak,44.856245,-123.184798
+1881,4th @ D St,44.850026,-123.189044
+1882,G St @ 5th,44.847584,-123.19026
+1883,7th @ F St,44.847991,-123.193522
+1884,1038 E St,44.849429,-123.199426
+1886,Monmouth St @ Talmadge,44.851311,-123.212701
+1888,Ecols @ Ackerman,44.845589,-123.231943
+1889,Ackerman @ Monmouth Ave,44.845361,-123.237259
+1890,College St @ Clay,44.847356,-123.238857
+19,Capitol @ Market,44.949437,-123.02291
+1906,College St @ Clay,44.847287,-123.239031
+1907,Ackerman @ Monmouth Ave,44.845224,-123.236637
+1908,Ecols @ Ackerman,44.845707,-123.231754
+1910,Monmouth St @ Talmadge,44.851147,-123.212718
+1912,7th @ F St,44.848147,-123.193693
+1913,G St @ 5th,44.84747,-123.190662
+1914,4th @ E St,44.84925,-123.188896
+1915,Main @ Oak,44.856385,-123.184634
+1917,Mill City - 3rd @ Alder,44.755246,-122.473098
+1918,45th @ Sesame St,44.974056,-122.973144
+1919,45th @ Satter,44.979986,-122.973056
+192,Mission @ 23rd,44.924212,-123.01373
+1920,Monmouth-Independence Hwy @ Price,44.849688,-123.219797
+1921,Monmouth-Independence Hwy @ Hogan,44.850293,-123.2196
+1922,Woodburn Memorial Transit Center,45.151603,-122.877044
+1928,Wilsonville Transit Ctr - Drop Off Bay,45.310559,-122.775677
+1929,Boone @ Battle Creek,44.882844,-123.010812
+1930,Boone @ 27th,44.882796,-123.00581
+1931,Trelstad @ Burright,44.8855,-122.98766
+1932,Truax @ Aumsville Hwy,44.892992,-122.965992
+1933,Boone @ 27th,44.882928,-123.005883
+1934,Boone @ Battle Creek,44.882987,-123.010474
+1954,Hyacinth @ 25th,44.980785,-123.001075
+1955,C St @ Main,44.852006,-123.184127
+1956,Monmouth St @ 5th,44.851235,-123.191048
+1957,Monmouth St @ 8th,44.85125,-123.195102
+1958,Monmouth St @ 12th,44.851264,-123.201602
+1959,Independence - Monmouth St @ Gun Club,44.851292,-123.207268
+1960,Heffley @ Main,44.848672,-123.224844
+1961,Jackson @ Monmouth Ave,44.849741,-123.237757
+1962,Atwater @ Main,44.84832,-123.22321
+1963,Independence - Monmouth St @ Gun Club,44.851136,-123.206574
+1964,Monmouth St @ 12th,44.851108,-123.201553
+1965,Monmouth St @ 8th,44.851114,-123.195158
+1966,Monmouth St @ 5th,44.851095,-123.190675
+1967,Portland Rd @ Rose Garden St,44.969255,-123.006533
+1968,Portland Rd @ Rose Garden St,44.969843,-123.006335
+1969,Baxter @ Commercial,44.877499,-123.026597
+1970,Baxter @ Sugar Plum,44.87744,-123.019392
+1971,Reed @ Shiloh,44.87869,-123.015417
+1972,Reed @ Woodscape,44.880832,-123.015413
+1975,Hayesville @ Lisa,44.98994,-122.973493
+1976,Hayesville @ Harlan,44.990204,-122.9713
+1977,Commercial @ Madrona,44.905641,-123.042573
+1990,Mill Creek Dr @ Deer Park Dr,44.88427,-122.96161
+1991,Cherry @ Johnson,44.965932,-123.019309
+1992,Woodburn - Mt Hood Ave @ N Pacific Hwy,45.15142,-122.832727
+1996,Woodburn Premium Outlets,45.156576,-122.879321
+200,17th @ Market,44.949228,-123.013368
+2000,Silverton Rd @ State Fairgrounds,44.963069,-123.007935
+202,State @ Lancaster (Westbound),44.92808,-122.984109
+203,Market @ 17th,44.948837,-123.013168
+204,Market @ 17th,44.948632,-123.013812
+206,Del Webb @ Salem Industrial,44.970389,-123.017306
+207,State @ 17th,44.935213,-123.020545
+211,Commercial @ Madrona,44.905907,-123.042359
+213,Madrona @ Commercial,44.904704,-123.040532
+214,State @ 14th,44.936265,-123.02458
+227,Summer @ Marion,44.942154,-123.028653
+230,Commercial @ Baxter,44.878384,-123.027749
+231,Commercial @ Keglers,44.888886,-123.033701
+25,Summer @ Market,44.949605,-123.024925
+254,8th @ Gerth,44.946036,-123.061718
+261,Eola @ Kingwood,44.939116,-123.070689
+264,Capitol @ Marion,44.941718,-123.026836
+266,Commercial @ Mission,44.933663,-123.043997
+268,Commercial @ Myers,44.927337,-123.044376
+269,Commercial @ Washington,44.924298,-123.04459
+270,Commercial @ Hoyt,44.91926,-123.044917
+277,Orchard Heights @ Doaks Ferry,44.960315,-123.078782
+28,Cherry @ Clearview,44.981391,-123.023641
+286,Brush College @ Wilark,44.971238,-123.073154
+287,Doaks Ferry @ Gibsonwoods,44.969108,-123.078239
+290,Capitol @ D St,44.946146,-123.024564
+298,Lancaster @ D St,44.944057,-122.983268
+299,Lancaster @ Weathers,44.946088,-122.983522
+300,Lancaster @ Cypress,44.947677,-122.983562
+301,Lancaster @ Sunnyview,44.952877,-122.983518
+303,Lancaster @ Wolverine,44.957837,-122.983439
+304,Lancaster @ Beverly,44.960956,-122.983411
+308,Lancaster @ Satter,44.979228,-122.983177
+309,Lancaster @ Ward,44.982931,-122.983117
+310,Lancaster @ Jade,44.985796,-122.98304
+315,Kale @ Portland Rd,44.997079,-122.97909
+316,Happy @ Geranium,44.992913,-122.975835
+317,Happy @ Hayesville,44.990179,-122.975995
+318,Hayesville @ Harlan,44.990084,-122.970492
+319,Hayesville @ Janice,44.990094,-122.96666
+32,Center @ 13th,44.939971,-123.024429
+320,Fuhrer @ WB Post,44.988072,-122.962696
+321,Fuhrer @ Jade,44.986182,-122.962869
+33,Center @ 24th,44.939937,-123.008861
+332,Capitol @ Madison,44.953936,-123.020766
+334,Fairgrounds Rd @ Sunnyview,44.956626,-123.019642
+339,Wallace @ Orchard Heights,44.954754,-123.052676
+340,Wallace @ Hope,44.958695,-123.053702
+341,Wallace @ Empire,44.961165,-123.054818
+342,Wallace @ Harritt,44.964315,-123.056766
+35,Center @ Concord,44.939557,-122.981592
+36,Royalty @ Center,44.940007,-122.966626
+366,Taybin @ 5th,44.951849,-123.050629
+373,Portland Rd @ Hyacinth,44.979186,-122.996868
+374,4646 Portland Rd,44.987801,-122.989248
+375,Portland Rd @ Hayesville,44.989633,-122.987616
+377,Union @ High,44.945145,-123.034116
+379,High @ Willow,44.947233,-123.033265
+38,Center @ Lancaster,44.939821,-122.983961
+380,Broadway @ Belmont,44.950095,-123.031832
+381,Broadway @ Shipping,44.953491,-123.03013
+382,Broadway @ Madison,44.956122,-123.028828
+383,Broadway @ Academy,44.958765,-123.028525
+388,Cherry @ Hickory,44.963449,-123.019317
+39,Center @ 24th,44.9401,-123.00814
+392,Cherry @ Plymouth,44.974594,-123.021351
+393,Cherry @ Candlewood,44.978654,-123.022692
+401,Verda @ Chemawa,44.99706,-123.012299
+405,Lockhaven @ Klicitat,45.005974,-123.00959
+406,Chemawa @ Modoc,45.00402,-123.006172
+407,Chemawa @ Springtime,45.001653,-123.009588
+408,Chemawa @ Verda,44.997539,-123.012169
+417,Cherry @ Plymouth,44.974456,-123.021705
+419,Cherry @ Weeks,44.977267,-123.022504
+42,12th @ Rural,44.921334,-123.030759
+424,Broadway @ Shipping,44.953804,-123.030217
+425,Broadway @ Gaines,44.95179,-123.031231
+427,Broadway @ Columbia,44.959059,-123.028768
+428,Broadway @ Jefferson,44.955506,-123.029349
+43,Pringle @ Madrona,44.90543,-123.026058
+430,Portland Rd @ Hayesville,44.989015,-122.988609
+431,Portland Rd @ Astoria,44.98688,-122.990526
+432,Portland Rd @ Hyacinth,44.97908,-122.997538
+438,Silverton Rd @ Highway Ave,44.965016,-123.003889
+440,Portland Rd @ Lana,44.966657,-123.009408
+443,Summer @ Madison,44.95474,-123.022389
+444,Summer @ Norway,44.953104,-123.023201
+445,Summer @ Hood,44.951001,-123.024225
+446,Summer @ D St,44.946856,-123.02635
+447,Summer @ Union,44.944156,-123.027707
+45,Sunnyside @ Boone,44.883954,-123.036977
+458,Lancaster @ Cooley,44.976164,-122.983539
+459,Lancaster @ Winema,44.972846,-122.983586
+46,Pringle @ Georgia,44.905471,-123.0258
+460,Lancaster @ Stortz,44.971196,-122.983644
+462,Lancaster @ Devonshire,44.964897,-122.983741
+463,Lancaster @ Beverly,44.962032,-122.983754
+464,Lancaster @ Wolverine,44.958645,-122.983734
+465,Lancaster @ Sunnyview,44.954092,-122.983846
+467,Lancaster @ Market,44.951041,-122.983872
+47,13th @ Rural,44.921065,-123.02915
+477,D St @ Capitol,44.946472,-123.02489
+478,Center @ Capitol,44.940652,-123.027066
+480,Center @ 17th,44.939328,-123.017524
+481,Center @ 21st,44.939675,-123.012739
+482,Center @ State Hospital,44.939877,-123.00445
+484,Center @ Edina,44.939748,-122.996339
+485,Center @ Oregon,44.939691,-122.992545
+486,Center @ Tierra,44.939654,-122.978073
+487,Center @ 45th Pl,44.939671,-122.97285
+488,Royalty @ Regal,44.942896,-122.966926
+489,Royalty @ Windsor,44.945959,-122.968345
+49,25th @ Helm,44.923567,-123.010832
+490,Royalty @ Kingdom,44.948271,-122.968577
+503,Royalty @ Windsor,44.945844,-122.968548
+504,Royalty @ Regal,44.94271,-122.967116
+505,Center @ Mitchell,44.939797,-122.972469
+506,Center @ Denver,44.939822,-122.977094
+507,Center @ Norman,44.939918,-122.993101
+509,Center @ Concord,44.9398,-122.981777
+511,Center @ 27th,44.939986,-123.001488
+512,Center @ 25th,44.940037,-123.005006
+513,Center @ Breys,44.939828,-123.012662
+514,Center @ 19th,44.939624,-123.015393
+516,Center @ Statesman,44.939398,-123.018976
+518,Court @ 12th,44.938161,-123.026305
+519,Court @ Winter,44.939467,-123.031467
+520,Court @ Cottage,44.939887,-123.033163
+521,Center @ 36th,44.939578,-122.986631
+527,Commercial @ Boice,44.916091,-123.045185
+528,Commercial @ Candalaria,44.914484,-123.045309
+529,Commercial @ Vista,44.910737,-123.045069
+530,Commercial @ Ratcliff,44.908755,-123.044413
+532,Commercial @ Harris,44.902159,-123.040235
+534,Commercial @ Browning,44.898409,-123.038492
+535,Commercial @ Welcome,44.89539,-123.037035
+537,Commercial @ Keglers,44.887943,-123.033622
+540,Commercial @ Barnes,44.880338,-123.029376
+541,Commercial @ Baxter,44.877197,-123.027399
+542,Commercial @ Fabry,44.873999,-123.025398
+543,Commercial @ Madras,44.867202,-123.021127
+544,Commercial @ Fairway,44.864097,-123.019173
+545,Fairway @ Lexington,44.860517,-123.019671
+546,Fairway @ Rees Hill,44.857456,-123.018592
+547,Rees Hill @ Huntington,44.857427,-123.024142
+548,Rees Hill @ 14th,44.858051,-123.027564
+549,Sunnyside @ Cayuse,44.86518,-123.033675
+55,25th @ Claude,44.925791,-123.01058
+550,Sunnyside @ Wiltsey,44.868781,-123.034564
+556,Commercial @ Boone,44.882808,-123.03062
+557,Commercial @ Royvonne,44.885816,-123.032276
+558,Commercial @ Lansford,44.892292,-123.035239
+559,Commercial @ Promontory,44.896335,-123.037137
+560,Commercial @ Duplex,44.902928,-123.040213
+561,Commercial @ Ratcliff,44.907862,-123.043597
+562,Commercial @ Alice,44.913389,-123.044995
+563,Commercial @ Boice,44.915855,-123.044867
+564,Commercial @ Hoyt,44.919099,-123.044593
+565,Commercial @ Rural,44.921042,-123.044504
+566,Liberty @ Lincoln,44.92503,-123.042746
+567,Liberty @ Myers,44.926884,-123.042608
+568,Liberty @ Owens,44.929845,-123.042438
+59,Liberty @ Rock Creek,44.87678,-123.0615
+596,Croisan @ Joseph (Sprague HS),44.887521,-123.074513
+6,Commercial @ Wiltsey,44.869085,-123.022305
+62,Broadway @ Dr. MLK Jr. Pkwy,44.969089,-123.028336
+624,12th @ Lee,44.929069,-123.030799
+625,12th @ Hines,44.926514,-123.030766
+626,12th @ Howard,44.92391,-123.030764
+628,Hoyt @ 13th,44.918801,-123.029509
+629,Pringle @ McGilchrist,44.916954,-123.027799
+63,River Rd @ Chemawa,44.996551,-123.026507
+630,Pringle @ Peace,44.912563,-123.027273
+631,Pringle @ Woodacre,44.909835,-123.026403
+632,Pringle @ Hillendale,44.908036,-123.025978
+641,Sunnyside @ Hilfiker,44.889161,-123.035897
+642,Sunnyside @ Boxwood,44.885887,-123.036554
+643,Boone @ Sunnyside,44.883077,-123.038363
+644,Boone @ Pam,44.88307,-123.042445
+652,Madrona @ Pioneer,44.904988,-123.038169
+653,Madrona @ Peck,44.904965,-123.034316
+655,Pringle @ Salishan,44.908091,-123.025794
+656,Pringle @ Woodacre,44.909638,-123.026157
+657,Pringle @ Peace,44.912535,-123.027064
+658,McGilchrist @ Pringle,44.916884,-123.028184
+659,13th @ McGilchrist,44.917258,-123.029154
+66,Lockhaven @ Kalmia,45.006183,-123.011869
+660,13th @ Howard,44.923683,-123.029193
+661,13th @ Hines,44.926647,-123.029146
+662,Mission @ University,44.930451,-123.031708
+68,7th @ Wallace,44.948708,-123.051887
+687,Madrona @ Halifax,44.904672,-123.048598
+688,Madrona @ Hillview,44.904697,-123.043754
+69,Edgewater @ Kingwood,44.939915,-123.06015
+7,Sunnyside @ Neahkahnie,44.860517,-123.030756
+701,Lancaster @ Auburn,44.936619,-122.983228
+707,State @ Capitol Bldg,44.937804,-123.030541
+708,State @ 12th,44.937015,-123.027538
+716,25th @ Lee,44.928646,-123.010828
+717,25th @ Claude,44.925221,-123.010798
+718,Mission @ Ford,44.925394,-123.016537
+726,25th @ Aviation Loop,44.911645,-123.010415
+727,Madrona @ 22nd,44.908401,-123.014031
+729,Fairview Industrial @ Madrona,44.905073,-123.01734
+733,Fairview Industrial @ Reed,44.897168,-123.008602
+735,3925 Fairview Industrial,44.898757,-123.010334
+736,3685 Fairview Industrial,44.901917,-123.01462
+737,Fairview Industrial @ Madrona,44.905633,-123.017626
+738,Madrona @ 22nd,44.90803,-123.014185
+74,Glen Creek @ Parkway,44.950249,-123.065387
+747,Mission @ Ford,44.925312,-123.017172
+748,25th @ Lee,44.928586,-123.010584
+76,Chemawa @ 7th,44.99681,-123.024007
+764,Liberty @ Harvard,44.902189,-123.052279
+765,3875 Liberty,44.899798,-123.053665
+766,Liberty @ Browning,44.897008,-123.055037
+767,Liberty @ Mize,44.893993,-123.057561
+768,Liberty @ Cunningham,44.891881,-123.059219
+77,Hyacinth @ 25th,44.980359,-123.000137
+770,Liberty @ Kuebler,44.882295,-123.061384
+772,Liberty @ Kamela,44.878708,-123.061473
+778,Lone Oak @ Hrubetz,44.888522,-123.049091
+78,State @ Lancaster (Eastbound),44.927803,-122.982612
+781,Liberty @ Gregory,44.893095,-123.05788
+782,Liberty @ Friendship,44.894879,-123.056437
+783,Liberty @ Vine,44.898642,-123.053897
+784,Liberty @ Harvard,44.901967,-123.052099
+803,Wintergreen @ Winchester,44.968893,-123.067095
+811,17th @ Nebraska,44.945953,-123.014784
+812,17th @ Madison,44.951813,-123.011866
+813,17th @ Grant,44.95371,-123.010904
+814,17th @ Sunnyview,44.956026,-123.010661
+815,Sunnyview @ State Fairgrounds,44.955856,-123.007588
+816,Sunnyview @ Evergreen,44.953891,-123.003263
+817,Sunnyview @ Lansing,44.953875,-122.997977
+832,Hyacinth @ Portland Rd,44.980025,-122.997959
+839,Silverton Rd @ Robert,44.967346,-122.995815
+846,Sunnyview @ Evergreen,44.954038,-123.003821
+847,Sunnyview @ State Fairgrounds,44.955959,-123.007463
+848,17th @ Sunnyview,44.955857,-123.01092
+849,17th @ Madison,44.951995,-123.011955
+85,State @ 14th,44.936329,-123.024044
+851,17th @ D St,44.944435,-123.015787
+856,State @ 21st,44.934192,-123.016553
+857,State @ 23rd,44.933692,-123.014668
+858,State @ 24th,44.932652,-123.010978
+859,State @ 25th,44.932005,-123.009003
+86,17th @ Market,44.948598,-123.013488
+860,State @ Airport Rd,44.928753,-123.003066
+861,State @ Hawthorne,44.927766,-122.992526
+863,State @ Village East,44.927907,-122.976012
+864,State @ Draper,44.927951,-122.970971
+865,State @ 47th,44.928006,-122.967149
+866,State @ Cougar,44.928002,-122.96455
+869,Pennsylvania @ 47th,44.922193,-122.964813
+870,Pennsylvania @ 46th,44.92066,-122.968833
+875,Lancaster @ Munkers,44.915889,-122.980611
+876,Lancaster @ Carson,44.909752,-122.978595
+877,Lancaster @ Eden,44.902781,-122.973156
+878,Lancaster @ Eden,44.902849,-122.973022
+879,Lancaster @ Sundial,44.90646,-122.977215
+880,Lancaster @ Munkers,44.915875,-122.980239
+881,Lancaster @ Macleay,44.918278,-122.980951
+895,State @ Hawthorne,44.928041,-122.994455
+896,State @ Airport Rd,44.929587,-123.004014
+897,State @ 25th,44.932308,-123.008945
+898,State @ 24th,44.932989,-123.011314
+899,State @ 23rd,44.933711,-123.014113
+9,Commercial @ Browning,44.899484,-123.038578
+900,State @ 21st,44.9343,-123.01637
+901,State @ 17th,44.935278,-123.019963
+902,Lancaster @ Macleay,44.917947,-122.981199
+908,Mission @ 17th,44.928525,-123.022812
+909,Mission @ 20th,44.926508,-123.020243
+930,Mission @ 25th,44.922786,-123.01029
+931,Mission @ 21st,44.926537,-123.019438
+932,Mission @ 17th,44.929466,-123.024157
+933,Church @ Center,44.942679,-123.033656
+936,Winter @ D St,44.947039,-123.027865
+937,Market @ 14th,44.94876,-123.017453
+938,Market @ 19th,44.948743,-123.010811
+939,Market @ 21st,44.949111,-123.007288
+940,Market @ 25th,44.949412,-123.004261
+941,Market @ Park,44.949718,-123.00124
+942,Market @ Savage,44.950091,-122.996636
+943,Market @ Hawthorne,44.950001,-122.992968
+944,Market @ Motor,44.950024,-122.986972
+948,2060 Brown,44.955152,-122.970706
+949,Brown @ Maria,44.958142,-122.970676
+950,Brown @ San Francisco,44.960515,-122.970581
+951,Brown @ Indiana,44.963567,-122.970587
+952,Brown @ Utah,44.966196,-122.970574
+966,Silverton Rd @ 45th,44.969896,-122.972138
+967,Brown @ San Francisco,44.960734,-122.970795
+968,Brown @ Maria,44.957961,-122.970914
+969,2075 Brown,44.955169,-122.970906
+971,Market @ Tierra,44.950281,-122.978412
+972,Market @ Clay,44.950308,-122.982516
+973,Market @ Motor,44.95028,-122.986674
+974,Market @ Hawthorne,44.950333,-122.993206
+975,Market @ Savage,44.950311,-122.996004
+976,Market @ Park,44.94995,-123.000622
+977,Market @ 24th,44.949539,-123.004671
+978,Market @ 21st,44.949166,-123.008405
+981,Market @ Capitol,44.949133,-123.022947
+982,Winter @ D St,44.947378,-123.027906
+983,Winter @ Union,44.944118,-123.029595
+985,Brown @ Surfwood (South Entrance),44.96351,-122.970806
+995,River Rd @ Plymouth,44.974711,-123.02742
+996,River Rd @ Glynbrook,44.978095,-123.026439
+998,River Rd @ Homewood,44.981852,-123.026467
