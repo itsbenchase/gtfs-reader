@@ -50,7 +50,7 @@
 52,EB 27th & Elaine - Tommy's,45.228054,-123.178416
 53,Mac - WB 99W & Town Ctr - Dutch Bros,45.226071,-123.184732
 54,WB 99W & McDonald - Mikey's,45.224791,-123.190137
-55,WB Hwy 99W, btwn McDonald & Baker Creek (Domino's,45.224224
+55,WB Hwy 99W btwn McDonald & Baker Creek (Domino's,45.224224,-123.192456
 56,WB 99W & 19th - Tequila Grill,45.222675,-123.195627
 57,Mac - SB Adams St & 15th,45.218646,-123.198325
 58,Mac - SB Adams St & 12th,45.216723,-123.199015
@@ -94,7 +94,7 @@
 129,Mac - EB Lafayette Ave & Orchard,45.221624,-123.177830
 130,Mac - EB Lafayette Ave & Fairgrounds,45.225536,-123.173422
 131,Mac - EB Lafayette Ave & 99W - Mazatlan,45.228827,-123.170321
-132,Carlton - SB Pine St, btwn Monroe & Main,45.294839
+132,Carlton - SB Pine St btwn Monroe & Main,45.294839,-123.177222
 133,Yamhill - NB Maple St & Main - Umpqua Bank,45.341950,-123.187701
 134,Cove Orchard - NB Hwy 47 & Graham,45.375431,-123.153828
 135,Gaston - NB Hwy 47 & Main,45.437062,-123.139700
@@ -134,8 +134,8 @@
 173,WinCo Foods Driveway - WinCo/Walmart,45.230547,-123.171345
 174,NB Baker St & Cowls - Walgreens,45.204443,-123.198315
 177,WB 2nd & Elmwood - Lower City Park,45.209372,-123.202300
-178,WB 2nd St, btwn Ash & Michelbook,45.209198
-179,WB 2nd, W. of Michelbook - Newby School,45.209224
+178,WB 2nd St btwn Ash & Michelbook,45.209198,-123.206600
+179,WB 2nd W. of Michelbook - Newby School,45.209224,-123.209700
 180,WB 2nd & Fenton,45.209215,-123.212792
 181,WB 2nd & Cypress,45.209216,-123.219317
 182,WB 2nd & Filbert - Greenway Trail,45.209188,-123.223200
@@ -146,12 +146,12 @@
 187,EB 2nd & Filbert,45.209084,-123.223100
 188,EB 2nd & Agee,45.209094,-123.217200
 189,EB 2nd & Fleishauer,45.209100,-123.211744
-190,EB 2nd, btwn Michelbook & Ash - St. Barnabas,45.209115
+190,EB 2nd btwn Michelbook & Ash - St. Barnabas,45.209115,-123.206400
 191,EB 2nd & Elmwood,45.209274,-123.202700
 192,NB Baker St & Lincoln,45.207268,-123.197900
 193,EB 1st & Davis,45.208552,-123.196000
 196,Northeast 1st Street,45.208560,-123.194300
-197,NB Irvine St, btwn 4th & 5th,45.210622
+197,NB Irvine St btwn 4th & 5th,45.210622,-123.189738
 198,SB Irvine St & 4th,45.210875,-123.189937
 199,WB 5th & Ford - County Circuit,45.211522,-123.193212
 201,WB Old Sheridan Rd & Goucher,45.194699,-123.215157

@@ -57,7 +57,7 @@ west;sound;Sound Transit (Seattle);https://www.soundtransit.org/GTFS-rail/40_gtf
 west;hi-thebus;TheBus (Honolulu);https://www.thebus.org/transitdata/production/google_transit.zip
 west;trimet;TriMet (Portland);https://developer.trimet.org/schedule/gtfs.zip
 west;wta;WTA (Bellingham, WA);tba
-west;or-ycta;YCTA (Yamhill County, OR);https://ycta.connexionz.net/rtt/public/utility/gtfs.aspx
+west;or-ycta;YCTA (Yamhill County, OR);https://github.com/itsbenchase/feeds/raw/refs/heads/main/or-ycta.zip
 ne;ma-bat;BAT (Brockton);https://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip
 ne;ma-brta;BRTA (Berkshires);https://data.trilliumtransit.com/gtfs/berkshire-ma-us/berkshire-ma-us.zip
 ne;bsoob;BSOOB (Maine);https://gtfs.remix.com/bsoob_transit_biddeford_me_us.zip
