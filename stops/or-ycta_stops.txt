@@ -1,0 +1,178 @@
+1,Mac - WB 5th & Baker - Community Development Ctr,45.211527,-123.197628
+2,SB Adams St & 3rd - Mac Library,45.209799,-123.199198
+3,SB Adams St & 2nd - Mac Police Station,45.208731,-123.199211
+4,SB Hwy 99W (Adams St) & Handley,45.206224,-123.199064
+5,SB 99W & Fellows - Linfield Univ.,45.202510,-123.201900
+6,SB Baker St & Linfield Ave,45.200705,-123.204106
+7,SB Baker St & Cozine,45.199149,-123.205512
+8,Mac - SB 99W & Keck - Bi-Mart,45.196600,-123.207824
+9,EB Booth Bend Rd & 99W - Lowe's,45.192352,-123.212065
+10,NB Cypress St & Alexandria - Discovery Meadows Prk,45.197582,-123.218984
+11,NB Cypress St & Fellows,45.199806,-123.219027
+12,EB Fellows St & Agee,45.201705,-123.217855
+13,EB Fellows St & Goucher,45.201872,-123.214531
+14,EB Fellows St & Fleishauer,45.202159,-123.211339
+15,EB Fellows St & Brockwood,45.202336,-123.205189
+16,Mac - SB Blaine St & Founders - Linfield Univ.,45.201755,-123.202176
+17,SB Blaine St & Linfield - Linfield Univ.,45.200432,-123.202226
+18,EB Linfield Ave & Pioneer,45.200254,-123.199090
+19,NB Davis St & Linfield,45.200455,-123.195236
+20,NB Ford St & Storey,45.203194,-123.192986
+21,NB Ford St & Shady,45.204655,-123.192520
+22,NB Ford St & Washington,45.208053,-123.193242
+23,McMinnville Transit Center,45.208950,-123.190608
+24,EB 3rd & Kirby - St James Church,45.209953,-123.187908
+25,EB 3 Mile Lane & Brooks,45.207301,-123.183761
+26,EB 3 Mile Lane & Nehemiah,45.202453,-123.179693
+27,NB Norton Ln & Hospital Driveway,45.199714,-123.166681
+28,Chemeketa Community College,45.202629,-123.163938
+29,WB Aaron Dr & Dunn,45.203799,-123.168438
+30,WB Cumulus Ave & Dunn - PMC,45.201130,-123.169238
+32,WB Cumulus Ave & Atlantic - Pacific Pride,45.201226,-123.176772
+33,WB Cumulus Ave & Pacific,45.202357,-123.178821
+35,WB 3 Mile Lane & Brooks (Joe Dancer Park),45.207341,-123.183538
+36,WB 1st & Logan - St James Church,45.208650,-123.186838
+37,Department of Human Services,45.202976,-123.165337
+38,Hospital Main Entrance - Willamette Valley Medical Center,45.199431,-123.164958
+39,WB Stratus Ave - Cancer Center,45.198259,-123.164071
+40,NB Evans St & 6th - Community Center,45.212497,-123.194418
+41,NB Evans St & 10th,45.214931,-123.194382
+42,NB Evans St & 12th,45.216397,-123.194429
+43,NB Evans St & 15th - Mac High School,45.218506,-123.194418
+44,NB Evans St & 19th,45.221852,-123.194443
+45,NB Evans St & Baker Creek Rd,45.224735,-123.194402
+46,NB Evans St & 27th,45.228580,-123.194440
+47,NB Evans St & Burnett - Wintercrest,45.230750,-123.193880
+48,SB Hembree St & Burnett,45.230220,-123.190768
+49,SB Hembree St & 27th,45.228466,-123.190799
+50,EB 27th & McDonald,45.228141,-123.187159
+51,EB 27th & Newby - Orchard Plaza,45.228119,-123.185092
+52,EB 27th & Elaine - Tommy's,45.228054,-123.178416
+53,Mac - WB 99W & Town Ctr - Dutch Bros,45.226071,-123.184732
+54,WB 99W & McDonald - Mikey's,45.224791,-123.190137
+55,WB Hwy 99W, btwn McDonald & Baker Creek (Domino's,45.224224
+56,WB 99W & 19th - Tequila Grill,45.222675,-123.195627
+57,Mac - SB Adams St & 15th,45.218646,-123.198325
+58,Mac - SB Adams St & 12th,45.216723,-123.199015
+59,Mac - SB Adams St & 9th,45.214465,-123.199030
+61,Mac - EB 5th & Cowls - OMI,45.211382,-123.196647
+62,Newberg - EB 99W & Main - Nap's Thriftway,45.300215,-122.978725
+91,EB Hwy 99W & Deborah (Dutch Bros.),45.305310,-122.950224
+92,Newberg - EB Brutscher St (To Tigard Only),45.306293,-122.941271
+95,Newberg - WB 99W & Springbrook - Xfinity,45.307286,-122.944438
+96,Newberg - WB 99W & Sitka,45.302612,-122.959515
+98,Whiteson - 99W & River Bend,45.153119,-123.197662
+99,Amity - SB 99W btwn 4th & 5th - Chevron,45.116169,-123.206313
+100,Lincoln - SB Zena Hill Rd & Wallace - Lincoln Store,45.019868,-123.084668
+101,Amity - NB Main St btwn Maddox & 3rd - Library,45.117182,-123.206083
+102,Whiteson - 99W & Whiteson Rd,45.153027,-123.197410
+103,Mac - NB 99W & Keck - Albertsons,45.197476,-123.206688
+104,Mac - NB 99W & Founders Way - Linfield Univ.,45.202063,-123.202162
+105,Lincoln - NB Zena Hill Rd & Wallace - Lincoln Store,45.019852,-123.085181
+107,Sheridan - WB Main St & Cherry Hill,45.098336,-123.386406
+108,Sheridan - WB Main St & Hill,45.099552,-123.392944
+109,Sheridan - WB Main St btwn Bridge & Washington,45.099457,-123.395844
+110,Willamina - WB Hwy 18B (Main St) & Oaken Hill,45.080795,-123.479732
+111,Willamina - WB Main St & C,45.079075,-123.484794
+112,Willamina - WB Main St & Barber,45.075740,-123.486060
+113,Grand Ronde - NB Grand Ronde Rd & North,45.061043,-123.609226
+114,Grand Ronde - Salmon Way & Grand Ronde - Comm Ctr,45.074277,-123.613914
+115,Grand Ronde - SB Grand Ronde Rd N & North,45.061258,-123.609406
+116,Willamina - EB Main St & Barber,45.075794,-123.485910
+117,Willamina - EB Main St & C,45.079054,-123.484362
+118,Willamina - EB Main St & Oaken Hill,45.080719,-123.479365
+119,Sheridan - EB Main St & Washington,45.099291,-123.396689
+120,Sheridan - EB Main St & Hill,45.099420,-123.393032
+121,Sheridan - EB Main St & Cherry Hill - Market,45.098220,-123.386506
+122,Spirit Mountain - Hwy 18 & Casino East Entrance,45.058625,-123.581062
+123,Grand Ronde - Hwy 18 & Wandering Spirit RV Park,45.058095,-123.617235
+124,McMinnville - EB Hwy 99W btwn McDonald & McDaniel ,45.225681,-123.185518
+125,McMinnville - EB Hwy 99W & Lafayette (KFC/Safeway),45.228752,-123.172325
+126,Dayton - WB 8th & Ash,45.219248,-123.086688
+127,Mac - WB 1st & Baker,45.208656,-123.197779
+128,Mac - EB Lafayette Ave & 13th/Riverside,45.216526,-123.183456
+129,Mac - EB Lafayette Ave & Orchard,45.221624,-123.177830
+130,Mac - EB Lafayette Ave & Fairgrounds,45.225536,-123.173422
+131,Mac - EB Lafayette Ave & 99W - Mazatlan,45.228827,-123.170321
+132,Carlton - SB Pine St, btwn Monroe & Main,45.294839
+133,Yamhill - NB Maple St & Main - Umpqua Bank,45.341950,-123.187701
+134,Cove Orchard - NB Hwy 47 & Graham,45.375431,-123.153828
+135,Gaston - NB Hwy 47 & Main,45.437062,-123.139700
+136,Forest Grove - EB Pacific Ave & Hwy 47 (TM 4306),45.520125,-123.082016
+137,Forest Grove - WB Pacific Ave & Hwy 47 (TM 4307),45.520384,-123.084960
+138,Gaston - SB Hwy 47 & Main,45.437014,-123.139924
+139,Cove Orchard - SB Hwy 47 & Lincoln,45.375051,-123.154753
+140,Yamhill - SB Maple St & Main,45.341904,-123.187892
+141,Mac - WB Lafayette Ave & 99W - Safeway,45.226895,-123.172275
+142,Mac - WB Lafayette Ave & Fairgrounds,45.225608,-123.173644
+143,Mac - WB Lafayette Ave & Orchard,45.221960,-123.177682
+144,Mac - WB Lafayette Ave & 13th/Riverside,45.217041,-123.183121
+146,Lafayette - EB 99W & Market - Post Office,45.243739,-123.113532
+147,Dayton - EB 8th St & Ash,45.218945,-123.086564
+148,Dayton - EB Ferry St & 5th - City Hall,45.219634,-123.077528
+149,Dayton - EB Vintages RV Park,45.227892,-123.075214
+150,Dundee - EB 99W & 9th,45.276100,-123.012338
+151,Dundee - EB 99W & 5th,45.279786,-123.009194
+152,Newberg - EB 99W & Villa - Walgreens,45.301535,-122.961943
+153,Newberg - NB Providence Dr,45.307670,-122.933800
+154,Sherwood - EB Langer Dr - Shari's (TM 12849),45.367590,-122.845890
+155,Tualatin - EB 99W & 124th (TM 4260),45.389733,-122.804073
+156,Tigard - EB 99W & Fischer (TM  4258),45.398216,-122.798427
+157,Tigard TC - EB Commercial St - Ballroom Studio,45.430008,-122.768607
+158,Tigard - WB 99W & Fischer (TM 8792),45.397606,-122.799028
+159,Tualatin - WB 99W & 124th (TM 4316),45.389217,-122.805972
+160,Newberg - WB 99W & Crestview/Providence,45.309968,-122.936094
+161,Dundee - WB 99W & 5th,45.279287,-123.009867
+162,Dundee - WB 99W & 10th - Community Center,45.275288,-123.013333
+163,Dayton - WB Vintages RV Park,45.228209,-123.074885
+164,Dayton - WB Ferry St & 5th - City Hall,45.219730,-123.077683
+165,Lafayette - WB 99W & Market - City Hall,45.243828,-123.113449
+166,Tigard - WB 99W & Durham (TM 8644),45.405541,-122.796611
+167,Tigard - EB 99W & Durham (TM 8792),45.405552,-122.795999
+170,McMinnville - EB Hwy 99W (Baker St) & 12th,45.216654,-123.197867
+172,EB 27th & Leathers,45.228087,-123.181306
+173,WinCo Foods Driveway - WinCo/Walmart,45.230547,-123.171345
+174,NB Baker St & Cowls - Walgreens,45.204443,-123.198315
+177,WB 2nd & Elmwood - Lower City Park,45.209372,-123.202300
+178,WB 2nd St, btwn Ash & Michelbook,45.209198
+179,WB 2nd, W. of Michelbook - Newby School,45.209224
+180,WB 2nd & Fenton,45.209215,-123.212792
+181,WB 2nd & Cypress,45.209216,-123.219317
+182,WB 2nd & Filbert - Greenway Trail,45.209188,-123.223200
+183,WB 2nd & Hillside Park,45.209179,-123.225800
+184,WB 2nd & Hill,45.209194,-123.229392
+185,WB Redmond Hill Rd - West Hills Park,45.206347,-123.244242
+186,EB 2nd & Hill,45.209044,-123.229042
+187,EB 2nd & Filbert,45.209084,-123.223100
+188,EB 2nd & Agee,45.209094,-123.217200
+189,EB 2nd & Fleishauer,45.209100,-123.211744
+190,EB 2nd, btwn Michelbook & Ash - St. Barnabas,45.209115
+191,EB 2nd & Elmwood,45.209274,-123.202700
+192,NB Baker St & Lincoln,45.207268,-123.197900
+193,EB 1st & Davis,45.208552,-123.196000
+196,Northeast 1st Street,45.208560,-123.194300
+197,NB Irvine St, btwn 4th & 5th,45.210622
+198,SB Irvine St & 4th,45.210875,-123.189937
+199,WB 5th & Ford - County Circuit,45.211522,-123.193212
+201,WB Old Sheridan Rd & Goucher,45.194699,-123.215157
+202,EB 2nd & Mount Mazama,45.209101,-123.239202
+205,East 1st Street & South Meridian Street,45.300232,-122.970505
+208,Park n Ride,45.056517,-123.493188
+210,Park n Ride SB,45.057057,-123.493047
+214,Salem - Glen Creek Transit Center,44.951319,-123.048501
+219,SB Norton Ln & Hospital Driveway - The Diner,45.199819,-123.166822
+220,Newberg - WB 99W & Blaine,45.301224,-122.975758
+221,Sherwood - WB Langer Dr (Sherwood Plaza),45.367889,-122.844501
+224,Carlton - NB Pine St & Grant,45.293993,-123.176936
+225,WB 2nd & Cowls,45.209367,-123.196944
+227,Cornelius - EB Baseline St & 4th (TM 303),45.520010,-123.066958
+228,Cornelius - WB Adair St & 4th - Walmart (TM 35),45.521044,-123.067266
+229,Cornelius - WB Baseline St - Fred Meyer (TM 28),45.520295,-123.044492
+230,Cornelius - EB Baseline St - Fred Meyer (TM 267),45.520031,-123.044550
+231,Hillsboro - SE 4th btwn Washington & Main (TC),45.522110,-122.984299
+232,Newberg - WB 99W & Meridian,45.301168,-122.970940
+234,Newberg - EB 99W & School,45.300195,-122.974080
+235,Sherwood - EB 99W & Sunset,45.352895,-122.867643
+236,Sherwood - WB 99W & Sunset,45.352921,-122.868363
+237,Forest Grove - EB 19th Way - Safeway (TM 7048),45.518470,-123.094510
+238,Forest Grove - WB Pacific Ave - Safeway (TM 4309),45.520280,-123.094550
