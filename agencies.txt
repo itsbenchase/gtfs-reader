@@ -46,6 +46,7 @@ midatl;va-roanoke;Valley Metro (Roanoke);https://github.com/itsbenchase/feeds/ra
 midatl;wmata;WMATA (Washington);https://github.com/itsbenchase/feeds/raw/refs/heads/main/wmata.zip
 west;cherriots;Cherriots (Salem, OR);https://cherriots.rideralerts.com/InfoPoint/gtfs-zip.ashx
 west;wa-community;Community Transit (Everett, WA);https://www.soundtransit.org/GTFS-CT/current.zip
+west;or-corvallis;Corvallis Transit System (Corvallis, OR);https://corvallis.connexionz.net/rtt/public/resource/gtfs.zip
 west;wa-ctran;C-Tran (Vancouver, WA);https://mail.c-tran.com/images/Google/GoogleTransitUpload.zip
 west;wa-everett;Everett Transit (Everett, WA);https://gtfs.sound.obaweb.org/prod/97_gtfs.zip
 west;kcm;King County Metro (Seattle);http://metro.kingcounty.gov/GTFS/google_transit.zip
