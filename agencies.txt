@@ -89,6 +89,7 @@ south;nc-cats;CATS (Charlotte);https://gtfsrealtime.ridetransit.org/GTFSStatic/G
 south;tx-dart;DART (Dallas);http://www.dart.org/transitdata/latest/google_transit.zip
 south;okc;Embark (Oklahoma City);https://mna.mecatran.com/utw/ws/gtfsfeed/static/okc?apiKey=6a3b186a334d1e3e064f42782f6002520e60394c
 south;fl-hart;HART (Tampa);http://www.gohart.org/google/google_transit.zip
+south;jta;JTA (Jacksonville);https://ride.jtafla.com/gtfs-archive/gtfs.zip
 south;lextran;Lextran (Lexington);https://mystop.lextran.com/InfoPoint/gtfs-zip.ashx
 south;marta;MARTA (Atlanta);https://itsmarta.com/google_transit_feed/google_transit.zip
 south;miami-dade;Miami-Dade Transit (Miami);https://www.miamidade.gov/transit/googletransit/current/google_transit.zip

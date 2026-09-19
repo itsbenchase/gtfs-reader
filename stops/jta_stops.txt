@@ -1,0 +1,2501 @@
+1,Maine St + Patrol Rd,30.398845,-81.412629
+2,Maine St + Lamp Ave,30.390350,-81.415001
+3,4200 Ocean St,30.387394,-81.433738
+4,4200 Ocean St,30.387732,-81.433586
+5,Ocean St + Pearl St,30.391881,-81.431523
+7,Ocean St + Palmer St,30.394198,-81.430067
+9,Massey Ave + Bryce Canyon Rd,30.387848,-81.409790
+11,Baltimore St + Massey Ave,30.389345,-81.398941
+12,Bailey Ave + Supply St,30.390554,-81.405640
+13,Mayport Rd + Wonderwood Dr,30.372032,-81.410348
+14,2965 Mayport Rd,30.371783,-81.410331
+15,2873 Mayport Rd,30.368731,-81.410820
+16,Mayport Rd + Pioneer Dr,30.367542,-81.411268
+17,Mayport Rd + Pioneer Dr,30.367308,-81.411163
+19,2701 Mayport Rd,30.364031,-81.411751
+20,2746 Mayport Rd,30.364595,-81.411911
+21,2746 Mayport Rd,30.360161,-81.418182
+22,2667 Mayport Rd,30.361450,-81.412277
+23,Old Mayport Rd + Mazama Rd,30.361900,-81.412369
+24,Mayport Rd + Quad Ct,30.359940,-81.412781
+25,Mayport Rd + Americas Cup Dr,30.359634,-81.412705
+26,Mayport Rd + Mayport Crossing Blvd,30.357229,-81.413292
+27,Mayport Rd + Mayport Crossing Blvd,30.357080,-81.413139
+28,2610 Mayport Rd,30.358290,-81.416092
+29,2553 Mayport Rd,30.358051,-81.415443
+30,2525 Mayport Rd,30.356974,-81.414116
+31,Mayport Rd + Schooners Bay Dr,30.359720,-81.417839
+32,Mayport Rd + Shangri-La Dr,30.361259,-81.419762
+33,2787 Mayport Rd,30.363430,-81.422203
+34,2812 Mayport Rd,30.364000,-81.423172
+35,2879 Mayport Rd,30.365072,-81.424255
+36,Wonderwood Dr + Mayport Rd,30.365942,-81.425941
+37,Wonderwood Dr + Bayshore Dr,30.366066,-81.424454
+38,Wonderwood Dr + Bayshore Dr,30.366461,-81.423767
+39,Wonderwood Dr + Regas Dr,30.366831,-81.420959
+40,Wonderwood Dr + Regas Dr,30.367685,-81.417648
+41,Wonderwood Dr + Apollo Dr,30.369490,-81.413261
+42,Wonderwood Dr + Apollo Dr,30.369869,-81.413063
+43,A1A + Wonderwood Dr,30.366967,-81.426824
+44,Mayport Rd + Assisi Ln,30.353840,-81.413818
+45,Mayport Rd & Pan Am Plaza,30.350554,-81.413716
+46,Mayport Rd & Pan Am Plaza,30.350629,-81.413484
+47,Mayport Rd + Fairway Villas Dr,30.346331,-81.413322
+48,Mayport Rd + Fairway Villas Dr,30.347000,-81.413582
+49,2122 Mayport Rd,30.344151,-81.413483
+50,Mayport Rd + Church Rd,30.340771,-81.413330
+52,Mayport Rd + Stanley Rd,30.337240,-81.413971
+53,Mayport Rd + Levy Rd,30.335543,-81.414895
+54,Mayport Rd + Donner Rd,30.335159,-81.414871
+57,Mayport Rd + Saratoga Cir,30.328480,-81.417687
+59,Atlantic Blvd + Mayport Rd,30.324181,-81.418968
+60,Atlantic Blvd + Mayport Rd,30.324520,-81.418556
+61,1082 Atlantic Blvd,30.324261,-81.416611
+62,1087 Atlantic Blvd,30.324520,-81.416420
+63,Atlantic Blvd + Penman Rd,30.324369,-81.409248
+64,Beach Blvd + Penman Rd,30.288028,-81.405021
+65,Beach Blvd + Penman Rd,30.288255,-81.406252
+84,South Beach Regional 4,30.257469,-81.389328
+85,South Beach Mall 2,30.255400,-81.391319
+86,S 3rd St + S 35th Ave,30.261450,-81.386940
+87,S 3rd St + S 35th Ave,30.262011,-81.387260
+88,S 3rd St + S 33rd Ave,30.263323,-81.387589
+89,S 3rd St + S 33rd Ave,30.263660,-81.388031
+90,S 3rd St + Osceola St,30.267969,-81.388619
+91,S 3rd St + S 22nd Ave,30.267238,-81.388386
+92,S 3rd St + S 19th Ave,30.270630,-81.388687
+93,S 3rd St + S 19th Ave,30.270920,-81.388474
+94,S 3rd St + S 16th Ave,30.272350,-81.388687
+95,S 3rd St + S 14th Ave,30.275049,-81.389000
+96,S 3rd St + S 13th Ave,30.276239,-81.389450
+97,S 3rd St + S 11th Ave,30.277750,-81.389542
+98,S 3rd St + S 11th Ave,30.278120,-81.389847
+99,S 3rd St + S 9th Ave,30.279619,-81.389893
+100,S 3rd St + S 9th Ave,30.279480,-81.390122
+101,S 3rd St + S 7th Ave,30.281780,-81.390579
+102,S 3rd St + S 5th Ave,30.283350,-81.390671
+103,S 3rd St + S 4th Ave,30.284559,-81.391128
+104,S 3rd St + S 3rd Ave,30.285170,-81.391029
+105,S 3rd St + S 2nd Ave,30.286390,-81.391563
+106,S 3rd St + S 1st Ave,30.287074,-81.391437
+109,N 3rd St + N 1st Ave,30.289866,-81.391937
+110,N 3rd St + N 2nd Ave,30.291080,-81.392448
+111,N 3rd St + N 4th Ave,30.292660,-81.392479
+112,N 3rd St + N 4th Ave,30.292938,-81.392937
+113,N 3rd St + N 6th Ave,30.294491,-81.392921
+114,N 3rd St + N 6th Ave,30.294853,-81.393265
+115,N 3rd St + N 9th Ave,30.297291,-81.393517
+116,N 3rd St + N 9th Ave,30.297609,-81.393768
+118,N 3rd St + N 11th Ave,30.299480,-81.394150
+119,N 3rd St + N 13th Ave,30.301081,-81.394272
+120,N 3rd St + N 13th Ave,30.301331,-81.394539
+121,N 3rd St + N 15th Ave,30.302870,-81.394630
+122,N 3rd St + N 16th Ave,30.303810,-81.394813
+123,N 3rd St + N 16th Ave,30.304190,-81.395119
+124,N 3rd St + N 18th Ave,30.305700,-81.395210
+125,N 3rd St + N 20th Ave,30.307529,-81.395531
+126,3rd St + 18th Ave,30.306040,-81.395477
+127,3rd St + Seagate Ave,30.308010,-81.395866
+128,3rd St + Myra St,30.310039,-81.396301
+129,3rd St + Davis St,30.312309,-81.396622
+130,N 3rd St + Myra St,30.309690,-81.396050
+131,N 3rd St + Davis St,30.312370,-81.396431
+132,N 3rd St + Florida St,30.314150,-81.396690
+133,N 3rd St + Bay St,30.316500,-81.397018
+134,3rd St + Bay St,30.316811,-81.397263
+135,3rd St + Florida Blvd,30.314630,-81.396950
+136,3rd St + Cedar St,30.319010,-81.397331
+137,3rd St + Cedar St,30.319330,-81.397614
+138,3rd St + Orange St,30.322451,-81.397819
+139,3rd St + Walnut St,30.320749,-81.397568
+140,3rd St + Walnut St,30.321060,-81.397850
+141,3rd St + Lemon St,30.323601,-81.398209
+142,Atlantic Blvd + 3rd St,30.324528,-81.400037
+143,Atlantic Blvd + Seminole Rd,30.324390,-81.406181
+144,Atlantic Blvd + Royal Palms Dr,30.324584,-81.408924
+145,14351 Wonderwood Dr,30.358480,-81.464165
+146,14360 Wonderwood Dr,30.358034,-81.463234
+147,Mt Pleasant Rd + Gately Rd,30.358570,-81.472733
+148,Mt Pleasant Rd + Pleasant Point Ln,30.358860,-81.472343
+149,McCormick Rd + Long Leaf Pine Wy,30.358959,-81.479622
+150,McCormick Rd + McCormick Woods Dr,30.359289,-81.481613
+151,McCormick Rd + Kernan Blvd,30.359749,-81.489739
+152,McCormick Rd + Kernan Blvd,30.359390,-81.488724
+153,12195 McCormick Rd,30.360052,-81.494659
+154,12230 McCormick Rd,30.359619,-81.493736
+155,McCormick Rd + Monument Rd,30.360285,-81.499855
+156,12034 McCormick Rd,30.359900,-81.498863
+157,11717 McCormick Rd,30.360060,-81.507896
+158,2489 Monument Rd,30.358540,-81.502998
+159,1937 Monument Rd,30.353680,-81.507874
+160,McCormick Rd + Links Terr,30.360460,-81.505707
+161,Monument Rd + Derringer Rd,30.351940,-81.512199
+162,Monument Rd + Ft Caroline Lakes Ct,30.352940,-81.509582
+163,Monument Rd + Monument Oaks Dr,30.350649,-81.515877
+164,Monument Rd Park-n-Ride Lot,30.349390,-81.519096
+165,McCormick Rd + Deeringer Cir,30.358534,-81.513054
+166,Monument Rd + St Johns Bluff Rd   ns,30.346853,-81.525950
+167,Monument Rd + St Johns Bluff Rd  fs,30.347150,-81.525940
+168,Monument Rd + Classic Oak Rd,30.344078,-81.534074
+169,Monument Rd + Lee Rd,30.343016,-81.537193
+170,Monument Rd + Lee Rd,30.342996,-81.536270
+171,Monument Rd + Brookwood Forest Blvd,30.343611,-81.534439
+172,Atlantic Blvd + Cocoanut Rd,30.321409,-81.447151
+173,Atlantic Blvd + San Pablo Rd,30.320789,-81.449806
+174,13475 Atlantic Blvd,30.321711,-81.447243
+175,Atlantic Blvd + Hodges Blvd,30.320160,-81.457932
+176,Atlantic Blvd + Joeandy Rd,30.320370,-81.459633
+177,Atlantic Blvd + Deer Run Trail,30.318403,-81.472015
+178,Atlantic Blvd + The Woods Dr,30.319849,-81.466461
+179,Atlantic Blvd + The Woods Dr,30.319509,-81.466744
+180,Atlantic Blvd + Girvin Rd,30.318100,-81.474022
+181,Atlantic Blvd + Kensington Gardens Blvd,30.318090,-81.481102
+182,Altantic Blvd + Hickory Creek Blvd,30.318520,-81.481934
+183,12338 Atlantic Blvd,30.318590,-81.485161
+184,Atlantic Blvd + Kernan Blvd,30.319080,-81.488632
+185,Atlantic Blvd + Kernan Blvd,30.320158,-81.490543
+186,Atlantic Blvd + Withrow Dr,30.321461,-81.496544
+187,Atlantic Blvd + Withrow Dr,30.321320,-81.497307
+188,Atlantic Blvd + Sutton Lakes Blvd,30.324160,-81.507149
+189,Atlantic Blvd + Sutton Lakes Blvd,30.323980,-81.508003
+190,11110 Atlantic Blvd,30.324421,-81.512306
+191,11145 Atlantic Blvd,30.324680,-81.511818
+192,Atlantic Blvd + Sandalwood Blvd,30.324501,-81.516960
+193,Atlantic Blvd + Mindanao Dr,30.324770,-81.518722
+194,Atlantic Blvd + St Johns Bluff Rd,30.324369,-81.525368
+195,Atlantic Blvd + St Johns Bluff Rd,30.324450,-81.521919
+197,St Johns Bluff Rd + Theresa Dr,30.321810,-81.523323
+198,St Johns Bluff Rd + Bahia Dr,30.321510,-81.523041
+204,Beach Blvd + San Pablo Rd,30.287778,-81.436776
+205,Beach Blvd + San Pablo Rd,30.288010,-81.439543
+207,13924 Beach Blvd,30.287656,-81.450017
+209,Beach Blvd + Suni Pines Blvd,30.287891,-81.449622
+211,Beach Blvd + Hodges Blvd,30.287502,-81.456665
+214,Beach Blvd + Hodges Blvd,30.287520,-81.460920
+215,Beach Blvd + Hodges Blvd,30.287765,-81.461039
+218,Beach Blvd + Kernan Blvd,30.287496,-81.484822
+219,Beach Blvd + Kernan Blvd,30.287235,-81.487378
+220,3410 Kernan Blvd,30.284077,-81.489922
+221,3601 Kernan Blvd,30.280369,-81.492004
+222,Kernan Blvd + The District at Kernan,30.281088,-81.492119
+223,Kernan Blvd + Gehrig Dr,30.276880,-81.493626
+224,Kernan Blvd + Ash Harbor Dr,30.274433,-81.494412
+225,Kernan Blvd + Mantle Dr,30.274224,-81.494784
+226,Kernan Blvd + Apple Leaf Dr,30.272709,-81.494599
+227,Kernan Blvd + Blue Stream Dr,30.268808,-81.495333
+228,Kernan Blvd + Blue Stream Dr,30.269137,-81.494964
+229,Kernan Blvd + First Coast Tech Pkwy,30.265113,-81.495393
+230,Kernan Blvd + First Coast Technology Pk,30.264604,-81.495761
+231,Alumni Dr + Kernan Blvd,30.261524,-81.502068
+233,Alumni Dr + UNF Dr,30.262590,-81.503398
+234,UNF Dr + Alumni Dr,30.265335,-81.504569
+235,1 UNF Dr,30.272949,-81.509285
+236,University of North Florida Campus,30.268910,-81.509909
+238,12387 Beach Blvd,30.287409,-81.491773
+239,Beach Blvd + Sans Pareil St,30.287371,-81.495516
+240,Beach Blvd + Pemberton Rd,30.287071,-81.496017
+241,12000 Beach Blvd,30.287050,-81.501533
+242,Beach Blvd + Meadowbrook Blvd,30.287304,-81.501679
+243,Beach Blvd + Central Pkwy,30.287020,-81.509613
+246,Beach Blvd + Beachwood Ct,30.286890,-81.516701
+247,Beach Blvd + Beachwood Blvd,30.287165,-81.516019
+248,Beach Blvd + I-295,30.287125,-81.518528
+249,2465 St Johns Bluff Rd,30.310680,-81.525230
+250,St Johns Bluff Rd + Alden Rd,30.304211,-81.525833
+251,St Johns Bluff Rd + Fraser Rd,30.304649,-81.526093
+252,St Johns Bluff Rd + Lost Pine Dr,30.308969,-81.525810
+253,St Johns Bluff Rd + Bradley Rd,30.313080,-81.525429
+254,Atlantic Blvd + Brookview Dr,30.323814,-81.529973
+255,Atlantic Blvd + Brookview Dr,30.323708,-81.530303
+256,Atlantic Blvd + Cortez Rd,30.323379,-81.533519
+257,Atlantic Blvd + Jackson Rd,30.323547,-81.532464
+258,Atlantic Blvd + Lee Rd,30.323216,-81.535573
+259,Atlantic Blvd + Debutante Dr,30.323107,-81.536048
+260,Atlantic Blvd + Leon Rd,30.322991,-81.537750
+261,Atlantic Blvd + Leon Rd,30.322862,-81.538306
+262,Atlantic Blvd + Anniston Rd,30.322524,-81.542169
+263,Atlantic Blvd + Library Rd,30.322345,-81.544066
+264,9848 Atlantic Blvd,30.322280,-81.543937
+265,Atlantic Blvd + Monument Rd,30.322100,-81.546593
+266,Atlantic Blvd + Live Oak Dr,30.321810,-81.547157
+267,Regency Square Hub,30.321835,-81.552473
+268,9439 Atlantic Blvd,30.319771,-81.553284
+269,Swelo Rd + Arlington Expwy,30.319757,-81.558491
+270,Walmart on Monument,30.341215,-81.547103
+271,Monument Rd + Tredinick Pkwy,30.337681,-81.545036
+272,856 Monument Rd,30.337130,-81.545708
+273,989 Monument Rd,30.335982,-81.546075
+274,730 Monument Rd,30.334747,-81.546829
+275,544 Monument Rd,30.333877,-81.546741
+277,Monument Rd + Atrium Way,30.331910,-81.546899
+278,Monument Rd + Regency Square Blvd,30.330978,-81.547188
+279,445 Monument Rd,30.329630,-81.546883
+280,Regency Square Blvd + Commerce Ctr,30.329109,-81.547050
+281,355 Monument Rd,30.327622,-81.546894
+282,Monument Rd + Regency Square Blvd,30.326611,-81.547043
+283,237 Monument Rd,30.325190,-81.546815
+284,Regency Square Blvd + Home Depot,30.327710,-81.548869
+285,Southside Blvd + Kendall Towne,30.343740,-81.551948
+286,9520 Regency Square Blvd,30.328742,-81.548886
+287,9550 Regency Square Blvd,30.326216,-81.550201
+288,9501 Arlington Expwy,30.323231,-81.558342
+289,9501 Arlington Expwy,30.323509,-81.558662
+290,Beach Blvd + Southside Blvd,30.286441,-81.555296
+291,Beach Blvd + Southside Blvd,30.286688,-81.555437
+292,Beach Blvd + Peach Dr,30.286520,-81.548798
+293,Beach Blvd + Peach Dr,30.286800,-81.547897
+294,Beach Blvd + Forest Blvd,30.286579,-81.544502
+295,Beach Blvd + Forest Blvd,30.286831,-81.543899
+296,Beach Blvd + Anniston Rd,30.286650,-81.539497
+297,Beach Blvd + Anniston Rd,30.286900,-81.538696
+298,Beach Blvd + Leon Rd,30.286921,-81.536003
+299,10900 Beach Blvd,30.286680,-81.536003
+300,Beach Blvd + Country Side,30.286699,-81.533798
+301,Beach Blvd + Desalvo Rd,30.286961,-81.532204
+302,Beach Blvd + St Johns Bluff Rd,30.286998,-81.528516
+303,Beach Blvd + Cortez Rd,30.286739,-81.529419
+304,Southside Blvd + Cargal St,30.280758,-81.559395
+305,Eve Dr + Anders Blvd,30.277983,-81.557533
+306,Anders Blvd + Eve Dr,30.278021,-81.555038
+307,Anders Blvd + Eve Dr,30.277910,-81.555328
+308,Anders Blvd + Peach Dr,30.278080,-81.550926
+309,Anders Blvd + Peach Dr,30.277981,-81.551590
+310,Anders Blvd + Packard Dr,30.278141,-81.544746
+311,Anders Blvd + Forest Blvd,30.278019,-81.543365
+312,Town Center Pkwy + Brightman Blvd,30.265030,-81.528030
+313,Town Center Pkwy + Brightman Blvd,30.264450,-81.527988
+314,4624 Town Crossing Dr,30.259745,-81.527230
+315,Town Crossing Dr + Buckhead Branch Dr,30.254636,-81.527160
+316,Gate Pkwy + Skinner Lake Dr,30.252840,-81.536179
+317,10151 Gate Pkwy,30.256453,-81.537843
+318,10190 Gate Pkwy,30.256714,-81.538957
+319,10000 Gate Pkwy,30.257097,-81.540891
+320,9877 Gate Pkwy,30.257783,-81.543475
+321,Gate Pkwy + Deerwood Campus Pkwy,30.258124,-81.544894
+322,Gate Pkwy + Deer Lake Dr,30.258779,-81.545380
+323,Gate Pkwy + Deer Lake Dr,30.259600,-81.546822
+324,Gate Pkwy + Touchton Rd,30.261301,-81.548668
+325,Gate Pkwy + Deer Lake Dr,30.261498,-81.550120
+326,Gate Pkwy + Deer Lake Dr,30.261359,-81.553062
+327,Gate Pkwy + Deer Lake Dr,30.261396,-81.552139
+328,Tinseltown,30.262950,-81.554127
+329,Tinseltown,30.262948,-81.554202
+330,Deer Lake Dr + Deer Lake Ct,30.265139,-81.555499
+331,9751 Deer Lake Ct,30.266185,-81.554902
+332,Deer Lake Ct + Touchton Rd,30.266968,-81.554689
+333,Touchton Rd + Deer Lake Ct,30.268249,-81.554848
+334,Touchton Rd + Southside Blvd,30.269014,-81.555855
+335,Touchton Rd + Southside Blvd,30.269415,-81.557742
+336,Gate Pkwy + Deerwood Park Blvd,30.248280,-81.536057
+337,10551 Deerwood Park Blvd,30.247463,-81.540139
+338,10551 Deerwood Park Blvd,30.247770,-81.538984
+339,Deerwood Park Blvd + Southside Blvd,30.240271,-81.550468
+340,Deerwood Park Blvd + Southside Blvd,30.240419,-81.549141
+341,651 Commerce Center Dr + Ross Regency,30.334883,-81.550941
+342,651 Commerce Center Dr + Ross Regency,30.334927,-81.551041
+343,438 Commerce Center Dr + Cracker Barrel,30.332849,-81.551071
+344,438 Commerce Center Dr + Cracker Barrel,30.332365,-81.551186
+345,860 Commerce Center Dr + Bealls Regency,30.336693,-81.550358
+346,860 Commerce Center Dr Bealls Regency,30.336780,-81.549980
+347,Hogan Rd + Southside Blvd,30.274191,-81.558388
+348,7524 Southside Service Rd,30.237860,-81.552307
+349,Southside Blvd + Southbrook Dr,30.236298,-81.552332
+350,7632 Southside Blvd,30.235090,-81.552322
+351,7716 Southside Blvd,30.231739,-81.552437
+352,Southside Blvd + Fawn Ridge Dr,30.228889,-81.552425
+353,7932 Southside Blvd,30.226339,-81.552300
+354,7932 Southside Blvd,30.226706,-81.552403
+355,8024 Southside Blvd,30.224333,-81.552319
+356,8024 Southside Blvd,30.224569,-81.552353
+357,8082 Southside Blvd,30.222590,-81.552322
+358,Southside Blvd + Baymeadows Rd,30.219910,-81.552361
+359,9341 Atlantic Blvd,30.318029,-81.556343
+360,Ft Caroline Rd + Crimson Oaks Dr,30.366643,-81.578731
+361,Townsend Blvd + Colony Cove Ln,30.364968,-81.577019
+362,Townsend Blvd + Ft Caroline Hills Dr,30.364790,-81.577118
+363,3450 Townsend Blvd,30.363060,-81.577179
+364,3433 Townsend Blvd,30.362730,-81.577080
+366,Townsend Blvd + US Open Blvd,30.361231,-81.577177
+367,Townsend Blvd + Green Arbor Pl,30.358610,-81.577599
+368,Townsend Blvd + White Birch Dr,30.358532,-81.577525
+369,Townsend Blvd + Greenfern Ln,30.356590,-81.578178
+370,Townsend Blvd + Floral Ridge Dr,30.355991,-81.578072
+371,Townsend Blvd + Sandhurst Rd,30.353569,-81.578171
+372,Sandhurst Rd + Townsend Blvd,30.353519,-81.577743
+373,Provident Dr + Sandhurst Rd,30.353411,-81.575859
+374,Merrill Rd + Hartsfield Rd,30.352421,-81.561447
+375,Merrill Rd + Hartsfield Rd,30.352280,-81.560989
+376,8059 Merrill Rd,30.352480,-81.558441
+377,Merrill Rd + Sunrise Ridge Ln,30.352301,-81.558021
+379,8059 Merrill Rd,30.352240,-81.563187
+380,Merrill Rd + Wedgefield Blvd,30.352119,-81.569076
+381,Merrill Rd + Kingstree Dr,30.352072,-81.570992
+382,Merrill Rd + Wycombe Dr,30.352209,-81.571121
+383,7440 Merrill Rd,30.352070,-81.572197
+384,Merrill Rd + Lansdowne Dr,30.352148,-81.573608
+385,Merrill Rd + Lansdowne Dr,30.352020,-81.574013
+386,Merrill Rd + Provident Rd,30.352125,-81.575623
+387,2710 Townsend Blvd,30.350651,-81.577599
+388,Townsend Blvd + Mayapple Rd,30.348192,-81.577599
+389,Townsend Blvd + Mayapple Rd,30.347909,-81.577453
+390,Townsend Blvd + Arble Dr,30.345060,-81.577431
+391,Townsend Blvd + Marble Dr,30.344450,-81.577454
+392,Townsend Blvd + Afton Ln,30.342208,-81.577435
+393,Townsend Blvd + Parker School Rd,30.342039,-81.577370
+394,Townsend Blvd + Woodleigh Dr,30.340147,-81.576157
+395,Townsend Blvd + Woodleigh Dr,30.340099,-81.575974
+396,Townsend Blvd + Lone Star Rd,30.338030,-81.574318
+397,Townsend Blvd + Lone Star Rd,30.337440,-81.573982
+398,Townsend Blvd + Timber Ln,30.336050,-81.574142
+399,Townsend Blvd + Timber Ln,30.335791,-81.574112
+400,Townsend Blvd + Alderman Rd,30.332640,-81.574150
+401,Townsend Blvd + Alderman Rd,30.332331,-81.574097
+402,Townsend Blvd + Carlotta Rd,30.330099,-81.572838
+403,Townsend Blvd + Carlotta Rd,30.329830,-81.572708
+404,Townsend Blvd + Arlington Expwy,30.328739,-81.572968
+405,Townsend Blvd + Arlington Expwy,30.328199,-81.572807
+407,Ft Caroline Rd + Cherokee Villa Ln,30.366600,-81.583214
+408,Ft Caroline Rd + Haslett Dr,30.366483,-81.586790
+409,Ft Caroline Rd + Hoover Ln,30.366430,-81.585258
+410,Ft Caroline Rd + Rogero Rd,30.366390,-81.588150
+411,Ft Caroline Rd + Heath Rd,30.366489,-81.590080
+412,Ft Caroline Rd + Heath Rd,30.366314,-81.590129
+413,6190 Ft Caroline Rd,30.366301,-81.594412
+414,6205 Ft Caroline Rd,30.366361,-81.594581
+415,Ft Caroline Rd + University Club Blvd,30.366335,-81.596527
+416,University Club Blvd + Ft Caroline Rd,30.366892,-81.596758
+417,University Club Blvd + University Club Ap,30.368988,-81.596799
+418,University Club Blvd + Round Lake,30.372377,-81.596970
+419,University Club Blvd + Jimtom Dr,30.374483,-81.597038
+420,University Club Blvd + Green Willow L,30.375576,-81.597877
+421,Univeristy Club Blvd + Briarforest Rd,30.376890,-81.599579
+422,University Club Blvd + Piney Creek Ln,30.377657,-81.602791
+423,University Club Blvd + Wilcrest Cir,30.377409,-81.605888
+424,University Blvd + Meek Dr,30.374806,-81.607056
+425,University Blvd + Edmar Rd,30.372408,-81.607613
+427,University Blvd + Maxine Dr,30.369072,-81.608299
+428,University Blvd + Selton Ave,30.367220,-81.607964
+429,5959 Ft Caroline Rd,30.365934,-81.598592
+430,Ft Caroline Rd + Peeler Rd,30.365861,-81.598556
+431,Ft Caroline Rd + Cesery Blvd,30.365240,-81.601227
+432,Ft Caroline Rd + Cesery Dr,30.365442,-81.600822
+433,Ft Caroline Rd + University Blvd,30.364398,-81.605132
+434,University Blvd + Alumni Dr,30.358740,-81.604973
+435,3291 University Blvd + Alumni Dr,30.358734,-81.605156
+436,Holly Bell Dr + Justina Ter,30.356943,-81.603500
+437,Holly Bell Dr + Justina Ter,30.356770,-81.603371
+438,Holly Bell Dr + Tall Pine Ln,30.356830,-81.601861
+439,Holly Bell Dr + Tall Pine Ln,30.357029,-81.601433
+440,3000 Justina Rd,30.355200,-81.599793
+441,Justina Rd + Tall Pine Ln,30.353958,-81.599487
+442,Merrill Rd + Yellow Pine Dr,30.351740,-81.600227
+443,Merrill Rd + Yellow Pine Dr,30.351606,-81.600326
+444,University Blvd + Merrill Rd,30.350508,-81.602532
+445,University Blvd + Merill Rd,30.350769,-81.602760
+446,2511 University Blvd,30.348289,-81.602882
+447,University Blvd + Liddell Ln,30.347394,-81.602702
+448,University Blvd + Burdette Rd,30.345209,-81.602814
+449,University Blvd + Lake Lucina Dr,30.344521,-81.602623
+450,University Blvd + Dickson Rd,30.341768,-81.602737
+451,University Blvd + Dickson Rd,30.341450,-81.602562
+452,University Blvd + Gable Ln,30.338791,-81.602654
+453,University Blvd + Wiltshire St,30.338826,-81.602486
+454,University Blvd + Macy Ave,30.335600,-81.602757
+455,University Blvd + Macy Ave,30.335779,-81.602631
+456,University Blvd + Arlington Rd,30.333920,-81.602951
+457,University Blvd + Arlington Rd,30.332920,-81.602966
+458,University Blvd + Los Santos Way,30.329502,-81.603735
+459,University Blvd + Los Santos Way,30.329620,-81.603592
+460,Arlington Expwy Service Rd + Cesery Blvd,30.327618,-81.600419
+461,Cesery Blvd + Egret Point Ln,30.325220,-81.597038
+462,Cesery Blvd + Egret Point Ln,30.325140,-81.596847
+463,Arlington Expwy + Arlington River Dr,30.327103,-81.599579
+464,Arlington Expwy Service Rd + Cesery Blvd,30.327160,-81.597267
+465,Arlington Expwy Service Rd + Cesery Blvd,30.327649,-81.596807
+466,Arlington Expwy + Seabrook Cove Rd,30.327190,-81.594978
+467,Arlington Expwy + Seabrook Pkwy,30.327219,-81.592583
+468,Arlington Expwy + Underhill Dr,30.327713,-81.591321
+469,Arlington Expwy + Larkin Rd,30.327230,-81.586083
+470,Arlington Expwy + Rogero Rd,30.327711,-81.588887
+471,Arlington Expwy Service Rd + Arlington Rd,30.327211,-81.588762
+472,Arlington Expwy Service Rd + Arlington Rd,30.327764,-81.585946
+473,6845 Arlington Expwy,30.327770,-81.586822
+474,Arlington Expwy Service Rd + Arlington Rd,30.327820,-81.584198
+475,Arlington Expwy Service Rd + Bert Rd,30.327696,-81.584137
+476,Arlington Expwy + Arlington Rd,30.327323,-81.583625
+477,7207 Arlington Expwy,30.327285,-81.583744
+478,7528 Arlington Expwy,30.327346,-81.580795
+479,7528 Arlington Expwy,30.327288,-81.580845
+480,7505 Arlington Expwy,30.327808,-81.579709
+481,7505 Arlington Expwy,30.327789,-81.579773
+482,7600 Arlington Expwy,30.327375,-81.577245
+483,7600 Arlington Expwy,30.327339,-81.577148
+485,Arlington Expwy + Alderman Rd,30.327819,-81.578484
+486,Arlington Expwy + Alderman Rd,30.327772,-81.578278
+487,Arlington Expwy + Alderman Ap,30.327853,-81.576640
+488,7471 Arlington Expwy,30.327801,-81.576523
+489,7960 Arlington Expwy,30.327431,-81.573837
+490,7960 Arlington Expwy,30.327330,-81.574097
+491,8060 Arlington Expwy,30.327021,-81.570122
+492,8124 Arlington Expwy,30.326620,-81.568932
+493,S Arlington Expwy + Century St,30.325840,-81.566116
+494,Arlington Expwy + Century St,30.325606,-81.565720
+495,8560 Arlington Expwy,30.324152,-81.562538
+496,Mill Creek Rd + Jasper Ave,30.322743,-81.560600
+497,Mill Creek Rd + Galveston Ave,30.320034,-81.560257
+498,Atlantic Blvd + Mill Creek Rd,30.316040,-81.559868
+499,Atlantic Blvd + Corporate Square Blvd,30.314565,-81.562261
+500,Atlantic Blvd + Caravan Trl,30.314239,-81.563850
+501,Atlantic Blvd + Lamson St,30.314379,-81.563835
+502,8712 Atlantic Blvd,30.314158,-81.565674
+503,8623 Atlantic Blvd,30.314180,-81.566528
+504,Atlantic Blvd + Bowlan St,30.314051,-81.568840
+505,Bowlan St + Berry Ave,30.315611,-81.569038
+506,Bowlan St + Berry Ave,30.315895,-81.569260
+507,Bowlan St + Free Ave,30.318546,-81.569229
+508,Bowlan St + Free Ave,30.318853,-81.569481
+509,Bowlan St + Hare Ave,30.320231,-81.569382
+510,Bowlan St + Hare Ave,30.320568,-81.569702
+511,Kona Ave + Bowlan St,30.322790,-81.569977
+512,Kona Ave + Acme St,30.322750,-81.573036
+513,Acme St + India Ave,30.321150,-81.573082
+514,Acme St + Hare Ave,30.320002,-81.572739
+515,Acme St + Free Ave,30.318291,-81.572563
+516,Acme St + Free Ave,30.318695,-81.572929
+517,Acme St + Alton Ave,30.314528,-81.572296
+518,Acme St + Atlantic Blvd,30.313971,-81.572472
+520,Acme St + Dandy Ave,30.317131,-81.572761
+521,Acme St + Dandy Ave,30.316858,-81.572517
+522,Atlantic Blvd + Pecan St,30.313669,-81.575539
+523,7714 Atlantic Blvd,30.313471,-81.576302
+524,Atlantic Blvd + Arlington Rd,30.313459,-81.578842
+525,Atlantic Blvd + Arlington Rd,30.313290,-81.579277
+526,Atlantic Blvd + Hay Ave,30.313160,-81.582840
+527,Atlantic Blvd + Nitram St,30.313271,-81.582077
+528,Atlantic Blvd + Johnston Ave,30.313080,-81.585190
+529,Atlantic Blvd + Agnue Ave,30.312929,-81.586113
+530,Atlantic Blvd + Prado Ave,30.312807,-81.590172
+531,Atlantic Blvd + Laurina St,30.312703,-81.590179
+532,6409 Atlantic Blvd,30.312621,-81.593011
+533,Atlantic Blvd + Glynlea Rd,30.312581,-81.592200
+534,Atlantic Blvd + River Hills Cir,30.313354,-81.596634
+535,Atlantic Blvd + River Hills Dr,30.313331,-81.596993
+536,Atlantic Blvd + University Blvd,30.313980,-81.599136
+537,Atlantic Blvd + University Blvd,30.313874,-81.599584
+538,University Blvd + S Robbins Cir,30.315109,-81.599136
+539,University Blvd + Allen Pl,30.316820,-81.599098
+540,University Blvd + N Robbins Cir,30.318199,-81.598778
+541,University Blvd + Saxony Woods Ln,30.318710,-81.598877
+542,University Blvd + Atlantic Blvd,30.313391,-81.599564
+543,University Blvd + Atlantic Blvd,30.313419,-81.599358
+544,University Blvd + St Cecilia Rd,30.309300,-81.600143
+545,University Blvd + Hinely Ln,30.308769,-81.600037
+546,University Blvd + Kellow Rd,30.303471,-81.600807
+547,University Blvd + Bartam Rd,30.300730,-81.601356
+548,University Blvd + Bartam Rd,30.300171,-81.601257
+549,University Blvd + Beach Blvd  ns,30.294761,-81.601914
+550,University Blvd + Coronet Ln,30.294371,-81.601700
+551,Beach Blvd. & Southside Blvd.,30.286544,-81.561233
+552,8840 Beach Blvd,30.286909,-81.565034
+554,Beach Blvd + Killarney Dr,30.287193,-81.567841
+556,Beach Blvd + Southside Blvd,30.287164,-81.564782
+559,Beach Blvd + Foster Dr,30.287724,-81.573169
+560,Beach Blvd + Foster Dr,30.288011,-81.573432
+561,Beach Blvd + Parental Home Rd,30.288533,-81.579914
+562,7403 Beach Blvd,30.288761,-81.579462
+563,Beach Blvd + Hogan Rd,30.289499,-81.586037
+564,Beach Blvd + Hogan Rd,30.289422,-81.586290
+565,Beach Blvd + Dean Rd,30.290150,-81.591568
+566,Beach Blvd + Dean Rd,30.290120,-81.592050
+567,Beach Blvd + Ryar Rd,30.290728,-81.595597
+568,Beach Blvd + Ryar Rd,30.290702,-81.595794
+569,Beach Blvd + Hickman Rd,30.291833,-81.599458
+570,Beach Blvd + Hickman Rd,30.291836,-81.599754
+571,University Blvd + Beach Blvd,30.292311,-81.601927
+572,Beach Blvd + University Blvd,30.293272,-81.604065
+573,Beach Blvd + University Blvd,30.292612,-81.602405
+574,5631 Beach Blvd,30.293645,-81.605634
+575,Beach Blvd + FOP Way,30.293782,-81.606371
+576,Beach Blvd + Spring Glen Rd,30.294434,-81.608582
+577,Beach Blvd + Spring Glen Rd,30.294791,-81.609483
+578,Beach Blvd + Art Museum Dr,30.295799,-81.612869
+579,Beach Blvd + Art Museum Dr,30.295891,-81.613502
+580,Atlantic Blvd + Bartram Rd,30.313209,-81.602593
+581,Atlantic Blvd + Bartram Rd,30.312692,-81.603367
+582,Atlantic Blvd + Campbell Ave,30.311993,-81.605652
+583,Atlantic Blvd + St Paul Ave,30.311871,-81.605476
+584,5201 Atlantic Blvd,30.310612,-81.610777
+585,Atlantic Blvd + Brookside Cir,30.310505,-81.610415
+586,Atlantic Blvd + Empire Pt,30.309721,-81.613823
+587,Atlantic Blvd + Empire Pt,30.309327,-81.614427
+588,Atlantic Blvd + Glengarry Rd,30.309098,-81.615894
+590,Atlantic Blvd + Valencia Dr,30.308717,-81.616563
+591,Southside Blvd Servive Rd + Hogan Rd,30.275580,-81.559322
+592,Southside Blvd Service Rd + Hogan Rd,30.275622,-81.559380
+593,Hogan Rd + Ruby Dr,30.274130,-81.558121
+595,Art Museum Dr + Keystone Dr,30.298634,-81.612939
+596,Art Museum Dr + Carmichael Ave,30.304510,-81.617487
+597,Art Museum Dr + Hillcrest Ave,30.301109,-81.613915
+598,9930 Deercreek Club Blvd,30.190124,-81.553008
+599,Avenues Mall,30.187992,-81.555062
+600,10130 Philips Hwy,30.183401,-81.557045
+601,Baymeadows Rd + Southside Blvd,30.218698,-81.552650
+603,9795 Baymeadows Rd,30.219393,-81.556076
+605,9983 Old Baymeadows Rd,30.220776,-81.554235
+606,9770 Old Baymeadows Rd,30.220800,-81.556778
+607,9535 Baymeadows Rd,30.220989,-81.560303
+608,9214 Baymeadows Rd,30.220782,-81.562471
+609,Baymeadows Rd + Baymeadows Cir,30.221048,-81.563904
+610,Baymeadows Rd + Princeton Square Blvd,30.220802,-81.564492
+611,Baymeadows Rd + Western Way,30.221017,-81.567149
+612,9250 Baymeadows Rd,30.220815,-81.566615
+637,Beach Blvd + Gibson Rd,30.297168,-81.616817
+638,4907 Beach Blvd,30.297350,-81.617073
+639,4600 Beach Blvd,30.298258,-81.619185
+640,Beach Blvd. & Carmichael Ave.,30.300280,-81.623170
+641,Beach Blvd + Mayfair Village Rd,30.302451,-81.627960
+642,Beach Blvd + Mayfair Village Rd,30.302347,-81.627912
+643,Beach Blvd + Carmichael Ave,30.300367,-81.623695
+644,Beach Blvd + Camden Ave,30.303949,-81.631287
+645,Beach Blvd + Camden Ave,30.303563,-81.630563
+646,Beach Blvd + Walton St,30.304704,-81.634006
+647,Atlantic Blvd + Spring Park Rd,30.305464,-81.636511
+648,Atlantic Blvd + Traymore Rd,30.306205,-81.638781
+649,Atlantic Blvd + Kingman St,30.307295,-81.641139
+650,Atlantic Blvd + Merrill Ave,30.307448,-81.642674
+651,Atlantic Blvd + South Shore Rd,30.308368,-81.644146
+672,University Blvd + Spring Park Rd,30.270591,-81.610419
+673,University Blvd + Spring Park Rd,30.271141,-81.609775
+674,University Blvd + Barnes Rd,30.273332,-81.607668
+675,University Blvd + Barnes Rd,30.272134,-81.608812
+688,University Blvd + Mt Carmel Terr,30.275523,-81.605144
+689,University Blvd + Mt Carmel Terr,30.275037,-81.605578
+690,University Blvd + Terry Rd,30.277264,-81.603052
+691,University Blvd + Beney Rd,30.277557,-81.602976
+693,University Blvd + Bennett Rd,30.281925,-81.602671
+694,University Blvd + University Center St,30.281915,-81.602782
+695,University Blvd + Harvin Rd,30.285530,-81.602543
+696,University Blvd + Harvin Rd,30.285447,-81.602685
+697,University Blvd + Booth Rd,30.287861,-81.602463
+698,University Blvd + Booth Rd,30.288176,-81.602303
+699,University Blvd + Cruz Rd,30.291321,-81.602158
+701,Philips Hwy + Service St,30.302767,-81.643791
+702,Philips Hwy + Jerusalem St,30.301929,-81.643089
+703,Philips Hwy + Wishart St,30.299616,-81.642044
+704,Philips Hwy + Martin St,30.300558,-81.642250
+705,Philips Hwy + Loman St,30.298469,-81.641419
+706,Philips Hwy + St Augustine Rd,30.298487,-81.641183
+707,Philips Hwy + St Augustine Rd,30.297578,-81.640942
+708,St Augustine Rd + Philips Hwy,30.297329,-81.641960
+709,3350 Philips Hwy,30.294854,-81.639521
+713,3494 Philips Hwy,30.291254,-81.636810
+714,3435 Philips Hwy,30.291327,-81.636553
+715,Philips Hwy + Emerson St,30.288969,-81.634483
+716,Philips Hwy + Emerson St,30.289003,-81.634748
+718,Philips Hwy + Emerson St,30.286858,-81.633152
+720,3871 Philips Hwy,30.285023,-81.631504
+723,Philips Hwy + Emerson St,30.282545,-81.629725
+724,Philips Hwy + Emerson St,30.281362,-81.629280
+725,4281 Philips Hwy,30.279261,-81.627444
+726,4454 Philips Hwy,30.276489,-81.625954
+727,4459 Philips Hwy,30.276667,-81.625618
+728,4600 Philips Hwy,30.275047,-81.624908
+729,4613 Philips Hwy,30.275301,-81.624653
+730,Philips Hwy + Southgate Dr,30.272854,-81.622833
+731,4990 Philips Hwy,30.271995,-81.622772
+732,5001 Philips Hwy,30.271276,-81.621727
+733,5318 Philips Hwy,30.268824,-81.620434
+734,Philips Hwy + University Blvd,30.267270,-81.618992
+737,University Blvd + Richard St,30.267514,-81.615822
+738,University Blvd + Richards St,30.267891,-81.614926
+739,5914 Philips Hwy,30.263187,-81.616412
+740,5935 Philips Hwy,30.262606,-81.615597
+741,6100 Philips Hwy,30.259638,-81.613480
+742,6123 Philips Hwy,30.260016,-81.613428
+745,6390 Philips Hwy,30.255970,-81.610406
+746,Philips Hwy + Bowdendale Ave,30.255480,-81.609611
+747,Philips Hwy + Executive Park Ct,30.250530,-81.605789
+748,Philips Hwy + Executive Park Ct,30.249439,-81.604423
+752,Financial Way + Cypress Plaza Dr,30.240218,-81.593605
+753,Bonneval Rd + Financial Way,30.243340,-81.593842
+754,7115 Bonneval Rd,30.244659,-81.596130
+755,7111 Bonneval Rd,30.244749,-81.595947
+756,Financial Way + Cypress Plz Dr,30.239809,-81.593788
+757,8209 Cypress Plz Dr,30.237805,-81.590648
+758,8068 Cypress Plz Dr,30.238148,-81.591962
+759,Baymeadows Way W + Cypress Plz Dr,30.237267,-81.585480
+760,Baymeadows Way + Baymeadows Way W,30.233927,-81.585442
+761,Cypress Plz Dr + Baymeadows Way,30.237881,-81.586479
+762,Baymeadows Way + Baymeadows Way,30.235081,-81.586121
+763,Baymeadows Way + Baypine Rd,30.226051,-81.579979
+764,Baymeadows Way + Baypine Rd,30.225472,-81.578804
+765,8000 Baymeadows Way,30.224073,-81.577438
+766,8001 Baymeadows Way,30.224016,-81.577042
+767,Baymeadows Way + Baymeadows Rd,30.222761,-81.576675
+769,8866 Baymeadows Rd,30.220730,-81.573898
+770,8320 Baymeadows Way,30.219360,-81.577004
+771,8555 Baymeadows Way,30.219293,-81.577137
+772,8493 Baymeadows Way,30.218084,-81.578206
+773,8400 Baymeadows Way,30.218024,-81.578666
+774,Baymeadows Way Rd + Philips Hwy,30.217730,-81.581810
+775,Baymeadows Way Rd + Philips Hwy,30.217209,-81.581940
+778,Philips Hwy + Baymeadows Rd,30.219746,-81.585380
+779,8384 Philips Hwy,30.218039,-81.584000
+781,Baymeadows Rd + Philips Hwy,30.220656,-81.586090
+782,Philips Hwy + Baymeadows Rd,30.220850,-81.586609
+783,8449 Philips Hwy,30.214870,-81.582283
+784,Philips Hwy + Freedom Trl,30.214195,-81.582291
+785,8656 Philips Hwy,30.210091,-81.579811
+786,8687 Philips Hwy,30.209410,-81.579010
+787,Philips Hwy + Sunbeam Rd,30.206184,-81.576637
+788,8864 Philips Hwy,30.205229,-81.576500
+789,9016 Philips Hwy,30.203421,-81.575141
+790,8963 Philips Hwy,30.202457,-81.574051
+791,9155 Philips Hwy,30.199800,-81.572220
+792,9158 Philips Hwy,30.199179,-81.572243
+793,Philips Hwy + Shad Rd,30.196341,-81.569611
+794,Philips Hwy + Shad Rd,30.195740,-81.569389
+795,9454 Philips Hwy,30.192329,-81.565971
+796,9525 Philips Hwy,30.192181,-81.565460
+797,9700 Philips Hwy,30.188650,-81.562241
+804,St Augustine Rd + Crown Point Rd,30.196476,-81.612898
+805,St Augustine Rd + Kori Rd,30.200616,-81.615930
+806,San Jose Blvd + Sunbeam Rd,30.204510,-81.617058
+811,Sunbeam Rd + Genna Trace Trl,30.205908,-81.604493
+812,4320 Sunbeam Rd,30.205799,-81.603172
+813,4083 Sunbeam Rd,30.205820,-81.609878
+814,4114 Sunbeam Rd,30.205749,-81.609512
+815,Sunbeam Rd + Old Sunbeam Rd,30.205650,-81.614380
+816,3845 Sunbeam Rd,30.205758,-81.615199
+817,San Jose Blvd + Sunbeam Rd,30.206659,-81.617126
+818,San Jose Blvd + Cardinal Point Dr,30.207670,-81.617409
+819,9276 San Jose Blvd,30.210039,-81.617577
+820,9283 San Jose Blvd,30.209940,-81.617241
+821,9030 San Jose Blvd,30.213940,-81.617722
+822,9055 San Jose Blvd,30.214399,-81.617477
+823,Baymeadows Rd + Brierwood Rd,30.220610,-81.597572
+824,5026 Baymeadows Rd,30.220470,-81.597099
+825,Baymeadows Rd + Old Kings Rd,30.220709,-81.593330
+826,Old Kings Rd + Baymeadows Rd,30.222389,-81.592987
+827,Old Kings Rd + Baymeadows Rd,30.222099,-81.592789
+828,Old Kings Rd + Bradford Rd,30.224331,-81.593521
+829,Old Kings Rd + Bradford Rd,30.224091,-81.593239
+830,Old Kings Rd + Lincolnshire Rd,30.225720,-81.594528
+831,8529 Old Kings Rd,30.225590,-81.594269
+832,Old Kings Rd + Harrow Rd,30.227280,-81.595451
+833,Old Kings Rd + Harrow Rd,30.227501,-81.595756
+834,Old Kings Rd + Edgeware Ct,30.228870,-81.596741
+835,Old Kings Rd + Warsdale Ct,30.229389,-81.596901
+836,Old Kings Rd + Brompton Ct,30.231239,-81.597839
+837,Old Kings Rd + Brompton Ct,30.230881,-81.597511
+838,Old Kings Rd + Radcliff Ct,30.232189,-81.599731
+839,Old Kings Rd + Radcliff Ct,30.232109,-81.599640
+840,Old Kings Rd + Cherwell Ln,30.232519,-81.601257
+841,Old Kings Rd + San Jose Manor Wy,30.232901,-81.602608
+842,8153 Old Kings Rd,30.232429,-81.600708
+843,Old Kings Rd + Plaza Gate Ln,30.233000,-81.603661
+844,8075 Old Kings Rd,30.233576,-81.604706
+845,Old Kings Rd + Naranja Dr,30.234531,-81.605682
+847,7801 Old Kings Rd,30.237856,-81.606909
+848,Old Kings Rd + Argentine Dr,30.237514,-81.606880
+849,7715 Old Kings Rd,30.239988,-81.608014
+850,Old Kings Rd + Ferrarra St,30.239777,-81.608002
+851,7560 Powers Ave,30.243132,-81.609016
+852,7565 Powers Ave,30.242511,-81.608748
+853,7440 Powers Ave,30.245796,-81.610703
+854,7447 Powers Ave,30.245569,-81.610397
+855,7200 Powers Ave,30.247330,-81.611870
+856,7277 Powers Ave,30.247100,-81.611532
+857,7000 Powers Ave,30.251578,-81.614818
+858,6917 Powers Ave,30.251390,-81.614548
+859,Toledo Rd + Powers Ave,30.252895,-81.615898
+860,Toledo Rd + Powers Ave,30.252586,-81.616623
+861,3873 Toledo Rd,30.251661,-81.618156
+862,3819 Toledo Rd,30.251240,-81.619102
+863,3904 Toledo Rd,30.249969,-81.621040
+864,Toledo Rd + Old Kings Rd,30.249291,-81.622070
+865,Old Kings Rd + Galicia Rd,30.251019,-81.624016
+866,Old Kings Rd + Galicia Rd,30.250721,-81.623657
+867,St Augustine Rd + Via De La Reine St,30.244579,-81.625702
+868,St Augustine Rd + Via De La Reine St,30.244089,-81.625549
+869,St Augustine Rd + Madrid Ave,30.248240,-81.625900
+870,7111 St Augustine Rd,30.248301,-81.625763
+871,St Augustine Rd + Galicia Rd,30.250691,-81.625908
+872,St Augustine Rd + Old Kings Rd,30.253410,-81.626068
+873,St Augustine Rd + Caballero Dr,30.254030,-81.626266
+874,St Augustine Rd + DuPont Ave,30.255751,-81.626312
+875,Morton St + Morrow St,30.259420,-81.623100
+876,Morrow St + St Augustine Rd,30.260288,-81.625453
+877,St Augustine Rd + Smithfield Rd,30.258530,-81.626007
+878,St Augustine Rd + University Blvd  fs,30.259029,-81.626083
+879,University Blvd + Powers Ave,30.262282,-81.624575
+880,University Blvd + Powers Ave,30.262032,-81.624771
+881,University Blvd + St Augustine Rd,30.261459,-81.625786
+882,University Blvd + St Augustine Rd,30.261308,-81.625817
+883,University Blvd + St Augustine Rd,30.260920,-81.627107
+884,University Blvd + St Augustine Rd,30.261008,-81.629139
+885,St Augustine Rd + University Blvd,30.262260,-81.628403
+886,St Augustine Rd + University Blvd,30.261579,-81.627129
+887,University Blvd + Swanne Rd,30.260820,-81.633484
+888,University Blvd + Graywood Rd,30.260926,-81.632900
+889,University Blvd + Colgate Rd,30.260890,-81.637361
+890,University Blvd + Colgate Rd,30.260780,-81.637062
+891,University Blvd + Auburn Rd,30.260958,-81.641680
+892,University Blvd + Auburn Rd,30.260830,-81.641830
+893,University Blvd + San Jose Blvd,30.260820,-81.643982
+894,5860 St Augustine Rd,30.263420,-81.629570
+895,St Augustine Rd + Ballard Oaks Rd,30.264540,-81.630501
+896,St Augustine Rd + Bishop Cir,30.266600,-81.632469
+897,St Augustine Rd + Bishop Cir,30.266655,-81.632721
+898,St Augustine Rd + Bishop Cir,30.268463,-81.634514
+899,St Augustine Rd + Rolac Rd,30.268829,-81.634506
+900,St Augustine Rd + Clydo Rd,30.270620,-81.636360
+901,5050 St Augustine Rd,30.271009,-81.636887
+902,4549 St Augustine Rd,30.273010,-81.638679
+903,4550 St Augustine Rd,30.273390,-81.639221
+904,4333 St Augustine Rd,30.275511,-81.641098
+905,St Augustine Rd + Nickerson Ln,30.274919,-81.640701
+906,4194 St Augustine Rd,30.276930,-81.642677
+907,St Augustine Rd + Jernigan Rd,30.276850,-81.642410
+908,St Augustine Rd + Wright Ave,30.278931,-81.643730
+909,St Augustine Rd + Caljon Rd,30.279360,-81.643608
+910,St Augustine Rd + Sessions Ln,30.281349,-81.643661
+911,3924 St Augustine Rd,30.280991,-81.643784
+912,St Augustine Rd + Brewster Rd,30.282440,-81.643799
+913,St Augustine Rd + Emerson St,30.285000,-81.643860
+914,St Augustine Rd + Stubbs Rd,30.285410,-81.643761
+915,St Augustine Rd + Davidson St,30.286650,-81.643929
+916,St Augustine Rd + Sheridan Ln,30.288561,-81.644013
+917,St Augustine Rd + Sheridan Ln,30.288187,-81.643883
+918,St Augustine Rd + Boulder St,30.290211,-81.644089
+919,St Augustine Rd + Ashland St,30.289990,-81.643982
+920,St Augustine Rd + Felch Ave,30.291330,-81.644150
+921,St Augustine Rd + Kingswood Rd,30.291809,-81.643997
+922,St Augustine Rd + Danese Ct,30.292879,-81.643951
+923,St Augustine Rd + Dunsford Rd,30.293899,-81.643799
+924,St Augustine Rd + Dunsford Terr,30.293461,-81.643753
+925,St Augustine Rd + Lorimier Rd,30.295469,-81.643341
+926,St Augustine Rd + Lorimier Rd,30.295670,-81.643150
+927,Marbon Park-N-Ride,30.147748,-81.631614
+928,San Jose Blvd + Orange Picker Rd,30.150271,-81.632462
+929,11925 San Jose Blvd,30.154711,-81.632507
+930,11940 San Jose Blvd,30.153830,-81.632767
+931,11755 San Jose Blvd,30.158680,-81.632568
+932,11768 San Jose Blvd,30.158291,-81.632874
+933,San Jose Blvd + Loretta Rd,30.160540,-81.632553
+934,San Jose Blvd + Loretta Rd,30.161120,-81.632813
+935,San Jose Blvd + Addie Ln,30.163349,-81.632462
+936,San Jose Blvd + Mandarin Rd,30.167500,-81.631660
+937,San Jose Blvd + Mandarin Rd,30.166950,-81.631699
+938,11247 San Jose Blvd,30.170351,-81.629479
+939,11147 San Jose Blvd,30.172470,-81.628700
+940,11150 San Jose Blvd,30.172951,-81.628799
+941,San Jose Blvd + Claire Ln,30.176217,-81.627931
+942,San Jose Blvd + Claire Ln,30.175159,-81.627853
+943,San Jose Blvd + Venture Pl,30.186690,-81.628121
+944,San Jose Blvd + Hartley Rd,30.186350,-81.627899
+945,San Jose Blvd + Big Tree Ln,30.189529,-81.626968
+946,10200 San Jose Blvd,30.192310,-81.625549
+947,10235 San Jose Blvd,30.191285,-81.625904
+948,10127 San Jose Blvd,30.194065,-81.623768
+949,10100 San Jose Blvd,30.194611,-81.623779
+950,9962 San Jose Blvd,30.197029,-81.621910
+951,San Jose Blvd + Crown Point Rd,30.196070,-81.622147
+952,San Jose Blvd + Pall Mall Dr,30.198561,-81.620743
+953,9775 San Jose Blvd,30.199850,-81.619209
+954,9620 San Jose Blvd,30.202009,-81.617989
+955,San Jose Blvd + Holly Grove Ave,30.217970,-81.617287
+956,San Jose Blvd + San Jose Park Dr,30.218571,-81.616898
+957,San Jose Blvd + Rustic Ln,30.220020,-81.616600
+958,San Jose Blvd + River Hall Dr,30.221769,-81.615929
+959,8701 San Jose Blvd,30.221680,-81.615753
+960,8569 San Jose Blvd,30.223721,-81.615494
+961,San Jose Blvd + Cathedral Oaks Pl,30.223730,-81.615700
+962,San Jose Blvd + San Clerc Rd,30.225740,-81.615936
+963,San Jose Blvd + Hilliard Rd,30.225571,-81.616119
+964,San Jose Blvd + Point Pleasant Rd,30.228720,-81.616539
+965,San Jose Blvd + Point Pleasant Rd,30.228689,-81.616699
+966,San Jose Blvd + El Ciento Blvd,30.231600,-81.616959
+967,San Jose Blvd + Jose Ter,30.231041,-81.617104
+968,San Jose Blvd + Airlie Ln,30.234659,-81.619247
+969,8037 San Jose Blvd,30.233900,-81.618279
+970,7821 San Jose Blvd,30.236580,-81.620590
+971,San Jose Blvd + Miller Oaks Dr,30.237480,-81.621712
+972,7701 San Jose Blvd,30.238831,-81.622574
+973,San Jose Blvd + Cheryl Dr,30.238760,-81.622810
+974,7525 San Jose Blvd,30.241249,-81.624603
+975,San Jose Blvd + LaRida Ln,30.241390,-81.625076
+978,San Jose Blvd + Cornell Rd,30.263809,-81.646881
+979,San Jose Blvd + Cornell Rd,30.263500,-81.646439
+980,San Jose Blvd + Flanders Rd,30.265431,-81.647247
+981,San Jose Blvd + Arcadia Dr,30.267000,-81.647881
+982,San Jose Blvd + Heritage Manor Dr,30.266810,-81.648140
+983,San Jose Blvd + Riverburch Ln,30.269649,-81.648209
+984,San Jose Blvd + San Amaro Rd,30.269930,-81.648468
+985,San Jose Blvd + Peachtree Cir,30.272560,-81.649101
+986,San Jose Blvd + Peachtree Cir,30.276979,-81.650299
+987,San Jose Blvd + Peachtree Cir,30.277100,-81.650497
+988,4445 San Jose Blvd,30.275169,-81.650002
+989,4446 San Jose Blvd,30.274900,-81.650299
+990,San Jose Blvd + London Rd,30.280550,-81.651001
+991,4021 San Jose Blvd,30.279949,-81.650703
+992,3933 San Jose Blvd,30.282120,-81.650902
+993,3930 San Jose Blvd,30.282671,-81.651199
+994,Hendricks Ave + Emerson St,30.284389,-81.650803
+995,Hendricks Ave + Pinetree Rd,30.287190,-81.650101
+996,Hendricks Ave + Parkwood St,30.287279,-81.649902
+997,Hendricks Ave + Felch Ave,30.291727,-81.648323
+998,Hendricks Ave + Felch Ave,30.292055,-81.648567
+999,3400 Hendricks Ave,30.290720,-81.648804
+1000,3407 Hendricks Ave,30.289638,-81.648819
+1001,Hendricks Ave + Dunsford Rd,30.294241,-81.647797
+1002,Hendricks Ave + Dunsford Rd,30.294399,-81.648003
+1003,Hendricks Ave + Lorimer Rd,30.296557,-81.647522
+1004,Hendricks Ave + River Oaks Rd,30.298451,-81.648689
+1005,Hendricks Ave + Pineridge Rd,30.298849,-81.648712
+1006,Hendricks Ave + Marco Pl,30.300800,-81.650070
+1007,Hendricks Ave + Marco Pl,30.301029,-81.650551
+1009,Atlantic Blvd + Kings Ave,30.307493,-81.647808
+1010,Atlantic Blvd + Perry Pl,30.307022,-81.648974
+1011,Atlantic Blvd + Arcadia Pl,30.305988,-81.650986
+1012,Atlantic Blvd + Thacker Ave,30.305394,-81.652447
+1013,Hendricks Ave + Landon Ave,30.307158,-81.654109
+1014,Hendricks Ave + Landon Ave,30.307478,-81.654388
+1015,Kings Ave + Gary St,30.313227,-81.653739
+1016,San Marco Blvd + Balis Pl,30.303949,-81.653778
+1017,San Marco Blvd + Balis Pl,30.303980,-81.654297
+1018,San Marco Blvd + Naldo Ave,30.304287,-81.655960
+1019,San Marco Blvd + Largo Rd,30.304533,-81.657707
+1020,867 San Marco Blvd + Largo Rd,30.304678,-81.657455
+1021,San Marco Blvd + Landon Ave,30.305410,-81.659302
+1022,San Marco Blvd + Landon Ave,30.305121,-81.658836
+1023,San Marco Blvd + LaSalle St,30.308945,-81.660596
+1024,San Marco Blvd + LaSalle St,30.308689,-81.660438
+1025,San Marco Blvd + Cedar St,30.310994,-81.660489
+1026,San Marco Blvd + Philips St,30.310572,-81.660599
+1027,San Marco Blvd + Childrens Way,30.312469,-81.660599
+1028,San Marco Blvd + Nira St,30.312027,-81.660506
+1029,Cedar St + Palm St,30.310495,-81.662075
+1030,Cedar St + San Marco Blvd,30.310460,-81.660835
+1031,Childrens Way + Le Baron Ave,30.312229,-81.663307
+1032,Le Baron Ave + Childrens Way,30.312024,-81.663448
+1033,Le Baron Ave + Cedars St,30.310554,-81.663465
+1038,A Philip Randolph Blvd + Adams St,30.324789,-81.644096
+1039,A Philip Randolph Blvd + Adams St,30.324261,-81.644096
+1040,A Philip Randolph Blvd + Duval St,30.326241,-81.643456
+1041,A Philip Randolph Blvd + Duval St,30.326487,-81.643478
+1042,Bay St + Liberty St,30.325069,-81.653023
+1043,Bay St + Market St,30.325441,-81.654167
+1044,Bay St + Market St,30.325371,-81.654511
+1045,Bay St + Newnan St,30.325703,-81.655350
+1047,Bay St + Main St,30.326262,-81.657707
+1051,Water St + Jefferson St,30.326851,-81.667419
+1052,Water St + Jefferson St,30.327474,-81.669227
+1055,Bay St + Clay St,30.327412,-81.664085
+1056,Bay St + Julia St,30.327147,-81.661675
+1057,Bay St + Laura St,30.326658,-81.659615
+1058,Forsyth St + Clay St,30.328037,-81.663796
+1059,Forsyth St + Julia St,30.327869,-81.661903
+1061,Kings Ave Station,30.315506,-81.653270
+1063,1031 San Marco Blvd,30.314937,-81.660545
+1064,San Marco Blvd + Prudential Dr,30.316772,-81.660451
+1067,Forsyth St + Ocean St,30.326773,-81.657013
+1069,Newnan St + Forsyth St,30.326621,-81.655356
+1070,Newnan St + Adams St,30.327049,-81.655121
+1071,Forsyth St + Market St,30.326147,-81.654312
+1072,Broad St + Monroe St,30.329920,-81.664597
+1073,Jefferson St + Houston St,30.330065,-81.665919
+1074,Newnan St + Monroe St,30.328062,-81.654922
+1075,Newnan St + Monroe St,30.328203,-81.654815
+1082,Broad St + Ashley St,30.332161,-81.664017
+1084,Newnan St + Ashley St,30.330605,-81.654076
+1085,Newnan St + Ashley St,30.330490,-81.654198
+1087,Market St + Union St,30.331310,-81.652573
+1088,Market St + Beaver St,30.330971,-81.652779
+1089,Beaver St + Ocean St,30.331240,-81.655434
+1090,Beaver St + Ocean St,30.331272,-81.655037
+1092,Beaver St + Clay St,30.332769,-81.662201
+1093,Beaver St + Clay St,30.332830,-81.662903
+1095,Beaver St + Jefferson St,30.333361,-81.664597
+1097,Jefferson St + Beaver St,30.332715,-81.665155
+1098,Beaver St + Davis St,30.333920,-81.667297
+1099,Beaver St + Davis St,30.333860,-81.667702
+1100,State St + Davis St,30.335670,-81.666771
+1101,State St + Jefferson St,30.334829,-81.664253
+1103,Market St + State St,30.332371,-81.652382
+1106,Riverside Ave + Stonewall St,30.323555,-81.670815
+1107,Riverside Ave + Stonewall St,30.323139,-81.670952
+1108,Riverside Ave + Jackson St,30.322503,-81.672092
+1109,Riverside Ave + Edison Ave,30.320141,-81.674782
+1110,Riverside Ave + Rosselle Ave,30.319059,-81.675499
+1111,Riverside Ave + Rosselle Ave,30.318550,-81.675537
+1112,Riverside Ave + Peninsular Pl,30.317520,-81.676178
+1113,Riverside Ave + Riverside Park Pl,30.315580,-81.676933
+1114,Riverside Ave + Post St,30.314251,-81.677742
+1115,Riverside Ave + Post St,30.314011,-81.677658
+1116,Riverside Ave + Lomax St,30.312981,-81.678253
+1117,Riverside Ave + Lomax St,30.312599,-81.678352
+1118,Riverside Ave + Margaret St,30.311285,-81.680428
+1119,Riverside Ave + Margaret St,30.311150,-81.680702
+1120,Riverside Ave + Goodwin St,30.310949,-81.682098
+1121,Riverside Ave + Goodwin St,30.310699,-81.682495
+1122,Riverside Ave + Copeland St,30.310471,-81.683983
+1123,Riverside Ave + Copeland St,30.310360,-81.684250
+1124,Riverside Ave + Osceola St,30.310110,-81.685753
+1125,Riverside Ave + Osceola St,30.309959,-81.686073
+1126,Riverside Ave + Stockton St,30.309750,-81.687530
+1127,Riverside Ave + Stockton St,30.309549,-81.687897
+1128,Riverside Ave + Barrs St,30.309330,-81.689323
+1129,Riverside Ave + Shircliff St,30.309010,-81.690208
+1136,Park St + Edison Ave,30.321659,-81.677719
+1137,Park St + Edison Ave,30.321329,-81.677689
+1138,Park St + Rosselle St,30.319990,-81.678467
+1139,Park St + Rosselle St,30.319540,-81.678543
+1140,Park St + Riverside Park Pl,30.317070,-81.679810
+1141,Park St + Riverside Park Pl,30.316629,-81.679871
+1142,Park St + Post St,30.315670,-81.680420
+1145,Park St + Margaret St,30.313730,-81.681503
+1148,Park St + Goodwin St,30.313530,-81.682900
+1152,College St + Copeland St,30.315750,-81.685608
+1156,College St + Stockton St,30.314980,-81.689110
+1158,Park St + Stockton St,30.312170,-81.688599
+1159,Park St + Stockton St,30.312380,-81.688103
+1163,College St + King St,30.314199,-81.696098
+1164,2610 Park St,30.311541,-81.692001
+1165,2660 Park St,30.311319,-81.692200
+1167,King St + St Johns Ave,30.308052,-81.691878
+1169,College St + James St,30.314167,-81.698860
+1170,St Johns Ave + James St,30.306620,-81.692787
+1171,St Johns Ave + Powell Pl,30.306719,-81.692406
+1172,Post St + Willow Branch Ave,30.313168,-81.703423
+1173,Forest St + Myrtle Ave,30.322906,-81.678200
+1174,Park St + Cherry St,30.307699,-81.697388
+1175,Park St + Cherry St,30.307470,-81.697540
+1176,Park St + McDuff Ave,30.305201,-81.699829
+1177,Park St + McDuff Ave,30.304880,-81.699959
+1178,Park St. & Belvedere Ave.,30.303005,-81.703296
+1179,Park St + Belvedere Ave,30.303261,-81.702904
+1180,St Johns Ave + Mallory St,30.304380,-81.694931
+1181,St Johns Ave + Mallory St,30.304329,-81.694786
+1182,St Johns Ave + Willow Branch Terr,30.303514,-81.695579
+1183,St Johns Ave + McDuff Ave,30.302780,-81.696404
+1184,St Johns Ave + Aberdeen St,30.301250,-81.698196
+1185,St Johns Ave + Avondale Ave,30.299940,-81.699997
+1186,St Johns Ave + Avondale Ave,30.299959,-81.699799
+1187,St Johns Ave + Edgewood Ave,30.298262,-81.702057
+1188,St Johns Ave + Edgewood Ave,30.298719,-81.701759
+1189,St Johns Ave + Talbot Ave,30.297430,-81.702972
+1190,3571 St Johns Ave,30.296656,-81.704063
+1191,St Johns Ave + Dancy St,30.295389,-81.705299
+1192,St Johns Ave + Dancy St,30.295635,-81.705185
+1193,St Johns Ave + Van Wert Ave,30.294201,-81.706596
+1194,3712 St Johns Ave,30.294109,-81.706902
+1195,St Johns Ave + Glendale Rd,30.291590,-81.710197
+1196,St Johns Ave + Canterbury St,30.291082,-81.710678
+1197,St Johns Ave + Riverside Ave,30.290670,-81.711899
+1198,St Johns Ave + Oak St,30.291029,-81.712761
+1199,Herschel St + St Johns Ave,30.288561,-81.713341
+1200,Herschel St + St Johns Ave,30.288660,-81.713478
+1201,Herschel St + Irvington Ave,30.285980,-81.713501
+1202,4197 Herschel St,30.285919,-81.713371
+1203,Herschel St + Marquette Ave,30.284590,-81.713402
+1204,Herschel St + Marquette Ave,30.284334,-81.713570
+1205,Herschel St + Lexington Ave,30.283070,-81.713463
+1206,Herschel St + Lexington Ave,30.282949,-81.713547
+1207,San Juan Ave + Euclid St,30.282160,-81.715721
+1208,San Juan Ave + Euclid St,30.282261,-81.715424
+1209,San Juan Ave + Fair St,30.282251,-81.717652
+1210,San Juan Ave + Roosevelt Blvd,30.282129,-81.719002
+1211,4507 Roosevelt Blvd,30.278540,-81.720001
+1212,4470 Rossevelt Blvd,30.278931,-81.720360
+1213,Roosevelt Blvd + San Juan Ave,30.280891,-81.720024
+1214,Roosevelt Blvd + San Juan Ave,30.281639,-81.720383
+1215,Roosevelt Blvd + St Johns Ave,30.288994,-81.720166
+1216,Roosevelt Blvd + St Johns Ave,30.288990,-81.720497
+1219,Park St + Pinegrove Ave,30.297850,-81.714794
+1220,Park St + Pinegrove Ave,30.298100,-81.714353
+1221,Park St + Dancy St,30.299990,-81.710991
+1222,Park St + Ingleside Ave,30.300779,-81.709450
+1223,Park St + Edgewood Ave,30.302139,-81.706101
+1224,Park St + Edgewood Ave,30.301920,-81.706497
+1225,Roosevelt Blvd + Timuquana Rd,30.247061,-81.697769
+1226,Roosevelt Blvd + Timuquana Rd,30.247169,-81.697487
+1227,5648 Roosevelt Blvd,30.245439,-81.697411
+1228,5647 Roosevelt Blvd,30.245331,-81.697060
+1229,5956 Roosevelt Blvd,30.242050,-81.696640
+1230,6017 Roosevelt Blvd,30.240749,-81.696281
+1231,5068 Roosevelt Blvd,30.239851,-81.696640
+1232,6073 Roosevelt Blvd,30.239500,-81.696404
+1233,6277 Roosevelt Blvd,30.237020,-81.697090
+1234,6372 Roosevelt Blvd,30.236071,-81.697700
+1235,Roosevelt Blvd + 120th St,30.233370,-81.698517
+1236,Roosevelt Blvd + Yorktown Ave,30.226629,-81.700096
+1237,Saratoga Ave + Gillis St,30.223930,-81.689346
+1238,Saratoga Ave + Biscayne St,30.223829,-81.696167
+1239,Saratoga Ave + Biscayne St,30.223909,-81.695572
+1240,Saratoga Ave + Gillis St,30.223860,-81.689690
+1241,Allegheny Rd + Yorktown Ave,30.224882,-81.697716
+1242,Saratoga Ave + Mustin Rd,30.223909,-81.683693
+1243,Saratoga Ave + Ajax St,30.223998,-81.678747
+1244,Saratoga Ave + Ajax St,30.223956,-81.678535
+1245,Saratoga Ave + Ranger St,30.223964,-81.674054
+1246,Saratoga Ave + Ranger St,30.224025,-81.674038
+1247,Wasp St + Enterprise Ave,30.222681,-81.672306
+1248,Saratoga Ave + Mustin Rd,30.223980,-81.684112
+1249,Mustin Rd + Enterprise Ave,30.221975,-81.683479
+1250,7029 Mustin Rd,30.218020,-81.682388
+1251,7029 Mustin Rd,30.218201,-81.682678
+1252,7252 Mustin Rd,30.214840,-81.680702
+1253,Mustin Rd + Brick Rd,30.214960,-81.680588
+1254,Mustin Rd + Neff Cir,30.210760,-81.681572
+1255,Mustin Rd + Neff Cir,30.210819,-81.681702
+1256,Miles St + Broccolo St,30.209328,-81.683785
+1257,NAS Hospital,30.207636,-81.682900
+1258,4541 Timuquana Rd,30.247710,-81.699177
+1259,Timuquana Rd + Stark Rd,30.247690,-81.703529
+1260,Timuquana Rd + Starke Rd,30.247459,-81.704048
+1261,Timuquana Rd + Twining Rd,30.247478,-81.700287
+1262,5435 Roosevelt Blvd,30.250360,-81.698196
+1263,Roosevelt Blvd + Long Bow Ln,30.253059,-81.698906
+1264,Roosevelt Blvd + Long Bow Ln,30.252603,-81.699097
+1265,Roosevelt Blvd + Robert D Gorden Rd,30.260042,-81.701096
+1266,5104 Roosevelt Blvd,30.260200,-81.701599
+1267,Roosevelt Blvd + Yacht Club Rd,30.256380,-81.699730
+1268,Roosevelt Blvd + Yacht Club Rd,30.256777,-81.700111
+1269,Roosevelt Blvd + Verona Ave,30.265930,-81.707550
+1270,Roosevelt Blvd + Verona Ave,30.265711,-81.707703
+1271,Roosevelt Blvd + Longfellow St,30.268551,-81.710503
+1272,Roosevelt Blvd + Longfellow St,30.268570,-81.710999
+1273,Roosevelt Blvd + Ortega Forest Dr,30.271349,-81.714134
+1274,Roosevelt Blvd + Shawnee St,30.270981,-81.713203
+1275,FSCJ Kent Campus,30.297658,-81.718694
+1276,Post St + McDuff Ave,30.313334,-81.706277
+1277,Post St + McDuff Ave,30.314676,-81.705321
+1278,Post St + Day St,30.313228,-81.709717
+1279,Post St + Day St,30.313339,-81.709430
+1280,Post St + Nelson St,30.313179,-81.714050
+1281,Post St + Nelson St,30.313250,-81.713562
+1282,Post St + Cypress St,30.312719,-81.717720
+1283,Post St + Edgewood Ave,30.312540,-81.718018
+1284,Post St + Talbot Ave,30.311460,-81.719200
+1285,Post St + Talbot Ave,30.311661,-81.719093
+1286,Post St + Wolfe St,30.309959,-81.720894
+1287,Post St + Wolfe St,30.310190,-81.720772
+1288,Post St + Hamilton St,30.308939,-81.722260
+1289,Post St + Hamilton St,30.309191,-81.721931
+1296,Lenox Ave + Luna St,30.319838,-81.722076
+1297,Lenox Ave + Arnau Terr,30.319851,-81.722199
+1298,Lenox Ave + Edgewood Ave,30.318390,-81.724098
+1299,Lenox Ave + Edgewood Ave,30.317909,-81.724838
+1300,4540 Lenox Ave,30.318683,-81.723605
+1305,Lenox Ave + Dellwood Ave,30.317310,-81.726402
+1306,Lenox Ave + Murray Dr,30.316330,-81.728203
+1307,Lenox Ave + Royal Ave,30.315781,-81.729462
+1309,Cassat Ave + Lenox Ave,30.315800,-81.730629
+1310,Cassat Ave + College St,30.313940,-81.730796
+1311,Cassat Ave + Sappho Ave,30.312949,-81.730636
+1312,Cassat Ave + French St,30.311047,-81.730703
+1313,Cassat Ave + Normandy Blvd  fs,30.310560,-81.730583
+1314,Cassat Ave + Normandy Blvd  fs,30.308186,-81.730688
+1315,Cassat Ave + Kingsbury St,30.306262,-81.730528
+1317,Post St + Murray Dr,30.309059,-81.726532
+1318,Post St + Murray Dr,30.309111,-81.726257
+1319,Post St + Cassat Ave,30.309160,-81.730072
+1320,Normandy Blvd + Mikael Ave,30.309269,-81.731430
+1321,Normandy Blvd + Truman Ave,30.309148,-81.732310
+1322,Normandy Blvd + Burns Ave,30.309188,-81.735136
+1323,Normandy Blvd + Burns Ave,30.309111,-81.734691
+1324,Normandy Blvd + Vincent St,30.309041,-81.737447
+1325,Normandy Blvd + Lake Shore Blvd,30.309083,-81.739044
+1327,Cassat Ave + Plymouth St,30.304037,-81.730629
+1328,Cassat Ave + Catherine Ter,30.302280,-81.730473
+1329,Cassat Ave + Hollycrest Dr,30.300471,-81.730575
+1330,Cassat Ave + Quan Dr,30.296012,-81.730516
+1331,Cassat Ave + Park St,30.291833,-81.730330
+1332,Cassat Ave + Park St,30.293186,-81.730485
+1333,Cassat Ave + Camille Ave,30.286062,-81.730424
+1334,Cassat Ave + Cardinal Blvd,30.286716,-81.730288
+1335,Cassat Ave + Shelby Ave,30.289480,-81.730431
+1336,Cassat Ave + St Johns Ave,30.288821,-81.730302
+1337,Cassat Ave + Shirley Ave,30.284204,-81.730428
+1338,Cassat Ave + Shirley Ave,30.283489,-81.730280
+1339,San Juan Ave + Stimson St,30.282209,-81.728104
+1340,Blanding Blvd + Park St,30.291599,-81.724114
+1341,Blanding Blvd + Wheeler Ave,30.291121,-81.724197
+1344,1717 Blanding Blvd,30.287830,-81.724114
+1345,1720 Blanding Blvd,30.288050,-81.724197
+1347,Blanding Blvd + Shirley Ave,30.284290,-81.725090
+1348,Blanding Blvd + Shirley Ave,30.283800,-81.725479
+1350,San Juan Ave + Blanding Blvd,30.282230,-81.725670
+1351,San Juan Ave + Stimson Steet,30.282087,-81.728399
+1352,San Juan Ave + Blanding Blvd,30.282117,-81.725611
+1353,San Juan Ave + Hamilton St,30.282121,-81.722129
+1354,San Juan Ave + Hamilton St,30.282259,-81.721779
+1356,Blanding Blvd + Palmer St,30.281122,-81.726234
+1357,Blanding Blvd + Sunderland Rd,30.278370,-81.727699
+1358,Blanding Blvd + Birkenhead Rd,30.277054,-81.728958
+1359,Blanding Blvd + Birkenhead Rd,30.276711,-81.729599
+1361,Blanding Blvd + Lake Shore Blvd,30.274950,-81.731598
+1362,Blanding Blvd + Lake Shore Blvd,30.274407,-81.731820
+1363,San Juan Ave + Vista Ave,30.282070,-81.732597
+1364,San Juan Ave + Vista Ave,30.282160,-81.732201
+1365,San Juan Ave + Harvester St,30.282061,-81.734802
+1366,San Juan Ave + Harvester St,30.282200,-81.734299
+1367,San Juan Ave + Lake Shore Blvd,30.282030,-81.738197
+1368,San Juan Ave + Lake Shore Blvd,30.282181,-81.737900
+1369,San Juan Ave + Lindberg Dr,30.282021,-81.742798
+1370,San Juan Ave + Lindberg Dr,30.282129,-81.742355
+1371,San Juan Ave + Hyde Park Rd,30.281976,-81.745844
+1372,San Juan Ave + Hyde Park Rd,30.282160,-81.745400
+1373,Normandy Blvd + Lenox Blvd,30.308844,-81.740118
+1374,Normandy Blvd + Ellis Rd,30.308587,-81.743105
+1375,Ramona Blvd + Lane Ave,30.314039,-81.752678
+1376,Ramona Blvd + Lane Ave,30.314140,-81.752480
+1377,Grace Ln + Grace Cir,30.309530,-81.756554
+1378,Grace Ln + Grace Terr,30.309549,-81.757469
+1379,Grace Ln + Granville Rd,30.309410,-81.754753
+1380,Grace Ln + Granville Rd,30.309475,-81.754013
+1381,Grace Ln + Lane Ave,30.309389,-81.752182
+1382,6555 Grace Ln,30.309450,-81.752777
+1383,811 Faith Memorial Dr,30.311550,-81.758240
+1384,1120 Faith Memorial Dr,30.312086,-81.758278
+1385,1140 Faith Memorial Dr,30.313259,-81.758278
+1386,Faith Memorial Dr + Ramona Blvd,30.313709,-81.758232
+1389,Normandy Blvd + Lane Ave,30.306440,-81.750723
+1390,Normandy Blvd + Lane Ave,30.306564,-81.750851
+1391,Normandy Blvd + Granville Rd,30.305050,-81.754768
+1392,Normandy Blvd + Lane Ave  ns,30.304833,-81.754683
+1393,963 Lane Ave,30.307840,-81.751823
+1394,Lane Ave + Normandy Blvd,30.305309,-81.751801
+1395,Lane Ave + Normandy Blvd,30.306860,-81.751996
+1396,Normandy Blvd  Wal-Mart,30.303169,-81.758774
+1397,Normandy Blvd + LaMarche Rd,30.302997,-81.759652
+1398,Normandy Blvd + Le Brun Rd,30.301363,-81.763487
+1400,Normandy Blvd + Memorial Park Rd,30.300128,-81.765565
+1401,Normandy Blvd + Memorial Park Rd,30.299950,-81.766350
+1403,1149 Lane Ave,30.303803,-81.751865
+1404,1164 Lane Ave,30.303098,-81.751981
+1405,Lane Ave + Lenox Ave,30.299141,-81.751801
+1406,Lane Ave + Lenox Ave,30.299601,-81.751900
+1407,Lane Ave + Park St,30.296961,-81.751801
+1408,Lane Ave + Park St,30.297546,-81.752014
+1409,Lane Ave + Londontowne Ln,30.293160,-81.754700
+1410,Lane Ave + Manotak Ave,30.293720,-81.754402
+1411,Lane Ave + Piccadilly,30.290831,-81.755203
+1412,1597 Lane Ave,30.290840,-81.755440
+1413,1809 Lane Ave,30.286400,-81.755203
+1414,Lane Ave + Golfview St,30.286779,-81.755302
+1415,Lane Ave + Hyde Grove Ave,30.284990,-81.755302
+1416,Lane Ave + San Juan Blvd,30.281772,-81.755180
+1417,Lane Ave + Dayton Rd,30.281330,-81.755302
+1418,Lane Ave + Wiley Rd,30.278886,-81.755183
+1419,Lane Ave + Jack Horner Ln,30.276720,-81.755402
+1420,Lane Ave + Pinnochio Dr,30.276220,-81.755302
+1421,Lane Ave + Wiley Rd,30.278950,-81.755302
+1422,Lane Ave + Tinkerbell Ln,30.273663,-81.755563
+1423,Lane Ave + Tinkerbell Ln,30.274410,-81.755600
+1424,2546 Lane Ave,30.271841,-81.756232
+1425,Wilson Blvd + Firestone Rd,30.269989,-81.764061
+1426,Wilson Blvd + Firestone Rd,30.269890,-81.764542
+1427,Wilson Blvd + Kohn Rd,30.270109,-81.758697
+1428,Wilson Blvd + Kohn Rd,30.269960,-81.759079
+1429,Wilson Blvd + Lane Ave,30.270010,-81.756790
+1430,Wilson Blvd + Lane Ave,30.270170,-81.756126
+1431,Wilson Blvd + McGregor Dr,30.270090,-81.753700
+1432,Wilson Blvd + McGregor Dr,30.270201,-81.753380
+1434,Wilson Blvd + Anvers Blvd,30.270121,-81.751762
+1435,Wilson Blvd + Parvin Dr,30.270321,-81.749008
+1436,Wilson Blvd + Ledbury Dr,30.270172,-81.748672
+1437,Jammes Rd + San Juan Ave,30.281785,-81.747789
+1438,Jammes Rd + Tiny Tim Ln,30.280651,-81.747810
+1439,Jammes Rd + San Juan Ave,30.281261,-81.747910
+1440,Jammes Rd + David Dr,30.278761,-81.747704
+1441,Jammes Rd + Tegner Dr,30.278320,-81.747803
+1442,Jammes Rd + Badner Dr,30.276512,-81.747589
+1443,Jammes Rd + Cooper Ln,30.271814,-81.747642
+1444,Jammes Rd + Wilson Blvd,30.270552,-81.747629
+1445,Jammes Rd + Raw Hide Trl,30.275221,-81.747597
+1446,2507 Jammes Rd,30.273180,-81.747498
+1447,Jammes Rd + Cooper Ln,30.272140,-81.747498
+1448,Blanding Blvd + Hyde Park Rd,30.272100,-81.734802
+1449,Blanding Blvd + Cedar Park Ln,30.271654,-81.734863
+1450,Blanding Blvd + Wilson Blvd,30.270000,-81.736099
+1451,Blanding Blvd + Wilson Blvd,30.269782,-81.736383
+1452,Blanding Blvd + Cedar Forrest Rd,30.266583,-81.737753
+1477,Lane Ave + Wilson Blvd,30.269398,-81.756524
+1478,Lane Ave + Wilson Blvd  ns,30.269237,-81.756453
+1479,Lane Ave + Rojo Ct,30.267759,-81.756798
+1480,Lane Ave + Rojo Ct,30.267691,-81.756943
+1481,Lane Ave + Fuegus Dr,30.265410,-81.758041
+1482,Lane Ave + Fuegus Dr,30.265831,-81.758003
+1483,Lane Ave + Cinderella Rd,30.262150,-81.758400
+1484,Lane Ave + Cinderella Rd,30.262819,-81.758461
+1485,Lane Ave + Tom Thumb Dr,30.259609,-81.758400
+1487,Lane Ave + Biddy Ln,30.259060,-81.758537
+1488,Mother Hubbard Dr + Harlow Blvd,30.251970,-81.757698
+1489,Lane Ave + Melvin Rd,30.255800,-81.758530
+1490,Lane Ave + Daughtry Blvd,30.252810,-81.758476
+1491,Lane Ave + Daughtry Blvd,30.253120,-81.758560
+1492,Harlow Blvd + 103rd St,30.249330,-81.757599
+1493,Harlow Blvd + 103rd St,30.249161,-81.757500
+1494,Timuquana Rd & Ortega Farms Blvd,30.247566,-81.714909
+1495,Timuquana Rd & Ortega Farms Blvd,30.247401,-81.715982
+1496,5347 Timuquana Rd,30.247502,-81.719839
+1497,5320 Timuquana Rd,30.247339,-81.719704
+1498,Timuquana Rd + Eulace Rd,30.247385,-81.733032
+1499,Timuquana Rd + Lynn St,30.248095,-81.736427
+1500,Timuquana Rd + Seaboard Ave,30.247311,-81.730873
+1501,Timuquana Rd + Eulace Rd,30.247282,-81.733406
+1502,Timuquana Rd + Wesconnett Blvd,30.248507,-81.739662
+1503,Timuquana Rd + Wesconnett Blvd,30.248291,-81.739883
+1504,Timuquana Rd + Blanding Blvd,30.248466,-81.742813
+1505,Blanding Blvd + 103rd St,30.249945,-81.743128
+1506,Blanding Blvd + Wesconnett Blvd,30.234783,-81.739731
+1507,Blanding Blvd + 103rd St,30.246309,-81.743169
+1508,6016 Blanding Blvd,30.241529,-81.742050
+1509,Blanding Blvd + 105th St,30.243130,-81.742599
+1512,103rd St + Blanding Blvd,30.248341,-81.743363
+1513,103rd St + Jammes Rd,30.248358,-81.748181
+1514,103rd St + Jammes Rd,30.248461,-81.746910
+1517,103rd St + Harlow Blvd,30.248306,-81.757645
+1518,103rd Street WalMart,30.249135,-81.754890
+1519,103rd St + Norde Dr,30.248333,-81.752434
+1520,103rd St + Norde Dr,30.248409,-81.752136
+1521,103rd St + Harlow Blvd,30.248432,-81.759285
+1523,103rd St + Tampico Rd,30.248406,-81.756134
+1524,6730 103rd St,30.248421,-81.754906
+1525,6760 103rd St,30.248301,-81.755409
+1529,Blanding Blvd + Morse Ave,30.226555,-81.737778
+1530,Blanding Blvd + Morse Ave,30.225826,-81.738005
+1531,7264 Blanding Blvd,30.214535,-81.737226
+1532,Blanding Blvd + Longchamp Dr,30.209926,-81.738375
+1533,Blanding Blvd + Townsend,30.219509,-81.736656
+1534,Blanding Blvd + Townsend Rd,30.218308,-81.737076
+1535,Blanding Blvd + DuClay Rd,30.212840,-81.737085
+1536,Blanding Blvd + Longchamp Dr,30.210432,-81.737747
+1537,8108 Blanding Blvd,30.201578,-81.739660
+1538,Blanding Blvd + Collins Rd,30.205277,-81.739350
+1539,Youngerman Cir & Blanding Blvd,30.195585,-81.742424
+1540,6001 Youngerman Cir,30.195401,-81.742433
+1541,Youngerman Cir + Periwinkle Dr,30.196734,-81.750885
+1542,Youngerman Cir + Argyle Forest Bl,30.192989,-81.752769
+1543,6155 Youngerman Cir,30.196631,-81.744400
+1544,6455 Youngerman Cir,30.196569,-81.744881
+1545,6373 Youngerman Cir,30.197180,-81.746178
+1546,Youngerman Cir + Periwinkle Dr,30.196819,-81.751190
+1547,Youngerman Cir + Argyle Forest Bl,30.193529,-81.752571
+1554,Wells Rd + Wellington Pl,30.186966,-81.732934
+1555,FSCJ Cecil Center Campus,30.250875,-81.890434
+1560,Lake Newman St + Authority Ave,30.231371,-81.887260
+1564,103rd St + Samaritan Way,30.246986,-81.835976
+1565,103rd St + Samaritan Wy,30.247368,-81.834854
+1566,10244 103rd St,30.247206,-81.829346
+1567,10231 103rd St,30.247419,-81.829048
+1568,103rd St + Connie Jean Rd,30.247376,-81.823662
+1569,103rd St + Connie Jean Rd,30.247580,-81.824188
+1570,103rd St + Britton Ln,30.247730,-81.819992
+1571,9842 103rd St,30.247528,-81.820106
+1572,103rd St + Rockola Rd,30.247541,-81.807083
+1573,103rd St + Rockola Rd,30.247806,-81.805905
+1574,103rd St + Vivian Dr,30.247829,-81.809723
+1575,8968 103rd St,30.247589,-81.801956
+1576,9005 103rd St,30.247700,-81.802452
+1577,9539 103rd St,30.247881,-81.813461
+1579,103rd St + Old Middleburg Rd,30.247770,-81.799133
+1580,103rd St + Ken Rd,30.247669,-81.794289
+1581,103rd St + Ken Rd,30.247801,-81.793762
+1582,103rd St + Kinkaid Rd,30.247768,-81.790100
+1583,103rd St + Kinkaid Rd,30.248051,-81.789597
+1584,103rd St + Brannon Ave,30.247786,-81.788162
+1585,103rd St + Brannon Ave,30.248137,-81.787483
+1586,103rd St + Old Middleburg Rd,30.248180,-81.785431
+1587,103rd St + Valdura Ave,30.247904,-81.784897
+1588,103rd St + California Ave,30.247988,-81.782646
+1589,7915 103rd St,30.248306,-81.779167
+1590,103rd St + Hillman St,30.248053,-81.778618
+1591,7650 103rd St,30.248123,-81.774870
+1592,7276 103rd St,30.248180,-81.767098
+1593,103rd St + Firestone Rd,30.248190,-81.764801
+1595,Hillman Dr + 103rd St,30.247884,-81.777139
+1596,Hillman Dr + Jaguar Dr,30.242821,-81.777100
+1597,Wheat Rd + Hillman Dr,30.240339,-81.776901
+1598,Wheat Rd + Ricker Rd,30.240370,-81.772697
+1599,Wheat Rd + Buckley Dr,30.240391,-81.766800
+1600,Wheat Rd + Ridgeway Rd,30.240400,-81.769203
+1601,Firestone Rd + Wheat Rd,30.241329,-81.764625
+1602,Firestone Rd + 103rd St,30.247528,-81.764572
+1605,Old Middleburg Rd + Firetower Rd,30.249258,-81.785740
+1606,Old Middleburg Rd + McGlothlin St,30.252470,-81.785873
+1607,Old Middleburg Rd + Noroad,30.255239,-81.785988
+1608,4374 Old Middleburg Rd,30.258341,-81.784248
+1609,7570 Wilson Blvd,30.269640,-81.775543
+1610,Fouraker Rd + Blazing Star Rd,30.262579,-81.781227
+1611,7587 Wilson Blvd,30.269730,-81.775337
+1612,Fouraker Rd + Springtree Rd,30.266233,-81.781166
+1613,Fouraker Rd + Springtree Rd,30.266939,-81.781242
+1614,Fouraker Rd + Wilson Rd,30.269381,-81.781227
+1615,Fouracker Rd + La Trec Dr,30.287390,-81.781342
+1616,Herlong Rd + Doyon Ct,30.284241,-81.791718
+1617,Herlong Rd + De La Roche Dr,30.284300,-81.784599
+1618,Herlong Rd + Fouraker Dr,30.284290,-81.781998
+1619,Herlong Rd + Monteau Dr,30.284290,-81.787201
+1620,Herlong Rd + Oxbow Rd,30.284269,-81.789879
+1621,Herlong Rd + Newbolt Ct,30.284149,-81.793449
+1622,Fouracker Rd + Normandy Blvd,30.292353,-81.781302
+1623,Fouracker Rd + Renoir Dr,30.290100,-81.781311
+1624,8910 Herlong Rd,30.284060,-81.800461
+1625,Herlong Rd + Normandy Blvd,30.283989,-81.806519
+1626,Wilson Blvd + Debra Dr,30.269871,-81.770058
+1627,Wilson Blvd + Debra Dr,30.269739,-81.770393
+1628,Wilson Blvd + Old Middleburg Rd,30.269710,-81.772774
+1629,Wilson Blvd + Old Middleburg Rd,30.269840,-81.771843
+1630,Wilson Blvd + Guerad Dr,30.269640,-81.779961
+1631,Wilson Blvd + Paleface Pl,30.269760,-81.778572
+1632,Normandy Blvd + Combs St,30.294580,-81.777365
+1633,Normandy Blvd + Country Creek Blvd,30.290537,-81.787705
+1634,Normandy Blvd + Derito Dr,30.288930,-81.794470
+1635,Normandy Blvd + Fouraker Rd,30.293283,-81.779986
+1636,Normandy Blvd + Hammond Blvd,30.287692,-81.798706
+1637,Normandy Blvd + Lamplighter Ln,30.286303,-81.802658
+1638,8435 Normandy Blvd,30.289746,-81.791008
+1639,Normandy Blvd + Normandy Village Pkwy,30.294681,-81.776596
+1640,7900 Normandy Blvd,30.293318,-81.779343
+1657,Buckman St + 21st St,30.357901,-81.632782
+1658,Buckman St + 23rd St,30.359011,-81.632797
+1659,Buckman St + 24th St,30.359819,-81.632813
+1660,1150 27th St,30.361137,-81.639862
+1661,27th St + Haines St,30.361219,-81.636711
+1662,27th St + Buckman St,30.361280,-81.632988
+1663,1522 27th St,30.361271,-81.634369
+1664,24th St + Phoenix Ave,30.360153,-81.641182
+1665,3207 Phoenix Ave,30.358480,-81.641029
+1666,21st St + Haines St,30.357500,-81.636665
+1667,21st St + Bennett St,30.357586,-81.634995
+1668,21st St + Phoenix Ave,30.357414,-81.640648
+1669,21st St + Plateau St,30.357489,-81.638191
+1670,Phoenix Ave + 17th St,30.354660,-81.641228
+1671,Phoenix Ave + 17th St,30.354460,-81.641037
+1673,Phoenix Ave + 16th St,30.353500,-81.641052
+1674,Phoenix Ave + 15th St,30.352907,-81.641220
+1675,Phoenix Ave + 13th St,30.351410,-81.641022
+1676,Phoenix Ave + 12th St,30.350780,-81.641121
+1677,Phoenix Ave + 11th St,30.349590,-81.640968
+1678,Phoenix Ave + 10th St,30.348059,-81.640930
+1679,Phoenix Ave + 10th St,30.348116,-81.641106
+1680,Phoenix Ave + Winthrop St,30.347080,-81.640984
+1681,Phoenix Ave + Winthrop St,30.347250,-81.641113
+1682,Phoenix Ave + 8th St,30.345449,-81.641037
+1683,Phoenix Ave + 9th St,30.345900,-81.640923
+1684,A Philip Randolph Bl + Union St,30.330839,-81.642380
+1685,A Philip Randolph Blvd + Odessa St,30.332941,-81.642601
+1686,A Philip Randolph Blvd + Phelps St,30.334440,-81.642601
+1687,Florida Ave + 1st St,30.336581,-81.642150
+1688,Florida Ave + 4th St,30.340490,-81.642303
+1689,Florida Ave + 5th St,30.342131,-81.642303
+1690,1565 Florida Ave,30.343349,-81.642303
+1691,A Philip Randolph Blvd + Union St,30.331511,-81.642548
+1692,8th St + Main St,30.345695,-81.654264
+1693,Main St + 8th St,30.345980,-81.654038
+1694,Main St + 8th St,30.345570,-81.653908
+1695,8th St + Laura St,30.345909,-81.655373
+1698,8th St + Pearl St,30.346064,-81.658958
+1699,8th St + Boulevard St,30.346332,-81.660600
+1700,8th St + Boulevard St,30.346214,-81.660873
+1701,8th St + Pearl St,30.346149,-81.658180
+1702,8th St + UF HEALTH MEDICAL CENTER,30.346952,-81.665604
+1703,8th St + UF HEALTH MEDICAL CENTER,30.346991,-81.665222
+1704,Market St + 1st St,30.335699,-81.651863
+1705,Market St + 1st St,30.335670,-81.651970
+1707,Main St + 1st St,30.336960,-81.654808
+1709,Main St + 3rd St,30.338860,-81.654633
+1710,Main St + 4th St,30.340740,-81.654579
+1711,Main St + 6th St,30.343340,-81.654312
+1712,Main St + 6th St,30.342730,-81.654213
+1713,Main St + 10th St,30.348600,-81.653763
+1714,Main St + 10th St,30.348141,-81.653618
+1715,Main St + 12th St,30.351030,-81.653809
+1716,Main St + 12th St,30.350651,-81.653641
+1717,Main St + 16th St,30.353781,-81.653908
+1718,Main St + 17th St,30.353915,-81.653742
+1719,Main St + 21st St,30.356850,-81.653809
+1720,Main St + 22nd St,30.357920,-81.653923
+1721,Main St + 25th St,30.359751,-81.653549
+1722,Main St + 27th St,30.361071,-81.653549
+1723,Main St + 31st St. nb,30.362878,-81.653213
+1724,Main St + 32nd St,30.363636,-81.653321
+1725,Main St + Winona Dr,30.366067,-81.652714
+1726,Main St + 35th St,30.365080,-81.653137
+1727,Main St + 38th St,30.367630,-81.652519
+1728,Main St + 40th St,30.369683,-81.651755
+1729,Main St + 44th St,30.373154,-81.651482
+1730,Main St + 44th St,30.372219,-81.651268
+1731,Main St + 48th St,30.375088,-81.651108
+1732,Main St + 48th St,30.375957,-81.651364
+1733,Main St + Tallulah Ave,30.379295,-81.650368
+1734,Main St + Tallulah Ave,30.380196,-81.650394
+1735,Main St + 61st St,30.382881,-81.649423
+1736,Main St + 61st St,30.384095,-81.649347
+1737,69 Tallulah Ave,30.381950,-81.651810
+1738,Tallulah Ave + Main St,30.381439,-81.651352
+1739,Main St + 65th St,30.385991,-81.648599
+1741,Main St + Trout River Dr. (68TH),30.387745,-81.648381
+1742,Main St + Sycamore St,30.390129,-81.647522
+1743,Main St + Zoo Pkwy,30.403927,-81.649475
+1744,219 Tallulah Ave,30.384529,-81.655129
+1745,Tallulah Ave + 62nd St,30.384581,-81.655357
+1746,Tallulah Ave + 66th St,30.386810,-81.658089
+1747,Tallulah Ave + Lorain St,30.389021,-81.661110
+1748,Tallulah Ave + Lorain St,30.389021,-81.660896
+1749,380 Tallulah Ave,30.386986,-81.658485
+1750,Pearl St + 48th St,30.375730,-81.656601
+1751,Pearl St + 46th St,30.374611,-81.656761
+1752,Pearl St + 46th St,30.374239,-81.656609
+1753,Pearl St + 45th St,30.373159,-81.656570
+1754,Pearl St + 44th St,30.372850,-81.656753
+1755,Pearl St + 42nd St,30.371031,-81.656563
+1756,Pearl St + 40th St,30.369400,-81.656548
+1757,Pearl St + 36th St,30.366970,-81.656540
+1758,Pearl St + Fern St,30.365351,-81.656723
+1759,Pearl St + 30th St,30.362659,-81.657204
+1763,Edgewood Ave + Kenya St,30.391581,-81.664413
+1764,Edgewood Ave + Merle Dr,30.391430,-81.664070
+1765,48th St + Winn Dixie,30.375652,-81.654785
+1766,48th St + Silver St,30.375790,-81.654984
+1767,44th St + Springfield Blvd,30.372570,-81.657982
+1768,44th St + Springfield Blvd,30.372650,-81.657959
+1769,44th St + Twin Towers,30.372603,-81.660672
+1770,44th St + Twin Towers,30.372549,-81.660721
+1772,44th St + 41st St,30.371809,-81.662194
+1773,Gateway Hub,30.370084,-81.665104
+1774,Boulevard St + 8th St,30.346903,-81.661233
+1775,Boulevard St + 9th St,30.347548,-81.661041
+1778,Boulevard St + 11th St,30.350120,-81.660988
+1779,Boulevard St + 12th St,30.350503,-81.660934
+1780,Boulevard St + 16th St,30.353090,-81.661323
+1781,2969 Boulevard St + 16th St,30.353363,-81.661163
+1791,Golfair Blvd + Boulevard St.,30.362460,-81.661431
+1792,Golfair Blvd + Springfield Blvd.,30.362883,-81.662228
+1793,Golfair Blvd + 30th St,30.363509,-81.664047
+1797,Brentwood Ave + Woodbine St,30.365306,-81.663660
+1799,Brentwood Ave + Alder St,30.366646,-81.662872
+1800,Brentwood Ave + Alder St,30.366964,-81.662823
+1801,21st St + Saturn Ave,30.356951,-81.664192
+1802,21st St + Mars St,30.356930,-81.665939
+1803,Davis St + 23rd St,30.358450,-81.667320
+1804,Brick Rd + 25th St,30.359810,-81.667084
+1805,Brick Rd + 28th St,30.361980,-81.666199
+1806,30th St + Brick Rd,30.363216,-81.665352
+1808,Jefferson St + 6th St,30.344298,-81.662993
+1809,Jefferson St + 6th St,30.344391,-81.662849
+1810,Jefferson St + 1st St,30.338320,-81.663498
+1811,Jefferson St + 3rd St,30.339451,-81.663071
+1812,Jefferson St + 3rd St,30.339436,-81.663254
+1813,Jefferson St + 4th St,30.340969,-81.663101
+1814,Jefferson St + 4th St,30.341631,-81.662964
+1816,Norwood Ave + 44th St,30.369919,-81.663139
+1817,Norwood Ave + 44th St,30.370071,-81.663347
+1818,44th St + Norwood Ave,30.371504,-81.663201
+1819,5338 Norwood Ave,30.372200,-81.664520
+1820,5647 Norwood Ave,30.373341,-81.665237
+1821,5650 Norwood Ave,30.373320,-81.665352
+1822,Norwood Ave + Broxton St,30.376181,-81.667317
+1823,Norwood Ave + Escambia St,30.375320,-81.666809
+1824,Norwood Ave + Calvert St,30.377949,-81.668623
+1825,Norwood Ave + Kenmore St,30.377781,-81.668623
+1828,Norwood Ave + Essex St,30.379897,-81.670070
+1829,Norwood Ave + Ardmore St,30.380005,-81.670277
+1830,Norwood Ave + Carrollton Rd,30.381630,-81.671463
+1831,Norwood Ave + Carrollton Rd,30.381950,-81.672142
+1832,Lem Turner Rd + Ashton St,30.384516,-81.674382
+1833,Lem Turner Rd + Lem Turner Cir,30.384621,-81.674637
+1834,Lem Turner Rd + Lila Ave,30.386833,-81.676363
+1835,Lem Turner Rd + Lila Ave,30.386551,-81.676010
+1837,Lem Turner Rd + Rowe Ave,30.388479,-81.677528
+1838,Lem Turner Rd + Edgewood Ave,30.390801,-81.679077
+1839,Lem Turner Rd + Edgewood Ave,30.391330,-81.679575
+1840,Lem Turner Rd + Lake Forest Blvd,30.392401,-81.680183
+1841,Lem Turner Rd + Palmdale St,30.393162,-81.681267
+1842,Lem Turner Rd + Prospect St,30.399550,-81.683541
+1843,Lem Turner Rd + Prospect St,30.399759,-81.683777
+1844,Lem Turner Rd + Elm St,30.402100,-81.684151
+1845,Lem Turner Rd + Elm St,30.402380,-81.684433
+1848,Lem Turner Rd + Clyde Dr,30.406420,-81.686668
+1849,Lem Turner Rd + Clyde Dr,30.407026,-81.686788
+1855,Lem Turner Rd + Riverview School Rd,30.410891,-81.689278
+1856,Lem Turner Rd + Bayview Ave,30.413429,-81.691422
+1857,Lem Turner Rd + Woodland Ave,30.413971,-81.693069
+1858,Lem Turner Rd + Trout River Blvd,30.415239,-81.695000
+1859,Lem Turner Rd + Trout River Blvd,30.415569,-81.695572
+1860,Lem Turner Rd + Broward Rd,30.421329,-81.696228
+1861,Lem Turner Rd + Broward Rd,30.421459,-81.696426
+1864,Lem Turner Rd + Leonid Rd,30.429920,-81.694221
+1865,Lem Turner Rd + Tinsley Rd,30.430410,-81.694061
+1868,10939 Lem Turner Rd,30.434500,-81.695663
+1869,10972 Lem Turner Rd,30.435261,-81.696228
+1871,Lem Turner Rd + Dunn Ave,30.437370,-81.697090
+1872,Lem Turner Rd + Dunn Ave,30.438009,-81.697761
+1881,11893 Lem Turner Rd,30.451572,-81.704656
+1882,11830 Lem Turner Rd,30.450520,-81.704686
+1884,Dinsmore Tower Rd + Old Kings Rd,30.474174,-81.786211
+1885,Dunn Ave + New Kings Rd,30.440613,-81.762367
+1886,Dunn Ave + Wingate Rd,30.438511,-81.713730
+1887,Dunn Ave + Wingate Rd,30.438480,-81.709869
+1888,4134 Dunn Ave,30.438440,-81.714104
+1889,3737 Dunn Ave,30.438641,-81.708946
+1890,Dunn Ave + Dobson Dr,30.438690,-81.705383
+1891,Dunn Ave + Natalie Dr,30.438580,-81.704613
+1892,Dunn Ave + Lucas St,30.438641,-81.700829
+1893,Dunn Ave + Lem Turner Rd,30.438673,-81.698350
+1894,Dunn Ave + Lem Turner Rd,30.438841,-81.695183
+1895,2900 Dunn Ave,30.438709,-81.695473
+1897,Dunn Ave + Duval Rd,30.438860,-81.692879
+1898,Dunn Ave + Irma Rd,30.438921,-81.689217
+1899,Dunn Ave + Pine Estates Dr,30.438738,-81.689873
+1900,2436 Dunn Ave,30.438829,-81.686894
+1901,2455 Dunn Ave,30.438936,-81.686698
+1902,Dunn Ave + Pine Estates Rd,30.438919,-81.683098
+1903,Dunn Ave + Pine Estates Dr,30.439020,-81.682701
+1904,Dunn Ave + Armsdale Rd,30.439039,-81.678543
+1905,2100 Dunn Ave,30.438950,-81.679077
+1906,Dunn Ave + Mar Vic Ln,30.435081,-81.674993
+1907,US Social Security Administration Office,30.433817,-81.674759
+1908,US Social Security Administration Office,30.431287,-81.673591
+1909,1604 Dunn Ave,30.431152,-81.673784
+1910,Dunn Ave + Biscayne Blvd,30.429884,-81.671288
+1911,1440 Dunn Ave,30.429768,-81.670219
+1913,1291 Dunn Ave,30.429914,-81.666821
+1915,Dunn Ave + Briarcliff Rd,30.429810,-81.665207
+1916,1056 Dunn Ave,30.429840,-81.663101
+1917,1057 Dunn Ave,30.430000,-81.663147
+1918,Dunn Ave + Monaco Dr,30.429909,-81.660768
+1919,Dunn Ave + Regency Dr,30.430000,-81.660400
+1920,192 Busch Dr,30.429935,-81.650327
+1922,Busch Dr + Balmoral Dr,30.430169,-81.652755
+1923,Busch Dr + Yeager Rd,30.429197,-81.637367
+1924,Busch Dr + Yeager Rd,30.429064,-81.637505
+1925,FSCJ North Campus,30.427955,-81.716306
+1926,North Campus Blvd + Capper Rd,30.427771,-81.712913
+1927,North Campus Blvd + Penneykemp Rd,30.432100,-81.716011
+1928,North Campus Blvd + Penneykemp Rd,30.432230,-81.716209
+1929,North Campus Blvd + Key Adam Dr,30.435150,-81.716392
+1930,North Campus Blvd + Key Adam Dr,30.435360,-81.716400
+1931,North Campus Blvd + Dunn Ave,30.437790,-81.715797
+1932,North Campus Blvd + Dunn Ave,30.437820,-81.715897
+1934,JIA,30.490443,-81.682722
+1935,Airport Rd + Duval Rd,30.482062,-81.648605
+1936,Airport Rd + International Pkwy,30.483565,-81.658646
+1937,1372 Airport Rd,30.482986,-81.654974
+1938,Airport Rd + Ranch Rd,30.482283,-81.650576
+1939,River City Marketplace,30.478067,-81.640655
+1941,9181 Main St,30.406500,-81.649887
+1942,Main St + Broward Rd,30.401569,-81.649468
+1943,Main St + Broward Rd,30.401495,-81.649170
+1944,Zoo Pkwy + Parker Ave,30.406059,-81.646217
+1945,Interstate Center Dr + Clark Rd,30.414387,-81.659272
+1946,Interstate Center Dr + Clark Rd,30.414659,-81.658859
+1947,430 Interstate Center Dr,30.417851,-81.658630
+1948,435 Interstate Center Dr,30.417549,-81.658577
+1949,10325 Interstate Center Dr,30.422430,-81.658653
+1950,80 Interstate Center Dr,30.422998,-81.658760
+1951,Monaco Dr + Dunn Ave,30.428701,-81.659955
+1952,Monaco Dr + Beckner Ave,30.427250,-81.659912
+1953,Monaco Dr + Pheasant Dr,30.425430,-81.659843
+1954,Monaco Dr + Pheasant Dr,30.425150,-81.659897
+1955,Monaco Dr + Dunn Ave,30.428727,-81.659885
+1956,Edison Ave + Lime St,30.322809,-81.683578
+1957,Edison Ave + Lime St,30.322760,-81.684181
+1958,Edison Ave + Copeland St,30.322910,-81.686783
+1959,Edison Ave + Copeland St,30.322830,-81.687042
+1961,Edison Ave + Broward St,30.322929,-81.695152
+1962,Edison Ave + King St,30.322510,-81.696602
+1963,Edison Ave + Biggs St,30.323059,-81.693153
+1964,Edison Ave + Broward St,30.323021,-81.694717
+1965,Edison Ave + King St,30.322590,-81.696503
+1966,Edison Ave + McDuff Ave,30.323107,-81.704717
+1967,Edison Ave + Willow Branch Ave,30.322929,-81.702988
+1968,Edison Ave + Acosta St,30.322969,-81.692757
+1970,Edison Ave + Sunshine St,30.322750,-81.699387
+1972,Edison Ave + McDuff Ave,30.323010,-81.704376
+1973,2788 Edison Ave,30.322550,-81.698280
+1974,McDuff Ave + Lenox Ave,30.322201,-81.705498
+1975,3018 Lenox Ave,30.321951,-81.706436
+1976,3033 Lenox Ave,30.322029,-81.706688
+1977,Lenox Ave + Shearer Ave,30.321888,-81.707718
+1978,Lenox Ave + Shearer Ave,30.322020,-81.707932
+1979,Lenox Ave + Lenox Sq,30.321989,-81.710098
+1980,Lenox Ave + Day St,30.321951,-81.709999
+1981,Lenox Ave + Thompson St,30.321939,-81.715431
+1982,Lenox Ave + Melba St,30.321819,-81.718071
+1983,3333 Lenox Ave,30.321949,-81.713059
+1984,3530 Lenox Ave,30.321871,-81.715019
+1985,3336 Lenox Ave,30.321899,-81.713318
+1986,Cassat Ave + Waller St,30.320601,-81.730721
+1987,Cassat Ave + Rosselle St,30.318750,-81.730827
+1988,Cassat Ave + Rosselle St,30.318489,-81.730682
+1989,Lane Ave + Beaver St,30.325955,-81.751962
+1990,Lane Ave + Julie Ave,30.322120,-81.752164
+1991,Lane Ave + Highway Ave,30.320601,-81.751999
+1992,Lane Ave + Stuart Ave,30.318300,-81.752068
+1993,Lane Ave + Highway Ave,30.318390,-81.751854
+1994,Edgewood Ave + Edgewood Ct,30.325430,-81.730942
+1995,Edgewood Ave + Edgewood Ct,30.325100,-81.730728
+1996,Beaver St + King St,30.332920,-81.697601
+1997,Beaver St + King St,30.333120,-81.697197
+1998,Beaver St + Carrie St,30.333620,-81.693398
+1999,Beaver St + Carrie St,30.333838,-81.692940
+2000,2050 W Beaver St,30.333500,-81.694901
+2001,Beaver St + Baker Ave,30.334031,-81.690469
+2003,1820 Beaver St,30.334278,-81.690102
+2004,Beaver St + Rushing St,30.336210,-81.679100
+2005,Beaver St + Rushing St,30.336161,-81.678902
+2006,Beaver St + Acorn St,30.335375,-81.682420
+2007,Beaver St + Acorn St,30.335609,-81.682548
+2008,Beaver St + Tyler St,30.335856,-81.680483
+2009,Beaver St + Tyler St,30.335970,-81.680511
+2010,Beaver St + Myrtle Ave,30.336069,-81.675201
+2011,Beaver St + Myrtle Ave,30.336077,-81.674843
+2012,Beaver St + Eaverson St,30.335569,-81.673798
+2013,Beaver St + Eaverson St,30.334959,-81.671954
+2014,JTA Admin Building,30.331078,-81.676215
+2015,McDuff Ave + Beaver St,30.331589,-81.705513
+2016,McDuff Ave + Beaver St,30.331842,-81.705620
+2017,McDuff Ave + Strickland St,30.328333,-81.705620
+2018,McDuff Ave + Strickland St,30.329620,-81.705498
+2019,McDuff Ave + Rexford St,30.328125,-81.705437
+2038,Broadway Ave + Suemac Rd,30.332193,-81.758675
+2039,951 Suemac Rd,30.334801,-81.759102
+2040,Broadway Ave + Lane Ave,30.332054,-81.752319
+2041,6775 Commonwealth Ave,30.335649,-81.758301
+2042,6831 Commonwealth Ave,30.335661,-81.755997
+2043,Commonwealth Ave + Clayton Rd,30.335790,-81.754913
+2044,Commonwealth Ave + Lane Ave,30.335834,-81.751616
+2045,Commonwealth Ave + Lane Ave,30.335760,-81.752342
+2046,Commonwealth Ave + Ellis Rd,30.335840,-81.743897
+2047,5871 Commonwealth Ave,30.335963,-81.744349
+2048,Commonwealth Ave + Almeda St,30.336636,-81.699051
+2049,Commonwealth Ave + Penton St,30.336546,-81.700124
+2051,Commonwealth Ave + McDuff Ave,30.336660,-81.705276
+2052,Commonwealth Ave + McDuff Ave,30.336556,-81.704457
+2053,Commonwealth Ave + Westbrook Cir,30.336603,-81.702545
+2054,2416 Commonwealth Ave,30.336551,-81.702644
+2065,Lane Ave & Beaver St,30.326598,-81.752121
+2066,Commonwealth Ave + Melson Ave,30.336590,-81.723099
+2069,Commonwealth Ave + Detroit St,30.336630,-81.718102
+2070,Commonwealth Ave + Detroit St,30.336540,-81.718803
+2073,Commonwealth Ave + Edgewood Ave,30.336508,-81.730820
+2074,Commonwealth Ave + Edgewood Ave,30.336432,-81.729251
+2075,Commonwealth Ave + Edgewood Ave,30.336479,-81.728600
+2076,Commonwealth Ave + Hood Ave,30.336550,-81.725998
+2077,Commonwealth Ave + Hood Ave,30.336468,-81.725807
+2078,Commonwealth Ave + McTyre Ct,30.336595,-81.715106
+2088,12th St + Melson Ave,30.350601,-81.722829
+2089,Edgewood Ave + Rockwood Dr,30.329340,-81.730789
+2090,Edgewood Ave + Doolittle Rd,30.328979,-81.730987
+2091,Edgewood Ave + Broadway Ave,30.332291,-81.730888
+2092,Edgewood Ave + Broadway Ave,30.333019,-81.731133
+2093,Edgewood Ave + Commonwealth Ave,30.335484,-81.730904
+2094,Edgewood Ave + Commonwealth Ave,30.337810,-81.731216
+2095,Edgewood Ave + 1st St,30.340490,-81.731209
+2096,Edgewood Ave + Sunset St,30.341539,-81.730987
+2097,Edgewood Ave + 5th St,30.343740,-81.730987
+2098,Edgewood Ave + Acacia St,30.346661,-81.731003
+2099,Edgewood Ave + 20th St,30.355709,-81.731056
+2100,Edgewood Ave + Edward Ave,30.354160,-81.731278
+2101,Edgewood Ave + Edward Ave,30.353838,-81.731010
+2102,Edgewood Ave + Wacissa Ave,30.356489,-81.731232
+2105,Edgewood Ave + Shenandoah Ave,30.359980,-81.731117
+2106,Edgewood Ave + Shenandoah Ave,30.360340,-81.731354
+2107,Edgewood Ave + Ina St,30.363520,-81.730293
+2108,Edgewood Ave + New Kings Rd,30.370880,-81.723427
+2109,Edgewood Ave + New Kings Rd,30.371349,-81.722862
+2110,Edgewood Ave + Bagley Rd,30.372879,-81.719002
+2111,3111 Edgewood Ave,30.373939,-81.716362
+2112,3060 Edgewood Ave,30.373800,-81.716438
+2113,Edgewood Ave + Cleveland Rd,30.374954,-81.713562
+2114,Edgewood Ave + Greenes Pl,30.376230,-81.711349
+2115,Edgewood Ave + Floradale Dr,30.376379,-81.710991
+2118,Edgewood Ave + Carnation Rd,30.378927,-81.705818
+2119,Edgewood Ave + Carnation Rd,30.378775,-81.706116
+2120,Edgewood Ave + Iris Blvd,30.378929,-81.702942
+2121,Edgewood Ave + Avenue B,30.378897,-81.699059
+2122,Edgewood Ave + Avenue B,30.378756,-81.698669
+2125,Edgewood Ave + Moncrief Rd,30.380011,-81.695755
+2126,Edgewood Ave + Moncrief Rd,30.379801,-81.696243
+2127,Edgewood Ave + Diamond St,30.382389,-81.693077
+2128,Edgewood Ave + Diamond St,30.382090,-81.693291
+2129,1800 Edgewood Ave,30.385309,-81.688850
+2130,Edgewood Ave + Gainesville Ave,30.386601,-81.686653
+2131,Edgewood Ave + Bunker Hill Blvd,30.392451,-81.670368
+2132,Amtrak Station,30.366332,-81.721355
+2135,5906 New Kings Rd,30.369289,-81.723541
+2136,45th St + Westside Blvd,30.366305,-81.718377
+2137,45th St + Hilton St,30.367010,-81.717201
+2138,45th St + Vernon Rd,30.368998,-81.712349
+2139,45th St + Cleveland Rd,30.369844,-81.710417
+2140,Cleveland Rd + 45th St,30.369930,-81.710053
+2141,45th St + Calloway Cir,30.370270,-81.709297
+2142,45th St + Cleveland Rd,30.370150,-81.709900
+2143,45th St + Sunny Acres Dr,30.371210,-81.707298
+2144,45th St + C St,30.371391,-81.701485
+2145,2584 45th St,30.371405,-81.705849
+2146,45th St + Mays Dr,30.371450,-81.703720
+2147,45th St + Minosa Cir,30.371500,-81.704613
+2148,45th St + Avenue B,30.371500,-81.699402
+2149,2160 45th St,30.371473,-81.696205
+2150,45th St + Xavier Rd,30.371653,-81.693687
+2151,2026 45th St,30.371561,-81.693146
+2152,45th St + Avenue C St,30.371611,-81.701157
+2153,45th St + Spring Grove Ave,30.371620,-81.690323
+2154,45th St + Moncrief Rd,30.371663,-81.687875
+2155,45th St + Dodge Rd,30.371719,-81.688232
+2161,New Kings Rd + Moncrief Rd,30.392719,-81.736519
+2162,New Kings Rd + Lorida Ave,30.390341,-81.735207
+2163,New Kings Rd + Richardson Rd,30.381540,-81.730263
+2164,7157 New Kings Rd,30.385380,-81.732391
+2165,New Kings Rd + Soutel Dr,30.387744,-81.733673
+2166,Kings Rd + Seminary St,30.346371,-81.690002
+2167,Kings Rd + Spires Ave,30.345432,-81.687590
+2168,Kings Rd + Spires Ave,30.345862,-81.688435
+2169,Edward Waters College,30.344410,-81.684601
+2170,Edward Waters College,30.344459,-81.684998
+2171,Kings Rd + Cleveland St,30.338490,-81.670700
+2172,Kings Rd + Cleveland St,30.338739,-81.671303
+2173,Kings Rd + Fairfax St,30.345104,-81.686440
+2174,Kings Rd + Penton St,30.350140,-81.699707
+2175,Kings Rd + Penton St,30.350210,-81.699608
+2176,Kings Rd + Canal St,30.349159,-81.696892
+2177,Kings Rd + Flag St,30.348431,-81.695259
+2178,Kings Rd + Flag St,30.348480,-81.695106
+2179,Kings Rd + University St,30.346891,-81.691406
+2180,Kings Rd + University St,30.346895,-81.691097
+2181,Kings Rd + Tyler St,30.343411,-81.682404
+2182,Kings Rd + Tyler St,30.342880,-81.680695
+2183,Kings Rd + Whitner St,30.342510,-81.680130
+2184,Kings Rd + Blue Ave,30.342016,-81.678413
+2185,Kings Rd + Myrtle Ave,30.340679,-81.675056
+2186,Kings Rd + Wilcox St,30.341060,-81.676349
+2187,Fairfax St + 15th St,30.352511,-81.686272
+2188,Fairfax St + 17th St,30.353830,-81.686317
+2189,Fairfax St + 20th St,30.355711,-81.686371
+2190,Fairfax St + 20th St,30.356060,-81.686432
+2191,Fairfax St + 23rd St,30.357820,-81.686394
+2192,Fairfax St + 23rd St,30.358120,-81.686478
+2193,Fairfax St + 26th St,30.359871,-81.686401
+2194,Fairfax St + 16th St,30.353420,-81.686394
+2197,Myrtle Ave + 8th St,30.347080,-81.675598
+2198,2041 Myrtle Ave,30.349770,-81.675690
+2199,Myrtle Ave + Wolfe St,30.342011,-81.675629
+2200,Myrtle Ave + Hart St,30.341921,-81.675552
+2201,Myrtle Ave + 6th St,30.344360,-81.675697
+2202,Myrtle Ave + Steele St,30.344540,-81.675598
+2203,Myrtle Ave + 8th St,30.347630,-81.675751
+2204,Myrtle Ave + 11th St,30.349899,-81.675797
+2205,Myrtle Ave + 13th St,30.351120,-81.675751
+2206,Myrtle Ave + 13th St,30.351660,-81.675858
+2207,Myrtle Ave + 18th St,30.354851,-81.675941
+2208,Myrtle Ave + 19th St,30.354771,-81.675827
+2209,Myrtle Ave + 21st St,30.356520,-81.675880
+2210,Myrtle Ave + Moncrief Rd,30.359598,-81.675941
+2211,Myrtle Ave + 20th St,30.356560,-81.675949
+2212,8th St + Payne Ave,30.347389,-81.671081
+2214,Payne Ave + 8th St,30.347490,-81.671600
+2217,13th St + Connally Ave,30.351170,-81.695519
+2218,13th St + Palafox St,30.351230,-81.691773
+2219,13th St + Spires Ave,30.351238,-81.688644
+2220,13th St + Payne Ave,30.351450,-81.671402
+2221,13th St + Canal St,30.351302,-81.696906
+2223,13th St + McMillan St,30.351311,-81.691383
+2225,13th St + Spires Ave,30.351370,-81.688087
+2226,Division St + Kings Rd,30.351250,-81.701447
+2227,Division St + W 19th St,30.355156,-81.701472
+2228,Division St + 20th St,30.357519,-81.701471
+2229,Division St + 23rd St,30.357731,-81.701302
+2230,25th St + Division St,30.359497,-81.701558
+2231,Division St + 13th St,30.351877,-81.701302
+2234,Division St + Stinson St,30.355747,-81.701294
+2235,26th St + Spires Ave,30.360067,-81.688087
+2236,26th St + Canal St,30.359819,-81.697411
+2237,26th St + Almeda St,30.359870,-81.698413
+2238,Stuart St + 27th St,30.361124,-81.670776
+2239,Stuart St + 29th St,30.362261,-81.670647
+2240,Stuart St + 29th St,30.362581,-81.670822
+2241,Stuart St + Golfair Blvd,30.364244,-81.670716
+2242,Stuart St + Golfair Blvd,30.364061,-81.670798
+2243,Moncrief Rd + 36th St,30.366928,-81.681007
+2244,Almeda St + 25th St,30.359972,-81.698787
+2245,Almeda St + 30th St,30.362060,-81.698761
+2246,Almeda St + 30th St,30.362391,-81.698853
+2247,Almeda St + 33rd St,30.364389,-81.698799
+2248,Avenue B + D St,30.375380,-81.699028
+2249,Avenue B + Tuskegee Rd,30.373211,-81.699081
+2250,Avenue B + 41st St,30.368320,-81.699028
+2251,Avenue B + 33rd St,30.364840,-81.698998
+2252,Avenue B + 39th St,30.366030,-81.698837
+2253,Avenue B + 39th St,30.366749,-81.699081
+2254,Avenue B + 41st St,30.367886,-81.698799
+2255,Avenue B + 43rd St,30.369749,-81.698853
+2256,Avenue B + 43rd St,30.369631,-81.699051
+2257,Avenue B + 45th St,30.371328,-81.698853
+2258,Avenue B + 45th St,30.371584,-81.699051
+2259,Avenue B + Benedict Rd,30.377710,-81.699081
+2260,Avenue B + Butler Ave,30.377769,-81.699203
+2261,Avenue B + D St,30.375580,-81.699150
+2262,Avenue B + Tuskegee Rd,30.373039,-81.699013
+2263,Avenue B + Edgewood Ave,30.379620,-81.699120
+2264,Avenue B + Edgewood Ave,30.379330,-81.699203
+2265,25th St + Marland St,30.359560,-81.704002
+2266,Marlo St + 25th St,30.359751,-81.705101
+2267,Marlo St + 30th St,30.362209,-81.705162
+2268,Marlo St + 30th St,30.362026,-81.705032
+2269,Cleveland Rd + Bethlehem Steel,30.364669,-81.706285
+2271,Cleveland Rd + Anther Ct,30.372006,-81.711800
+2272,Cleveland Rd + Bunche Dr,30.366034,-81.706993
+2273,Cleveland Rd + Hamilton Cir,30.367323,-81.708145
+2274,Cleveland Rd + King Cole Dr,30.367720,-81.708359
+2276,Cleveland Rd + Edgewood Ave,30.374500,-81.713882
+2278,Cleveland Rd + McDaniel Dr,30.377594,-81.715752
+2279,Cleveland Rd + Francis Rd,30.376318,-81.714966
+2280,Cleveland Rd + Katanga Dr,30.378889,-81.716293
+2281,Cleveland Rd + Owen Ave,30.380991,-81.716080
+2282,Cleveland Rd + Trenton Dr,30.381189,-81.716164
+2283,Cleveland Rd + Santee Rd,30.384245,-81.715706
+2284,Cleveland Rd + Roth Dr,30.384399,-81.715843
+2285,Cleveland Rd + Moncrief Rd,30.386898,-81.715562
+2286,Cleveland Rd + Moncrief Rd,30.386700,-81.715553
+2287,Richardson Rd + Grann LLoyd Dr,30.387329,-81.724930
+2289,Moncrief Rd + Woodland St,30.354691,-81.672386
+2290,Moncrief Rd + 19th St,30.355265,-81.672712
+2291,Moncrief Rd + 22nd St,30.357242,-81.674105
+2292,2516 Moncrief Rd,30.352779,-81.671127
+2293,2535 Moncrief Rd,30.352711,-81.670929
+2294,Moncrief Rd + 21st St,30.356589,-81.673722
+2295,Moncrief Rd,30.361161,-81.676819
+2297,Moncrief Rd + 26th St,30.360936,-81.676773
+2298,Moncrief Rd + 30th St,30.362997,-81.678215
+2299,Moncrief Rd + 33rd St,30.364786,-81.679337
+2300,Moncrief Rd + 34th St,30.365810,-81.680290
+2301,Moncrief Rd + 36th St,30.367310,-81.681503
+2302,4821 Moncrief Rd,30.369400,-81.683060
+2303,Moncrief Rd + Glenvale Rd,30.370819,-81.685107
+2304,Moncrief Rd + 45th St,30.370845,-81.684852
+2305,Moncrief Rd + 45th St  ns,30.372562,-81.687927
+2306,4810 Moncrief Rd,30.369141,-81.682960
+2307,Moncrief Rd + Sycamore St,30.373369,-81.688530
+2308,Moncrief Rd + Meharry Ave,30.375018,-81.690047
+2309,Moncrief Rd + Edgewood Ave,30.380312,-81.695241
+2310,Moncrief Rd + Edgewood Ave,30.379681,-81.694679
+2311,Avenue B + Moncrief Rd,30.382282,-81.698982
+2312,Moncrief Rd + Dostie Dr,30.390329,-81.727501
+2313,Moncrief Rd + Richardson Rd,30.389695,-81.723992
+2314,Moncrief Rd + Soutel Dr,30.391550,-81.730202
+2316,Moncrief Rd + Ken Knight Dr,30.387885,-81.716268
+2318,Moncrief Rd + Cleveland Rd,30.388016,-81.716729
+2322,Van Gundy Rd + Champlain Rd,30.390369,-81.701859
+2323,Van Gundy Rd + Restlawn Dr,30.390883,-81.697487
+2324,Champlain Rd + Van Gundy Rd,30.390390,-81.702171
+2325,Champlain Rd + Winton Dr,30.391859,-81.703148
+2326,3507 Winton Dr,30.391115,-81.704559
+2327,3516 Winton Dr,30.390453,-81.705376
+2328,3535 Winton Dr,30.389910,-81.706352
+2329,Winton Dr + Champlain Rd,30.391810,-81.703323
+2330,Winton Dr + Ribault Scenic Dr,30.388963,-81.708481
+2331,Ribault Scenic Dr + Winton Dr,30.388839,-81.708170
+2332,3726 Ribault Scenic Dr,30.390030,-81.709534
+2333,Ribault Scenic Dr + Elbert Ave,30.390840,-81.710510
+2334,3610 Ribault Scenic Dr,30.391390,-81.710899
+2335,Ribault Scenic Dr + Howell Dr,30.392635,-81.712204
+2336,Howell Dr + Harbor View Dr,30.395855,-81.714600
+2337,Howell Dr + Clyde Dr,30.398451,-81.715912
+2338,Howell Dr + Harbor View Dr,30.396110,-81.714790
+2339,Clyde Dr + Howell Dr,30.398340,-81.716263
+2340,Clyde Dr + Darlington Dr,30.398769,-81.719193
+2341,Clyde Dr + Darlington Dr,30.398701,-81.718903
+2342,Clyde Dr + Rochdale Rd,30.400499,-81.722076
+2343,8767 Norfolk Blvd,30.400660,-81.719719
+2344,8951 Norfolk Blvd,30.402760,-81.719803
+2345,Norfolk Blvd + Portsmouth Ave,30.407440,-81.722252
+2346,Norfolk Blvd + Soutel Dr,30.404619,-81.720673
+2347,Norfolk Blvd + Suffolk Ave,30.406389,-81.721741
+2348,Portsmouth Ave + Waynesboro Ave,30.407671,-81.718613
+2349,Roanoke Blvd + Aberdare Ave,30.410259,-81.722710
+2350,Roanoke Blvd + Norfolk Blvd,30.410311,-81.724037
+2351,4615 Roanoke Blvd,30.410231,-81.719193
+2352,Devonshire Blvd + Soutel Dr,30.400387,-81.723679
+2353,Devonshire Blvd + Fredericksburg Ave,30.402060,-81.726349
+2354,Devonshire Blvd + Doncaster Ave,30.407200,-81.729401
+2355,Devonshire Blvd + Portsmouth Ave,30.405821,-81.728561
+2356,9104 Devonshire Blvd,30.403170,-81.727837
+2369,Soutel Dr + Moncrief Rd,30.392700,-81.729656
+2370,5001 Soutel Dr,30.394757,-81.728001
+2371,5131 Soutel Dr,30.395054,-81.727881
+2372,Soutel Dr + Leander J Shaw Jr Dr,30.397428,-81.725832
+2374,Soutel Dr + Castle Blvd,30.399850,-81.723998
+2375,4821 Soutel Dr,30.401119,-81.722959
+2376,Soutel Dr + Clyde Dr,30.400961,-81.722961
+2377,4750 Soutel Dr,30.402775,-81.721514
+2378,4809 Soutel Dr,30.403066,-81.721384
+2381,4338 Soutel Dr,30.404218,-81.716202
+2382,4409 Soutel Dr,30.404311,-81.715669
+2383,Soutel Dr + Gibson Ave,30.404359,-81.713269
+2384,Soutel Dr + Victoria Landing Dr,30.404270,-81.712700
+2385,3936 Soutel Dr,30.404341,-81.711189
+2386,3730 Soutel Dr,30.404395,-81.708724
+2387,Soutel Dr + Ridge Blvd,30.404505,-81.707485
+2388,Soutel Dr + Camphor Dr,30.404421,-81.706528
+2389,Soutel Dr + Wilton Ave,30.404591,-81.703949
+2390,Soutel Dr + Dogwood Rd,30.404470,-81.703903
+2391,3304 Soutel Dr,30.404539,-81.702179
+2392,Soutel Dr + Lingard Ave,30.404640,-81.701569
+2393,Soutel Dr + Livingston Ave,30.404850,-81.699417
+2394,3105 Soutel Dr,30.405050,-81.699127
+2395,Soutel Dr + Ribault Ave,30.405559,-81.697517
+2396,Soutel Dr + 9th Ave,30.406950,-81.694550
+2397,Soutel Dr + 9th Ave,30.406700,-81.694878
+2398,Soutel Dr + 5th Ave,30.407820,-81.692223
+2399,Soutel Dr + 6th Ave,30.407989,-81.692131
+2400,Soutel Dr + 2nd Ave,30.409090,-81.689484
+2401,Soutel Dr + Lem Turner Rd  ns,30.408760,-81.689941
+2402,Soutel Dr + Ribault Ave,30.405939,-81.697037
+2403,Fouraker Rd + Old Middleburg Rd,30.262619,-81.781036
+2404,9500 103rd St,30.247646,-81.812637
+2405,Atlantic Blvd + Seminole Rd,30.324661,-81.405807
+2406,Walmart on Monument,30.341057,-81.546882
+2407,3rd Ave + 3rd St,30.285450,-81.390529
+2408,Paxon High School,30.344459,-81.722802
+2410,Payne Ave + 13th St,30.351219,-81.671593
+2411,University Blvd + Fort Caroline Rd,30.361585,-81.605958
+2412,48th St + Main St,30.375416,-81.652031
+2413,San Marco Blvd + Prudential Dr,30.316566,-81.660534
+2417,Southside Blvd + Buncome Rd,30.284203,-81.558823
+2418,Kona Ave + Bowlan St,30.322870,-81.570648
+2419,Bowlan St + Atlantic Blvd,30.314350,-81.569107
+2420,3410 Southside Blvd,30.283890,-81.559547
+2421,Southside Blvd Service Rd + Cargal St,30.282591,-81.559552
+2422,Merrill Rd + Townsend Blvd  ns,30.351919,-81.579781
+2423,University Blvd + Ft Caroline,30.362951,-81.606443
+2424,Merrill Rd + Townsend Blvd  fs,30.352060,-81.579460
+2425,Merrill Rd + Rogero Rd,30.351851,-81.588475
+2427,Merrill Rd + Oakcove Ln,30.351900,-81.590248
+2429,26th St + Canal St,30.359900,-81.696991
+2430,A Phillip Randolph Blvd + 1st St,30.336300,-81.642578
+2432,A Phlillp Randolph Blvd + 1st St,30.335581,-81.642700
+2433,Lane Ave + Doolittle Rd,30.328450,-81.751925
+2434,Agmac Ave + Broadway Ave,30.330587,-81.749017
+2435,Broadway Ave + Lane Ave,30.332205,-81.751799
+2436,Agmac Ave + Doolittle Ave,30.330497,-81.749088
+2437,Blanding Blvd + 103rd St,30.246558,-81.742875
+2444,2360 St John Bluff,30.306938,-81.526268
+2445,South Beach Regional 1,30.257470,-81.390383
+2446,South Beach Regional,30.257441,-81.391872
+2447,South Beach Parkway Plaza,30.254078,-81.389732
+2452,Blanding Blvd + Maggies Ln,30.231113,-81.738960
+2453,Blanding Blvd + 118th St,30.231186,-81.738663
+2454,Regency Square Blvd + Home Depot,30.327888,-81.548924
+2455,Justina Rd + Techwood Dr,30.352814,-81.599175
+2456,1139 Kendall Town,30.340249,-81.548987
+2457,1150 Kendall Town,30.340592,-81.549165
+2458,University Blvd + Ft Caroline Rd,30.362387,-81.606342
+2459,Normandy Blvd + Ellis Rd,30.308179,-81.744651
+2460,Moncrief Rd + 23rd St,30.358306,-81.674927
+2462,Jefferson St + State St,30.334907,-81.664513
+2464,Cassat Ave + Tunis St,30.295311,-81.730386
+2465,Cassat Ave + Prunty Ave,30.299252,-81.730393
+2467,6600 Youngerman Cir,30.197407,-81.749100
+2468,6500 Youngerman Cir,30.197012,-81.746498
+2472,Blanding Blvd + Collins Rd,30.205273,-81.739650
+2473,6601 Youngerman Cir,30.197613,-81.749184
+2474,McDuff Ave + Burke St,30.326967,-81.705566
+2475,Fairfax St + 13th St,30.351461,-81.686417
+2476,45th St + Longleaf St,30.368389,-81.713860
+2477,Cleveland Rd + 45th St,30.369318,-81.709688
+2478,Beach Blvd + St Johns Bluff Rd,30.286786,-81.526888
+2487,Division St + 25th St,30.359430,-81.701408
+2488,Marlo St + Bethlehem Steel,30.364363,-81.706039
+2489,Jammes Rd + Lucente Dr,30.276538,-81.747762
+2490,Jammes Rd + Jammes Ap,30.273268,-81.747677
+2491,9001 Bridier St,30.334339,-81.637932
+2492,Myrtle Ave + State St,30.339508,-81.675636
+2493,University Blvd + San Jose Blvd,30.260931,-81.643669
+2505,3802 Toledo Rd,30.249977,-81.621269
+2506,St Augustine Rd + Dupont Ave,30.255421,-81.626175
+2507,3874 Toledo Rd,30.251757,-81.618172
+2508,Broward Rd + Motel Pl,30.410355,-81.661079
+2509,Commonwealth Ave + Melson Ave,30.336516,-81.722780
+2511,San Marco Blvd + Riviera St,30.307119,-81.660126
+2514,San Marco Blvd + Laverne St,30.306873,-81.660141
+2515,Kernan Blvd + Gehrig Dr,30.276732,-81.494102
+2516,Kernan Blvd + Hunters Haven Ln,30.271565,-81.495079
+2517,St Johns Bluff Rd + New Covenant Way,30.306955,-81.525885
+2518,UNF Dr + Alumni Dr,30.264017,-81.507843
+2519,Southside Blvd Service Rd + Cargal St,30.280196,-81.559467
+2520,3190 Edgewood Ave,30.372454,-81.719597
+2521,Edgewood Ave + Iris Blvd,30.378794,-81.703224
+2522,Moncrief Rd + Rowe Ave,30.376656,-81.691520
+2523,9940 Atlantic Blvd,30.322618,-81.540591
+2524,Plaza St + Amberjack Ln,30.332871,-81.414115
+2525,Atlantic Blvd + Jork Rd,30.310045,-81.611980
+2526,Moncrief Rd + Rutledge,30.375197,-81.690086
+2527,Moncrief Rd + Rowe,30.376936,-81.691605
+2528,Riverside Ave + Jackson St,30.322840,-81.671967
+2529,St Augustine Rd + Cadiz Ave,30.251026,-81.626129
+2530,45th Street + Avenue B,30.371569,-81.698891
+2531,Eve Dr + Anders Blvd,30.277815,-81.557510
+2532,Eve Dr + Banks Rd,30.275080,-81.557945
+2534,6622 Broadway Ave,30.332045,-81.755302
+2535,720 Suemac Rd,30.332201,-81.759102
+2536,Lane Ave + Bambi Ln,30.255018,-81.758461
+2537,Lane Ave + Wilson Blvd fs,30.271148,-81.756307
+2538,1890 Lane Ave,30.284375,-81.755201
+2539,427 Lane Ave,30.320070,-81.751877
+2540,Beaver St + Robinson Ave,30.334308,-81.688719
+2541,North Campus Blvd + Capper Rd,30.428530,-81.712788
+2542,Dunn Ave + Lem Turner Rd,30.438755,-81.698921
+2543,Wonderwood Dr + SR A1A,30.366051,-81.427367
+2545,McCormick Rd + Ft Caroline Rd,30.357248,-81.516896
+2546,St Johns Bluff Rd + Executive Dr,30.351030,-81.523827
+2547,Atlantic Blvd + Corporate Square Blvd,30.314724,-81.562050
+2548,Bowlan St + Kona Ave,30.322720,-81.569687
+2549,9380 103rd St,30.247616,-81.809158
+2550,Acme St + Jasper Ave,30.321655,-81.572922
+2551,Atlantic Blvd + Atlantic Village,30.324604,-81.412169
+2552,Mayport Rd + Dutton Island Rd,30.340620,-81.413178
+2557,Mayport Rd + Fleet Landing Blvd,30.351793,-81.413536
+2558,Mayport Rd + Bull Dairy Rd,30.343510,-81.413239
+2560,Mayport Rd + SR A1A,30.354162,-81.413567
+2561,SR A1A + Bayshore Dr,30.367201,-81.426982
+2562,Wonderwood Dr + Regas Dr,30.366306,-81.421967
+2563,Wonderwood Dr + Jackie Ln,30.366982,-81.419388
+2564,Atlantic Village,30.324352,-81.411805
+2565,Soutel Dr & Leander J Shaw Jr Dr,30.397352,-81.726031
+2567,7003 Wilson Blvd,30.270029,-81.761955
+2568,3660 Fouraker Rd,30.268860,-81.781326
+2569,7064 Wilson Blvd,30.269876,-81.761559
+2571,Jefferson St + 8th St,30.346118,-81.662672
+2573,Lem Turner Rd + Bessent Dr,30.423920,-81.695442
+2574,103rd St + Ricker Rd,30.248136,-81.772517
+2575,St Johns Ave + Ingleside Ave,30.296362,-81.704178
+2577,Timuquana Rd + Lynn St,30.248087,-81.736099
+2578,27th St + Chase Ave,30.360952,-81.675725
+2580,Edgewood Ave + Fernandina Ave,30.388117,-81.683922
+2582,Edgewood Ave + Lem Turner Rd   fs,30.390143,-81.680671
+2583,Edgewood Ave + Orlando Ave,30.388960,-81.682770
+2584,Edgewood Ave + Lake Park Dr,30.386421,-81.687103
+2585,Edgewood Ave + Lake Park Dr,30.385290,-81.689039
+2587,Atlantic + Sherry St,30.324696,-81.400685
+2590,San Jose Blvd + Addie Ln,30.163662,-81.632721
+2591,Florida Ave + 3rd St,30.338600,-81.642303
+2592,Maine St + Macon St,30.393615,-81.416453
+2593,Maine St + Patrol Rd,30.397367,-81.415243
+2594,Maine St + Patrol Rd,30.396828,-81.415392
+2595,Maine St + Moale Ave,30.382662,-81.410921
+2596,St Johns Ave + Talbot Ave,30.297628,-81.702927
+2597,Lem Turner Rd + Bessent Rd,30.424302,-81.695580
+2600,6727 Broadway Ave,30.332201,-81.755547
+2601,Commonwealth Ave + Peavy Rd,30.335882,-81.746255
+2603,45th St + Voorhies Rd,30.371691,-81.690460
+2605,Hendricks Ave + Emerson St,30.284729,-81.651009
+2606,Main St + 1st St,30.337904,-81.654916
+2607,Ocean St + Minorcan Way,30.390891,-81.432152
+2608,Ocean St + Minorcan Way,30.391249,-81.432022
+2609,Wonderwood Dr + Regas Dr,30.367844,-81.417984
+2610,Atlantic Blvd + San Pablo Rd,30.321033,-81.451126
+2611,Deercreek Club Rd + Southside Blvd,30.189681,-81.552943
+2614,Moncrief Rd + Price Rd,30.390274,-81.727150
+2615,Palm Ave + Prudential Dr,30.316131,-81.662133
+2616,Palm Ave + Prudential Dr,30.316181,-81.662262
+2619,Carmichael Ave + Executive Center Dr,30.303429,-81.619362
+2620,Lasalle St + Naldo Ave,30.308869,-81.655510
+2621,Lasalle St + San Marco Blvd,30.308860,-81.660326
+2622,Lasalle St + Laure Ave,30.308815,-81.659444
+2623,Lasalle St + Hendricks Ave,30.308825,-81.654944
+2624,Kings Ave + Fulton Pl,30.308641,-81.647858
+2625,Kings Ave + Manning St,30.311062,-81.652245
+2626,Kings Ave + Edwin St,30.310677,-81.651779
+2627,Kings Ave + Fulton Pl,30.308598,-81.648041
+2628,Forest Blvd + Antioch Rd,30.282420,-81.544112
+2629,Forest Blvd + Beach Blvd,30.286067,-81.544156
+2630,Forest Blvd + Beach Blvd,30.285969,-81.544197
+2631,Forest Blvd + Antioch Rd,30.282660,-81.544167
+2632,Huffman Blvd + Tulip Cir,30.294447,-81.504883
+2633,Huffman Blvd + Tulip Cir,30.294632,-81.505043
+2634,Huffman Blvd + Alden Rd,30.301907,-81.505035
+2635,103rd St + Firestone Rd,30.248489,-81.764893
+2636,103rd St + Ricker Rd,30.248371,-81.772823
+2637,Alden Rd + Huffman Blvd,30.302038,-81.505371
+2638,Alden Rd + Sandalwood Dr,30.301582,-81.516266
+2639,Alden Rd + Sandalwood Dr,30.301386,-81.515327
+2640,Alden Rd + St Johns Bluff Rd,30.301041,-81.525536
+2641,Alden Rd + St Johns Bluff Rd,30.301258,-81.525719
+2644,Baymeadows Way + Baymeadows Way W,30.231768,-81.584221
+2645,Baymeadows Way + Baycenter Dr,30.229466,-81.583240
+2646,Timuquana Rd + Catoma St,30.247501,-81.722427
+2647,Timuquana Rd + Catoma St,30.247330,-81.722458
+2648,Craven Rd + Sunbeam Rd,30.206262,-81.600294
+2649,Craven Rd + Sunbeam Rd,30.206556,-81.600200
+2650,Craven Rd + Craven Rd,30.216013,-81.601753
+2651,Craven Rd + Craven Rd,30.215155,-81.602171
+2652,Craven Rd + Baymeadows Rd,30.220068,-81.600291
+2653,Craven Rd + Baymeadows Rd,30.219827,-81.600301
+2654,Merrill Rd + Cesery Blvd,30.351650,-81.596611
+2655,Merrill Rd + Cesery Blvd,30.351778,-81.596939
+2665,Edgewood Ave + 12th St,30.350832,-81.730896
+2667,Timuquana Rd + Marathon Pwky,30.247347,-81.726997
+2668,Timuquana Rd + Marathon Pwky,30.247439,-81.726638
+2669,Lenox Ave + Melba St,30.321901,-81.718056
+2670,Blanding Blvd + Confederate Pt,30.266913,-81.737724
+2671,Blanding Blvd + Harlow Blvd,30.262062,-81.740028
+2672,Blanding Blvd + Claret Dr,30.253494,-81.743065
+2673,Blanding Blvd + Wesconnett Blvd,30.235968,-81.739784
+2674,Blanding Blvd + Goodman St,30.241446,-81.741837
+2675,Blanding Blvd + 103rd St  fs,30.249227,-81.742988
+2676,Blanding Blvd + Claret Dr,30.253307,-81.742973
+2677,Blanding Blvd + Wesconnett Blvd,30.262316,-81.739792
+2678,Old Middleburg Rd + McGlothin St,30.252527,-81.785736
+2679,Old Middleburg Rd + Noroad,30.255344,-81.785843
+2680,Old Middleburg Rd + Steamboat Springs Dr,30.258484,-81.783890
+2685,Commonwealth Ave + Lafayette Dr,30.336088,-81.739410
+2686,Commonwealth Ave + Reynolds Ln,30.336229,-81.735344
+2687,Commonwealth Ave + Odessa Dr,30.336162,-81.739880
+2688,Commonwealth Ave + Reynolds Ln,30.336330,-81.735138
+2689,Edgewood Ave + 12th St,30.349896,-81.731271
+2690,Edgewood Ave + Lucille Dr,30.347812,-81.731259
+2691,5th St + Huron St,30.343748,-81.714340
+2692,Edgewood Ave + McLendon St,30.362762,-81.730911
+2693,Edgewood Ave + Lem Turner Rd,30.390733,-81.679533
+2694,Edgewood Ave + Calvin St,30.392178,-81.674660
+2695,Edgewood Ave + Calvin St,30.392387,-81.674843
+2696,Edgewood Ave + Bunker Hill Blvd,30.392361,-81.669960
+2697,26th St + Fairfax St,30.360011,-81.686714
+2700,Florida Ave + 3rd St,30.338301,-81.642158
+2701,Florida Ave + 5th St,30.341860,-81.642197
+2702,Broward Rd + Motel Pl,30.410570,-81.661285
+2703,A Philip Randolph + Odessa St,30.332710,-81.642479
+2704,8th St + Florida Ave,30.345024,-81.641874
+2705,Commonwealth Ave + Superior St,30.336627,-81.709504
+2706,Commonweatlh Ave + Superior St,30.336697,-81.709217
+2707,Commonweatlh Ave + Huron St,30.336684,-81.714816
+2708,Square Lake Blvd + Target,30.194793,-81.550355
+2709,Moncrief Rd + Restlawn Dr,30.382442,-81.698952
+2710,Moncrief Rd + Raines Ave,30.383282,-81.705208
+2711,Moncrief Rd + Robert C Weaver Dr,30.385719,-81.711433
+2712,Moncrief Rd + Winton Dr,30.386091,-81.712517
+2713,Moncrief Rd + Raines Ave,30.383223,-81.705429
+2714,Moncrief Rd + Restlawn Dr,30.382282,-81.698883
+2717,Roanoke Ave + Evesham Rd,30.408892,-81.728432
+2718,Bridier St + Jessie St,30.334124,-81.637848
+2719,1st St + Van Buren St,30.336517,-81.641083
+2720,1st St + Van Buren St,30.336442,-81.640976
+2721,1st St + Ionia St,30.335895,-81.647186
+2722,1st St + Ionia St,30.335783,-81.647194
+2723,1st St + Liberty St,30.336128,-81.650230
+2724,1st St + Liberty St,30.336029,-81.650238
+2725,Myrtle Ave + State St,30.339313,-81.675781
+2726,Richardson Rd + Vermont Rd,30.385223,-81.725281
+2727,Dundas Dr + Busch Dr,30.429250,-81.648463
+2730,Arlington Rd + Bernita St,30.333523,-81.599518
+2731,Cesery Blvd + Arlington Expwy,30.327751,-81.597046
+2734,Post St + Willow Branch Ave,30.314184,-81.703133
+2735,Old Middleburg Rd + 103rd St,30.249298,-81.785651
+2736,27th St + Chase Ave,30.360922,-81.673945
+2737,Deerwood Park + Centurion Pwky,30.241654,-81.546297
+2738,Deerwood Park + Centurion Pwky,30.246196,-81.543187
+2739,Deerwood Park Blvd + Centurion Pwky,30.246006,-81.543548
+2740,Deerwood Park Blvd + Centurion Pwky,30.241878,-81.546429
+2742,Lane Ave + Watergate Ln,30.294508,-81.753286
+2743,Main St + Moale Ave,30.383483,-81.410872
+2745,Restlawn Dr + Palmdale St,30.388769,-81.696953
+2746,Timuquana Rd + Seaboard Ave,30.247404,-81.730576
+2747,Bonneval Rd + Windsor Falls Dr,30.243238,-81.593750
+2748,Merrill Rd + Wedgefield Blvd,30.352280,-81.568588
+2749,Edgewood Ave + 5th St,30.344059,-81.731238
+2751,Myrtle Ave + Forsyth St  fs,30.330847,-81.676182
+2752,College St + James St,30.313992,-81.698761
+2753,College St + King St,30.314030,-81.696472
+2754,Forsyth St + Jefferson St,30.328427,-81.667432
+2755,Myrtle Ave + 24th St,30.358650,-81.676063
+2758,College St + Stockton St,30.314842,-81.689377
+2759,College St + Copeland St,30.315586,-81.685417
+2768,Rosa Parks Station Bay G,30.333442,-81.658857
+2769,Rosa Parks Station Bay H,30.333263,-81.658888
+2770,Rosa Parks Station Bay I,30.333090,-81.658936
+2851,Broad St + State St,30.336435,-81.662743
+2852,Broad St + State St,30.335817,-81.663079
+2854,Pearl St. & 40th St.,30.369690,-81.656708
+2855,Pearl St. & Long Branch Blvd.,30.365642,-81.656952
+2856,Pearl St. & Basswood St.,30.363430,-81.657219
+2857,Pearl St. & Golfair Blvd.,30.361597,-81.657684
+2858,21st St. & Flanders St.,30.357031,-81.662338
+2859,21st St. & Brentwood Ave.,30.357031,-81.665299
+2860,Brick Rd. & opp. 25th St.,30.359684,-81.666969
+2862,Brick Rd. & 30th St.,30.362961,-81.665642
+2864,26th St. & opp. Charles St. fs eb,30.359971,-81.689738
+2865,Boulevard St + MLK Pkwy,30.356167,-81.661353
+2866,Boulevard St + MLK Pkwy,30.356453,-81.661264
+2867,Lem Turner Rd + Rowe Ave,30.388159,-81.677448
+2868,Lem Turner Rd + Bassett Rd,30.411105,-81.689245
+2869,Lem Turner Rd + Capper Rd,30.427512,-81.694581
+2870,Lem Turner Rd + Capper Rd,30.427244,-81.694437
+2933,Museum Cir + Main St,30.318458,-81.659778
+2934,Riverplace Blvd + Flagler Dr,30.318489,-81.655987
+2935,Museum Cir + Main St,30.318639,-81.660119
+2936,River Place Blvd. & Flagler Ave. eb,30.318577,-81.656153
+2937,Bay St. & Jefferson St. fs wb,30.327707,-81.667360
+2950,Edgewood Ave. & Cleveland Rd.,30.374941,-81.713982
+2957,Soutel Hub,30.397661,-81.726478
+3015,Old Baymeadows Rd. & Southside Blvd. fs,30.220875,-81.553131
+3016,Freedom Commerce Pkwy & Liberty Ridge Dr,30.215025,-81.572525
+3024,Southside Blvd. & opp. Square Lake Blvd.,30.195406,-81.551881
+3025,Philips Highway PNR (TEMP),30.245487,-81.601187
+3027,Philips Hwy. & Baymeadows Rd. fs nb,30.221908,-81.586205
+3028,8590 Baymeadows Rd mid eb,30.220711,-81.579376
+3029,Prominence Pkwy & Baymeadows Rd. fs,30.219953,-81.574608
+3030,8335 Freedom Crossing Trail mid wb,30.213310,-81.577637
+3031,8535 Baymeadows Rd. mid wb,30.220907,-81.579781
+3032,Philips Park & Ride southbound (TEMP),30.245767,-81.601822
+3037,Armsdale Park-N-Ride Lot,30.453843,-81.703104
+3038,Old Baymeadows Rd. & Baymeadows Rd.,30.220903,-81.557098
+3042,Ribault & Rogers St. sb ns,30.410967,-81.697356
+3043,Amazon Warehouse Pecan Park,30.465639,-81.678657
+3050,Town Center Pkwy + Midtown Pkwy,30.259558,-81.529340
+3051,Town Center Pkwy + Big Island Dr,30.255246,-81.531280
+3057,Chester Ave & Taylor Residences NB FS,30.257877,-81.621724
+3058,Soutel Dr. & Moncrief Rd.,30.392319,-81.731593
+3059,Baymeadows Rd and Old Kings EB FS,30.220579,-81.591738
+3060,103rd St and La Ventura WB FS,30.248460,-81.768952
+3063,Gate Pkwy & Burnt Mill Rd EB FS,30.244130,-81.534168
+3064,Gate Pkwy & Burnt Mill Rd WB FS,30.244302,-81.533884
+3065,Gate Pkwy & Yellow Fin Dr EB FS,30.245306,-81.529426
+3066,Gate Pkwy & OPP Yellow Fin Dr WB FS,30.244989,-81.530265
+3067,Gate Pkwy & Downshire Way EB FS,30.247729,-81.525032
+3068,Gate Pkwy & OPP Downshire Way WB FS,30.248042,-81.525886
+3069,Gate Pkwy & Burnt Mill Rd EB FS,30.241635,-81.520064
+3070,Gate Pkwy & Burnt Mill Rd WB FS,30.242402,-81.519706
+3071,Gate Pkwy & Point Meadows Rd WB FS,30.237171,-81.519061
+3072,Gate Pkwy & Point Meadows,30.236300,-81.518496
+3073,Baymeadows Rd E & Lake Mead Ave NB FS,30.232510,-81.510091
+3074,Baymeadows Rd E & Muir Woods Ave SB FS,30.232907,-81.510374
+3075,Gate Pkwy & Ozark Dr EB NS,30.235946,-81.511971
+3076,Gate Pkwy & OPP Ozark Dr WB FS,30.236245,-81.511313
+3077,Baymeadows Rd E & R G Skinner Pkwy SB FS,30.216685,-81.510463
+3078,Baymeadows Rd E & R G Skinner Pkwy NB FS,30.217597,-81.509302
+3079,Baymeadows Rd E & Sweetwater Pkwy SB FS,30.221047,-81.509328
+3080,Baymeadows Rd E & Sweetwater Pkwy NB FS,30.221675,-81.508252
+3081,Baymeadows Rd E & Stonebridge Vil SB FS,30.228304,-81.509383
+3082,Baymeadows Rd E & OPP Stonebridge Vil NB FS,30.228710,-81.509339
+3083,Baymeadows Rd E & 9A/Baymeadows Regional Park SB F,30.224781,-81.506261
+3084,Baymeadows Rd E & 9A/Baymeadows Regional Park NB F,30.225541,-81.505984
+3085,Baymeadows Rd & Reedy Branch Dr EB FS,30.215676,-81.519499
+3086,Baymeadows Rd & Point Meadows Dr WB FS,30.216011,-81.520412
+3087,Baymeadows Rd & Hampton Landing Dr EB FS,30.215439,-81.527271
+3088,Baymeadows Rd & OPP Hampton Landing Dr WB FS,30.215762,-81.528210
+3089,Baymeadows Rd & Hampton Ridge Blvd EB FS,30.215212,-81.538896
+3090,Baymeadows Rd & Hampton Ridge Blvd WB FS,30.215564,-81.539906
+3091,Baymeadows Rd & Baymeadows Apts EB FS,30.215767,-81.545100
+3092,Baymeadows Rd & OPP Baymeadows Apts WB FS,30.216410,-81.545567
+3093,Baymeadows Rd & Baymeadows Apts WB FS,30.218484,-81.549436
+3094,Baymeadows Rd & OPP Baymeadows Apts EB FS,30.218127,-81.549305
+3109,12356 Max Leggett Pkwy,30.483677,-81.635854
+3115,Amazon 103rd,30.246929,-81.864193
+3121,Spring Park + University SB FS,30.268260,-81.609747
+3122,Spring Park + Univeristy NB NS,30.267971,-81.609428
+3126,Avenues Walk Park-n-Ride,30.176144,-81.552347
+3136,Beaches Hub,30.292273,-81.391414
+3138,Crown Point and Arrowhead WB NS,30.194484,-81.616341
+3141,Prominence Pkwy and Liberty Ridge NB NS,30.213632,-81.570565
+3144,FSCJ Campus South (New BRT Stop),30.291391,-81.505511
+3153,5540 Moncrief Rd W,30.393305,-81.733290
+3156,New Kings Rd & Patterson Ave,30.393324,-81.737051
+3157,New Kings Rd & Soutel Dr,30.387276,-81.733665
+3163,Beach Blvd + FSCJ Rd,30.287206,-81.511140
+3165,Normandy Blvd. & opp. Verna Blvd.,30.307418,-81.747818
+3166,Normandy Blvd. & Verna Blvd.,30.307648,-81.747365
+3167,Richardson Rd & Singleton Park,30.382954,-81.727550
+3168,Golfair Hub,30.364875,-81.665077
+3170,University Hub,30.264838,-81.618504
+3171,26th and Charles WB NS,30.360057,-81.689818
+3172,Restlawn and Ave B SB FS,30.381572,-81.699213
+3173,Blanding and Hick NB NS,30.202377,-81.739273
+3174,Gate and Deerwood SB FS,30.247250,-81.536083
+3175,JRTC Bay A,30.329419,-81.673879
+3177,JRTC Bay D,30.329496,-81.673510
+3178,JRTC Bay E,30.329384,-81.673426
+3179,JRTC Bay F,30.329465,-81.673307
+3180,JRTC Bay G,30.329341,-81.673215
+3181,JRTC Bay H,30.329417,-81.673101
+3182,JRTC Bay I,30.329321,-81.673011
+3183,JRTC Bay J,30.329394,-81.672901
+3184,JRTC Bay K,30.329285,-81.672814
+3185,JRTC Bay L,30.329359,-81.672719
+3186,JRTC Bay M,30.329250,-81.672631
+3187,JRTC Bay N,30.329326,-81.672512
+3188,JRTC Bay O,30.329217,-81.672446
+3189,JRTC Bay P,30.329277,-81.672293
+3190,JRTC Bay Q,30.329170,-81.672204
+3191,JRTC Bay R,30.329232,-81.672055
+3192,JRTC Bay T,30.328957,-81.671629
+3196,Bowden Rd. & Richard St.,30.264910,-81.612130
+3197,McDuff Ave. & Commonwealth Ave.,30.337939,-81.705632
+3198,McDuff Ave. & Coleman,30.337809,-81.705446
+3199,5th St. & Mc Duff Ave.,30.343860,-81.706500
+3200,12th St. & Edgewood Ave N.,30.351000,-81.730211
+3201,12th St. & Edgewood Ave.,30.351625,-81.730955
+3202,12th St. & Melson Ave.,30.350960,-81.723190
+3203,5th St. & McDuff Ave. N,30.343863,-81.707100
+3204,5th St. & Huron St.,30.343956,-81.714417
+3205,McDuff Ave. N & 3rd St. W,30.341069,-81.705517
+3206,McDuff Ave. N & 3rd St. W ns,30.341267,-81.705644
+3207,Waterworks Amazon,30.272025,-81.887842
+3208,Blanding at Amazon NB,30.257084,-81.742156
+3209,Blanding at Amazon SB,30.257524,-81.742275
+3210,JRTC Bay U,30.328751,-81.671648
+3214,Bush Drive Amazon Hub,30.424021,-81.624467
+3215,5446 Moncrief,30.392673,-81.732467
+3218,Mayport Ferry,30.395602,-81.429050
+3221,McDuff & Hunt,30.323571,-81.705514
+3222,Monument Rd & Shadowood Park Dr,30.353379,-81.509375
+3224,Post & McDuff,30.313245,-81.706057
+3226,Mc Duff Ave. & Rosselle St.,30.319437,-81.705351
+3227,Mc Duff Ave. & Gilmore St.,30.318767,-81.705499
+3228,McDuff Ave & Spencer St,30.324320,-81.705416
+3229,5th Street & Detroit Street,30.343921,-81.718235
+3230,5th Street & Detoit St,30.343819,-81.718127
+3231,5th Street & Melson Ave,30.343912,-81.722512
+3232,JRTC Bay S,30.329092,-81.671933
+3234,Lane Ave. & Julie Ave.,30.321530,-81.751880
+3235,Richardson & Vermont NB NS,30.384578,-81.725420
+3236,Twin Towers,30.373098,-81.661050
+3237,River City VA Clinic,30.491638,-81.628534
+3238,UF Health North,30.486966,-81.633684
+3248,Wayfair - 103rd St,30.246507,-81.873929
+3249,Moncrief Rd & W 25th St,30.359044,-81.675314
+3250,11895 Old Kings Rd,30.450280,-81.777371
+1548,Blanding Blvd + Orange Park Northway,30.183438,-81.738156
+1650,Pearl St. & Water St.,  30.325999, -81.663426
+1651,Water St. & CSX Dr.,  30.326034, -81.664794
+1652,Pearl St. & Bay St.,  30.327190, -81.663020
+3340,JRTC at LaVilla,  30.329000, -81.672110
+3335,Rosa Parks Transit Station,  30.333289, -81.658710
+3341,Blanding Blvd & Arora Blvd,  30.177898, -81.742536
+3330,Park Ave & Mc Intosh Ave,  30.167930, -81.701030
+3331,Park Ave. & Blake Ave.,  30.174900, -81.701340
+3332,Park Ave. & Loring Ave.,  30.181610, -81.701620
+3333,Park Ave. & Wells Rd.,  30.183500, -81.701622
+3342,Wells Rd & Blanding Blvd,  30.187085, -81.737358
+3343,Wells Rd & Corporate Wy,  30.189564, -81.713591
+3344,Wells Rd & Crossings Blvd,  30.189533, -81.717718
+3345,Wells Rd & Debarry Ave,  30.186672, -81.725230
+3346,The Parkland at Orange Park,  30.187020, -81.732924
+3010,Jefferson St. & 6th St. sb ns,  30.344186, -81.663011
+3011,Jefferson St. & 6th St. nb fs,  30.344384, -81.662808
+4573,James Weldon Johnson Park,  30.329480, -81.659746
+4574,Central Station,  30.327172, -81.662470
+4575,San Marco,  30.317690, -81.660840
+4576,RiverPlace Station,  30.317726, -81.657066
+4577,Jefferson Station,  30.327590, -81.667440
+4711,Clay County Park-N-Ride (Black Creek Station),  30.099882, -81.770495
+4712,Park Ave & Wells Rd,  30.184297, -81.701976
+4812,Park Ave. & McIntosh Ave.,  30.167838, -81.701483
+4813,Kingsley Ave. & Plainfield Ave.,  30.165868, -81.706397
+4814,Kingsley Ave. & Debarry Ave.,  30.165433, -81.720647
+4815,Kingsley Ave. & Professional Center Dr.,  30.164894, -81.738376
+4816,Blanding Blvd & Kingsley Ave,  30.163556, -81.747644
+5119,Bay St & Jefferson St,  30.327746, -81.667301
+5310,Yulee Park & Ride (Lofton Square),  30.624992, -81.544823
+5319,Durbin Park Walmart,  30.092524, -81.521528
+5320,St. Johns Adminsistration,  29.935837, -81.337585
+5321,Baldwin Park & Ride,  30.302956, -81.983415
+5351,Vystar Macclenny,  30.266929, -82.123582
+5352,Circle K Macclenny,  30.282955, -82.118479
+5353,Publix Distribution,  30.317042, -81.822852
+5354,FSCJ Kent Campus (Baker Wildcat),  30.299269, -81.717696
+5355,JRTC Baker Wildcat Shuttle Bus Stop,  30.328899, -81.671126
+5356,UF Health Pain Management Center,  30.347691, -81.662506
+5357,Paradise Village,  30.317092, -81.823750
+5358,Baker County Court House,  30.283061, -82.118784
+6000,Mayport Ferry Landing,  30.395682, -81.429717
+6001,Fort George Ferry Landing,  30.394970, -81.436160
+7000,Big Chief Tires,  30.175230, -81.744973
+7001,Boot Barn,  30.174434, -81.745100
+7002,Stanton Optical,  30.172371, -81.746614
+7003,Whataburger,  30.171832, -81.746442
+7004,Gabe's,  30.165769, -81.747828
+7005,Burger King,  30.165300, -81.747400
+7007,Ameris Bank,  30.158491, -81.747134
+7008,PNC Bank,  30.154782, -81.748225
+7009,OPP Texas Roadhouse,  30.154140, -81.748237
+7010,Walgreens,  30.150608, -81.752955
+7011,Ron Shoals,  30.150042, -81.753364
+7012,Blanding Blvd & Filmore St,  30.147484, -81.758250
+7013,Value Pawn,  30.148149, -81.756577
+7014,Chipotle,  30.142101, -81.767363
+7015,Clay Urgent Care,  30.141639, -81.767596
+7016,Crafty Crab,  30.137087, -81.775875
+7017,Blanding Square,  30.132136, -81.783659
+7018,Advanced Auto Parts,  30.128305, -81.790417
+7019,Blanding Blvd & Tanglewood Blvd,  30.128183, -81.790080
+7020,Winn-Dixie Stop SB,  30.124059, -81.797305
+7021,Winn-Dixie Stop NB,  30.123326, -81.797938
+7022,Circle K,  30.068332, -81.866591
+7023,Wells Fargo,  30.073617, -81.864259
+7024,Autozone,  30.064423, -81.871187
+7025,Blanding & CR 218  EB,  30.062900, -81.878200
+7027,US 17 & Russell Rd,  30.032034, -81.708566
+7028,Zach's Outdoor Equipment,  30.022300, -81.705400
+7029,St Johns Landing Leasing Office,  30.008467, -81.694752
+7030,Clay County Courthouse,  30.001396, -81.685856
+7031,CareerSource,  30.095171, -81.712939
+7032,Green Cove Springs Jr High,  29.987950, -81.691090
+7033,Winn-Dixie,  30.101052, -81.712001
+7034,Idlewild Ave & S West St,  29.987600, -81.691400
+7035,Whitey's Fish Camp,  30.100605, -81.744928
+7036,RPS Metal Roofing,  29.985832, -81.696417
+7037,Pier Station,  29.982814, -81.773328
+7038,Circle K,  30.116000, -81.776800
+7039,St Johns River State College,  30.118362, -81.776498
+7040,Clay County Senior Services,  29.993207, -81.681555
+7041,Middleburg VA Clinic,  30.111237, -81.777140
+7042,Penney Farms Commons Building,  29.979455, -81.809454
+7043,Keystone Heights Senior Center,  29.786557, -82.028504
+7044,Lake Geneva Post Office SB,  29.770144, -82.010392
+7045,SR 26 & N Main St,  29.716935, -82.138992
+7046,Gainesville RTS Downtown Station,  29.646100, -82.322600
+7047,Ascension St Vincent's Clay County,  30.109286, -81.833502
+7048,Orange Park Library,  30.164685, -81.707081
+7049,Orange Park Senior Center,  30.163981, -81.703629
+7050,NAS JAX,  30.222604, -81.672495
+7051,Middleburg Bluff Apartments,  30.063467, -81.896219
+7052,Challenge Enterprises,  30.008550, -81.699500
+7053,Blanding Blvd & CR 218 WB,  30.063150, -81.877884
+7054,Winn-Dixie SB,  30.099044, -81.712608
+7056,Lake Geneva Post Office NB,  29.770289, -82.010166
+7059,Wells Rd & Corporate Wy,  30.189830, -81.713056
+7060,Wells Rd & Crossing Blvd,  30.189799, -81.717113
+7061,Wells Rd & Debarry Ave,  30.187066, -81.724992
+7062,Blanding Blvd & Constitution Dr,  30.158979, -81.747450
+7063,Blanding Blvd & Foxridge Rd,  30.146074, -81.760647
+7064,Blanding Blvd & Camp Francis Johnson Rd,  30.144238, -81.763745
+7065,Blanding Blvd & Jefferson Ave,  30.132599, -81.783448
+7066,Blanding Blvd & Old Jennings Rd,  30.115316, -81.811935
+7067,Blanding Blvd & Copper Gate Dr,  30.107746, -81.824259
+7068,Blanding Blvd & Copper Gate Dr,  30.107333, -81.824136
+7069,Blanding Blvd & Henley Rd,  30.114809, -81.812018
+7070,College Dr & Peoria Rd,  30.131377, -81.774862
+7071,College Dr & Jefferson Ave,  30.126016, -81.775721
+7072,Paul C Armstrong Park,  30.100240, -81.763876
+7073,CR 220 & Heritage Farms Blvd,  30.100344, -81.758224
+7074,Fleming Island High School,  30.087623, -81.714991
+7075,US 17 & Heath Rd,  30.022216, -81.705846
+7076,Orange Ave & Ferris St,  29.992310, -81.679173
+7077,Town Center Blvd & East West Pkwy,  30.098495, -81.712501
+7078,CR 220 & Heritage Farms Blvd,  30.100665, -81.757757
+7079,CR 220 & Lakedge Dr,  30.100561, -81.763907
+7080,CR 220 - Walmart Neighborhood Market,  30.100392, -81.773616
+7081,College Dr & College Park Dr,  30.111193, -81.776404
+7082,College Dr & Jefferson Ave,  30.125380, -81.775535
+7083,College Dr & Peoria Rd,  30.130753, -81.774679
+7084,Blanding Blvd - Walmart,  30.139253, -81.771625
+7085,Blanding Blvd & Camp Francis Johnson Rd,  30.143801, -81.763936
+7086,Blanding Blvd & Foxridge Rd,  30.145599, -81.760887
+7087,Fleming Island Shoppes,  30.080267, -81.709506
+7088,Baptist Medical Center Clay,  30.080072, -81.709690
+8122,JRTC - Express Select,  30.329042, -81.671439
