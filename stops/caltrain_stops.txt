@@ -1,0 +1,95 @@
+22nd_street,22nd Street,37.756972,-122.392492
+70021,22nd Street Caltrain Station Northbound,37.757599,-122.39188
+70022,22nd Street Caltrain Station Southbound,37.757583,-122.392404
+bayshore,Bayshore,37.70766,-122.401665
+70031,Bayshore Caltrain Station Northbound,37.709537,-122.401586
+70032,Bayshore Caltrain Station Southbound,37.709544,-122.40198
+belmont,Belmont,37.52133,-122.2763
+70121,Belmont Caltrain Station Northbound,37.52089,-122.275738
+70122,Belmont Caltrain Station Southbound,37.520844,-122.275816
+blossom_hill,Blossom Hill Caltrain Station,37.252606,-121.797907
+70291,Blossom Hill Caltrain Station Northbound,37.252422,-121.797643
+70292,Blossom Hill Caltrain Station Southbound,37.252379,-121.797683
+broadway,Broadway,37.58726,-122.362
+70071,Broadway Caltrain Station Northbound,37.58764,-122.36265
+70072,Broadway Caltrain Station Southbound,37.587552,-122.362708
+burlingame,Burlingame,37.57985,-122.34418
+70081,Burlingame Caltrain Station Northbound,37.580197,-122.3449
+70082,Burlingame Caltrain Station Southbound,37.580186,-122.345075
+california_ave,California Avenue,37.428834,-122.14113
+70191,California Avenue Caltrain Station Northbound,37.429365,-122.141927
+70192,California Avenue Caltrain Station Southbound,37.429333,-122.141978
+capitol,Capitol Caltrain Station,37.284016,-121.841899
+70281,Capitol Caltrain Station Northbound,37.284102,-121.841955
+70282,Capitol Caltrain Station Southbound,37.284062,-121.842037
+college_park,College Park,37.34289,-121.91565
+70251,College Park Caltrain Station Northbound,37.342384,-121.9146
+70252,College Park Caltrain Station Southbound,37.342338,-121.914677
+gilroy,Gilroy,37.004466,-121.566727
+70321,Gilroy Caltrain Station Northbound,37.003538,-121.566088
+70322,Gilroy Caltrain Station Southbound,37.003485,-121.566225
+hayward_park,Hayward Park,37.553161,-122.309494
+70101,Hayward Park Caltrain Station Northbound,37.552938,-122.309338
+70102,Hayward Park Caltrain Station Southbound,37.552994,-122.309608
+hillsdale,Hillsdale,37.542392678,-122.301612061
+70111,Hillsdale Caltrain Station Northbound,37.542607659,-122.3014966366
+70112,Hillsdale Caltrain Station Southbound,37.542536,-122.301666
+lawrence,Lawrence,37.3707,-121.9969
+70231,Lawrence Caltrain Station Northbound,37.370598,-121.997114
+70232,Lawrence Caltrain Station Southbound,37.370484,-121.997135
+menlo_park,Menlo Park,37.4548,-122.18245
+70161,Menlo Park Caltrain Station Northbound,37.454856,-122.182297
+70162,Menlo Park Caltrain Station Southbound,37.454745,-122.182405
+place_MLBR,Millbrae,37.5999,-122.38675
+70061,Millbrae Caltrain Station Northbound,37.59988,-122.386647
+70062,Millbrae Caltrain Station Southbound,37.599797,-122.386832
+morgan_hill,Morgan Hill,37.129644,-121.650558
+70301,Morgan Hill Caltrain Station Northbound,37.129363,-121.650244
+70302,Morgan Hill Caltrain Station Southbound,37.129321,-121.650304
+mountain_view,Mountain View,37.395067,-122.07722
+70211,Mountain View Caltrain Station Northbound,37.394459,-122.075956
+70212,Mountain View Caltrain Station Southbound,37.394402,-122.075994
+palo_alto,Palo Alto,37.44322,-122.16429
+70171,Palo Alto Caltrain Station Northbound,37.443475,-122.164614
+70172,Palo Alto Caltrain Station Southbound,37.443405,-122.164697
+redwood_city,Redwood City,37.485865,-122.2315
+70141,Redwood City Caltrain Station Northbound,37.486159,-122.231936
+70142,Redwood City Caltrain Station Southbound,37.486101,-122.232
+san_antonio,San Antonio,37.407239431,-122.107115562
+70201,San Antonio Caltrain Station Northbound,37.4073321574,-122.1070020272
+70202,San Antonio Caltrain Station Southbound,37.4072397241,-122.1071162171
+san_bruno,San Bruno Caltrain Station,37.630460335,-122.411709042
+70051,San Bruno Caltrain Station Northbound,37.6304996012,-122.4115926041
+70052,San Bruno Caltrain Station Southbound,37.6304605129,-122.4117090507
+san_carlos,San Carlos,37.508033,-122.2602
+70131,San Carlos Caltrain Station Northbound,37.50805,-122.26015
+70132,San Carlos Caltrain Station Southbound,37.507933,-122.260266
+san_francisco,San Francisco Caltrain Station,37.776404,-122.394911
+70011,San Francisco Caltrain Station Northbound,37.77639,-122.394992
+70012,San Francisco Caltrain Station Southbound,37.776348,-122.394935
+sj_diridon,San Jose Diridon,37.329694,-121.903208
+70261,San Jose Diridon Caltrain Station Northbound,37.329239,-121.903011
+70262,San Jose Diridon Caltrain Station Southbound,37.329231,-121.903173
+777402,San Jose Shuttle,37.330196,-121.901985
+san_martin,San Martin,37.085984,-121.61048
+70311,San Martin Caltrain Station Northbound,37.085225,-121.610049
+70312,San Martin Caltrain Station Southbound,37.086653,-121.610936
+san_mateo,San Mateo,37.56824,-122.3239
+70091,San Mateo Caltrain Station Northbound,37.568087,-122.323851
+70092,San Mateo Caltrain Station Southbound,37.568294,-122.324092
+santa_clara,Santa Clara Caltrain Station,37.353384,-121.936465
+70241,Santa Clara Caltrain Station Northbound,37.353238,-121.93608
+70242,Santa Clara Caltrain Station Southbound,37.353189,-121.936135
+south_sf,South San Francisco Caltrain Station,37.655941416,-122.404979006
+70041,South San Francisco Caltrain Station Northbound,37.6559413948,-122.4049790512
+70042,South San Francisco Caltrain Station Southbound,37.6559419334,-122.4049797097
+stanford,Stanford,37.43895,-122.15715
+2537740,Stanford Caltrain Station Northbound,37.4384910094,-122.1564052441
+2537744,Stanford Caltrain Station Southbound,37.4384247464,-122.1564816468
+sunnyvale,Sunnyvale,37.378934,-122.0315
+70221,Sunnyvale Caltrain Station Northbound,37.378916,-122.031372
+70222,Sunnyvale Caltrain Station Southbound,37.378789,-122.031423
+tamien,Tamien Caltrain Station,37.31269,-121.8847
+70271,Tamien Caltrain Station Northbound,37.31174,-121.883721
+777403,Tamien Caltrain Station Shuttle,37.311638,-121.883403
+70272,Tamien Caltrain Station Southbound,37.31175,-121.883999
