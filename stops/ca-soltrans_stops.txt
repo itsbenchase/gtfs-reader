@@ -1,0 +1,309 @@
+826015,1st St & Military West St (Veterans Building),38.053815,-122.155584
+824068,Admiral Callaghan Ln & Henry St,38.111706,-122.229058
+824081,Admiral Callaghan Ln & Home Depot,38.135463,-122.218352
+824071,Admiral Callaghan Ln & Sunshine Ct,38.118595,-122.229457
+824019,Admiral Callaghan Ln & Tennessee St,38.110245,-122.228349
+824044,Admiral Callaghan Way & Rotary Way,38.126352,-122.227629
+821006,Alameda St & Florida St,38.105287,-122.248082
+821009,Alameda St & Ohio St,38.106544,-122.248557
+821005,Alameda St & Virginia St,38.102261,-122.248155
+821010,Alameda St & Virginia St,38.101734,-122.248374
+824011,Ascot Pkwy & Locust Dr,38.114403,-122.200908
+824095,Ascot Pkwy & Sterling St,38.127184,-122.211808
+824022,Ascot Pkwy & Sunrise Way,38.118153,-122.202665
+824010,Ascot Pkwy & Sunrise Way,38.117487,-122.20243
+824093,Ascot Pkwy & Vienna Dr,38.132498,-122.208305
+824009,Ascot Pkwy & Wardlaw Park East,38.118704,-122.206239
+824023,Ascot Pkwy & Wardlaw Park East,38.118975,-122.206344
+822086,Avian Dr & Tennessee St,38.108766,-122.204344
+826066,Benicia Park & Ride,38.068443,-122.129038
+826065,Benicia Park & Ride,38.068452,-122.12882
+822094,Benicia Rd & Banning Way,38.091619,-122.216036
+821119,Benicia Rd & Beach St,38.096685,-122.238174
+821118,Benicia Rd & Carquinez St,38.095441,-122.232694
+822097,Benicia Rd & Cedar St,38.09393,-122.225992
+822095,Benicia Rd & Home Acres Ave,38.092195,-122.218565
+822096,Benicia Rd & Maple Ave,38.093078,-122.222181
+821120,Benicia Rd & Solano Ave,38.098107,-122.242456
+823028,Broadway St & 1850 Garage,38.134053,-122.252215
+823012,Broadway St & Ash St,38.134317,-122.252452
+823151,Broadway St & Commercial St (Navigation Center),38.138335,-122.252441
+823027,Broadway St & Garibaldi Dr (Park Place),38.131965,-122.25226
+823013,Broadway St & Garibaldi Dr (Park Place),38.132436,-122.252466
+823150,Broadway St & Hogan Ave,38.139427,-122.252168
+821007,Broadway St & Louisiana St,38.107785,-122.248568
+823020,Broadway St & Nebraska St,38.114195,-122.248628
+823004,Broadway St & Oregon St,38.118531,-122.248439
+823019,Broadway St & Oregon St,38.117979,-122.248596
+823155,Broadway St & Redwood St,38.122265,-122.249206
+823148,Broadway St & Redwood St,38.123432,-122.249699
+823152,Broadway St & Sereno Dr,38.127964,-122.251728
+823026,Broadway St & Sereno Dr,38.12809,-122.251487
+823001,Broadway St & Tennessee St,38.110357,-122.248508
+823022,Broadway St & Tennessee St,38.110055,-122.248705
+823003,Broadway St & Vallejo High School,38.114872,-122.248415
+824074,Cadloni Ln & Foothill Dr,38.125373,-122.219501
+826021,Chelsea Hills Dr & Gill Way,38.071565,-122.159991
+824020,Columbus Pkwy & Ascot Pkwy,38.111785,-122.198932
+824050,Columbus Pkwy & Ascot Pkwy,38.112406,-122.19831
+824033,Columbus Pkwy & North Ascot Pkwy,38.136765,-122.206969
+826060,Columbus Pkwy & Rose Dr,38.081169,-122.191963
+824032,Columbus Pkwy & Solano College Entrance,38.135237,-122.201879
+824051,Columbus Pkwy & St Johns Mine Rd (SCC Vallejo),38.13639,-122.203404
+824063,Columbus Pkwy & Tennessee St,38.10899,-122.203026
+827011,Concord Station,37.974766,-122.02904
+821077,Confunkshun St & Sonoma Blvd,38.105108,-122.254016
+821017,Curtola Park & Ride,38.09329,-122.237619
+821014,Curtola Pkwy & Napa St,38.096991,-122.252719
+821101,Curtola Pkwy & Napa St,38.097178,-122.251976
+823095,Daniels Ave & B St,38.118877,-122.270804
+823094,Daniels Ave & Rodgers St,38.121857,-122.268568
+-480,DELN,37.924746,-122.316911
+829201,Dixon Park & Ride,38.45553,-121.842107
+826024,Drolette Way & Mary Farmar Elementary,38.061951,-122.169659
+822103,E-40 Way & Gary Cir,38.085593,-122.23008
+822085,E-40 Way & Gary Cir,38.085556,-122.230278
+821211,E-40 Way & Sheridan St,38.083743,-122.23624
+821020,E-40 Way & Sheridan St,38.084056,-122.235903
+826033,East 2nd St & Riverhill Dr,38.055887,-122.151486
+826028,East 3rd St & East L St,38.05224,-122.151406
+826027,East 3rd St & Robert Semple Elementary,38.058005,-122.147285
+826007,East 5th St & East N St,38.052,-122.145977
+826006,East 5th St & East N St,38.052063,-122.146172
+826037,East 5th St & Viewmont St,38.055158,-122.143838
+828001,El Cerrito del Norte Station (Stop C3),37.924675,-122.316854
+828002,El Cerrito del Norte Station (Stop C4),37.924816,-122.316968
+829015,Fairfield Transportation Center,38.249204,-122.068298
+825053,Fairgrounds Dr & Gateway Dr,38.144767,-122.235127
+821038,Florida St & Alameda St,38.104867,-122.247806
+821075,Florida St & Alameda St,38.105008,-122.248549
+821039,Florida St & Amador St,38.104804,-122.243795
+821074,Florida St & Amador St (Douglas Ctr),38.10497,-122.244043
+821095,Florida St & Calaveras St,38.104717,-122.236181
+821092,Florida St & Napa St,38.10496,-122.25133
+821076,Florida St & Napa St,38.10503,-122.251317
+821071,Florida St & Solano Ave,38.104816,-122.233738
+821096,Florida St & Solano Ave,38.104656,-122.234023
+821072,Florida St & Tuolumne St,38.10485,-122.237981
+821094,Florida St & Tuolumne St,38.104782,-122.238953
+824084,Foothill Dr & Cadloni Ln,38.125541,-122.219624
+824075,Foothill Dr & Pacer Ct,38.127128,-122.219757
+824083,Foothill Dr & Pacer Ct,38.126996,-122.219903
+822084,Fulton Ave & Ladera Dr,38.084103,-122.220371
+822104,Fulton Ave & Magazine St,38.082833,-122.222972
+822101,Fulton Ave & Magazine St,38.082817,-122.22322
+822106,Fulton Ave & Old Glen Cove Rd,38.08211,-122.213769
+822083,Fulton Ave & Old Glen Cove Rd,38.082313,-122.213978
+825036,Gateway Dr & Fairgrounds Dr,38.144861,-122.234636
+825035,Gateway Dr & Sage St,38.145187,-122.22929
+821051,Georgia St & Alameda St,38.101077,-122.248116
+821049,Georgia St & Amador St (Douglas Ctr),38.101016,-122.243708
+821054,Georgia St & Amador St (Douglas Ctr),38.100845,-122.243563
+822108,Georgia St & Cedar St,38.099782,-122.223809
+821048,Georgia St & Contra Costa St,38.100991,-122.241389
+821041,Georgia St & Contra Costa St,38.100809,-122.24125
+821011,Georgia St & El Dorado St,38.10111,-122.250286
+821004,Georgia St & El Dorado St,38.100929,-122.249676
+822004,Georgia St & Hazelwood St,38.100111,-122.213969
+821050,Georgia St & Monterey St,38.101056,-122.246457
+821053,Georgia St & Monterey St,38.100886,-122.246328
+821206,Georgia St & Phelan Ave,38.100701,-122.231732
+821002,Georgia St & Sonoma Blvd,38.100995,-122.254064
+821205,Georgia St & Tuolumne St,38.100808,-122.238178
+822032,Glen Cove Elementary & North Regatta Dr,38.074834,-122.20666
+822033,Glen Cove Pkwy & Bermuda Ln,38.07796,-122.210791
+822030,Glen Cove Pkwy & Camino Del Sol,38.070867,-122.210321
+822029,Glen Cove Pkwy & Glen Cove Marina Rd,38.071244,-122.213099
+822027,Glen Cove Pkwy & James River Rd,38.071666,-122.219063
+821204,Glen Cove Pkwy & New Bedford Dr,38.08194,-122.21238
+822016,Glen Cove Pkwy & Robles Way,38.084485,-122.211924
+822015,Glen Cove Pkwy & Robles Way,38.084369,-122.211681
+822026,Glen Cove Pkwy & Sea Lion Pl,38.071132,-122.221539
+822031,Glen Cove Pkwy & South Regatta Dr,38.07269,-122.207856
+822034,Glen Cove Pkwy & Wellfleet Dr,38.079371,-122.21118
+826034,Hastings Dr & Cambridge Dr,38.077199,-122.176453
+826035,Hastings Dr & Joe Henderson Elementary,38.083109,-122.170888
+826025,Hastings Dr & Rose Dr,38.084578,-122.168157
+825057,Jack London Dr & Meadows Dr,38.148507,-122.264397
+825040,Jack London Dr & Meadows Dr,38.14833,-122.264538
+825058,Jack London Dr & Mini Dr,38.151517,-122.264352
+825039,Jack London Dr & Mini Dr,38.151382,-122.264503
+821122,Maine St & Sonoma Blvd,38.09919,-122.254512
+825061,Meadows Dr & Joann Ct,38.148178,-122.259347
+825054,Meadows Dr & Tobin Dr,38.147451,-122.258302
+826058,Military East St & East 5th St,38.051094,-122.147163
+826008,Military West St & 1st St (Benicia City Park),38.05406,-122.155877
+826005,Military West St & 1st St (Benicia City Park),38.05409,-122.156456
+826017,Military West St & Benicia High School,38.064285,-122.175772
+826002,Military West St & West 14th St,38.067552,-122.18151
+826004,Military West St & West 7th St,38.058531,-122.166207
+826001,Military West & West 14th,38.067364,-122.181551
+826003,Military West & West 7th,38.0587,-122.166115
+825042,Mini Dr & Broadway St,38.154083,-122.251989
+825024,Mini Dr & Corcoran Ave,38.150348,-122.245991
+825049,Mini Dr & Corcoran Ave,38.150014,-122.245995
+825043,Mini Dr & Diana Dr,38.153861,-122.254806
+825048,Mini Dr & Elliot Dr,38.152731,-122.257578
+825004,Mini Dr & Elliott Dr,38.152793,-122.257797
+825047,Mini Dr & Princeton Ave,38.15285,-122.248683
+825059,Mini Dr & Roleen Ct,38.151808,-122.260507
+825005,Mini Dr & Roleen Dr,38.151964,-122.260739
+825041,Mini Dr & Sonoma Blvd,38.15398,-122.252052
+825003,Mini Dr & Sonoma Blvd (Rancho Square),38.153998,-122.254932
+825050,Mini Dr & Whitney Ave,38.147397,-122.245903
+825023,Mini Dr & Whitney Ave,38.147416,-122.245732
+823153,North Camino Alto & Douglas Ct,38.130337,-122.243603
+823154,North Camino Alto & Douglas Ct,38.130914,-122.243516
+827010,North Concord Station,38.001695,-122.024084
+826031,Panorama Dr & Essex Way,38.07512,-122.1614
+824045,Plaza Dr & Admiral Callaghan Ln,38.133977,-122.217908
+824027,Plaza Dr & Admiral Callaghan Ln (Gateway Plaza),38.13378,-122.217582
+824026,Plaza Dr & Turner Pkwy,38.132384,-122.215714
+824006,Plaza Dr & Turner Pkwy (Gateway Plaza),38.132774,-122.216772
+821025,Porter St & Grace Patterson Elementary,38.080492,-122.238591
+821026,Porter St & Magazine St (Norman King),38.081795,-122.2396
+824040,Redwood Pkwy & Admiral Callaghan Ln,38.123486,-122.226715
+824070,Redwood Pkwy & Foothill Dr,38.122,-122.22122
+824089,Redwood St & Admiral Callaghan Ln,38.123282,-122.226764
+823072,Redwood St & Sacramento St,38.12236,-122.261535
+823092,Redwood St & Sonoma Blvd & Sacramento St,38.12329,-122.259429
+823073,Redwood St & Sonoma Blvd (Seafood City),38.123163,-122.258767
+824098,Redwood St & Topley Ct,38.120929,-122.212927
+823076,Redwood St & Tuolumne St,38.122219,-122.235825
+822092,Rollingwood Dr & Baywood Dr,38.098526,-122.209405
+822036,Rollingwood Dr & Benicia Rd,38.090143,-122.208101
+822089,Rollingwood Dr & Cottonwood Dr,38.102752,-122.209089
+822093,Rollingwood Dr & Dryden Dr,38.09395,-122.208708
+822038,Rollingwood Dr & Keats Dr,38.095295,-122.208562
+822088,Rollingwood Dr & Springs Rd,38.105209,-122.20896
+822098,Rollingwood Rd & Baywood Dr,38.09811,-122.209271
+822100,Rollingwood Rd & Benicia Rd,38.088718,-122.208845
+826018,Rose Dr & Cambridge Dr,38.081481,-122.189778
+826029,Rose Dr & Corcoran Ct,38.088642,-122.184911
+826036,Rose Dr & Matthew Turner Elementary,38.083934,-122.158884
+826026,Rose Dr & Panorama Dr,38.0799,-122.15236
+826019,Rose Dr & Windsor Dr,38.08732,-122.17321
+824069,Rotary Way & Admiral Callaghan Ln,38.125958,-122.226662
+824086,Rotary Way & Admiral Callaghan Ln,38.126034,-122.226683
+824073,Rotary Way & Cadloni Ln,38.12513,-122.223334
+824085,Rotary Way & Cadloni Ln,38.125319,-122.223303
+821034,Sacramento St & Alabama St,38.108927,-122.258018
+821035,Sacramento St & Alabama St,38.109164,-122.258218
+823071,Sacramento St & Baldwin St,38.123736,-122.263849
+821102,Sacramento St & Confunkshun St (Saint Vincent),38.10536,-122.258097
+821036,Sacramento St & Confunkshun St (Saint Vincent),38.104869,-122.258307
+823037,Sacramento St & Denio St,38.115943,-122.258054
+823038,Sacramento St & Hichborn St,38.113359,-122.258102
+823023,Sacramento St & Indiana St,38.111262,-122.257968
+823024,Sacramento St & Mississippi St,38.115314,-122.25787
+823093,Sacramento St & Redwood St,38.122634,-122.262623
+823036,Sacramento St & Valle Vista Ave,38.118918,-122.259609
+823025,Sacramento St & Valle Vista Ave,38.11808,-122.258369
+821037,Sacramento St & Virginia St,38.10175,-122.258375
+821032,Sacramento St & Virginia St,38.101936,-122.258191
+825060,Sage St & Fairgrounds Dr,38.140444,-122.230736
+825034,Sage St & Griffin Dr,38.141795,-122.227523
+821019,Sandy Beach Rd & Sonoma Blvd,38.078093,-122.235482
+829021,San Francisco Ferry Building,37.796127,-122.395237
+823056,Sereno Dr & Kaiser Entrance,38.128161,-122.248622
+823117,Sereno Dr & Kaiser Entrance,38.12817,-122.249677
+823057,Sereno Dr & Mesa Verde St,38.128663,-122.243448
+823123,Sereno Dr & San Marino Ave,38.128925,-122.242119
+-325,Sereno Transit Center,38.127953,-122.253424
+823111,Sereno Transit Center (STC A),38.128112,-122.253436
+823128,Sereno Transit Center (STC C),38.127794,-122.253413
+826030,Solano Ave & Hastings Dr,38.080133,-122.17154
+826020,Solano Dr & Larkin Dr,38.075673,-122.167494
+823000,Sonoma Blvd & California St,38.120782,-122.254851
+821127,Sonoma Blvd & Capitol St,38.102829,-122.255031
+821060,Sonoma Blvd & Confunkshun St (Lincoln Elem),38.104495,-122.254778
+821202,Sonoma Blvd & Florida St,38.105252,-122.254997
+825045,Sonoma Blvd & Hwy 37,38.135985,-122.256314
+825001,Sonoma Blvd & Hwy 37,38.136026,-122.255984
+821215,Sonoma Blvd & Indiana St,38.110876,-122.254637
+821201,Sonoma Blvd & Louisiana St,38.107789,-122.254937
+821214,Sonoma Blvd & Louisiana St,38.108267,-122.254698
+821203,Sonoma Blvd & Magazine St,38.083,-122.239
+821210,Sonoma Blvd & Magazine St,38.082515,-122.238823
+821208,Sonoma Blvd & McLane St,38.088846,-122.244583
+821029,Sonoma Blvd & McLane St,38.088967,-122.244404
+821198,Sonoma Blvd & Nebraska St,38.113441,-122.254769
+821213,Sonoma Blvd & Nebraska St,38.1138,-122.254513
+823015,Sonoma Blvd & Redwood St,38.124119,-122.255558
+823016,Sonoma Blvd & Redwood St (Vallejo Plaza),38.122447,-122.255417
+823008,Sonoma Blvd & Redwood St (Vallejo Plaza),38.124496,-122.255129
+823074,Sonoma Blvd & Sereno Dr,38.128207,-122.25546
+823075,Sonoma Blvd & Sereno Dr (Smart & Final),38.12811,-122.255877
+821128,Sonoma Blvd & Solano Ave,38.09478,-122.25178
+821031,Sonoma Blvd & Solano Ave,38.094907,-122.251606
+821200,Sonoma Blvd & Tennessee St,38.109702,-122.254886
+821028,Sonoma Blvd & Winchester St,38.086405,-122.242054
+821209,Sonoma Blvd & Winchester St,38.086496,-122.242436
+825046,Sonoma Blvd & Yolano Dr,38.131976,-122.256193
+823010,Sonoma Blvd & Yolano Dr (Park Place),38.132719,-122.255832
+826011,Southampton Rd & Benicia Middle School,38.069309,-122.1718
+826012,Southampton Rd & Chelsea Hills Dr,38.066852,-122.166492
+822054,Springs Rd & Avian Dr (Springhill),38.106008,-122.207367
+822081,Springs Rd & Heartwood Ave,38.105879,-122.211179
+822055,Springs Rd & Heartwood Ave,38.106038,-122.211107
+822077,Springs Rd & Hilton Ave,38.105999,-122.226797
+822060,Springs Rd & Humboldt St,38.106172,-122.227838
+822056,Springs Rd & Mosswood Ave,38.106064,-122.214509
+822057,Springs Rd & Oakwood Ave,38.106097,-122.218572
+822080,Springs Rd & Oakwood Ave (Springstowne),38.105918,-122.215646
+822082,Springs Rd & Rollingwood Dr (Springhill),38.105849,-122.207292
+822079,Springs Rd & Thelma Ave,38.105946,-122.219578
+822078,Springs Rd & Vervais Ave,38.10598,-122.224007
+822059,Springs Rd & Vervais Ave,38.106152,-122.224915
+829023,Suisun-Fairfield Amtrak Station,38.242765,-122.041606
+829016,Suisun Valley Rd & Kaiser Dr (SCC Fairfield),38.229228,-122.128787
+829014,Suisun Valley Rd & Westamerica Dr (SCC Fairfield),38.229497,-122.129055
+823134,Tennessee St & Amador St,38.109757,-122.243829
+823081,Tennessee St & Amador St,38.109904,-122.242785
+823083,Tennessee St & Broadway St,38.109989,-122.248413
+823132,Tennessee St & El Dorado St,38.109842,-122.249888
+821212,Tennessee St & Marin St,38.110115,-122.256773
+821040,Tennessee St & Marin St (EDD),38.109932,-122.256027
+823077,Tennessee St & Mariposa St,38.109751,-122.231715
+823136,Tennessee St & Mariposa St,38.109578,-122.23154
+823133,Tennessee St & Monterey St,38.10979,-122.245932
+823147,Tennessee St & Shasta St,38.10962,-122.234519
+823078,Tennessee St & Shasta St,38.109806,-122.235039
+823085,Tennessee St & Sutter St,38.110052,-122.252932
+823131,Tennessee St & Sutter St,38.10991,-122.25197
+823079,Tennessee St & Tuolumne St,38.109844,-122.238795
+823135,Tennessee St & Tuolumne St,38.109665,-122.23761
+821058,Tuolumne St & Capitol St (Courthouse),38.10337,-122.238312
+821055,Tuolumne St & Carolina St (Courthouse),38.103634,-122.238121
+823058,Tuolumne St & Del Mar Ave,38.126007,-122.238509
+823046,Tuolumne St & Del Mar Ave,38.125686,-122.238213
+823042,Tuolumne St & Fleming Ave,38.115971,-122.237897
+823048,Tuolumne St & Hospital Dr,38.130668,-122.240345
+823143,Tuolumne St & Hospital Dr,38.131043,-122.240896
+823059,Tuolumne St & Los Santos Ct,38.121398,-122.238244
+823041,Tuolumne St & Nebraska St,38.113921,-122.238077
+823063,Tuolumne St & Nebraska St,38.113659,-122.238206
+821056,Tuolumne St & Ohio St,38.106881,-122.23808
+823045,Tuolumne St & Redwood Tuolumne Center,38.123111,-122.237641
+823129,Tuolumne St & Sereno Dr,38.128705,-122.239127
+821057,Tuolumne St & Springs Rd,38.105834,-122.238277
+823040,Tuolumne St & Tennessee St,38.110301,-122.238035
+823064,Tuolumne St & Tennessee St,38.110002,-122.238256
+823044,Tuolumne St & Valle Vista Ave,38.119372,-122.238284
+823060,Tuolumne St & Valle Vista Ave,38.118726,-122.23837
+824002,Turner Pkwy & Admiral Callaghan Ln,38.130586,-122.224484
+824097,Turner Pkwy & Ascot Pkwy,38.131656,-122.211209
+824082,Turner Pkwy & Foothill Dr,38.130236,-122.218618
+824076,Turner Pkwy & Foothill Dr (Target),38.130392,-122.217983
+824077,Turner Pkwy & Hendrikus Dr,38.131857,-122.214164
+824078,Turner Pkwy & North Ascot Pkwy,38.131474,-122.209391
+829101,Vacaville Transportation Center (VATC),38.358265,-121.964686
+821001,Vallejo Transit Center (VTC West),38.100219,-122.25919
+821992,Vallejo Transit Center (VTC York Ext B),38.100087,-122.25692
+826022,Warwick Dr & Chelsea Hills Dr,38.066617,-122.163148
+826032,Warwick Dr & Sunrise Ct,38.06386,-122.153432
+826023,West Seaview Dr & Golden Hill Way,38.062735,-122.150697
+825052,Whitney Ave & De Paul Dr,38.146218,-122.237439
+825037,Whitney Ave & De Paul Dr,38.146133,-122.237963
+825038,Whitney Ave & Olympic Dr,38.146486,-122.243258
+825051,Whitney Ave & Olympic Dr,38.146567,-122.244019

@@ -1,0 +1,223 @@
+263,1236 Marionola Way,37.9989951955,-122.2955121975
+25215,1624 Marlesta Rd,38.0018131308,-122.2990799473
+25013,2nd St and Parker Ave,38.035785672,-122.2676283224
+25555,2nd St and Wanda St,38.0536340739,-122.2236378936
+25509,386 Parker Ave,38.0331265502,-122.2672423608
+25141,4050 Lakeside Ave,37.9874169246,-122.332302117
+25140,4075 Lakeside Ave,37.9874700452,-122.3324271623
+25071,454 Falcon Way,37.9967129912,-122.2520307802
+25510,586 Parker Ave,38.0299421279,-122.2664853969
+25208,825 Alfred Nobel Dr at Mechanics Bank,38.0205814561,-122.2758267839
+25036,Alfred Nobel and John Muir Pkwy,38.01788,-122.27432
+25307,Alfred Nobel Dr - Near Venture Commerce Ctr,38.0202998645,-122.2753021376
+831260,Alhambra Ave and Allen Dr,38.00935,-122.131374
+831259,Alhambra Ave and Bertola St,38.00726437,-122.130574681
+831258,Alhambra Ave and C St - Contra Costa Regional Medical Center - Northbound,38.00497,-122.13095
+831264,Alhambra Ave and C St - Contra Costa Regional Medical Center - Southbound,38.00581851,-122.131112451
+831266,Alhambra Ave and Franklin Creek,37.995496956,-122.132307888
+831265,Alhambra Ave and F St,38.00087,-122.13195
+831257,Alhambra Ave and G St,37.999998773,-122.131816665
+831261,Alhambra Ave and Jones St,38.01266,-122.13447
+831267,Alhambra Ave and J St,37.997366685,-122.132493221
+831256,Alhambra Ave and K St,37.99584,-122.13225
+831262,Alhambra Ave and Mellus St,38.014435,-122.136222
+831255,Alhambra Ave and Walnut Ave - Northbound,37.99239,-122.13058
+831268,Alhambra Ave and Walnut Ave - Southbound,37.992342669,-122.130886452
+270,Appian Way and Mann Dr,37.99746,-122.3011
+275,Appian Way - Pinole Middle School,37.9965563447,-122.3019119751
+25052,Armstrong St and Grissom St,38.000702899,-122.2379291773
+25134,Berrellesa St and Escobar St,38.016708,-122.139659
+831290,Berrellesa St and Jones St,38.011834314,-122.134992203
+831289,Berrellesa St and Mellus St,38.013881,-122.136897
+831291,Berrellesa St and Robinson St,38.01004,-122.133202
+831292,Berrellesa St and Soto St,38.00808,-122.131374
+51122,Betty Reid Soskin Middle School,37.987103499,-122.308165277
+2129,Bio Rad - Northbound,38.02303,-122.27646
+25203,Blume Dr and Auto Plaza - Northbound,37.9830491809,-122.3222584444
+25009,Blume Dr and Auto Plaza - Southbound,37.9849833333,-122.3190333333
+25075,Blume Dr and Klose Way,37.9826333925,-122.3227715292
+25083,Blume Dr and Klose Way - Hilltop Mall Sign,37.9847574532,-122.3189882054
+25049,Bonaire Ave and Refugio Valley Rd,37.9931388605,-122.2305531441
+250,Canyon Dr and Appian Way - Eastbound,37.9953987989,-122.3013658629
+21064,Canyon Dr and Appian Way - Westbound,37.9955020191,-122.3014564406
+2197,Carson St and Raleigh Ct,37.9947393788,-122.2364829401
+25051,Carson St and Stanley Ct,37.9979787349,-122.2376666196
+25062,Cinnabar Way and Obsidan Way,38.00424,-122.27588
+25550,Contra Costa College - Campus Dr Turnaround,37.9708924074,-122.3405784249
+25100,Coral Dr and Bodega Way,38.0184501576,-122.2542098668
+25099,Coral Dr and Reef Point Dr,38.021043797,-122.2509741936
+25098,Coral Dr and Sandpoint Dr,38.0230976459,-122.2501504508
+242,Coral Dr and Stirling Dr,38.0256083758,-122.246492112
+2198,Coronado St and Carson St,37.9995052162,-122.2389765621
+25209,Coronado St and Decatur,37.9977464747,-122.2437088998
+25210,Coronado St and Refugio Valley,37.9960335402,-122.245539699
+831032,Court St and Marina Vista Ave,38.019430518,-122.135162011
+DELN,DELN,37.9251774,-122.3169
+257,Doidge Ave and Wright Ave,37.9835700663,-122.2511937004
+2131,El Cerrito del Norte Station (Stop B7),37.92520874,-122.3170923
+2132,El Cerrito del Norte Station (Stop B8),37.92536281,-122.3171919
+2133,El Cerrito del Norte Station (Stop B9),37.92551498,-122.3173102
+25115,Ellerhorst School,37.981416487,-122.2731950538
+831034,Escobar St and Alhambra Ave,38.017077,-122.138355
+25069,Falcon Way and Finch Ct,37.9992773998,-122.2581586178
+25072,Falcon Way and Refugio Valley,37.9966155256,-122.2484751656
+233,Falcon Way and Sparrow Dr,38.0006016045,-122.2621829759
+25070,Falcon Way and Wren Ct,37.9981395966,-122.2562407864
+25003,Fitzgerald Dr - Applebees,37.9881703296,-122.3113674315
+248,Fitzgerald Dr - Best Buy,37.9909362823,-122.3060666676
+25002,Fitzgerald Dr - FedEx,37.99114,-122.30622
+265,Fitzgerald Dr - Sizzler,37.99175,-122.30384
+249,Fitzgerald Dr - Starbucks,37.9915740746,-122.3028128168
+25041,Fitzgerald Dr - Target,37.9883542423,-122.3107361255
+25053,Grissom St and Shepard St,37.9997959627,-122.2411132564
+25048,Hannah Ranch School,37.9933940894,-122.2350198158
+2174,Hercules Middle and High School,37.9995646467,-122.2515515087
+25501,Hercules Transit Center,38.0128,-122.2662
+25008,Hilltop Dr and Garrity Way,37.9785527291,-122.3259074076
+25157,Hilltop Dr and Hillview Dr,37.98307,-122.33344
+25006,Hilltop Mall Rd and Robert Miller Dr,37.9792469338,-122.3322062649
+293,Hilltop Mall - Westbound,37.9795860813,-122.3294986394
+25081,Hillview Dr and Hilltop Dr,37.982357969,-122.3330040639
+2403,John Muir Parkway at San Pablo Ave Northbound,38.0165931709,-122.273529031
+2404,John Muir Parkway at San Pablo Ave Southbound,38.0163582725,-122.2736468739
+25506,John Swett High School,38.0524475106,-122.2207458136
+25147,Lakeside Dr and Research Dr,37.9847685618,-122.3328775344
+246,Linus Pauling and Alfred Nobel,38.0224320291,-122.2768976857
+25039,Linus Pauling - County EHS,38.0218682292,-122.2725550073
+245,Linus Pauling - Social Services,38.0220232952,-122.2724869553
+25018,Loring Ave and Rolph Ave,38.0557156537,-122.2200878136
+25057,Lupine Rd and Poppy Ct,38.0072848676,-122.2558127512
+2208,Lupine Rd and Woodfield Park,38.0063026523,-122.2517067683
+2196,Mandalay Ave and Bonaire Ave,37.9915347789,-122.2338732148
+25112,Marcus Ct and Doidge Ave,37.98269,-122.25318
+251,Marionola Way and Marlesta Rd - Northbound,38.001748089,-122.2969952635
+262,Marionola Way near Marlesta Rd,38.0015808302,-122.2970857709
+25214,Marlesta Rd and Appian Way - SE Corner,38.001704556,-122.2991129967
+2162,Martinez Amtrak Station,38.0189813695,-122.1394712834
+25124,Muir Road and Center Ave - Northbound,37.9946211523,-122.1186148824
+25204,Muir Road and Center Ave - Southbound,37.9950284897,-122.1185713323
+25063,Obsidian Way and Peridot Court,38.0022675577,-122.2777736282
+2120,Parker Ave and 2nd St,38.0369755214,-122.2681440934
+25503,Parker Ave and 4th St - Northbound,38.0326753112,-122.2668908052
+2119,Parker Ave and 6th St - Northbound,38.0298235773,-122.266178412
+25022,Parker Ave and Pacific Ave,38.0348637883,-122.2676877177
+25066,Pheasant Dr and Malachite Court,37.9945802835,-122.2606096672
+2178,Pheasant Dr and Tanager Way,37.996710657,-122.2629509248
+255,Pinole Valley High School,37.992133242,-122.285515646
+25118,Pinole Valley Rd and Estates Ave,37.9952409819,-122.2855923149
+25117,Pinole Valley Rd and Helena Ct,37.98798,-122.28441
+260,Pinole Valley Rd and Henry Ave - Northbound,38.0001837173,-122.2865544085
+25105,Pinole Valley Rd and Johanna Ct,37.9873505278,-122.283954662
+258,Pinole Valley Rd and Simas Ave,37.9814036469,-122.2669666204
+25116,Pinole Valley Rd and Simas Ave - Eastbound,37.9849756993,-122.2807489236
+259,Pinole Valley Rd - Library,37.991933699,-122.2852366572
+25154,Pinole Valley Shopping Center,37.9950668798,-122.2858622327
+25507,Pomona St and Port St,38.05245,-122.22539
+235,Refugio Valley and Country Run,38.00553,-122.26495
+25044,Refugio Valley and Falcon Way,37.9965613585,-122.2476602331
+25050,Refugio Valley and Mandalay Ave,37.993772157,-122.2335307538
+25046,Refugio Valley and Midship Dr,37.994585761,-122.2413679733
+25047,Refugio Valley and Mirimar Ave,37.9937976041,-122.2375139306
+231,Refugio Valley and Pheasant Dr,38.0078282373,-122.269492696
+25211,Refugio Valley and Redwood Rd,37.9966557174,-122.2474862564
+25045,Refugio Valley and Southwind Dr,37.9954311054,-122.2439530874
+25073,Refugio Valley - Community Center,37.9985730853,-122.2492370498
+2181,Refugio Valley Park,38.0078104702,-122.269172159
+25074,Refugio Valley - Swim Center,38.0014118064,-122.2551844253
+2134,Richmond Parkway and Lakeside Dr - Eastbound,37.9900753211,-122.3289481244
+2145,Richmond Parkway and Lakeside Dr - Westbound,37.9898589637,-122.3289311176
+25148,Richmond Parkway Eastbound  - Hilltop Bayview,37.98928,-122.32236
+210148,Richmond Parkway Transit Center,37.98634,-122.31657
+25149,Richmond Parkway Westbound -  Hilltop Bayview,37.9887762805,-122.3220360476
+25121,Ridgecrest Rd and Canyon Dr,37.9960986114,-122.2992790934
+25160,Ridgecrest Rd and Foothill Ave - Eastbound,37.9964413676,-122.2974013648
+25094,Ridgecrest Rd and Foothill Ave - Westbound,37.9962840302,-122.29712041
+25202,Ridgecrest Rd and Greenfield Circle - Southbound,37.99677,-122.29561
+25095,Ridgecrest Rd and Greenfield Cir - Northbound,37.9968179322,-122.2953114549
+25126,Ridgecrest Rd and Tesoro Ct - Northbound,37.9989892292,-122.2949583889
+25007,Robert Miller Dr and Hilltop Mall Rd,37.979089994,-122.332201492
+2125,Salesforce Transit Center Bay 31,37.788966,-122.397233
+2100,San Pablo and Hercules - Southbound,38.0099411104,-122.2836974195
+264,San Pablo and Oak Ridge Rd,38.0045788695,-122.2919658001
+261,San Pablo and Oak Ridge - Southbound,38.0045721288,-122.2923973247
+25034,San Pablo Ave and 4th Ave,38.0041902975,-122.3018367077
+25035,San Pablo Ave and Alverez Ave,38.0040264356,-122.2942709485
+2103,San Pablo Ave and Appian Way - Eastbound,38.0043258057,-122.2971106795
+25097,San Pablo Ave and Appian Way - Westbound,38.0041377311,-122.2981401911
+25020,San Pablo Ave and A St - Southbound,38.0486847216,-122.2480566999
+2136,San Pablo Ave and Belmont Way,38.0025177395,-122.316234276
+25504,San Pablo Ave and California St - Northbound,38.039784614,-122.2638195006
+25508,San Pablo Ave and California St - Southbound,38.0400357924,-122.263772362
+25032,San Pablo Ave and Crestview Dr,38.0044367487,-122.3115405558
+2110,San Pablo Ave and Crestwood Dr - Northbound,37.993688826,-122.3293230877
+2108,San Pablo Ave and Crestwood Dr - Southbound,37.9937854433,-122.3295914077
+2105,San Pablo Ave and Del Monte Dr,38.00274,-122.31631
+25026,San Pablo Ave and Fern Ave,38.00429,-122.29545
+2138,San Pablo Ave and Hercules Ave - Northbound,38.0103320538,-122.2822999954
+2116,San Pablo Ave and John St - Northbound,38.0072721776,-122.2879952579
+2101,San Pablo Ave and John St - Southbound,38.0073886268,-122.2881690685
+25030,San Pablo Ave and Kay Rd,37.9919,-122.33131
+25090,San Pablo Ave and Meadow Ave,38.005044028,-122.3076383828
+25017,San Pablo Ave and Merchant St - Eastbound,38.0549504386,-122.2309145961
+25019,San Pablo Ave and Merchant St - Westbound,38.0551049895,-122.2306854575
+25027,San Pablo Ave and Roble Ave,38.0044156998,-122.3021592837
+25016,San Pablo Ave and Selby Rd,38.0485175023,-122.2479870454
+2111,San Pablo Ave and Shamrock Dr - Northbound,37.9954414813,-122.3274116343
+2107,San Pablo Ave and Shamrock Dr - Southbound,37.9955175425,-122.3276933685
+2104,San Pablo Ave and Sunnyview Dr - Eastbound,38.0049682144,-122.3056827632
+2113,San Pablo Ave and Sunnyview Dr - Westbound,38.0044479399,-122.3047121207
+28456,San Pablo Ave and Sycamore,38.0126263128,-122.2741516459
+2112,San Pablo Ave and Tara Hills Dr - Northbound,37.9994359979,-122.3227216572
+2106,San Pablo Ave and Tara Hills Dr - Southbound,37.9994577249,-122.323125643
+248457,San Pablo Ave and Tsushima ave,38.0123725548,-122.2784006845
+25040,San Pablo Ave and Victoria Crescent - Northbound,38.0230986275,-122.2693091313
+25158,San Pablo Ave and Victoria Crescent - Southbound,38.0230501189,-122.26979836
+2402,San Pablo Ave at Safeway,38.0141146327,-122.2725294285
+25029,San Pablo Ave - Public Storage,38.00396,-122.31359
+25028,San Pablo Ave - Sugar City Building Materials,38.0052851999,-122.3081149763
+25107,Simas Ave and Diablo Ct,37.9857940502,-122.2753303883
+25106,Simas Ave and Estates Ave,37.9854633249,-122.2777323031
+25108,Simas Ave and Lassen Way,37.9863138746,-122.2671805321
+256,Simas Ave and Pinole Valley Rd,37.9852994694,-122.2798529823
+25109,Simas Ave and Remuda,37.9824594135,-122.2659686813
+25068,Sparrow Dr and Starling Ave,38.0004169141,-122.2644717875
+253,Sprouts,37.9997891799,-122.2868785148
+25058,Sycamore Ave and Redwood Rd,38.0086085453,-122.2628719376
+25059,Sycamore Ave - Civic Center,38.00954,-122.26613
+2201,Sycamore Ave - Creekside Shopping Center,38.00949,-122.26869
+25067,Tanager Way and Meadowlark Way,37.9991194895,-122.26500507
+25011,Tennant Ave and Peach St - Northbound,38.0029442406,-122.2889305265
+25000,Tennant Ave and Peach St - Southbound,38.0029170191,-122.2890963825
+25015,Tosco Refinery - Northbound,38.0463624949,-122.2576343385
+25021,Tosco Refinery - Parking Lot Side,38.0463963128,-122.2578813936
+2175,Turquiose Dr and Cinnabar Ave,38.0058400557,-122.2750293527
+25061,Turquiose Dr and Crystal Circle,38.0078811847,-122.2742686241
+2177,Turquiose Dr and Diamond Ct,37.9942029602,-122.2630243349
+2176,Turquiose Dr and Jade Ct,37.9967123824,-122.2748953802
+25064,Turquiose Dr and Obsidan Way,37.9998928531,-122.276863644
+25060,Turquiose Dr and Sycamore Ave,38.008757111,-122.2720836798
+25065,Turquiose Dr at Reservoir,37.9960921597,-122.2698930984
+2158,VA Medical Center,37.99414,-122.11445
+2122,Victoria Crescent and Victoria Park,38.0282458926,-122.2723444783
+2400,Victoria Crescent at Bowspirit Lane,38.0264626324,-122.2686922674
+2401,Victoria Crescent at Dockside,38.0251742266,-122.2712778188
+241,Viewpointe Blvd and Coral Dr - Northbound,38.0186731366,-122.25639887
+243,Viewpointe Blvd and Coral Dr - Southbound,38.0191198553,-122.2561537251
+25127,Viewpointe Blvd and Myrna Way,38.0269461524,-122.250134289
+25125,Viewpointe Blvd and Sandpoint Dr,38.0237379145,-122.2569642274
+25123,Viewpointe Blvd and Sandy Cove Dr,38.02132,-122.2561
+25096,Viewpointe Blvd and Seascape Cir,38.0260083997,-122.254468379
+25056,Violet Rd and Iris Rd,38.0084121027,-122.2484302951
+25055,Violet Rd and Lilac Circle,38.0066419199,-122.2426647398
+2199,Violet Rd and Lupine Rd,38.0020503335,-122.2445598077
+2989,Waterfront,38.0204,-122.28522
+2121,Willow Ave and I-80 - Northbound,38.0233155081,-122.2629403201
+25101,Willow Ave and Viewpointe Blvd - Northbound,38.01869222,-122.2581825516
+2140,Willow Ave and Viewpointe Blvd - Southbound,38.01857,-122.2585
+25150,Willow Ave - Rodeo Gateway Apts,38.026398099,-122.265304879
+25152,Willow Ave Shopping Center,38.0213368954,-122.2613322892
+25113,Wright Ave and Brazil Ct,37.98358,-122.25806
+25110,Wright Ave and Doidge Ave,37.9805972035,-122.2639597126
+25114,Wright Ave and Madera St,37.9821425973,-122.260320557
+25111,Wright Ave and Victor St,37.9833105582,-122.2584077628
+2554968,Yard,38.0057657381,-122.3117880939

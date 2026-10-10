@@ -1,0 +1,70 @@
+1538,2nd St. & Delta Ave. (Isleton Fire Department),38.161734,-121.612557
+27691,Antioch Park and Ride Lot,37.997593,-121.785065
+27688,Auto Mall Parkway & Serrano Dr.,38.247098,-122.073261
+2803,Beck Ave & Cadenasso Dr.,38.24771,-122.066141
+27738,Beck Ave. & Courage,38.237746,-122.066377
+27687,Chadbourne Rd. & Busch Way,38.237507,-122.083894
+27686,Courage Dr. and Chadbourne Rd.,38.23431,-122.082512
+27685,Courage Dr. and N. Watney,38.236919,-122.071442
+1533,Fairfield Transportation Center,38.248955,-122.068451
+27715,Fisher across DeFlores Circle (Homecoming Park),38.171787,-121.693962
+27696,Flores & 847 Flores,38.161419,-121.694908
+27725,Front & Logan,38.157242,-121.689621
+1552,Front St. & Logan St.,38.157292,-121.689275
+1557,Front St. & Main St.,38.155883,-121.690675
+27689,Gateway & Gateway Ct.,38.259911,-122.057442
+27690,Gateway near 24 Hour Fitness Sport,38.262295,-122.056465
+1528,Gateway & Solano Mall by Sears Auto Center (Solano Mall),38.2629,-122.0542
+27695,Hillside Terrace & Flores,38.161549,-121.695793
+27721,Hillside Terrace & SR-12,38.161339,-121.696236
+9773,Jefferson St. & Texas St. (Solano County Government Center),38.249027,-122.041977
+27716,Madere across DeFlores,38.170315,-121.693344
+27701,Madere and Deflores,38.170551,-121.69342
+27727,Madere Way and Fisher St. (Homecoming Park),38.171781,-121.694506
+27694,Main & 2nd,38.156483,-121.691498
+27726,Main & 7th,38.160088,-121.696014
+27724,Main and 2nd,38.156548,-121.691757
+27723,Main and 6th,38.159042,-121.694923
+27705,Main and 6th,38.159115,-121.694756
+27722,Main & Sierra,38.16032,-121.696609
+1553,Main St & Lotz Way,38.243181,-122.04043
+1560,Pennsylvania Ave & B Gale Wilson Blvd,38.26089,-122.050076
+1562,Pennsylvania Ave & Utah St,38.254293,-122.050032
+1531,Pittsburg/Bay Point BART Station,38.017556,-121.945216
+27700,Poppy House and Rio Vista Police,38.169579,-121.689178
+27717,Poppy House & California Vegetable Specialties,38.168941,-121.688347
+1537,Rio Vista Senior Center,38.15509,-121.690385
+27692,Solano County Health and Social Services Building 1,38.236012,-122.067535
+27693,Solano County Health & Social Services Building 2201,38.235992,-122.069679
+27730,SR-12 & SR-12 on ramp,38.160587,-121.688698
+13519,SR 160 @ Vieras Resort,38.171552,-121.642044
+27698,St. Francis across from Laurel,38.163177,-121.690872
+27697,St. Francis across from Linda Vista Way,38.16214,-121.692184
+27731,St. Francis and Corporation Yard,38.165657,-121.688553
+27699,St. Francis & Baseball Field Entrance,38.165211,-121.688629
+27720,St Francis & Gardiner,38.161858,-121.69397
+27718,St. Francis & Laurel,38.16317,-121.690971
+27719,St. Francis Way & Linda Vista Way,38.162132,-121.692368
+1576,Suisun City Train Depot,38.242997,-122.041471
+27734,Summerset Dr. Across Aurora,38.178253,-121.710701
+27736,Summerset Dr. Across from Delta Clubhouse,38.185037,-121.719675
+27732,Summerset Dr. Across from Inverness,38.180008,-121.714142
+27709,Summerset Dr. & Aurora,38.178047,-121.710541
+27735,Summerset Dr. & Cypress,38.177364,-121.707787
+27710,Summerset Dr. & Cypress,38.177563,-121.708092
+27729,Summerset Dr. & Delta Clubhouse,38.185028,-121.719467
+27737,Summerset Dr. & Diamond Hills,38.178655,-121.704346
+27728,Summerset Dr. & Diamond Hills,38.178703,-121.704643
+27707,Summerset Dr. & Inverness,38.180099,-121.713959
+27733,Summerset Dr. & Pinehurst,38.179161,-121.712357
+27708,Summerset Dr. & Pinehurst,38.17926,-121.712288
+1526,Summerset Dr & Summerset Rd,38.1828,-121.7199
+27713,Summerset Dr. & Summerset Rd.,38.183376,-121.719742
+27706,Trilogy Vista Clubhouse,38.183304,-121.718102
+27703,Viera and Rubier,38.174358,-121.694679
+27711,Viera and Rubier,38.174435,-121.694771
+27702,Wallace and Rubier,38.173527,-121.694443
+27712,Wallace & Rubier,38.173584,-121.694565
+2329723,Walmart,38.241568,-121.988622
+2329722,Walmart,38.242209,-121.988056
+1540,Western Railway Museum,38.204359,-121.87394

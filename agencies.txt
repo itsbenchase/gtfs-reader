@@ -1,23 +1,42 @@
-cal;ca-ac;AC Transit (Oakland);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=AC
-cal;bart;BART (Bay Area);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=BA
+bay;ca-ac;AC Transit (Oakland);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=AC
+bay;bart;BART (Bay Area);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=BA
+bay;caltrain;Caltrain (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=CT
+bay;countycxn;County Connection (Contra Costa County);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=CC
+bay;ca-dumbarton;Dumbarton Express (Bay Area);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=DE
+bay;ca-emery;Emery Go-Round (Emeryville);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=EM
+bay;ca-fast;FAST (Fairfield);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=FS
+bay;ca-ggt;Golden Gate Transit (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=GG
+bay;ca-lavta;LAVTA (Livermore);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=WH
+bay;ca-marin;Marin Transit (Marin County);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=MA
+bay;ca-mbtma;Mission Bay TMA (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=MB
+bay;ca-mtnview;Mountain View Shuttle (Mountain View);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=MC
+bay;muni;Muni (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SF
+bay;ca-mvgo;MVgo (Mountain View);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=MV
+bay;ca-petaluma;Petaluma Transit (Petaluma);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=PE
+bay;ca-presidio;Presidio Go (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=PG
+bay;ca-rvdb;Rio Vista Delta Breeze (Rio Vista);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=RV
+bay;samtrans;SamTrans (San Mateo);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SM
+bay;ca-santarosa;Santa Rosa CityBus (Santa Rosa);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SR
+bay;ca-soltrans;SolTrans (Solano County);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=ST
+bay;ca-sonoma;Sonoma County Transit (Sonoma County);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SO
+bay;tridelta;Tri Delta Transit (Contra Costa County);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=3D
+bay;ca-union;Union City Transit (Union City);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=UC
+bay;vacaville;Vacaville City Coach (Vacaville);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=VC
+bay;ca-vine;Vine Transit (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=VN
+bay;ca-vta;VTA (San Jose);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SC
+bay;westcat;WestCAT (Contra Costa County);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=WC
 cal;ca-bbb;Big Blue Bus (Santa Monica);https://gtfs.bigbluebus.com/current.zip
-cal;caltrain;Caltrain (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=CT
 cal;ca-culver;Culver CityBus (Los Angeles);https://web.culvercity.org/gtfs/gtfsexport.zip
 cal;ca-foothill;Foothill Transit (Los Angeles);https://foothilltransit.rideralerts.com/myStop/GTFS-Zip.ashx
-cal;ca-ggt;Golden Gate Transit (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=GG
 cal;ca-gtrans;GTrans (Los Angeles);https://ridegtrans.com/gtfs.zip
 cal;ca-lbt;Long Beach Transit (Long Beach);https://drive.google.com/uc?export=download&id=1869EVa1z6m_iD6QmvRXyTHtYiaSUBROl
-cal;ca-marin;Marin Transit (Marin County);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=MA
 cal;lacmta;Metro (Los Angeles);https://gitlab.com/LACMTA/gtfs_bus/raw/master/gtfs_bus.zip
 cal;ca-montebello;Montebello Bus Lines (Los Angeles);https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx
 cal;mts;MTS (San Diego);https://www.sdmts.com/google_transit_files/google_transit.zip
-cal;muni;Muni (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SF
 cal;ca-nctd;NCTD (San Diego);https://lfportal.nctd.org/staticGTFS/google_transit.zip
 cal;ca-octa;OCTA (Orange County);https://www.octa.net/current/google_transit.zip
-cal;samtrans;SamTrans (San Mateo);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SM
 cal;ca-slotransit;SLO Transit (San Luis Obispo);https://slocity.connexionz.net/rtt/public/resource/gtfs.zip
 cal;ca-slorta;SLORTA (San Luis Obispo);https://slo.connexionz.net/rtt/public/utility/gtfs.aspx
-cal;ca-vta;VTA (San Jose);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=SC
 midwest;ia-bettendorf;Bettendorf Transit (Bettendorf, IA);https://github.com/itsbenchase/feeds/raw/refs/heads/main/ia-bettendorf.zip
 midwest;ia-davenport;CitiBus (Davenport, IA);https://github.com/itsbenchase/feeds/raw/refs/heads/main/ia-davenport.zip
 midwest;il-connect;Connect Transit (Bloomington / Normal, IL);https://github.com/itsbenchase/feeds/raw/refs/heads/main/il-connect.zip

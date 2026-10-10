@@ -1,0 +1,403 @@
+80201,1401 Guerneville Rd,38.457849,-122.734447
+80196,1405 Townview Ave,38.435619,-122.685425
+80524,1405 Townview Ln,38.435776,-122.685408
+80194,1430 Neotomas Ave,38.433531,-122.686294
+80241,1675 Piner Rd,38.470053,-122.741507
+80272,1700 Fulton Rd Piner High School,38.46047,-122.769554
+80294,1700 Fulton Rd Piner High School,38.460471,-122.769766
+80179,1990 Santa Rosa Ave,38.419199,-122.713356
+80171,2155 Santa Rosa Ave,38.418317,-122.713682
+80235,3555 Round Barn Blvd,38.476803,-122.727219
+80233,3585 Round Barn Blvd,38.480714,-122.72709
+80543,3rd at Roberts Ave,38.435031,-122.722958
+80550,3rd St @ Morgan St,38.437496,-122.718465
+80237,401 Mendocino Ave Kaiser Hospital,38.472481,-122.725745
+80205,55 Stony Point Rd,38.442779,-122.749804
+80457,6959 Montecito Blvd-Rincon Valley Regional Library,38.478721,-122.661366
+80423,7000 Montecito Blvd,38.478535,-122.661102
+80148,950 Wright Rd,38.423283,-122.76889
+80216,Bellevue Ave at Burgess Dr,38.401993,-122.733866
+80217,Bellevue Ave at Stony Point Rd,38.401882,-122.741249
+80192,Bennett Valley Rd at Corktree Ln,38.434002,-122.694398
+80191,Bennett Valley Rd at Maple Ave,38.432835,-122.702087
+80189,Bennett Valley Rd at Rutledge Ave,38.430725,-122.710342
+80190,Bennett Valley Rd at Temple St,38.431767,-122.706505
+80563,Bennett Valley Rd @ Brookwood Ave,38.433201,-122.69847
+80549,Bennett Valley Rd @ Gordon Ln,38.433825,-122.695758
+80326,Bethards Dr at Tachevah Dr,38.428171,-122.664192
+80327,Bethards Dr at Yulupa Ave,38.426286,-122.666736
+80541,Boyd St at Sebastopol Rd,38.431364,-122.720247
+80101,B Street at Ross St,38.441292,-122.716721
+80128,B Street at Ross St,38.440887,-122.716712
+80453,Calistoga Rd at Dupont Dr,38.469621,-122.653832
+80428,Calistoga Rd at Dupont Dr,38.469395,-122.654045
+80429,Calistoga Rd at Hwy 12,38.465064,-122.653881
+80452,Calistoga Rd at Hwy 12,38.466472,-122.653453
+80456,Calistoga Rd at Montecito Blvd,38.478741,-122.65589
+80424,Calistoga Rd at Parkhurst Dr,38.477816,-122.655467
+80426,Calistoga Rd at Yerba Buena Dr,38.473553,-122.654545
+80454,Calistoga Rd at Yerba Buena Rd,38.473179,-122.654266
+80523,Cleveland Ave at Carrillo St,38.447058,-122.726666
+80246,Cleveland Ave at Eleventh St,38.444378,-122.72673
+80545,Cleveland Ave at Lincoln St,38.445132,-122.726592
+80529,Cleveland Ave at Tenth St,38.443436,-122.725822
+80200,Coddingtown,38.45717,-122.732508
+80199,Coddingtown Transit Hub,38.456344,-122.73267
+80392,Coffey Ln at Becky Ct,38.462235,-122.741669
+80243,Coffey Ln at Bluebell Dr,38.465615,-122.74178
+80393,Coffey Ln at Bluebell Dr,38.465748,-122.741623
+80397,Coffey Ln at Dogwood Dr,38.476762,-122.747042
+80395,Coffey Ln at Empire Industrial Ct,38.470191,-122.745325
+80394,Coffey Ln at Piner Rd,38.467812,-122.744408
+80242,Coffey Ln at Piner Rd,38.468441,-122.74478
+80396,Coffey Ln at San Miguel Rd,38.473923,-122.74678
+80447,Coffey Ln at Terry Ln,38.462997,-122.74181
+80366,Corby Ave at Baker Ave,38.42127,-122.717469
+80364,Corby Ave at Barham Ave,38.426573,-122.717934
+80367,Corby Ave at Cottonwood Dr,38.417002004,-122.7175943644
+80365,Corby Ave at Myrtlewood Dr,38.423172,-122.717476
+80559,Corporate Center Pkwy at Challenger Way,38.423374,-122.752932
+80144,Corporate Center Pkwy at Mercury Wy,38.421196,-122.752775
+80143,Corporate Center Pkwy at Northpoint Pkwy,38.416032,-122.753923
+80174,Court St at Santa Rosa Ave,38.406738,-122.712791
+80214,Dutton Meadow at Cass Rd,38.407711,-122.729478
+80213,Dutton Meadow at Hearn Ave,38.4120410887,-122.7290262662
+80215,Dutton Meadow at Mojave Ave,38.403471,-122.729535
+80560,Dutton Meadow at Tuxhorn Dr,38.410208,-122.729387
+80363,Earle St at Corby Ave,38.429336,-122.718526
+80601,East Rec Center,38.4225665217,-122.5811514711
+80175,Elsa Dr at Santa Rosa Ave,38.405682,-122.713238
+80310,E St at Fourth St,38.44159,-122.710391
+80471,Farmers Ln at Bennett Valley Rd,38.433838,-122.688438
+80197,Farmers Ln at Hoen Ave,38.434574,-122.687592
+80193,Farmers Ln at Neotomas Ave,38.433783,-122.688159
+80561,Farmers Ln @ Patio Ct,38.441832,-122.687201
+80562,Farmers Ln @ Vallejo,38.437789,-122.687296
+80147,Finley Ave at Wright Rd,38.419827,-122.768524
+80350,Finley Park,38.442368,-122.748353
+80231,Fountaingrove Pkwy at Round Barn Blvd,38.475066,-122.727089
+80526,Fourth St at Alderbrook Dr,38.449602,-122.698177
+80525,Fourth St at Brookwood Ave,38.443265,-122.707696
+80314,Fourth St at Farmers Ln,38.449481,-122.689654
+80338,Fourth St at Farmers Ln,38.449922,-122.690776
+80311,Fourth St at Pierce St,38.444854,-122.704748
+80340,Fourth St at Pierce St,38.444723,-122.705248
+80339,Fourth St at Proctor Dr,38.448374,-122.699758
+80313,Fourth St at Rogers Wy,38.450143,-122.692968
+80312,Fourth St at Talbot Ave,38.447327,-122.701111
+80389,Frances Ave at Cleveland Ave,38.450333,-122.72702
+80245,Frances St at Central Ave,38.450253,-122.727951
+80146,Fresno Ave at Sebastopol Rd,38.424987,-122.759698
+80552,Fresno Ave @ Golden Gate Ave,38.421781,-122.759309
+80271,Fulton Rd at Appletree Dr,38.45516,-122.76953
+80522,Fulton Rd at Appletree Ln,38.454508,-122.769814
+80269,Fulton Rd at Gordon Creek Dr,38.449589,-122.769577
+80270,Fulton Rd at Guerneville Rd,38.453007,-122.769539
+80296,Fulton Rd at Guerneville Rd,38.451857,-122.769809
+80274,Fulton Rd at Piner Rd,38.466535,-122.769618
+80266,Fulton Rd at Placer Dr,38.440868,-122.769524
+80273,Fulton Rd at Quail Hollow Dr,38.463456,-122.7696
+80297,Fulton Rd at West College Ave,38.445017,-122.769776
+80268,Fulton Rd at West College Ave,38.445595,-122.769508
+80555,Fulton Rd @ Jenes Ln,38.458823,-122.769828
+80556,Fulton Rd @ Jenes Ln,38.45894,-122.769555
+80553,Fulton Rd @ Piner Rd,38.466758,-122.769871
+80554,Fulton Rd @ Quail Hollow Dr,38.463591,-122.769804
+80551,Guerneville Rd at Coffey Ln,38.456396,-122.736676
+80228,Guerneville Rd at Herbert Ln,38.456209,-122.736525
+80202,Guerneville Rd at Lance Dr,38.454811,-122.739207
+80203,Guerneville Rd at Ridley Ave,38.452716,-122.745965
+80227,Guerneville Rd at Ridley Ave,38.452541,-122.745979
+80226,Guervenville Rd at Marlow Rd,38.452499,-122.750359
+80408,Hahman Dr at Montgomery Dr,38.446673,-122.686195
+80127,Healdsburg Ave at Tenth St,38.443653,-122.717949
+80212,Hearn Ave at Arrowhead Dr,38.412518,-122.738166
+80372,Hearn Ave at Burbank Ave,38.413484,-122.733236
+80368,Hearn Ave at Corby Ave,38.414486,-122.718052
+80370,Hearn Ave at Dutton Ave,38.414385,-122.724182
+80369,Hearn Ave at Victoria Dr,38.414467,-122.721746
+80371,Hearn Ave at West Ave,38.414335,-122.72646
+80467,Hoen Ave at Camden Ct,38.438411,-122.675049
+80468,Hoen Ave at Franquette Ave,38.437666,-122.678992
+80466,Hoen Ave at Hilliard Ct,38.43931,-122.672528
+80469,Hoen Ave at Hoen Frontage Rd,38.437662,-122.681255
+80229,Hopper Ave at Airway Dr,38.479649,-122.737773
+80399,Hopper Ave at Banyan Pl,38.479649,-122.741478
+80398,Hopper Ave at Coffey Ln,38.479631,-122.74644
+80448,Hwy 12 at Acacia Ln,38.462345,-122.6688
+80249,Hwy 12 at Acacia Ln,38.462551,-122.668904
+80430,Hwy 12 at Boas Dr,38.465191,-122.658386
+80433,Hwy 12 at Cardinal Wy,38.460993,-122.671093
+80431,Hwy 12 at Jack London Dr,38.464741,-122.661598
+80450,Hwy 12 at Maria Ln,38.464787,-122.660477
+80449,Hwy 12 at Middle Rincon Rd,38.463627,-122.665459
+80432,Hwy 12 at Middle Rincon Rd,38.464083,-122.664458
+80451,Hwy 12 at South Boas Dr,38.464926,-122.657498
+80120,Kaiser Hospital,38.470116,-122.725101
+80111,Kaiser Hospital Campus,38.470344,-122.725664
+80383,Kawana Springs Rd at Meadow Wy,38.416431,-122.709302
+80382,Kawana Springs Rd at Santa Rosa Ave,38.416296,-122.712858
+80472,Maple Ave at Brookwood Ave,38.434147,-122.698967
+80188,Maple Ave at Hendley St,38.432746,-122.706342
+80564,Maple Ave @ Park and Ride,38.433492,-122.70194
+80309,Marlow Rd at Jennings Ave,38.449961,-122.751215
+80279,Marlow Rd at Marsh Rd,38.462139,-122.751266
+80291,Marlow Rd at Piner Rd,38.466152,-122.751073
+80278,Marlow Rd at Piner Rd,38.46682,-122.751244
+80225,Marlow Rd at West College Ave,38.445919,-122.751198
+80290,Marlow Rd at Windmill Dr,38.464222,-122.751076
+80204,Marlow Rd at Zinfandel Wy,38.450856,-122.751492
+80604,Meadowstone Dr,38.4497022803,-122.6200880364
+80121,Mendocino Ave at Administration Dr,38.464586,-122.71924
+80110,Mendocino Ave at Administration Dr,38.46558,-122.719559
+80126,Mendocino Ave at Benton St,38.448065,-122.717779
+80102,Mendocino Ave at Cherry St,38.444567,-122.716938
+80123,Mendocino Ave at Clement St,38.460299,-122.717258
+80103,Mendocino Ave at College Ave,38.446589,-122.717586
+80107,Mendocino Ave at Dexter St,38.457215,-122.717191
+80513,Mendocino Ave at Elliot Ave,38.457144,-122.717387
+80236,Mendocino Ave at Fountain Grove Pkwy,38.473885,-122.727565
+80109,Mendocino Ave at Lewis Rd,38.462117,-122.717551
+80106,Mendocino Ave at McConnell Ave,38.455007,-122.717269
+80104,Mendocino Ave at Nason St,38.449993,-122.717459
+80125,Mendocino Ave at Ridgway,38.450927,-122.717581
+80511,Mendocino Ave at Russell Ave,38.468987,-122.721703
+80512,Mendocino Ave at Russell Ave,38.469393,-122.722237
+80122,Mendocino Ave at Schurman Dr,38.462866,-122.71826
+80108,Mendocino Ave at Silva Ave,38.458542,-122.717127
+80464,Mission Blvd at Culebra Ave,38.465534,-122.676348
+80416,Mission Blvd at Culebra Dr,38.46574,-122.676226
+80414,Mission Blvd at Hwy 12,38.459679,-122.675303
+80129,Mission Blvd at Hwy 12,38.459193,-122.675206
+80434,Mission Blvd at Mission Cir,38.458267,-122.673817
+80418,Mission Blvd at Montecito Blvd,38.471904,-122.676813
+80413,Mission Blvd at Quigg Dr,38.458263,-122.673047
+80417,Mission Blvd at Rinconada Dr,38.468684,-122.676666
+80415,Mission Blvd at Sherbrook Dr,38.463126,-122.67569
+80465,Mission Blvd at Sherbrook Dr,38.463103,-122.675922
+80462,Mission Blvd at Vine St,38.471714,-122.676971
+80463,Mission Blvd at Yukon Dr,38.469003,-122.676889
+80461,Montecito Blvd at Benicia Dr,38.473821,-122.675502
+80419,Montecito Blvd at Benicia Dr,38.473532,-122.675413
+80421,Montecito Blvd at Benjamins Rd,38.476883,-122.668304
+80420,Montecito Blvd at Middle Rincon Rd,38.475539,-122.673093
+80460,Montecito Blvd at Middle Rincon Rd,38.475549,-122.673582
+80458,Montecito Blvd at Saint Mary Dr,38.478057,-122.665344
+80422,Montecito Blvd at Saint Mary Dr,38.47818,-122.664467
+80459,Montecito Blvd at Swift Ct,38.476826,-122.669455
+80438,Montgomery Dr at Franquette Ave,38.447977,-122.683209
+80409,Montgomery Dr at Franquette Ave,38.448026,-122.682401
+80411,Montgomery Dr at Jacqueline Dr,38.452205,-122.674815
+80436,Montgomery Dr at Jacqueline Dr,38.452191,-122.675194
+80412,Montgomery Dr at Summerfield Rd,38.45436,-122.672273
+80435,Montgomery Dr at Summerfield Rd,38.4545,-122.672441
+80410,Montgomery Dr at Yulupa Ave,38.449554,-122.679015
+80437,Montgomery Dr at Yulupa Ave,38.44936,-122.679544
+80542,Morgan at 6th St,38.440204,-122.71947
+80546,Morgan St at 4th St,38.438347,-122.718199
+80247,Ninth St at Davis St,38.44218,-122.722708
+80388,Ninth St at Davis St,38.442391,-122.722237
+80344,North Dutton Ave at Decker St,38.44064,-122.728844
+80359,North Dutton Ave at Hewitt St,38.438255,-122.72882
+80343,North Dutton Ave at Hewitt St,38.438421,-122.728636
+80356,North Dutton Ave at Kingwood St,38.444621,-122.730652
+80358,North Dutton Ave at West Eighth St,38.439356,-122.728898
+80357,North Dutton Ave at West Ninth St,38.441816,-122.72909
+80342,North Dutton Ave at West Third St,38.434778,-122.726941
+80141,Northpoint Pkwy at Lombardi Ln,38.416289,-122.747031
+80142,Northpoint Pkwy at Mariner Ln,38.416115,-122.749675
+80140,Northpoint Pkwy at Stony Point Rd,38.416018,-122.740877
+80600,Oakmont Central Complex,38.4420485889,-122.6024353638
+80606,Oakmont Central Complex West,38.441238155,-122.6043475199
+80602,Oakmont Golf Course,38.432203833,-122.5930145473
+80165,Olive St at Hazel St,38.434266,-122.719286
+80131,Olive St at Laurel St,38.433134,-122.719008
+80386,Petaluma Hill Rd at Aston Ave,38.423622,-122.707977
+80377,Petaluma Hill Rd at Barham Ave,38.427843,-122.710609
+80378,Petaluma Hill Rd at Colgan Ave,38.423256,-122.707958
+80379,Petaluma Hill Rd at Kawana Springs Rd,38.415854,-122.704465
+80384,Petaluma Hill Rd at Kawana Springs Rd,38.416918,-122.704137
+80387,Petaluma Hill Rd at Pressley St,38.427826,-122.710457
+80385,Petaluma Hill Rd at Santa Ana Wy,38.422001,-122.706797
+80239,Piner Rd at Airway Dr,38.472087,-122.738445
+80530,Piner Rd at Fulton Rd,38.467218,-122.767306
+80292,Piner Rd at Genoa Pl,38.467201,-122.754547
+80240,Piner Rd at Industrial Dr,38.47088,-122.740516
+80276,Piner Rd at Peterson Ln,38.467129,-122.762321
+80293,Piner Rd at Peterson Ln,38.46726,-122.763736
+80275,Piner Rd at Pinercrest Dr,38.467106,-122.766434
+80238,Piner Rd at Range Ave,38.472125,-122.733802
+80277,Piner Rd at Waltzer Rd,38.467121,-122.755966
+80195,Post Ranch Rd at Townview Ave,38.434453,-122.683529
+80130,Railroad Ave at West Third St,38.435913,-122.720162
+80391,Range Ave at Edwards Ave,38.454781,-122.732262
+80390,Range Ave at Jennings Ave,38.452771,-122.731587
+80244,Range Ave at Jennings Ave,38.452741,-122.731737
+80117,Range Ave at Katy Ct,38.463225,-122.732557
+80114,Range Ave at Katy Ct,38.462691,-122.732762
+80112,Range Ave at Russell Ave,38.468328,-122.732755
+80119,Range Ave at Russell Ave,38.469647,-122.732527
+80113,Range Ave at State Farm Dr,38.465582,-122.732725
+80118,Range Ave at State Farm Dr,38.466569,-122.732566
+80115,Range Ave at West Steele Ln,38.460447,-122.732634
+80116,Range Ave at West Steele Ln,38.460659,-122.732422
+80234,Round Barn Blvd at Round Barn Cir,38.478177,-122.728118
+80232,Round Barn Blvd at Unocal Pl,38.479092,-122.723175
+80176,Santa Rosa Ave at Apple Ln,38.407531,-122.713368
+80169,Santa Rosa Ave at Barham Ave,38.427342,-122.713308
+80182,Santa Rosa Ave at Barham Ave,38.427548,-122.712837
+80177,Santa Rosa Ave at Burt St,38.410343,-122.713375
+80173,Santa Rosa Ave at Burt St,38.409253,-122.713711
+80517,Santa Rosa Ave at Colgan Ave,38.420914,-122.713693
+80180,Santa Rosa Ave at Colgan Ave,38.421725,-122.713396
+80181,Santa Rosa Ave at Flower Ave,38.424133,-122.713388
+80170,Santa Rosa Ave at Flower Ave,38.424153,-122.713677
+80566,Santa Rosa Ave at Hearn Ave,38.414969,-122.713359
+80183,Santa Rosa Ave at Maple St,38.431958,-122.711249
+80184,Santa Rosa Ave at Mill St,38.43373,-122.711643
+80167,Santa Rosa Ave at Sebastopol Ave,38.433946,-122.711913
+80557,Santa Rosa Ave at Sonoma Ave,38.436117,-122.712397
+80558,Santa Rosa Ave at Sonoma Ave,38.436191,-122.712144
+80168,Santa Rosa Ave at South A St,38.431713,-122.711451
+80172,Santa Rosa Ave at Yolanda Ave,38.411082,-122.713671
+80178,Santa Rosa Ave at Yolanda Ave,38.411803,-122.713385
+80105,Santa Rosa Junior College,38.452683,-122.717346
+80124,Santa Rosa Junior College Campus,38.453846,-122.717615
+80164,Sebastopol Rd at Boyd St,38.431543,-122.720983
+80160,Sebastopol Rd at Burbank Ave,38.428425,-122.734103
+80132,Sebastopol Rd at Chestnut St,38.431724,-122.720908
+80145,Sebastopol Rd at Corporate Center Pkwy,38.426038,-122.753979
+80152,Sebastopol Rd at Corporate Center Pkwy,38.425996,-122.751208
+80150,Sebastopol Rd at Doubles Dr,38.425266,-122.76152
+80163,Sebastopol Rd at Dutton Ave,38.430758,-122.724567
+80133,Sebastopol Rd at Dutton Ave,38.430894,-122.724521
+80159,Sebastopol Rd at Hampton Wy,38.427542,-122.737904
+80136,Sebastopol Rd at Hampton Wy,38.427658,-122.738146
+80157,Sebastopol Rd at Laurel Grove Cir,38.426647,-122.745718
+80154,Sebastopol Rd at Laurel Grove Cir,38.426475,-122.745219
+80158,Sebastopol Rd at Lombardi Ct,38.426379,-122.749077
+80153,Sebastopol Rd at Lombardi Ln,38.426269,-122.747962
+80151,Sebastopol Rd at Mattson Rd,38.425755,-122.75505
+80161,Sebastopol Rd at Mcminn Ave,38.429008,-122.731888
+80135,Sebastopol Rd at Romani Ct,38.428587,-122.734306
+80155,Sebastopol Rd at Stony Point Rd,38.426855,-122.740907
+80156,Sebastopol Rd at Stony Point Rd,38.426939,-122.741809
+80162,Sebastopol Rd at West Ave,38.429987,-122.727733
+80134,Sebastopol Rd at West Ave,38.429795,-122.729267
+80444,Sonoma Ave at Brookwood Ave,38.440326,-122.703344
+80402,Sonoma Ave at Brookwood Ave,38.440175,-122.703241
+80317,Sonoma Ave at Carley Dr,38.448696,-122.672348
+80405,Sonoma Ave at Doctors Park Dr,38.443313,-122.691781
+80442,Sonoma Ave at Doyle Park Dr,38.441758,-122.698116
+80403,Sonoma Ave at Doyle Park Dr,38.441546,-122.698242
+80521,Sonoma Ave at D St,38.438041,-122.709814
+80446,Sonoma Ave at E St,38.438706,-122.70889
+80407,Sonoma Ave at Farmers Ln,38.444797,-122.686479
+80439,Sonoma Ave at Farmers Ln,38.44489,-122.686521
+80315,Sonoma Ave at Franquette Ave,38.446136,-122.681679
+80337,Sonoma Ave at Franquette Ave,38.446043,-122.682348
+80401,Sonoma Ave at Gray Ct,38.439243,-122.706608
+80404,Sonoma Ave at Hoen Ave,38.442524,-122.694657
+80441,Sonoma Ave at Rosedale St,38.442725,-122.694634
+80440,Sonoma Ave at Shortt Rd,38.44372,-122.690958
+80520,Sonoma Ave at Sotoyome Ave,38.44084,-122.700807
+80443,Sonoma Ave at Sotoyome St,38.440894,-122.701269
+80318,Sonoma Ave at Summerfield Rd,38.449657,-122.668771
+80336,Sonoma Ave at Yulupa Ave,38.447167,-122.678371
+80316,Sonoma Ave at Yulupa Ave,38.44746,-122.676849
+80475,South E St at Clark St,38.437211,-122.706536
+80185,South E St at Sonoma Ave,38.438453,-122.708317
+80473,South E St at Stevenson St,38.433985,-122.704677
+80186,South E St at Tupper St,38.437453,-122.707057
+80474,South E St at Vallejo St,38.435581,-122.705566
+80187,South E St at Wheeler St,38.435603,-122.705759
+80218,Stony Point Rd at Bellevue Ranch Rd,38.407521,-122.741285
+80565,Stony Point Rd at Gable St,38.405006,-122.741437
+80139,Stony Point Rd at Giffen Ave,38.417846,-122.74034
+80220,Stony Point Rd at Giffen Ave,38.417801,-122.740051
+80224,Stony Point Rd at Glenbrook Dr,38.437174,-122.742739
+80207,Stony Point Rd at Glenbrook Dr,38.436983,-122.742928
+80138,Stony Point Rd at Marble St,38.421025,-122.740712
+80248,Stony Point Rd at Mesa Way,38.424613,-122.740789
+80219,Stony Point Rd at Old Stony Point Rd,38.414138,-122.740062
+80210,Stony Point Rd at Pearblossom Dr,38.414433,-122.740254
+80137,Stony Point Rd at Sebastopol Rd,38.426315,-122.741389
+80222,Stony Point Rd at Sebastopol Rd 2,38.4277,-122.741241
+80209,Stony Point Rd at Sebastopol Rd Food Maxx,38.428118,-122.741677
+80206,Stony Point Rd at Stony Cir,38.440565,-122.745324
+80221,Stony Point Rd at Trombetta St,38.42248,-122.740588
+80509,Stony Point Rd at West College Ave,38.444725,-122.751448
+80400,Stony Point Rd at West College Ave-West S,38.444816,-122.75191
+80349,Stony Point Rd at West Ninth St,38.441017,-122.745636
+80223,Stony Point Rd at West Third St,38.432758,-122.741959
+80208,Stony Point Rd at West Third St,38.434874,-122.742664
+80323,Summerfield Rd at Carissa Ave,38.437155,-122.659538
+80321,Summerfield Rd at Hoen Ave,38.44196,-122.662154
+80324,Summerfield Rd at Horseshoe Dr,38.435045,-122.659648
+80325,Summerfield Rd at Horseshoe Dr-South,38.431959,-122.660562
+80320,Summerfield Rd at Mayette Ave,38.445145,-122.664471
+80322,Summerfield Rd at Shade Tree Ln,38.440563,-122.661117
+80319,Summerfield Rd at Texas Ave,38.447331,-122.666069
+80341,Third St at E St,38.440778,-122.711161
+80470,Townview Ave at Townview Ln,38.435024,-122.685745
+80700,Transit Mall North Bays,38.438769,-122.713719
+80100,Transit Mall South Bays,38.438663,-122.71364
+80548,W 3rd @ Pierson St,38.434924,-122.723745
+80374,West Ave at Leo Dr,38.419038,-122.727609
+80533,West Ave at Rose Meadow Ct,38.420882,-122.727822
+80375,West Ave at South Ave,38.423227,-122.728084
+80376,West Ave at Sunset Ave,38.427527,-122.72858
+80373,West Ave at Valarie Wy,38.416199,-122.727169
+80353,West College Ave at Borden Villa Dr,38.44513,-122.74363
+80354,West College Ave at Clover Dr,38.445342,-122.739615
+80355,West College Ave at Link Ln,38.445562,-122.734341
+80352,West College Ave at Ridley Ave,38.445158,-122.745431
+80351,West College Ave at Sparrow Creek St-Finl,38.44511,-122.749417
+80348,West Ninth St at Agnew Pl,38.441465,-122.741787
+80345,West Ninth St at Kingwood St,38.44176,-122.7317
+80346,West Ninth St at Link Ln,38.441804,-122.734162
+80347,West Ninth St at Simpson Pl,38.441657,-122.738069
+80603,West Rec Center,38.4467489128,-122.6161570933
+80288,West Steele Ln at Apache St,38.459835,-122.745624
+80281,West Steele Ln at Apache St,38.459688,-122.746144
+80287,West Steele Ln at Coffey Ln,38.460016,-122.741313
+80282,West Steele Ln at Coffey Ln,38.459942,-122.740982
+80286,West Steele Ln at Heidi Pl,38.46003,-122.738464
+80283,West Steele Ln at Heidi Pl,38.459962,-122.73793
+80289,West Steele Ln at Marlow Rd,38.459859,-122.750339
+80280,West Steele Ln at Marlow Rd,38.459721,-122.750055
+80285,West Steele Ln at Range Ave,38.460055,-122.733391
+80284,West Steele Ln at Range Ave,38.459969,-122.733246
+80260,West Third St at Brittain Ln,38.435444,-122.753448
+80302,West Third St at Brittain Ln,38.435291,-122.752777
+80304,West Third St at Brockhurst Dr,38.433773,-122.743965
+80259,West Third St at Chadwick Pl,38.434944,-122.749504
+80264,West Third St at Darla Dr,38.438091,-122.766487
+80307,West Third St at Dutton Ave,38.434136,-122.726113
+80255,West Third St at Dutton Ave,38.433937,-122.727745
+80299,West Third St at Fulton Rd,38.437923,-122.768501
+80265,West Third St at Fulton Rd,38.43811,-122.76963
+80303,West Third St at Harvest Ln,38.434208,-122.747871
+80166,West Third St at Railroad Ave,38.436748,-122.719478
+80306,West Third St at Rusch Ct,38.433214,-122.734932
+80300,West Third St at Senna Dr,38.43787,-122.761993
+80263,West Third St at Senna Dr,38.438061,-122.761894
+80258,West Third St at Stony Point Rd,38.433952,-122.742821
+80305,West Third St at Stony Point Rd,38.433689,-122.741219
+80256,West Third St at Surrey Dr,38.4332994018,-122.7341483776
+80301,West Third St at Valley West Dr,38.436877,-122.758554
+80262,West Third St at Valley West Dr,38.437115,-122.75869
+80257,West Third St at Westbrook Dr,38.43367,-122.740015
+80253,West Third St at Wilson St-Downtown SMART,38.436257,-122.721127
+80380,Yolanda Ave at Petaluma Hill Rd,38.413292,-122.70639
+80381,Yolanda Ave at Santa Rosa Ave,38.413294,-122.712726
+80335,Yulupa Ave at Claremont CT,38.446162,-122.676584
+80331,Yulupa Ave at Douglas Dr,38.438205,-122.670499
+80332,Yulupa Ave at Hoen Ave,38.439875,-122.671732
+80333,Yulupa Ave at Mayette Ave,38.442205,-122.67354
+80198,Yulupa Ave at Mayette Ave,38.442146,-122.67376
+80328,Yulupa Ave at Neotomas Ave,38.428299,-122.668204
+80334,Yulupa Ave at Princeton Dr,38.443656,-122.674677
+80330,Yulupa Ave at Sacramento Ave,38.435891,-122.668633
+80538,Yulupa Ave at Sonoma Ave,38.447053,-122.677524
+80329,Yulupa Ave at Tachevah Dr,38.43146,-122.668208

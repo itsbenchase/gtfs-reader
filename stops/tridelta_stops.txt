@@ -1,0 +1,408 @@
+812624,17th West St & Bruno Ave,38.022601,-121.896068
+812243,17th West St & Bruno Ave,38.022509,-121.896184
+810924,2nd St & Brentwood Blvd,37.936087,-121.696401
+810911,2nd St & Maple St,37.934377,-121.69486
+810768,2nd St & Oak St,37.933732,-121.694028
+817160,Adams Ln (Blue Goose Park),37.949792,-121.707492
+816740,Alhambra Ave & C St,38.004973,-122.130964
+814599,Alhambra Ave & Walnut Ave,37.992447,-122.130639
+813979,Alhambra Ave & Walnut Ave,37.992253,-122.130843
+819209,Alhambra Ave & Wano St,38.005641,-122.131119
+811299,American Ave,37.918801,-121.756103
+811309,American Ave & Balfour Rd,37.922265,-121.752791
+819191,Amtrak,38.018487,-122.139107
+818843,Andrew Ave & 17th West St,38.022506,-121.898368
+817754,Antioch BART,37.995572,-121.778137
+819221,Arnold Dr & Starflower Dr,37.994474,-122.079064
+814575,Arnold Dr & Starflower Dr,37.994533,-122.078853
+811879,A St & Belshaw St,37.999926,-121.806159
+813436,A St & Belshaw St,38.000477,-121.805868
+811880,A St & East 19th St,38.004323,-121.806159
+813135,A St & East 19th St,38.00407,-121.805909
+812774,Atlantic Ave & Atlantic Cir,38.007693,-121.890825
+812761,Atlantic Ave & Atlantic Cir,38.007997,-121.888573
+812682,Atlantic Ave & Atlantic Cir,38.00803,-121.89151
+812994,Auto Center Dr & Century Blvd,38.00634,-121.834819
+816680,Auto Center Dr & Costco Way,38.008888,-121.83217
+812047,Auto Center Dr & Sycamore Dr,38.005931,-121.834741
+815825,Auto Center Dr & West 18th St,38.007665,-121.832915
+812505,Bailey Rd & Canal Rd,38.020849,-121.94203
+812431,Bailey Rd & Canal Rd,38.021004,-121.941729
+812514,Bailey Rd & Mary Ann Ln,38.024632,-121.942064
+814259,Bailey Rd & Maylard St,38.017257,-121.941809
+819266,Bailey Rd & Maylard St,38.016165,-121.942116
+819087,Bailey Rd & Placer Dr,38.024787,-121.941795
+816520,Balclutha Wy & Polaris Dr,38.022912,-121.921902
+819324,Balclutha Wy & Willow Pass Rd,38.026322,-121.923899
+819330,Balclutha Wy & Willow Pass Rd,38.026348,-121.923827
+811281,Balfour Rd & American Ave,37.925162,-121.751831
+811456,Balfour Rd & Claremont Dr,37.925281,-121.714289
+811384,Balfour Rd & Clearview Dr,37.925505,-121.719073
+811268,Balfour Rd & Foothill Dr,37.925167,-121.741244
+811402,Balfour Rd & Griffith Ln,37.925586,-121.705982
+811441,Balfour Rd & Griffith Ln,37.925346,-121.704405
+811313,Balfour Rd & John Muir Pky,37.925438,-121.739433
+811460,Balfour Rd & McViking Wy,37.925212,-121.721176
+811397,Balfour Rd & Minnesota Ave,37.925512,-121.714366
+811275,Balfour Rd & Ranchwood Dr,37.925174,-121.745748
+818955,Berrellesa St & Escobar St,38.016616,-122.139478
+817875,Black Diamond & East 8th St,38.029909,-121.88577
+817881,Black Diamond & East 8th St,38.029714,-121.885937
+810734,Brentwood Blvd & Applewood Com,37.950374,-121.695938
+810953,Brentwood Blvd & Applewood Com,37.95069,-121.696216
+810969,Brentwood Blvd & Grant St,37.953867,-121.696261
+810976,Brentwood Blvd & Lone Tree Wy,37.961009,-121.696233
+810710,Brentwood Blvd & Lone Tree Wy,37.960499,-121.695986
+810747,Brentwood Blvd & Sand Creek Rd,37.946998,-121.695999
+810948,Brentwood Blvd & Sand Creek Rd,37.946203,-121.696281
+810723,Brentwood Blvd & Sunset Rd,37.954685,-121.69599
+810930,Brentwood Blvd & Village Dr,37.941524,-121.696341
+810752,Brentwood Blvd & Village Dr,37.942007,-121.696076
+811425,Brentwood Park n Ride,37.933838,-121.698755
+818469,Buchanan Rd & Campbell Dr,37.997904,-121.886633
+813853,Buchanan Rd & Harbor St,37.998042,-121.887675
+813933,Buchanan Rd & Inverness Dr,37.99789,-121.882025
+818385,Buchanan Rd & McDermott Dr,37.997894,-121.877955
+813848,Buchanan Rd & Santa Ana Dr,37.998055,-121.883443
+813663,Buchanan Rd & Suzanne Dr,37.998052,-121.880624
+810354,Cavallo Rd & Amber Dr,38.005766,-121.796679
+810349,Cavallo Rd & East 13th St,38.009174,-121.796585
+810035,Cavallo Rd & East 13th St,38.009146,-121.796802
+810026,Cavallo Rd & Wilbur Ave,38.011653,-121.796973
+810331,Cavallo Rd & Wilbur Ave,38.011757,-121.79678
+817028,Center Dr & Railroad Ave (SB),38.018632,-121.889571
+819136,Century Blvd & Century Plz,38.00597,-121.839142
+817194,Century Blvd & Century Plz,38.006362,-121.840382
+817187,Century Blvd & Century Wy,38.009563,-121.848673
+814961,Century Blvd & Maya,38.008202,-121.844767
+814988,Century Blvd & Maya,38.007726,-121.844649
+816842,Chester Dr & School St,38.017993,-121.874555
+819382,Civic Ave & 17th West St,38.021348,-121.891622
+812630,Civic Ave & Davi Ave,38.02157,-121.891523
+812648,Civic Ave & Railroad Ave,38.021081,-121.889472
+816971,Concord BART,37.974766,-122.029025
+815666,Contra Loma Blvd & Contra Loma Plaza,37.990729,-121.822651
+810205,Contra Loma Blvd & Gatter Dr,37.986202,-121.823782
+810192,Contra Loma Blvd & James Donlon Blvd,37.982954,-121.825097
+815678,Contra Loma Blvd & Longview Rd,37.989222,-121.823181
+810214,Contra Loma Blvd & Putnam St,37.991308,-121.822329
+815645,Contra Loma Blvd & San Jose Dr,37.994019,-121.82283
+819812,Contra Loma Blvd & St Francis Dr NB,37.997405,-121.822379
+815650,Contra Loma Blvd & St. Francis Dr SB,37.996671,-121.822858
+819920,Cumberland St & East 8th St,38.029238,-121.883726
+810464,Dallas Ranch Rd & Cache Peak Dr,37.969732,-121.79668
+810455,Dallas Ranch Rd & Cache Peak Dr,37.970567,-121.796956
+810472,Dallas Ranch Rd & Mt Hamilton Dr,37.96746,-121.796661
+810440,Dallas Ranch Rd & Mt Hamilton Dr,37.96742,-121.796942
+810486,Dallas Ranch Rd & Stonecrest Dr,37.962504,-121.797326
+810438,Dallas Ranch Rd & Stonecrest Dr,37.962305,-121.797582
+810602,Davison Dr & Ashburton Dr,37.987251,-121.796556
+810558,Davison Dr & Burwood Wy,37.98721,-121.795631
+810562,Davison Dr & Garrow Dr,37.986106,-121.798406
+810591,Davison Dr & Garrow Dr,37.98585,-121.799285
+810618,Davison Dr & Harbour Dr,37.989615,-121.790708
+810543,Davison Dr & Harbour Dr,37.989532,-121.790471
+810625,Davison Dr & Harris Dr,37.990445,-121.787468
+819798,Davison Dr & Harris Dr,37.990253,-121.787355
+810589,Davison Dr & Mountaire Dr,37.985326,-121.802808
+810570,Davison Dr & Sunset Ln,37.985114,-121.803171
+813587,Deer Valley Rd & Kaiser,37.951553,-121.778018
+812081,Delta Fair Blvd & Belle Dr,38.005453,-121.854222
+812956,Delta Fair Blvd & Belle Dr,38.006108,-121.854058
+816130,Delta Fair Blvd & Gentrytown Dr,37.999618,-121.837866
+815433,Delta Fair Blvd & Gentrytown Dr,37.999639,-121.838077
+812987,Delta Fair Blvd & Kaiser,38.004146,-121.842735
+812068,Delta Fair Blvd & Kendree St,38.003001,-121.847186
+819094,Delta Fair Blvd & Kendree St,38.003196,-121.847145
+812075,Delta Fair Blvd & School St,38.003651,-121.850311
+812960,Delta Fair Blvd & School St,38.003769,-121.850018
+812052,Delta Fair Blvd & Somersville Towne Center,38.003644,-121.841802
+815031,Driftwood Dr and Coastview Ct,38.025081,-121.983562
+816701,Driftwood Dr & Coastview Ct,38.024823,-121.983448
+818411,Driftwood Dr & Pacifica Ave,38.033679,-121.978947
+815083,Driftwood Dr & Pacifica Ave,38.033897,-121.977882
+818407,Driftwood Dr & Steffa St,38.029696,-121.978993
+815054,Driftwood Dr & Steffa St,38.030012,-121.978879
+812828,East 10th St & Los Medanos St,38.027418,-121.882793
+812197,East 10th St & Los Medanos St,38.027265,-121.882841
+818741,East 18th St & Alpha Wy,38.004816,-121.800858
+817765,East 18th St and Holub Ln,38.004918,-121.757058
+810057,East 18th St & Biglow Dr,38.004787,-121.793425
+810042,East 18th St & Cavallo Rd,38.004807,-121.796225
+810137,East 18th St & Cavallo Rd,38.004988,-121.797203
+813352,East 18th St & Drive In Way,38.005247,-121.756023
+813296,East 18th St & Hargrove St,38.004998,-121.782936
+810144,East 18th St & Helmuth Ln,38.004993,-121.801304
+817806,East 18th St & Hillcrest Ave,38.003914,-121.786563
+813306,East 18th St & St Claire Dr,38.005017,-121.778751
+810365,East 18th St & Tce Dr,38.005032,-121.792254
+817796,East 18th St & Trembath Ln,38.004829,-121.780432
+813323,East 18th St & Viera Ave,38.005056,-121.773172
+817783,East 18th St & Viera Ave,38.004829,-121.773234
+813347,East 18th St & Wilson St,38.005071,-121.765062
+817777,East 18th St & Wilson St,38.004876,-121.765209
+812109,East Leland Rd & Commerce Pl,38.008195,-121.864655
+814552,East Leland Rd & Dias Cir,38.008848,-121.873939
+814450,East Leland Rd & Freed Wy,38.009728,-121.8803
+812939,East Leland Rd & Gladstone Dr,38.008534,-121.865642
+814466,East Leland Rd & Harbor St,38.011206,-121.886528
+817899,East Leland Rd & Harbor St,38.010755,-121.885601
+814801,East Leland Rd & Homewood Dr,38.009716,-121.881292
+819444,East Leland Rd & Lakeview Cir,38.007256,-121.862094
+819073,East Leland Rd & Lakeview Cir,38.007891,-121.861317
+812113,East Leland Rd & Loveridge Rd,38.007926,-121.870225
+812925,East Leland Rd & Loveridge Rd,38.008081,-121.869694
+814445,East Leland Rd & Piedmont Wy,38.009393,-121.875367
+814263,East Leland Rd & Railroad Ave,38.012154,-121.890473
+818430,East Leland Rd & Railroad Ave,38.011982,-121.890725
+814547,East Leland Rd & Stoneridge Dr,38.0092,-121.879112
+818858,East St & Bacon St,37.982543,-122.034049
+816992,East St & Bacon St,37.982701,-122.033933
+819883,Empire Ave & El Monte Dr,37.99175,-121.732451
+819877,Empire Ave & Holly Dr,37.99369,-121.7325
+819930,Empire Ave & Wicklow Wy,37.966794,-121.732749
+819940,Escobar St & Alhambra Ave,38.017091,-122.138483
+815390,Gentrytown Dr & Curtis Dr,37.988003,-121.839478
+815498,Gentrytown Dr & Dimaggio Wy,37.987155,-121.838751
+815467,Gentrytown Dr & Jefferson Wy,37.991329,-121.840228
+819284,Gentrytown Dr & Jefferson Wy,37.991982,-121.840074
+815446,Gentrytown Dr & Lopez Dr,37.99639,-121.838371
+815422,Gentrytown Dr & Madrid Ln,37.997058,-121.838073
+815388,Gentrytown Dr & Meredith Wy,37.984603,-121.835736
+815480,Gentrytown Dr & Putnam St,37.989485,-121.840277
+815451,Gentrytown Dr & Sequoia Dr,37.993428,-121.839903
+815414,Gentrytown Dr & Sequoia Dr,37.993471,-121.839732
+817156,Grant St & Ohara Ave,37.953868,-121.713601
+818668,G St & West 10th St,38.011514,-121.813729
+818681,G St & West 7th St,38.012986,-121.813855
+818675,G St & West 7th St,38.013237,-121.813726
+812184,Harbor St & 10th St,38.026283,-121.878767
+817248,Harbor St & Army St,38.017879,-121.881746
+816861,Harbor St & Central,38.023949,-121.879596
+816857,Harbor St & Central Ave,38.023811,-121.879337
+812844,Harbor St & East 12th St,38.024598,-121.878977
+812742,Harbor St & East Leland Rd,38.011448,-121.885801
+812178,Harbor St & East Santa Fe Ave,38.024756,-121.879245
+812719,Harbor St & Garcia Ave,38.012474,-121.885707
+818901,Harbor St & Leland Ln,38.010524,-121.886452
+812695,Harbor St & Presidio Ln,38.009195,-121.887161
+816819,Harbor St & School St,38.019326,-121.881196
+816874,Harbor St & School St,38.019234,-121.881527
+817823,Hillcrest Ave & Arzate Ln,38.001144,-121.787471
+817380,Hillcrest Ave & East Tregallas Rd,37.994002,-121.784506
+817398,Hillcrest Ave & Larkspur Dr,37.995242,-121.784724
+816679,Hillcrest Ave & Renwick Ln,38.000252,-121.787636
+814302,Hillcrest Ave & Yellowstone Dr,38.00329,-121.78775
+817810,Hillcrest Ave & Yosemite Dr,38.002686,-121.787471
+816410,Inlet Dr & Marina Rd,38.036364,-121.969108
+815479,James Donlon Blvd & Contra Loma Blvd,37.982792,-121.826061
+815374,James Donlon Blvd & Dimaggio Wy,37.983256,-121.831473
+815507,James Donlon Blvd & Gentrytown Dr,37.983053,-121.835207
+815511,James Donlon Blvd & Silverado Dr,37.983021,-121.83062
+818344,Laurel Rd & Rose Ave,37.983202,-121.704364
+811776,Lone Tree Wy & Black Diamond Dr,37.969311,-121.79004
+813525,Lone Tree Wy & Bluerock Dr,37.977616,-121.802896
+817501,Lone Tree Wy & Canada Valley Rd,37.96186,-121.748546
+813797,Lone Tree Wy & Canada Valley Rd,37.961497,-121.748934
+811805,Lone Tree Wy & Clayburn Rd,37.98304,-121.805847
+811822,Lone Tree Wy & Clearbrook Rd,37.98703,-121.806644
+813491,Lone Tree Wy & Clearbrook Rd,37.987631,-121.806733
+813556,Lone Tree Wy & Country Hills Dr,37.968447,-121.786546
+811782,Lone Tree Wy & Dallas Ranch Rd,37.970867,-121.795192
+811814,Lone Tree Wy & Davison Dr,37.9846,-121.80598
+813502,Lone Tree Wy & Davison Dr,37.985489,-121.805757
+817282,Lone Tree Wy & Deer Valley High,37.964068,-121.774086
+811769,Lone Tree Wy & Deer Valley Plz,37.967342,-121.784422
+813560,Lone Tree Wy & Deer Valley Rd,37.966339,-121.781001
+817295,Lone Tree Wy & Deer Valley Rd,37.965423,-121.77952
+813539,Lone Tree Wy & Eagleridge Dr,37.971399,-121.795931
+813462,Lone Tree Wy & East Tregallas Rd,37.995819,-121.806537
+818787,Lone Tree Wy & Empire Ave,37.961776,-121.733348
+811795,Lone Tree Wy & Golf Course Rd,37.976459,-121.802077
+813811,Lone Tree Wy & Hillcrest Ave,37.96158,-121.758896
+817488,Lone Tree Wy & Hillcrest Ave,37.961863,-121.761474
+817517,Lone Tree Wy & Hwy 4,37.961827,-121.745516
+813824,Lone Tree Wy & Indian Hill Dr,37.961712,-121.764053
+813541,Lone Tree Wy & Muirwood Wy,37.970022,-121.791272
+817474,Lone Tree Wy & Prewett Prk,37.964789,-121.775868
+811846,Lone Tree Wy & Robert St,37.992027,-121.807895
+813830,Lone Tree Wy & Sagebrush Dr,37.963572,-121.771898
+817529,Lone Tree Wy & Slatten Ranch Rd,37.96181,-121.737865
+813518,Lone Tree Wy & Sutter Delta,37.982628,-121.805496
+811833,Lone Tree Wy & Terranova Dr,37.989536,-121.807774
+813807,Lone Tree Wy & Vista Grande Dr,37.961587,-121.754435
+817490,Lone Tree Wy & Vista Grande Dr,37.961874,-121.755946
+813489,Lone Tree Wy & Walton Ln,37.991451,-121.807558
+811851,Lone Tree Wy & West Tregallas Rd,37.99524,-121.807668
+813470,Lone Tree Wy & Worrell Rd,37.994044,-121.807697
+814069,Loveridge Rd & Delta Deanza Trail,38.005277,-121.871854
+814421,Loveridge Rd & Loveridge Cir,38.007573,-121.871291
+810308,Loveridge Rd & Stoneman Ave,38.003073,-121.872716
+814817,Loveridge Rd & Stoneman Ave,38.003042,-121.873006
+814829,Loveridge Rd & Ventura Dr,38.000318,-121.874049
+810298,Loveridge Rd & Ventura Dr,38.000402,-121.873729
+819348,L St & Claudia Ct,38.000299,-121.821285
+817211,L St & Claudia Ct,38.000014,-121.821126
+813055,L St & West 18th St,38.005036,-121.819938
+811996,L St & William Reed Dr,38.004339,-121.819901
+818756,Main St & Big Break Rd,38.003643,-121.732676
+817950,Main St & Big Break Rd,38.00483,-121.733495
+818929,Main St & Bolton East Rd,37.973856,-121.695895
+810639,Main St & Charles Wy,37.998737,-121.73149
+810706,Main St & Delta Rd,37.96877,-121.695966
+819025,Main St & East 18th St,38.005222,-121.752237
+813644,Main St & Empire Ave,37.997839,-121.730492
+811058,Main St & Genesco St,37.999947,-121.732442
+810687,Main St & Laurel Rd,37.983203,-121.695744
+811004,Main St & Laurel Rd,37.983026,-121.696048
+810982,Main St & Neroly Rd,37.968972,-121.696205
+817749,Main St & Neroly Rd,38.004962,-121.750389
+811043,Main St & Norcross Ln,37.997716,-121.716376
+810641,Main St & Norcross Ln,37.997947,-121.716936
+813628,Main St & Teakwood Dr,37.997942,-121.726598
+813637,Main St & Teakwood Dr,37.997717,-121.725735
+810995,Main St & West Bolton Rd,37.973361,-121.696103
+819960,Marina Blvd & East 3rd St,38.033764,-121.883884
+819970,Marina Blvd & East 3rd St,38.033543,-121.88405
+819213,Muir Rd & Roman Wy,37.994693,-122.110006
+813998,Muir Rd & Roman Wy,37.994576,-122.10983
+814568,Muir Rd & Veterans Dr,37.994118,-122.114444
+819910,Oakley Park n Ride,37.99265,-121.698888
+813750,Ohara Ave & Atherton Blvd,37.967839,-121.713914
+817555,Ohara Ave & Atherton Blvd,37.966732,-121.714266
+817141,Ohara Ave & Grant St,37.954182,-121.71398
+815123,Pacifica Ave & Breaker Dr,38.033961,-121.965717
+815134,Pacifica Ave & Canal Dr,38.034087,-121.966032
+815016,Pacifica Ave & Harbor Dr,38.033969,-121.968545
+815110,Pacifica Ave & Inlet Dr,38.034098,-121.968898
+817945,Pacifica Ave & Port Chicago Hwy,38.034078,-121.961092
+815096,Pacifica Ave & Shoal Dr,38.033933,-121.974424
+819162,Pacifica Ave & Wharf Dr,38.034024,-121.976233
+818889,Pittsburg/Bay Point BART,38.017592,-121.945317
+816531,Polaris Dr & Balclutha Wy,38.022629,-121.921309
+812598,Polaris Dr & Brickyard Ave,38.023331,-121.910361
+812291,Polaris Dr & Brickyard Ave,38.023167,-121.911356
+812580,Polaris Dr & East Catamaran Cir,38.02332,-121.915079
+812301,Polaris Dr & East Catamaran Cir,38.023146,-121.915093
+812579,Polaris Dr & Range Rd,38.023346,-121.917617
+812317,Polaris Dr & Range Rd,38.023161,-121.917789
+816251,Port Chicago Hwy & Lynbrook St,38.028655,-121.960458
+815147,Port Chicago Hwy & Pacific Ave,38.033691,-121.960591
+816261,Port Chicago Hwy & Riverside Dr,38.029232,-121.96049
+819278,Power Ave & Andrew Ave,38.020107,-121.900204
+812289,Power Ave & Case Dr,38.022271,-121.90568
+812270,Power Ave & Jorgensen Dr,38.021323,-121.903544
+819143,Power Ave & Jorgensen Dr,38.021849,-121.903963
+810396,Prewett Ranch Dr & Forty Niner Wy,37.957507,-121.779437
+810527,Prewett Ranch Dr & Forty Niner Wy,37.957625,-121.779145
+810401,Prewett Ranch Dr & Marigold Wy,37.959706,-121.786104
+810515,Prewett Ranch Dr & Marigold Wy,37.960071,-121.786348
+810504,Prewett Ranch Dr & Mokelumne Dr,37.96158,-121.789798
+810417,Prewett Ranch Dr & Mokelumne Dr,37.961386,-121.789995
+810493,Prewett Ranch Dr & Mt Conness Wy,37.960114,-121.794772
+810429,Prewett Ranch Dr & Mt Conness Wy,37.959934,-121.795028
+812676,Railroad Ave & Alvarado Ave,38.010761,-121.891634
+812653,Railroad Ave & Bliss Ave,38.015989,-121.889641
+812790,Railroad Ave & Bliss Ave,38.015251,-121.890245
+812669,Railroad Ave & East Leland Rd,38.013312,-121.890655
+817966,Railroad Ave & Linscheid Dr,38.003088,-121.894495
+819250,Railroad Ave & Mariposa Dr,38.006202,-121.893301
+817037,Railroad Ave (NB) & Center Dr,38.018901,-121.888514
+818964,Railroad Ave (NB) & East 5th St,38.032051,-121.883643
+817984,Railroad Ave & Pueblo Dr,37.999261,-121.896266
+815759,Railroad Ave & Redondo Dr,38.000052,-121.895688
+817044,Railroad Ave (SB) & East 5th St,38.031913,-121.883734
+817063,Railroad Ave (SB) & East 8th St,38.029039,-121.884868
+813905,Railroad Ave & Sequoia Dr,38.001945,-121.895183
+812788,Railroad Ave & West Leland Rd,38.011707,-121.8916
+813895,Railroad Ave & Yosemite Dr,38.005689,-121.893743
+813594,Sand Creek Rd & Deer Valley Rd,37.94952,-121.775722
+816481,San Marco Blvd & West Leland Rd,38.020112,-121.965867
+816835,School St & Barrus Ave,38.019823,-121.87982
+816826,School St & Barrus Ave,38.020003,-121.879853
+816406,Shore Rd & Inlet Dr,38.038785,-121.969033
+816391,Shore Rd & Lakeview Dr,38.039113,-121.970866
+819980,Slatten Ranch Ctr,37.964532,-121.736513
+812010,Sycamore Dr & Banyan Wy,38.004881,-121.825108
+813038,Sycamore Dr & Banyan Wy,38.005077,-121.825446
+813017,Sycamore Dr & Canal,38.005733,-121.830889
+812034,Sycamore Dr & Canal,38.00557,-121.830745
+812006,Sycamore Dr & Lemontree Wy,38.004201,-121.821887
+813040,Sycamore Dr & Peppertree Wy,38.004223,-121.821432
+812023,Sycamore Dr & Spanos St,38.005291,-121.82758
+813029,Sycamore Dr & Spanos St,38.005404,-121.827796
+813399,Vintage Pkwy & Kenwood Ct,38.005493,-121.728168
+813415,Vintage Pky & Rutherford,38.004895,-121.720827
+811418,Walnut Blvd & Balfour Rd,37.92662,-121.696342
+811439,Walnut Blvd & Orchard Dr,37.92833,-121.695972
+816633,West 10th St & Beacon St,38.029525,-121.893844
+810003,West 10th St & Beacon St,38.02936,-121.893819
+816698,West 10th St & B St,38.01125,-121.807857
+816717,West 10th St & B St,38.011146,-121.807734
+819039,West 10th St & Enterprise Ct,38.029541,-121.897189
+819127,West 10th St & G St,38.011145,-121.813159
+816045,West 10th St & West St,38.029299,-121.890471
+815553,West 18th St & D St,38.005049,-121.810622
+815569,West 18th St & D St,38.004872,-121.810172
+815576,West 18th St & L St,38.005282,-121.818327
+815582,West 18th St & L St,38.005144,-121.818252
+813093,West 4th St & H St,38.01554,-121.815392
+819018,West 4th St & I St,38.015424,-121.816013
+813086,West 4th St & J St,38.015539,-121.817777
+811949,West 4th St & J St,38.015427,-121.817763
+815595,West 4th St & O St,38.01562,-121.823263
+815737,West 4th St & O St,38.015434,-121.823621
+813692,West Cypress Rd & Lorenzetti Dr,37.990489,-121.722039
+813709,West Cypress Rd & Ponderosa Wy,37.990492,-121.726768
+816273,West Leland Rd & Alves Ranch Rd,38.017493,-121.954409
+816287,West Leland Rd & Alves Ranch Rd,38.018049,-121.955961
+815199,West Leland Rd & Betty Ln,38.013262,-121.895894
+819395,West Leland Rd & Burton Ave,38.014999,-121.900352
+814497,West Leland Rd & Burton Ave,38.015177,-121.900342
+814743,West Leland Rd & Chestnut Dr,38.015367,-121.936027
+814791,West Leland Rd & Chestnut Dr,38.015533,-121.93664
+814484,West Leland Rd & Crestview Dr,38.014027,-121.896683
+814770,West Leland Rd & Daffodil Dr,38.01468,-121.923945
+814736,West Leland Rd & Delta Vista Ln,38.015283,-121.939393
+814506,West Leland Rd & Dover Wy,38.016345,-121.905133
+817847,West Leland Rd & Dover Wy,38.016064,-121.90488
+817253,West Leland Rd & Golf Club Rd,38.014503,-121.91147
+814608,West Leland Rd & Jacqueline Dr,38.0156,-121.928571
+814762,West Leland Rd & Jacqueline Dr,38.01533,-121.927955
+814523,West Leland Rd & John Henry Johnson Pky,38.013716,-121.918195
+816667,West Leland Rd & John Henry Johnson Pky,38.013912,-121.919929
+812483,West Leland Rd & Oak Hills Dr,38.015432,-121.943492
+814510,West Leland Rd & Range Rd,38.014032,-121.912547
+816260,West Leland Rd & San Marco Blvd,38.019283,-121.965068
+814727,West Leland Rd & Sth Broadway Ave,38.015465,-121.940757
+814758,West Leland Rd & Sugartree Dr,38.015513,-121.932173
+814612,West Leland Rd & Sugartree Dr,38.01566,-121.932678
+814534,West Leland Rd & Sugartree Dr,38.015198,-121.92605
+816370,Wharf Dr & Marina Rd,38.036367,-121.976039
+814292,Wharf Dr & Shore Dr,38.039856,-121.975999
+816066,Wilbur Ave & Almond St,38.012279,-121.805338
+816050,Wilbur Ave & Almond St,38.012152,-121.805231
+816078,Wilbur Ave & Orchard Ln,38.012155,-121.801092
+816084,Wilbur Ave & Orchard Ln,38.012326,-121.802203
+818424,Willow Pass Rd & Alves,38.026874,-121.951565
+816434,Willow Pass Rd & Ambrose Ave,38.02668,-121.951871
+812364,Willow Pass Rd & Balclutha Wy,38.026675,-121.923713
+812567,Willow Pass Rd & Balclutha Wy,38.026826,-121.923242
+812408,Willow Pass Rd & Bella Vista Ave,38.02666,-121.93284
+816452,Willow Pass Rd & Clearland Dr,38.026849,-121.94658
+816447,Willow Pass Rd & Clearland Dr,38.026675,-121.945806
+812546,Willow Pass Rd & Crivello Ave,38.02688,-121.93289
+816013,Willow Pass Rd & Enterprise Cir,38.029372,-121.898048
+815008,Willow Pass Rd & Evora Rd,38.01477,-121.998545
+815012,Willow Pass Rd & Evora Rd,38.014513,-121.998609
+816423,Willow Pass Rd & Kevin Dr,38.026676,-121.954169
+819820,Willow Pass Rd & Kevin Dr,38.026804,-121.954288
+812372,Willow Pass Rd & Loftus Rd,38.026674,-121.927778
+812533,Willow Pass Rd & Madison Ave,38.026849,-121.936898
+816021,Willow Pass Rd & Nantucket Dr,38.029577,-121.913039
+819369,Willow Pass Rd & Nantucket Dr,38.029428,-121.91056
+812522,Willow Pass Rd & Nth Broadway Ave,38.02686,-121.940606
+812412,Willow Pass Rd & Poinsettia Ave,38.026676,-121.938908
+812551,Willow Pass Rd & Seasons Dr,38.026891,-121.928779
+816241,Willow Pass Rd & Weldon Ln,38.026873,-121.957889
+812386,Willow Pass Rd & Winter Wy,38.026709,-121.930857

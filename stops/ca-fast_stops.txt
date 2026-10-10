@@ -1,0 +1,124 @@
+75256,Atlantic Ave & North Texas St (SMART & Final),38.27624511,-122.0349591
+75105,Atlantic Ave & Orchid St (Walmart),38.2763803,-122.0359675
+75081,Beck Ave & Woolner Ave,38.24571346,-122.0661324
+75269,Beck Ave & Woolner Ave,38.24473129,-122.066538
+75559,B Gale Wilson Blvd At North Bay Medical Center,38.26110325,-122.0470235
+75560,B Gale Wilson Blvd & Dana Dr,38.2610677,-122.0462043
+75561,Business Center Dr & Westamerica Dr,38.22513746,-122.1324495
+75291,Canyon Hills Dr & Firwood Way,38.17149788,-122.1325877
+75103,Cement Hill Rd & Camrose Ave,38.2780957,-122.0295137
+75101,Cement Hill Rd & Dover Ave,38.27997499,-122.0255804
+75104,Cement Hill Rd & Elmhurst Cir,38.27637103,-122.0326045
+75252,Cement Hill Rd & Elmhurst Cir (Fairfield High School),38.27644398,-122.0314987
+75312,Central Way & Grobric Ct,38.21685425,-122.1364247
+75538,Central Way & Link Rd,38.21924066,-122.1323929
+75311,Central Way & Ritchie Rd,38.21461227,-122.1373997
+75274,Chadbourne Rd & Busch Dr,38.23719002,-122.0838821
+75314,Chadbourne Rd & Busch Dr,38.2373077,-122.0842985
+75315,Chadbourne Rd & Low Ct,38.23535767,-122.0840846
+75273,Courage Dr & Chadbourne Rd,38.23433115,-122.0824765
+75272,Courage Dr & North Watney Way,38.23435996,-122.0794671
+75316,Courage Dr & South Watney Way,38.23408572,-122.0797579
+75508,Dickson Hill Rd & El Camino Dr,38.29021069,-122.0288753
+75507,Dickson Hill Rd & North Texas St,38.29064299,-122.0335623
+75247,Dover Ave & Amherst Way,38.27461484,-122.0250537
+75509,Dover Ave & Dickson Hill Rd,38.28852723,-122.0249371
+75510,Dover Ave & Marigold Dr (Dover Woods Apts),38.28163472,-122.0249693
+75562,Dover Ave & San Marco St,38.26200998,-122.0249543
+75248,Dover Ave & Sunrise Dr,38.27828116,-122.024999
+75039,East Tabor Ave & Dover Ave,38.26538777,-122.0245578
+75040,East Tabor Ave & Sunset Ave,38.26531384,-122.0202695
+75067,East Travis Blvd & Chamberlain Dr,38.25832235,-122.0321216
+75065,East Travis Blvd & Dover Ave,38.2583076,-122.0257538
+75093,East Travis Blvd & Eisenhower St,38.25819095,-122.0298095
+75066,East Travis Blvd & Kidder Ave,38.25829461,-122.0296695
+75092,East Travis Blvd & North Texas St,38.25818684,-122.0327903
+75219,East Travis Blvd & Phoenix Dr,38.25826859,-122.0232389
+75003,Fairfield Ave & Stratford Ln  (Veterans Memorial Park),38.2672566,-122.0451509
+75537,Fairfield Cordelia Library,38.21764006,-122.1444512
+75268,Fairfield Transportation Center,38.24877001,-122.068482
+75306,Fulton Dr & Edison Ct,38.20715645,-122.1420336
+75281,Fulton Dr & Edison Ct,38.20710486,-122.1421621
+75325,Gateway Blvd At Solano Town Center,38.26291396,-122.0527119
+75119,Gateway Blvd At Solano Town Center (West),38.26232378,-122.056485
+75118,Gateway Blvd & Courtyard,38.25991541,-122.0574122
+75292,Gold Hill Rd & Canyon Hills Dr,38.16859615,-122.1356152
+75293,Gold Hill Rd & Northwood Dr,38.1728765,-122.1362879
+75295,Gold Hill Rd & Northwood Dr (Cordelia Community Park),38.1778654,-122.1385907
+75294,Gold Hill Rd & Stonewood Dr (Green Valley Middle School),38.17560391,-122.1369143
+75148,Hawthorn Dr & North Texas St,38.28004235,-122.035045
+75034,Heath Dr & Breton Dr,38.2709622,-122.0429714
+75005,Heath Drive & Breton Dr,38.27087755,-122.0428751
+75018,Kentucky St & Madison St (Fairfield Civic Center),38.25152938,-122.0463685
+75504,Kentucky St & Taylor St (Fairfield Civic Center),38.25140054,-122.0469096
+75016,Kentucky St & Union Ave,38.25149881,-122.0408341
+75017,Kentucky St & Webster St,38.25154092,-122.043885
+75290,Lopes Rd & Canyon Hills Dr,38.17329638,-122.1296003
+75287,Lopes Rd & Gold Hill Rd,38.18097527,-122.1378552
+75296,Lopes Rd & Gold Hill Rd,38.18256892,-122.1382346
+75286,Lopes Rd & Silver Creek Rd,38.18986567,-122.138257
+75288,Lopes Rd & Sonata Dr,38.17875963,-122.132652
+75280,Lopes Rd & West Cordelia Rd,38.20938034,-122.138577
+75289,Lopes Rd & Woodside Way,38.1759759,-122.1311293
+75029,North Texas St & Acacia St,38.26388284,-122.0341398
+75010,North Texas St & Acacia St,38.26356423,-122.0342905
+75033,North Texas St & Air Base Pkwy,38.27464197,-122.0339769
+75032,North Texas St & Alaska Ave,38.2717899,-122.034036
+75007,North Texas St & Alaska Ave,38.2710969,-122.0342169
+75069,North Texas St & Bell Ave,38.25467479,-122.0344182
+75090,North Texas St & East Bell Ave,38.25412112,-122.0340896
+75089,North Texas St & East Kentucky St,38.25171562,-122.0340899
+75031,North Texas St & East Pacific Ave,38.26949439,-122.0340331
+75030,North Texas St & East Tabor Ave,38.26699394,-122.0340608
+75009,North Texas St & East Tabor Ave,38.26601166,-122.0343117
+75070,North Texas St & East Tennessee St,38.25282994,-122.034334
+75027,North Texas St & East Travis Blvd,38.25911604,-122.0340616
+75506,North Texas St & Marigold Dr,38.28471221,-122.0339185
+75008,North Texas St & Pacific Ave,38.26816514,-122.0342992
+75012,North Texas St & Travis Blvd,38.25881621,-122.0343624
+75302,Oakbrook Dr & Amberwood Cir,38.19565171,-122.1466357
+75297,Oakbrook Dr & Lopes Rd,38.18384159,-122.1391825
+75301,Oakbrook Dr & Oakbrook Cir,38.19336003,-122.1459647
+75300,Oakbrook Dr & Oakbrook Ct,38.1917318,-122.144024
+75298,Oakbrook Dr & Rainier Ct,38.18740169,-122.1421485
+75283,Oakbrook Dr & Red Top Rd (Rodriguez High School),38.1975424,-122.1466432
+75518,Oliver Rd & Holiday Ln,38.25689632,-122.0678705
+75150,Orchid St & Larkspur Ln,38.27808107,-122.0370426
+75035,Pacific Ave & Fairfield Ave,38.26859103,-122.0447717
+75322,Pennsylvania Ave & B Gale Wilson Blvd,38.26060355,-122.0501019
+75517,Pennsylvania Ave & Grant St,38.25593353,-122.0497251
+75552,Pennsylvania Ave & Harry Price Dr,38.25369247,-122.0497035
+75020,Pennsylvania Ave & Kansas St,38.25739582,-122.0500496
+75237,Pennsylvania Ave &  Kentucky St,38.2509451,-122.0497792
+75557,Pennsylvania Ave & Utah St,38.25434487,-122.0500633
+75313,Pittman Rd & Central Way,38.22009467,-122.1270956
+75541,Red Top Rd & Oakbrook Dr (Rodriguez High School),38.19874055,-122.146698
+75285,Silverado Dr & Meadows Ct,38.19493366,-122.1406671
+75276,Solano Community College,38.2348762,-122.1250369
+75270,Solano County Health & Social Services,38.23597374,-122.0675138
+75327,Solano Town Center At North Entrance,38.26194186,-122.0542958
+75577,Suisun Valley Rd & Kaiser Dr,38.229214,-122.128789
+75275,Suisun Valley Rd & Snowberry Way,38.23641877,-122.1257922
+75576,Suisun Valley Rd & Westamerica Dr,38.229544,-122.12914
+75071,Texas St & Clay St,38.24929304,-122.0373054
+75088,Texas St & State St,38.24916897,-122.0365985
+75026,Travis Blvd & Clay St,38.25821924,-122.0377689
+75013,Travis Blvd & Clay St,38.25837645,-122.0385444
+75117,Travis Blvd & Holiday Ln (Raley'S),38.25821576,-122.0658578
+75025,Travis Blvd & Washington St,38.25821187,-122.0394161
+75015,Union Ave & Carpenter St,38.253285,-122.040579
+75014,Union Ave & Kennedy Ct,38.25720724,-122.0405001
+75024,Union Ave & Louisiana St,38.25271901,-122.0403596
+75505,Washington St & Empire St (Armijo High School),38.24994701,-122.0392879
+75511,Washington St & Empire St (Armijo High School),38.25006314,-122.0390557
+75304,Watt Dr & Fermi Dr,38.19962775,-122.1487035
+75282,Watt Dr & Watt Ct,38.20668929,-122.1472262
+75305,Watt Dr & Watt Ct,38.20592047,-122.1470683
+75074,Webster St & Kentucky St,38.25079638,-122.0432853
+75503,West Texas St & 1st St,38.24916675,-122.0524931
+75266,West Texas St & 2nd Ln,38.2493907,-122.0569925
+75267,West Texas St & 5th St,38.24938271,-122.0611103
+75319,West Texas St & 5th St (Allan Witt Park),38.24918733,-122.0602281
+75083,West Texas St & Beck Ave,38.24916603,-122.0642036
+75502,West Texas St & Gregory Ln,38.24917749,-122.0552107
+75076,West Texas St & Pennsylvania Ave,38.24934573,-122.0505732

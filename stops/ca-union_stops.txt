@@ -1,0 +1,167 @@
+79055,11th St & Decoto Rd,37.593956546,-122.0196888124
+79227,11th St & F St,37.5983823166,-122.0248955865
+79233,11th St & F St,37.5984675019,-122.0251282774
+79234,11th St & H St,37.5966128462,-122.0229961964
+79125,2nd St & Decoto Rd,37.602201,-122.016633
+79127,2nd St & D St,37.605362,-122.020327
+79126,2nd St & F St,37.60352,-122.018167
+79060,6th St & C St,37.604474,-122.024182
+79108,6th St & C St,37.604403,-122.024209
+79118,7th St & Bedford Ave,37.594981,-122.011969
+79120,7th St & Cheseapeake Dr,37.590314,-122.00566
+79208,7th St & Cheseapeake Dr,37.590508,-122.006722
+79209,7th St & Daggett Ave,37.5971,-122.014187
+79117,7th St & Daggett Ave,37.597461,-122.015733
+79119,7th St & Zwissig Ave,37.591679,-122.008251
+79110,9th St & E St,37.600721,-122.023602
+79058,9th St & E St,37.600805,-122.023609
+79057,9th St & G St,37.598962,-122.021424
+79111,9th St & G St,37.5991,-122.021673
+79085,Almaden Bl & Chechester Dr,37.59072,-122.051685
+79083,Almaden Bl & Cumana Dr,37.590344,-122.0511
+79088,Almaden Bl & Horatio Ct,37.59265,-122.054487
+79082,Almaden Bl & Kawella Cir,37.591235,-122.052718
+79080,Almaden Bl & Los Robles Apartments,37.594444,-122.055552
+79081,Almaden Bl & Polynesia Wy,37.59261,-122.05453
+79089,Almaden Bl & Sloccum Ct,37.5957994545,-122.055193242
+79079,Almaden Bl & Trefry Dr,37.59587,-122.055255
+79138,Alvarado Bl & Dyer St,37.590096,-122.070073
+79151,Alvarado Bl & Fair Ranch Dr,37.591173,-122.072475
+79139,Alvarado Bl & Fair Ranch Dr,37.591365,-122.072411
+79141,Alvarado Bl & Fredi St,37.591857,-122.077453
+79149,Alvarado Bl & Fredi St,37.59174,-122.077249
+79140,Alvarado Bl & New Haven Ave,37.592586,-122.075204
+79150,Alvarado Bl & New Haven Ave,37.59229,-122.074549
+79043,Alvarado-Niles & Almaden Bl,37.596211,-122.054372
+79046,Alvarado-Niles & Dowe Ave,37.59341,-122.044175
+79006,Alvarado-Niles & Hartnell St,37.589836,-122.030508
+79049,Alvarado-Niles & Hartnell St,37.5893,-122.029301
+79045,Alvarado-Niles & Hop Ranch Rd,37.594352,-122.04762
+79044,Alvarado-Niles & Medallion Dr,37.595368,-122.051251
+79051,Alvarado-Niles & Nidus,37.587792,-122.023799
+79012,Alvarado-Niles Rd & Almaden Bl,37.596495,-122.054733
+79008,Alvarado-Niles Rd & Central Ave,37.592485441,-122.0400279534
+79047,Alvarado-Niles Rd & Central Ave,37.5919990276,-122.0391556589
+79003,Alvarado-Niles Rd & Decoto Rd,37.587013,-122.02041
+79009,Alvarado-Niles Rd & Dowe St,37.593632,-122.044286
+79090,Alvarado-Niles Rd & Dyer St,37.597399,-122.070217
+79010,Alvarado-Niles Rd & Hop Ranch Rd,37.594573,-122.047604
+79005,Alvarado-Niles Rd & H St,37.589253,-122.028401
+79011,Alvarado-Niles Rd & Medallion Dr,37.595756,-122.051953
+79004,Alvarado-Niles Rd & Meyers Dr,37.588174,-122.024488
+79215,Alvarado-Niles Rd Mid-Block (Post-Office),37.592788,-122.04123
+79042,Alvarado-Niles Rd & Santa Maria Ave,37.598102,-122.065857
+79048,Alvarado-Niles Rd & Western Ave,37.590821,-122.034821
+79050,Alvarado-Niles & Royal Ann Dr,37.588782,-122.027405
+79007,Alvarado- Niles & Western Ave,37.591248,-122.035599
+79121,Appian Wy & Mission Bl,37.59163,-122.003094
+79207,Appian Wy & Mission Bl,37.591995,-122.002857
+79134,Calaveras Landing Shopping Center,37.612142,-122.068275
+79114,Decoto Rd & 11th St,37.594087,-122.019025
+79113,Decoto Rd & 11th St,37.593424,-122.019523
+79210,Decoto Rd & 7th St,37.597729,-122.017993
+79115,Decoto Rd & 9th St,37.596256,-122.01829
+79052,Decoto Rd & Alvarado-Niles Rd,37.588093,-122.021185
+79112,Decoto Rd & Depot Rd,37.595808,-122.018617
+79053,Decoto Rd & Union Square,37.5908851466,-122.0202059486
+79116,Decoto Road & 7th St,37.5974,-122.017868
+79022,Delores Dr & Deborah Dr,37.577286,-122.070272
+79023,Delores Dr & Jean Dr,37.575732,-122.072156
+79021,Delores Dr & Laura Wy,37.579586,-122.068236
+79020,Delores Dr & Muirwood Dr,37.581243,-122.066757
+79039,Dyer St & Alvarado Bl,37.590334,-122.069065
+79016,Dyer St & Alvarado Bl,37.589428,-122.070053
+79041,Dyer St & Alvarado-Niles Rd,37.596585,-122.070906
+79137,Dyer St & Alvarado-Niles Rd,37.598573,-122.07095
+79017,Dyer St & Cabello St,37.587184,-122.071972
+79035,Dyer St & Deborah Dr,37.58239,-122.076031
+79034,Dyer St & Jean Dr,37.580267,-122.077817
+79037,Dyer St & Meteor Dr,37.586918,-122.072061
+79038,Dyer St Mid-Block,37.588665,-122.070521
+79191,Dyer St & Ratekin Dr,37.599891,-122.070326
+79036,Dyer St & Regents Bl,37.583862,-122.074692
+79014,Dyer St & San Carlos Ave,37.595833,-122.070709
+79015,Dyer St & Santa Susana Wy,37.593128,-122.069045
+79040,Dyer St & Santa Susana Wy,37.592816,-122.068742
+79033,Dyer St & Union City Bl,37.577948,-122.080065
+79192,Dyer St & Whipple Rd,37.604455,-122.068951
+79136,Dyer St & Whipple Rd,37.604528,-122.069231
+79232,E St & 10th St,37.5996883023,-122.0253948612
+79228,E St & 10th St,37.5997301,-122.0252857
+79059,E St & 6th St,37.602244,-122.021829
+79109,E St & 6th St,37.602275,-122.021925
+79229,E St & 9th St,37.600888,-122.0237181
+79135,Industrial Parkway Mid-Block,37.608962,-122.065932
+79133,Industrial Parkway & Whipple Rd,37.608031,-122.06515
+79025,Jean Dr & Blythe St,37.573857,-122.070153
+79024,Jean Dr & Dinuba St,37.574678,-122.071726
+79095,Kohoutek St & Union City Bl,37.608725,-122.081934
+79096,Kohoutek St & Whipple Rd,37.607564,-122.080524
+79230,Lafayette Ave & Mission Bl,37.6110743437,-122.0267284782
+79124,Masonic Home Main Entrance,37.597487,-122.00985
+79087,Medallion Ave & Brenda Dr,37.593956,-122.052201
+79086,Medallion Ave & Brenda Dr,37.593915,-122.052167
+79019,Meteor Dr & Chippendale Dr,37.583385,-122.066373
+79018,Meteor Dr & Galaxy Dr,37.585131,-122.069696
+79205,Mission Bl & Daggett Ave,37.598316,-122.011422
+79204,Mission Bl & F St,37.603836,-122.017601
+79202,Mission Blvd & Tamarack Dr,37.608309,-122.022609
+79128,Mission Blvd & Whipple Rd,37.606785,-122.020485
+79203,Mission Blvd & Whipple Road,37.605848,-122.019808
+79145,Regents Bl & Cabello St,37.586005,-122.076126
+79146,Regents Bl & Queensboro Wy,37.587552,-122.078872
+79026,Regents Bl & Rocklin Dr,37.573051,-122.068707
+79029,Rocklin Dr & Anaheim Loop,37.569036,-122.072125
+79028,Rocklin Dr & Antioch Loop,37.570454,-122.071627
+79027,Rocklin Dr & Danville Ave,37.572393,-122.069043
+79129,Tamarack Dr & Castro St,37.608237,-122.023466
+79132,Tamarack Dr & Ithaca St,37.607551,-122.031108
+79199,Tamarack Dr & Moccasin Dr,37.607775,-122.030745
+79201,Tamarack Dr & Pulaski St,37.608012,-122.024492
+79130,Tamarack Dr & Pulaski St,37.608053,-122.024539
+79131,Tamarack Dr & Sumac Dr,37.607967,-122.02754
+79200,Tamarack Dr & Sumac Dr,37.607921,-122.027897
+79084,Tropics,37.58895,-122.050751
+79218,Union City BART Stop 1,37.591104,-122.018334
+79219,Union City BART Stop 2,37.590998,-122.018192
+79220,Union City BART Stop 3,37.590884,-122.018007
+79221,Union City BART Stop 4,37.590777,-122.017855
+79222,Union City BART Stop 5,37.591214,-122.018471
+79148,Union City Bl & Alvarado Bl,37.590695,-122.080724
+79142,Union City Bl & Alvarado Bl,37.590974,-122.081264
+79031,Union City Bl & Bay Colony Dr,37.572977,-122.078297
+79214,Union City Bl & Delores Dr,37.571166,-122.077167
+79144,Union City Bl & Jean Dr,37.580767,-122.080963
+79147,Union City Bl & Montevideo Ct,37.588455,-122.080732
+79143,Union City Bl & Regents Bl,37.586978,-122.081208
+79030,Union City Bl & Rocklin Dr,37.568486,-122.073124
+79032,Union City Bl & Rose,37.575719,-122.079778
+79094,Union City Bl & Whipple Rd,37.606138,-122.082412
+79013,Union Landing Transit Center,37.598907,-122.065902
+79054,Union Square & BART Way,37.5899,-122.018919
+79002,Union Square Mid-Block,37.58732,-122.017099
+79216,Union Square & Station Way,37.588988,-122.017637
+79122,Veneto St & Appian Wy,37.59236,-122.002855
+79206,Veneto St & Corona Pl,37.59401,-122.005019
+79123,Veneto St & Famosa Ct,37.593902,-122.004943
+79069,Whipple Rd & Ahern Ave,37.605794,-122.077082
+79101,Whipple Rd & Amaral Ave,37.605981,-122.057859
+79061,Whipple Rd & Barnard White,37.605985,-122.027916
+79107,Whipple Rd & Barnard White,37.605876,-122.027767
+79105,Whipple Rd & Central Ave,37.605901,-122.037603
+79063,Whipple Rd & Central Ave,37.606019,-122.038563
+79099,Whipple Rd & Dyer St,37.605641,-122.07132
+79068,Whipple Rd & Dyer St,37.605833,-122.069516
+79064,Whipple Rd & Hayman Ave,37.606061,-122.045787
+79104,Whipple Rd & Hayman Ave,37.605957,-122.045575
+79102,Whipple Rd & Huntwood Ave,37.605992,-122.054693
+79066,Whipple Rd & Huntwood Ave,37.606131,-122.055286
+79100,Whipple Rd & Industrial Parkway,37.6070182498,-122.0641101019
+79062,Whipple Rd & Ithaca St,37.605996,-122.030482
+79097,Whipple Rd & Kohoutek St,37.60562,-122.079456
+79070,Whipple Rd & Kohoutek St,37.605772,-122.079794
+79103,Whipple Rd & Medallion Ave,37.606005,-122.051953
+79065,Whipple Rd & Medallion Ave,37.606114,-122.052102
+79098,Whipple Rd & Meridien Dr,37.60562,-122.07528
+79106,Whipple Rd & Railroad Ave,37.60587,-122.031522
+79067,Whipple Rd & Wiegman Ave,37.606559,-122.061284

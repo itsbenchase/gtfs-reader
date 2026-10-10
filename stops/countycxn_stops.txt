@@ -1,0 +1,1222 @@
+831164,Acalanes Ave and Nogales St,37.901283,-122.09432
+831166,Acalanes Rd and Hidden Valley Rd,37.886803,-122.15601
+831165,Acalanes Rd and Valente Dr,37.888193,-122.15462
+831574,Alcosta Blvd and Bollinger Canyon Rd,37.765663,-121.951592
+831572,Alcosta Blvd and Canyon Hills Dr,37.759845,-121.944045
+831573,Alcosta Blvd and Canyon Woods Dr,37.762796,-121.947522
+831570,Alcosta Blvd and Montevideo Dr,37.753983,-121.93868
+831575,Alcosta Blvd and Overlook Dr,37.768428,-121.954694
+831571,Alcosta Blvd and Terra Alta Dr,37.757358,-121.94059
+831576,Alcosta Blvd and Woodland Dr,37.770923,-121.95668
+832099,Alhambra Ave and Alhambra Valley Rd,37.983955,-122.126229
+831254,Alhambra Ave and Alhambra Way,37.98697,-122.128067
+831260,Alhambra Ave and Allen Dr,38.00935,-122.131374
+831275,Alhambra Ave and Benham Dr,37.965847,-122.098451
+831259,Alhambra Ave and Bertola St,38.007413,-122.130579
+831264,Alhambra Ave and C St-Contra Costa Regional Medical Center,38.005765,-122.131075
+831258,Alhambra Ave andC St-Contra Costa Regional Medical Center,38.005045,-122.130997
+831278,Alhambra Ave and Devon Ave,37.955526,-122.090247
+831423,Alhambra Ave and Elderwood Dr,37.969836,-122.102247
+831271,Alhambra Ave and Forest Way,37.981987,-122.11551
+831269,Alhambra Ave and Franklin Canyon Rd,37.989076,-122.129287
+831266,Alhambra Ave and Franklin Creek,37.99546,-122.132267
+831265,Alhambra Ave and F St,38.000911,-122.13192
+831274,Alhambra Ave and Glenview Dr,37.969294,-122.101631
+831257,Alhambra Ave and G St,38.000155,-122.13182
+831424,Alhambra Ave and Heritage Oaks Dr,37.967862,-122.099553
+831252,Alhambra Ave and John Muir Rd,37.982985,-122.116552
+831261,Alhambra Ave and Jones St,38.012753,-122.134612
+831267,Alhambra Ave and J St,37.997325,-122.132467
+831256,Alhambra Ave and K St,37.995793,-122.132243
+831272,Alhambra Ave and Lindsey Dr,37.975559,-122.109335
+831251,Alhambra Ave and Macalvey Dr,37.975148,-122.108664
+831262,Alhambra Ave and Mellus St,38.014319,-122.136144
+831253,Alhambra Ave and Phylis Ter,37.983458,-122.1244
+831276,Alhambra Ave and Roanoke Dr,37.962383,-122.096184
+831421,Alhambra Ave and Rockridge Dr,37.959996,-122.09408
+831422,Alhambra Ave and Shetland Dr,37.964455,-122.09728
+831277,Alhambra Ave and Starbucks,37.959283,-122.093782
+831268,Alhambra Ave and Walnut Ave,37.992286,-122.13083
+831255,Alhambra Ave and Walnut Ave,37.992402,-122.130679
+831273,Alhambra Ave and Wildcroft Dr,37.970551,-122.105207
+831250,Alhambra Ave and Wildcroft Dr,37.971103,-122.105684
+831368,Altarinda Rd and Orinda Masonic Center,37.882486,-122.1846
+831578,Annabel Ln and End,37.773466,-121.971364
+832193,Antioch BART,37.995636,-121.778125
+831281,Arnold Dr and Fig Tree Ln,37.991063,-122.094062
+831286,Arnold Dr and Fig Tree Ln,37.991161,-122.093962
+831283,Arnold Dr and Glacier Dr,37.991691,-122.08673
+831282,Arnold Dr and Holiday Hills Dr,37.991356,-122.089849
+831285,Arnold Dr and Holiday Hills Dr,37.991373,-122.090545
+831284,Arnold Dr and Milano Way,37.991698,-122.087187
+831287,Arnold Dr and Muir Parkway Offices,37.992883,-122.098532
+831280,Arnold Dr and Muir Parkway Offices,37.991595,-122.097837
+83482,Arnold Industrial Way and Concord Shelter,38.006393,-122.037934
+83484,Arnold Industrial Way and Concord Shelter,38.0069,-122.0372
+83479,Arnold Industrial Way and Industrial Way,38.009044,-122.031975
+83480,Arnold Industrial Way and Industrial Way,38.008766,-122.032547
+83483,Arnold Industrial Way and Laura Alice Way,38.003118,-122.04739
+83481,Arnold Industrial Way and Peralta Rd,38.00287,-122.047414
+831714,Bancroft Rd and Countrywood Ct,37.930202,-122.043526
+831711,Bancroft Rd and Faith Christian Fellowship,37.932316,-122.045105
+831710,Bancroft Rd and Gil Port Ln,37.93035,-122.043299
+831713,Bancroft Rd and Minert Rd,37.933591,-122.046675
+831712,Bancroft Rd and Minert Rd,37.93374,-122.046477
+832251,Bates Ave and Commercial Cir,38.014259,-122.031516
+83497,Bates Ave and Commercial Circle,38.014181,-122.031635
+83492,Bates Ave and Port Chicago Hwy,38.015138,-122.025954
+832067,Berrellesa St and Escobar St,38.016708,-122.139659
+831290,Berrellesa St and Jones St,38.01189,-122.134997
+831289,Berrellesa St and Mellus St,38.013881,-122.136897
+831291,Berrellesa St and Robinson St,38.01004,-122.133202
+831292,Berrellesa St and Soto St,38.00808,-122.131374
+832257,Bishop Ranch 1,37.760049,-121.955669
+831555,Bishop Ranch 15,37.773609,-121.960892
+831554,Bishop Ranch 2600,37.766574,-121.963341
+831553,Bishop Ranch 8,37.768118,-121.968502
+832047,Bollinger Canyon Rd and Albion Rd,37.765956,-121.905024
+832032,Bollinger Canyon Rd and Albion Rd,37.76714,-121.9055
+832003,Bollinger Canyon Rd and Alcosta Blvd,37.76559,-121.952489
+831591,Bollinger Canyon Rd and Andora Ln,37.759518,-121.977364
+831581,Bollinger Canyon Rd and Anza Ct,37.76972,-121.993655
+831592,Bollinger Canyon Rd and Aranda Dr,37.762241,-121.981
+831594,Bollinger Canyon Rd and Ascension Dr,37.76521,-121.984337
+831584,Bollinger Canyon Rd and Ascension Dr,37.7653,-121.984715
+832082,Bollinger Canyon Rd and Bishop Ranch 1,37.762606,-121.956622
+832033,Bollinger Canyon Rd and Bluehart Way,37.77024,-121.909355
+832035,Bollinger Canyon Rd and Briar Oaks Dr,37.773868,-121.918714
+832039,Bollinger Canyon Rd and Canyon Lakes Dr,37.771598,-121.945654
+832040,Bollinger Canyon Rd and Canyon View Cir,37.771468,-121.945099
+832038,Bollinger Canyon Rd and Chanterella Dr,37.772178,-121.94017
+832041,Bollinger Canyon Rd and Chanterella Dr,37.771801,-121.93868
+831580,Bollinger Canyon Rd and Crow Canyon Rd,37.772301,-121.99596
+831596,Bollinger Canyon Rd and Dos Rios Dr,37.767688,-121.98849
+831582,Bollinger Canyon Rd and Dos Rios Dr,37.76757,-121.988649
+832030,Bollinger Canyon Rd and E Branch Pkwy,37.753865,-121.90862
+831597,Bollinger Canyon Rd and Fountainhead Dr,37.769878,-121.993537
+832042,Bollinger Canyon Rd and Gale Ridge Rd,37.772298,-121.930792
+832037,Bollinger Canyon Rd and Gale Ridge Rd,37.772393,-121.932342
+832048,Bollinger Canyon Rd and Harcourt Way,37.758823,-121.905859
+832031,Bollinger Canyon Rd and Harcourt Way,37.759736,-121.904905
+832046,Bollinger Canyon Rd and Main Branch Rd,37.769218,-121.908699
+832000,Bollinger Canyon Rd and Market Pl,37.764636,-121.953404
+832098,Bollinger Canyon Rd and Marsh Dr,37.760341,-121.978755
+831583,Bollinger Canyon Rd and Marsh Dr,37.766456,-121.986762
+831595,Bollinger Canyon Rd and Marsh Dr,37.766551,-121.986364
+832034,Bollinger Canyon Rd and Monarch Rd,37.771733,-121.912215
+831587,Bollinger Canyon Rd and Morgan Dr,37.759265,-121.977045
+831585,Bollinger Canyon Rd and Norris Canyon Rd,37.763477,-121.98275
+831593,Bollinger Canyon Rd and Norris Canyon Rd,37.763731,-121.982729
+832036,Bollinger Canyon Rd and N Wedgewood Rd,37.773856,-121.922369
+832050,Bollinger Canyon Rd and Old Dougherty Rd,37.749163,-121.914442
+832029,Bollinger Canyon Rd and Old Dougherty Rd,37.74972,-121.913449
+831586,Bollinger Canyon Rd and Paddock Dr,37.760221,-121.979014
+832293,Bollinger Canyon Rd and Pradera Apartments,37.750415,-121.912771
+831589,Bollinger Canyon Rd and San Ramon Valley Blvd,37.759431,-121.968682
+832045,Bollinger Canyon Rd and S Monarch Rd,37.770685,-121.911402
+832044,Bollinger Canyon Rd and Stoneleaf Rd,37.773088,-121.91752
+832043,Bollinger Canyon Rd and S Wedgewood Rd,37.773403,-121.9207
+831590,Bollinger Canyon Rd and Talavera Dr,37.759615,-121.970967
+831588,Bollinger Canyon Rd and Talavera Dr,37.759336,-121.970867
+832049,Bollinger Canyon Rd and Watermill Rd,37.754413,-121.90868
+832002,Bollinger Canyon Rd and Windemere Pkwy,37.763803,-121.903872
+832001,Bollinger Canyon Rd and Windemere Pkwy,37.762641,-121.904349
+832295,Botelho Dr and Locust St,37.894846,-122.06081
+83902,Boulevard Way and Iris Ln,37.891761,-122.079155
+83909,Boulevard Way and Kinney Dr,37.890816,-122.080214
+83906,Boulevard Way and Nicholson Rd,37.895149,-122.072579
+83905,Boulevard Way and Nicholson Rd,37.895783,-122.071849
+83901,Boulevard Way and Olympic Blvd,37.885396,-122.07771
+83910,Boulevard Way and Olympic Blvd,37.885418,-122.077958
+83904,Boulevard Way and Palana Ct,37.894563,-122.074154
+83907,Boulevard Way and Rule Ct,37.894733,-122.074312
+83903,Boulevard Way and Saranap Ave,37.893501,-122.077014
+83908,Boulevard Way and Saranap Ave,37.893718,-122.076897
+831426,Boyd Rd and Campbell Ln,37.943431,-122.065461
+831427,Boyd Rd and Cleaveland Rd,37.943431,-122.063652
+831425,Boyd Rd and Patterson Rd,37.943428,-122.069073
+831428,Boyd Rd and Sequoia Elementary School,37.943541,-122.068869
+831610,Broadmoor Dr and Belle Meade Dr,37.730145,-121.93407
+831602,Broadmoor Dr and California High,37.747006,-121.947462
+831608,Broadmoor Dr and Chestnut Ct,37.736178,-121.939972
+831606,Broadmoor Dr and Millbridge Dr,37.745193,-121.947005
+831604,Broadmoor Dr and Montevideo Dr,37.752438,-121.950105
+831609,Broadmoor Dr and Northland Ave,37.73143,-121.93731
+831607,Broadmoor Dr and Pine Valley Rd,37.739261,-121.941144
+831603,Broadmoor Dr and St Denis Dr,37.748845,-121.948395
+831605,Broadmoor Dr and St Denis Dr,37.748781,-121.948455
+83440,Buchanan Rd and Campbell Dr,37.997976,-121.886527
+83441,Buchanan Rd and Harbor Dr,37.998065,-121.887779
+83439,Buchanan Rd and Inverness Dr,37.997976,-121.881877
+83438,Buchanan Rd and Loveridge Rd,37.997965,-121.872937
+83430,Buchanan Rd and McFaul Dr,37.998041,-121.87536
+832132,Buchanan Rd and Meadows Ave,37.998073,-121.864552
+832131,Buchanan Rd and Meadows Ave,37.997913,-121.863002
+83432,Buchanan Rd and Somersville Rd,37.997938,-121.846274
+83431,Buchanan Rd and Suzanne Dr,37.998041,-121.880785
+832024,Buchanan Rd and Ventura Dr,37.997921,-121.867314
+832025,Buchanan Rd and Ventura Dr,37.998045,-121.868982
+832210,Buskirk Ave and Generations Church Of Pleasant Hill,37.939306,-122.059212
+831431,Buskirk Ave and Lamkin Ln,37.944611,-122.055517
+831429,Buskirk Ave and Mayhew Way,37.936513,-122.059749
+831434,Buskirk Ave and Mayhew Way,37.936958,-122.059869
+831984,Buskirk Ave and The Crossroads,37.943288,-122.05661
+831433,Buskirk Ave and The Crossroads,37.941186,-122.058728
+831167,Camino Diablo and Stanley Blvd,37.903885,-122.09418
+831371,Camino Pablo and Brookwood Rd,37.87737,-122.181382
+831369,Camino Pablo and Miner Rd,37.888448,-122.194317
+831372,Camino Pablo and Moraga Way,37.877511,-122.180747
+831081,Camino Ramon and Baldwin Dr,37.79457,-121.983444
+832286,Camino Ramon and Bishop Dr,37.764917,-121.958529
+831616,Camino Ramon and Bishop Ranch 7,37.771455,-121.96276
+831612,Camino Ramon and Crow Canyon Rd,37.780238,-121.969655
+831613,Camino Ramon and Crow Canyon Rd,37.77804,-121.968205
+831619,Camino Ramon and Crow Canyon Rd,37.780611,-121.969695
+831618,Camino Ramon and Crow Canyon Rd,37.778755,-121.968424
+831078,Camino Ramon and El Capitan Dr,37.799616,-121.987239
+831083,Camino Ramon and El Capitan Dr,37.800486,-121.987675
+831611,Camino Ramon and Fostoria Way,37.781763,-121.97049
+831080,Camino Ramon and Greenbrook Dr,37.792985,-121.982709
+831617,Camino Ramon and Norris Canyon Rd,37.775473,-121.965702
+831614,Camino Ramon and Norris Canyon Rd,37.774746,-121.965105
+832069,Camino Ramon and Rose Garden,37.809411,-121.991074
+831079,Camino Ramon and Saint Patricks Dr,37.796053,-121.984517
+831082,Camino Ramon and Saint Patricks Dr,37.796375,-121.984675
+831084,Camino Ramon and San Thomas Way,37.804686,-121.989584
+831077,Camino Ramon and San Thomas Way,37.804118,-121.989344
+831085,Camino Ramon and Sycamore Valley Rd,37.810293,-121.990954
+832153,Camino Tassajara and Blackhawk Dr,37.799481,-121.882692
+832145,Camino Tassajara and Charbray St,37.799246,-121.88142
+831090,Camino Tassajara and Creekside Ave,37.804958,-121.94486
+832149,Camino Tassajara and Creekview Pl,37.79877,-121.888037
+832146,Camino Tassajara and Jasmine Way,37.799588,-121.903037
+832154,Camino Tassajara and Knollview Dr,37.79922,-121.88897
+832147,Camino Tassajara and Lawrence Rd,37.799605,-121.898169
+831087,Camino Tassajara and Messian Pl,37.815046,-121.963417
+832148,Camino Tassajara and Monterosso St,37.799533,-121.892249
+832156,Camino Tassajara and Oak Gate Dr,37.79986,-121.89944
+832155,Camino Tassajara and Shadow Creek Dr,37.799811,-121.89346
+831088,Camino Tassajara and Shady Creek Dr,37.811045,-121.955985
+831089,Camino Tassajara and Sherburne Hills Dr,37.807326,-121.949469
+831086,Camino Tassajara and Sycamore Valley Rd,37.816051,-121.967709
+831092,Camino Tassajara and Tassajara Ranch Dr,37.798918,-121.917819
+831091,Camino Tassajara and Tassajara Village,37.798833,-121.919805
+831098,Camino Tassajara and Wood Ranch Dr,37.800853,-121.93272
+83912,Castlehill Rd and Arbol Grande,37.88216,-122.052742
+83911,Castlehill Rd and Garland Ct,37.881855,-122.054871
+83941,Center Ave and Blackwood Dr,37.983346,-122.069862
+83915,Center Ave and Blackwood Dr,37.983473,-122.07016
+83940,Center Ave and Flame Dr,37.98333,-122.073875
+83918,Center Ave and Glacier Dr,37.983815,-122.088657
+83931,Center Ave and Granite Ct,37.989378,-122.107392
+83939,Center Ave and Hidden Lakes Dr,37.98333,-122.07922
+83930,Center Ave and Kaiser Dr,37.99084,-122.110214
+83924,Center Ave and Kaiser Dr,37.991405,-122.110688
+83938,Center Ave and Lyle Ct,37.983966,-122.086094
+83917,Center Ave and Mono Dr,37.983851,-122.081305
+83922,Center Ave and Morello Ave,37.986593,-122.10471
+83928,Center Ave and Muir Station,37.992446,-122.118659
+83914,Center Ave and Pacheco Blvd,37.983418,-122.068094
+83926,Center Ave and Public Health Services California,37.992557,-122.118546
+83916,Center Ave and Raymond Dr,37.983501,-122.074753
+83919,Center Ave and Redwood Dr,37.9838,-122.091319
+83937,Center Ave and Redwood Dr,37.983648,-122.090473
+83923,Center Ave and Rolling Hill Way,37.988988,-122.106619
+83932,Center Ave and Snow Dr,37.987156,-122.105049
+83925,Center Ave and Veterans Clinic Driveway,37.992361,-122.114784
+83929,Center Ave and Veterans Ct,37.99247,-122.112797
+83427,Center Ave and Veterans Dr,37.99268,-122.113055
+832300,Center Ave and Vine Hill Way,37.98484,-122.099217
+83936,Center Ave and Vine Hill Way,37.984546,-122.098592
+83498,Center St and Easley Dr,37.941153,-121.931945
+831435,Chilpancingo Pkwy and Contra Costa Blvd,37.975351,-122.066544
+831436,Chilpancingo Pkwy and Contra Costa Blvd,37.975263,-122.066107
+83567,Clayton Rd and Adelaide St,37.97181,-122.041014
+83539,Clayton Rd and Alberta Way,37.954771,-121.965165
+83446,Clayton Rd and Atchison Stage Rd,37.945398,-121.945634
+83538,Clayton Rd and Ayers Rd,37.955836,-121.968185
+83546,Clayton Rd and Ayers Rd,37.956195,-121.968542
+83527,Clayton Rd and Babel Ln,37.969843,-122.008867
+83550,Clayton Rd and Bailey Rd,37.961471,-121.983155
+83534,Clayton Rd and Bailey Rd,37.961293,-121.983085
+83558,Clayton Rd and Barbis Way,37.970481,-122.010811
+83532,Clayton Rd and Bel Air Dr,37.964101,-121.990994
+83530,Clayton Rd and Cape Cod Way,37.966435,-121.997292
+83548,Clayton Rd and Claycord Ave,37.95892,-121.975994
+83536,Clayton Rd and Claycord Ave,37.958816,-121.976252
+83447,Clayton Rd and Clayton Library,37.94229,-121.934787
+83523,Clayton Rd and Coventry Rd,37.972983,-122.019972
+832289,Clayton Rd and Davis Ave,37.972367,-122.017288
+83524,Clayton Rd and Davis Ave,37.972191,-122.01719
+83531,Clayton Rd and Denkinger Ct,37.965373,-121.99443
+83553,Clayton Rd and Denkinger Ct,37.965629,-121.994637
+83566,Clayton Rd and Detroit Ave,37.970868,-122.04282
+83444,Clayton Rd and El Camino Dr,37.94843,-121.950622
+83449,Clayton Rd and El Camino Dr,37.949101,-121.951535
+83519,Clayton Rd and Ellis St,37.972808,-122.038369
+83528,Clayton Rd and Farm Bureau Rd,37.968786,-122.00515
+83556,Clayton Rd and Farm Bureau Rd,37.9692,-122.006085
+83522,Clayton Rd and Fifth Ave,37.973555,-122.021999
+83561,Clayton Rd and Fifth St,37.973728,-122.022255
+83563,Clayton Rd and Fry Way,37.972148,-122.040377
+83520,Clayton Rd and Galindo St,37.974111,-122.034039
+83552,Clayton Rd and Glazier Dr,37.964206,-121.990723
+83525,Clayton Rd and Grove Way,37.97187,-122.016059
+83540,Clayton Rd and Hospice Thrift Shoppes,37.953215,-121.960675
+83535,Clayton Rd and Indian Ln,37.959611,-121.978457
+83549,Clayton Rd and Indian Ln,37.959888,-121.978768
+83543,Clayton Rd and Kirker Pass Rd,37.95246,-121.958052
+83529,Clayton Rd and Loeffler Ln,37.967606,-122.000999
+83445,Clayton Rd and Lydia Ln,37.946375,-121.947085
+83557,Clayton Rd and Maynard St,37.969764,-122.008118
+83554,Clayton Rd and Mendocino Dr,37.966846,-121.997918
+83450,Clayton Rd and Mitchell Canyon Rd,37.943173,-121.941144
+83448,Clayton Rd and Mitchell Canyon Rd,37.94421,-121.942681
+83537,Clayton Rd and Newhall Pkwy,37.957983,-121.974038
+83500,Clayton Rd and Peacock Creek Dr,37.938988,-121.92674
+83564,Clayton Rd and Pine St,37.970506,-122.044112
+83565,Clayton Rd and Pine St,37.9697,-122.045324
+83521,Clayton Rd and San Carlos Ave,37.97398,-122.023747
+83544,Clayton Rd and Schenone Ct,37.95356,-121.961092
+83547,Clayton Rd and Silverleaf Ln,37.958097,-121.973702
+83560,Clayton Rd and Sixth St,37.973041,-122.01986
+832068,Clayton Rd and Sutter St,37.973173,-122.037854
+83545,Clayton Rd and Terry Lynn Ln,37.954998,-121.965264
+83562,Clayton Rd and The Alameda,37.97458,-122.025179
+83551,Clayton Rd and Thornwood Dr,37.962873,-121.987
+83451,Clayton Rd and Washington Blvd,37.951751,-121.956145
+83542,Clayton Rd and Washington Blvd,37.951183,-121.955674
+83555,Clayton Rd and West St,37.96791,-122.001511
+83533,Clayton Rd and Wharton Way,37.962485,-121.986424
+83541,Clayton Rd and Ygnacio Valley Rd,37.952598,-121.958965
+831439,Cleaveland Rd and Boyd Rd,37.943765,-122.063882
+831442,Cleaveland Rd and Crescent Plz,37.94543,-122.06437
+831440,Cleaveland Rd and Crescent Plz,37.944948,-122.06414
+831441,Cleaveland Rd and Trelany Rd,37.946826,-122.064327
+831967,Cleaveland Rd and W Hookston Rd,37.940741,-122.06392
+832086,Coggins Dr and Buskirk Ave,37.933358,-122.058715
+831445,Coggins Dr and Park Vista Apartments,37.933166,-122.05655
+831444,Coggins Dr and Villa Montanaro,37.93337,-122.05641
+83568,Colfax St and Pacheco St,37.979181,-122.032987
+83570,Concord Ave and Commerce Ave,37.979225,-122.045225
+83569,Concord Ave and Concord Airport Plaza Building A,37.980708,-122.05339
+831952,Concord Ave and Concord Honda,37.979643,-122.046377
+832290,Concord Ave and John Glenn Dr,37.980307,-122.05643
+S1,Concord BART,37.973646,-122.029524
+83888,Concord BART,37.974111,-122.029132
+83893,Concord BART,37.974155,-122.02929
+83891,Concord BART,37.974697,-122.028977
+83883,Concord BART,37.972663,-122.029838
+83890,Concord BART,37.974536,-122.029068
+83894,Concord BART,37.9743,-122.02921
+83892,Concord BART,37.973846,-122.029374
+83889,Concord BART,37.97428,-122.02911
+83886,Concord BART,37.97346,-122.029589
+83885,Concord BART,37.973259,-122.029686
+83895,Concord BART,37.97456,-122.02921
+83587,Concord Blvd and Dave Brubeck Park,37.975676,-121.985669
+83571,Concord Blvd and Grant St,37.97612,-122.032586
+83588,Concord Blvd and Mendocino Dr,37.976138,-121.987199
+83572,Concord Blvd and Mira Vista Ter,37.973934,-122.036734
+83589,Concord Blvd and West St,37.977169,-121.99067
+831452,Contra Costa Blvd and Beth Dr,37.955253,-122.060047
+831966,Contra Costa Blvd and Boyd Rd,37.942611,-122.060644
+831448,Contra Costa Blvd and Chipotle Mexican Grill,37.979121,-122.066584
+831449,Contra Costa Blvd and Cottonwood Dr,37.973385,-122.064199
+831453,Contra Costa Blvd and Dexter Dr,37.95782,-122.060682
+831458,Contra Costa Blvd and Doray Dr,37.95505,-122.060305
+831459,Contra Costa Blvd and Doris Dr,37.952983,-122.060325
+831451,Contra Costa Blvd and East Vivian Dr,37.95206,-122.060059
+831457,Contra Costa Blvd and Ellinwood Dr,37.957851,-122.06096
+83603,Contra Costa Blvd and Firestone,37.970003,-122.063127
+83604,Contra Costa Blvd and Golf Club Rd,37.970988,-122.063564
+831446,Contra Costa Blvd and Golf Club Rd,37.972355,-122.063664
+831456,Contra Costa Blvd and Harriet Dr,37.959873,-122.061517
+831454,Contra Costa Blvd and Harriet Dr,37.960286,-122.061319
+831455,Contra Costa Blvd and Safeway,37.949268,-122.059967
+831447,Contra Costa Blvd and S andG Carpet andMore,37.978745,-122.066245
+83605,Contra Costa Blvd and Sun Valley Blvd andViking Dr,37.965338,-122.062312
+831450,Contra Costa Blvd and Viking Dr,37.967781,-122.062967
+83602,Contra Costa Blvd and Viking Dr,37.967821,-122.062769
+831460,Contra Costa Blvd and Vivian Dr,37.951421,-122.060325
+831461,Contra Costa Blvd and Woodsworth Ln,37.949668,-122.060326
+831031,Court St and Green St,38.017246,-122.133156
+831032,Court St and Marina Vista Ave,38.019406,-122.135149
+831003,Court St and Ward St,38.017661,-122.133599
+831743,Creekside Dr and Creekside Oaks,37.88627,-122.052655
+831741,Creekside Dr and End,37.882167,-122.049752
+831742,Creekside Dr and Near Ct,37.883981,-122.050849
+831740,Creekside Dr and Near Ct,37.8838,-122.050911
+831738,Creekside Dr and Quail Ct,37.887383,-122.0549
+831744,Creekside Dr and Quail Ct,37.88749,-122.05506
+831739,Creekside Dr and The Retreat,37.886177,-122.052636
+831463,Crescent Plz and Cleaveland Rd,37.945289,-122.063981
+831464,Crescent Plz and Cleaveland Rd,37.945211,-122.063822
+831465,Crescent Plz and Crescent Dr,37.945191,-122.061477
+831462,Crescent Plz and Crescent Dr,37.945306,-122.062114
+83945,Crest Ave and Crest Ct,37.874098,-122.051622
+83944,Crest Ave and Kell Ct,37.871003,-122.050789
+831633,Crow Canyon Rd and Alcosta Blvd,37.781536,-121.964791
+831625,Crow Canyon Rd and Bollinger Canyon Rd,37.772623,-121.995404
+831634,Crow Canyon Rd and Camino Ramon,37.779872,-121.968856
+831642,Crow Canyon Rd and Canyon Crest Dr,37.785013,-121.943012
+831641,Crow Canyon Rd and Canyon Crest Dr,37.787875,-121.945794
+831632,Crow Canyon Rd and Canyon Crest Dr,37.788375,-121.947085
+831631,Crow Canyon Rd and Canyon Crest Dr,37.785911,-121.943409
+831636,Crow Canyon Rd and Crow Canyon Pl,37.778704,-121.971052
+831635,Crow Canyon Rd and Crow Canyon Pl,37.779108,-121.970729
+831624,Crow Canyon Rd and Deerwood Rd,37.773565,-121.987954
+831639,Crow Canyon Rd and Dougherty Rd,37.78898,-121.925945
+831629,Crow Canyon Rd and Dougherty Rd,37.788535,-121.927355
+831627,Crow Canyon Rd and Old Crow Canyon Rd,37.774316,-121.983007
+831623,Crow Canyon Rd and Old Crow Canyon Rd,37.774405,-121.983762
+831626,Crow Canyon Rd and Park Pl,37.7733,-121.988809
+831640,Crow Canyon Rd and Shoreline Dr,37.783178,-121.937925
+831630,Crow Canyon Rd and Shoreline Dr,37.783378,-121.9394
+831628,Crow Canyon Rd and Twin Creeks Dr,37.774968,-121.980424
+831622,Crow Canyon Rd and Twin Creeks Dr,37.77506,-121.980782
+83952,Danville Blvd and Alamo Plaza,37.851508,-122.033444
+83970,Danville Blvd and Alamo Plaza,37.851368,-122.033219
+83955,Danville Blvd and Alamo Womens Club,37.845207,-122.028939
+83965,Danville Blvd and Camille Ave,37.837894,-122.02108
+83957,Danville Blvd and Camille Ave,37.83745,-122.020609
+83959,Danville Blvd and Del Amigo Rd,37.828548,-122.00815
+832100,Danville Blvd and El Cerro Blvd,37.828238,-122.007337
+83964,Danville Blvd and El Portal,37.834918,-122.017172
+83963,Danville Blvd and Hartford Rd,37.832228,-122.014112
+83958,Danville Blvd and Hartford Rd,37.832013,-122.013874
+83956,Danville Blvd and Hemme Ave,37.841345,-122.025019
+83966,Danville Blvd and Hemme Ave,37.841566,-122.025139
+83948,Danville Blvd and Hillgrade Ave,37.869418,-122.04453
+83974,Danville Blvd and Hillgrade Ave,37.870285,-122.045144
+83946,Danville Blvd and Horse Trail Ct,37.875013,-122.047809
+83961,Danville Blvd and La Gonda Way,37.825728,-122.004059
+83954,Danville Blvd and La Serena Ave,37.843906,-122.027588
+83967,Danville Blvd and La Serena Ave,37.844185,-122.027702
+83969,Danville Blvd and Las Trampas Rd,37.847615,-122.03092
+83953,Danville Blvd and Las Trampas Rd,37.847789,-122.031243
+83973,Danville Blvd and Livorna Rd,37.862043,-122.04002
+83949,Danville Blvd and Livorna Rd,37.861871,-122.03992
+83960,Danville Blvd and Railroad Ave,37.825171,-122.00364
+83950,Danville Blvd and Ridgewood Rd,37.856953,-122.0369
+83972,Danville Blvd and Ridgewood Rd,37.856976,-122.03694
+83968,Danville Blvd and South Ave,37.845293,-122.028894
+83971,Danville Blvd and St Alphonsus Ct,37.853793,-122.034854
+83951,Danville Blvd and St Alphonsus Ct,37.85344,-122.034655
+83947,Danville Blvd and Via Robles,37.871465,-122.04588
+83978,Danville Blvd and Wayne Ave,37.834863,-122.017132
+831075,Danville Park andRide,37.811989,-121.991816
+831748,Dapplegray Ln and Rudgear Rd,37.879173,-122.028099
+831746,Dapplegray Ln and Stewart Ave,37.875175,-122.027622
+831747,Dapplegray Ln and Westmoreland Cir,37.87744,-122.027225
+83616,David Ave and Bancroft Rd,37.934685,-122.046199
+83615,David Ave and Mohr Ln,37.936095,-122.043179
+83435,Delta Fair Blvd and Kaiser Delta Fair Medical Offices,38.004128,-121.842777
+83434,Delta Fair Blvd and Somersville Towne Center,38.003773,-121.842042
+83623,Detroit Ave and Laguna St,37.967905,-122.040934
+83622,Detroit Ave and Lynn Ave,37.965623,-122.03845
+83620,Detroit Ave and Monument Blvd,37.960696,-122.034039
+83617,Detroit Ave and Sunshine Dr,37.965313,-122.03837
+83618,Detroit Ave and Walters Way,37.962341,-122.035729
+83621,Detroit Ave and Walters Way,37.96283,-122.035907
+831101,Diablo Rd and Arroyo Dr,37.825696,-121.987457
+831100,Diablo Rd and El Cerro Blvd,37.829455,-121.987457
+831103,Diablo Rd and El Pintado,37.823045,-121.997054
+831099,Diablo Rd and Green Valley Rd,37.834955,-121.978715
+831102,Diablo Rd and Green Valley Shopping Center,37.823036,-121.992463
+S6,Diablo Valley College,37.970927,-122.069136
+832169,Diablo Valley College,37.970403,-122.068987
+832172,Diablo Valley College,37.970908,-122.068987
+832170,Diablo Valley College,37.970583,-122.068987
+832171,Diablo Valley College,37.970741,-122.068967
+832173,Diablo Valley College,37.971055,-122.069027
+832164,Diablo Valley College,37.971024,-122.069234
+832168,Diablo Valley College,37.97044,-122.069187
+831961,Diamond Blvd and Burnett Ave,37.976273,-122.059889
+832008,Diamond Blvd and Galaxy Way,37.97438,-122.058396
+831960,Diamond Blvd and Galaxy Way,37.975248,-122.058934
+832012,Diamond Blvd and Golden Corral,37.97385,-122.057702
+832011,Diamond Blvd and Hilton Concord,37.970566,-122.05496
+832009,Diamond Blvd and The Veranda,37.973268,-122.057464
+832010,Diamond Blvd and Willow Way,37.970988,-122.055635
+832235,Dougherty Rd and Camp Parks Blvd,37.715729,-121.910086
+832056,Dougherty Rd and Iron Horse Trail Apts,37.708751,-121.91017
+832189,Dougherty Rd and Mariposa Cir,37.714711,-121.910369
+832080,Dougherty Rd and Monarch Rd,37.778381,-121.922727
+832161,Dougherty Rd and Old Ranch Rd,37.739956,-121.914044
+832162,Dougherty Rd and Old Ranch Rd,37.739893,-121.913745
+832057,Dougherty Rd and Park Sierra,37.711771,-121.910389
+832077,Dougherty Rd and Red Willow Rd,37.787421,-121.925509
+832076,Dougherty Rd and Red Willow Rd,37.7865,-121.925329
+832028,Dougherty Rd and Sierra Ln,37.705973,-121.91009
+831147,Dublin Blvd and Civic Plz,37.704316,-121.915752
+831979,Dublin Blvd and Clark Ave,37.705561,-121.920859
+831148,Dublin Blvd and Dublin Ct,37.70369,-121.912295
+832092,Dublin Blvd and Scarlett Ct,37.70568,-121.90709
+831160,Dublin Pleasanton BART,37.702901,-121.89944
+832140,Dublin Pleasanton BART,37.703045,-121.899819
+S2,Dublin Pleasanton BART,37.702643,-121.899066
+832158,Dublin Pleasanton BART Unloading,37.701623,-121.89803
+83625,East St and Bacon St,37.982508,-122.03398
+83624,East St and Bacon St,37.982618,-122.03392
+83627,East St and Sunset Ave,37.97675,-122.02961
+83626,East St and Willow Pass Rd,37.978331,-122.03092
+832113,E Branch Pkwy and Sherwood Way,37.751433,-121.89797
+832104,E Branch Pkwy and Sherwood Way,37.751296,-121.89805
+832112,E Branch Pkwy and Windemere Pkwy,37.749211,-121.89042
+832103,E Branch Pkwy and Windemere Ranch School,37.753463,-121.905004
+832114,E Branch Pkwy and Windemere Ranch School,37.753415,-121.905302
+831466,Ellinwood Dr and Longbrook Way,37.958805,-122.05802
+831420,Ellinwood Way and Contra Costa Employment Human Services,37.959333,-122.053789
+831171,El Nido Ranch Rd and Lizann Dr,37.893883,-122.16211
+831170,El Nido Ranch Rd and Upper Happy Valley Rd,37.893405,-122.153664
+831034,Escobar St and Alhambra Ave,38.017077,-122.138355
+832214,Estudillo St and Victory Ct,38.001401,-122.12861
+831644,Executive Pkwy and Bishop Dr,37.767315,-121.96888
+831646,Executive Pkwy and Bishop Dr andCamino Ramon,37.768968,-121.964549
+831643,Executive Pkwy and Camino Ramon andBishop Dr,37.769286,-121.964032
+83437,Fairview Dr and Potomac Ct,38.00141,-121.845102
+83436,Fairview Dr and Potomac Ct,38.001631,-121.844764
+831651,Fostoria Way and Camino Ramon,37.782056,-121.971165
+831652,Fostoria Way and Camino Ramon,37.781338,-121.972914
+831650,Fostoria Way and Crow Canyon Pl,37.78102,-121.973192
+83629,Fry Way and Clayton Rd,37.972274,-122.040856
+83630,Fry Way and Clayton Rd,37.972526,-122.040814
+83632,Galaxy Way and Meridian Park Blvd,37.976075,-122.055835
+83631,Galaxy Way and Meridian Park Blvd,37.976075,-122.056152
+832287,Galindo St and Cowell Rd,37.968896,-122.031856
+832301,Galindo St and Laguna St,37.971106,-122.032495
+83634,Gateway Blvd and Clayton Rd,37.971255,-122.042722
+83635,Gateway Blvd and Willow Pass Rd,37.971786,-122.043488
+832070,Glacier Dr and Muir Rd,37.990604,-122.086991
+831467,Golf Club Rd and College Dr,37.971621,-122.065481
+832284,Grant St and Clayton Rd,37.975582,-122.0317
+83641,Grant St and Fairfield Ave,37.987475,-122.039582
+83643,Grant St and Gill Dr,37.984256,-122.037555
+83639,Grant St and High School Ave,37.984013,-122.03529
+83644,Grant St and High School Ave,37.984061,-122.036007
+83640,Grant St and Karren St,37.985686,-122.03851
+83642,Grant St and Mildred St,37.986485,-122.039185
+83637,Grant St and Pacheco St,37.978775,-122.034264
+831111,Green Valley Rd and Compo Via,37.84223,-121.978814
+831112,Green Valley Rd and Donna Ln,37.839011,-121.978517
+831480,Gregory Ln and Brandon Rd,37.947973,-122.078325
+831482,Gregory Ln and Brandon Rd,37.947861,-122.077214
+831487,Gregory Ln and Cleaveland Rd,37.947861,-122.063802
+831475,Gregory Ln and Cleaveland Rd,37.948033,-122.064629
+831474,Gregory Ln and Contra Costa Blvd,37.94807,-122.061219
+831488,Gregory Ln and Contra Costa Blvd,37.947885,-122.061359
+831478,Gregory Ln and Kahrs Ave,37.948013,-122.073875
+831484,Gregory Ln and Kahrs Ave,37.947901,-122.072822
+831486,Gregory Ln and Moiso Ln,37.947916,-122.066842
+831476,Gregory Ln and Moiso Ln,37.948068,-122.066922
+831481,Gregory Ln and Pleasant Hill Rd,37.94783,-122.081684
+831485,Gregory Ln and Price Ln,37.947953,-122.070657
+831176,Happy Valley Rd and Franklin Ln,37.902256,-122.13648
+831179,Happy Valley Rd and Mt Diablo Blvd,37.891716,-122.12584
+831177,Happy Valley Rd and Panorama Dr,37.905395,-122.14246
+831175,Happy Valley Rd and Rose Ln,37.900988,-122.13338
+831174,Happy Valley Rd and Upper Happy Valley Rd,37.906471,-122.152878
+831180,Hidden Valley Rd and Blackthorn Dr,37.89239,-122.16364
+831181,Hidden Valley Rd and Crest Rd,37.890506,-122.158117
+83975,Hillgrade Ave and Iron Horse Trail,37.868381,-122.046477
+831373,Honey Hill Rd and Miner Rd,37.902848,-122.170792
+831304,Howe Rd and Buena Vida Ct,37.997276,-122.119934
+831303,Howe Rd and Contra Costa Housing Choice Voucher Office,37.999391,-122.11685
+831302,Howe Rd and Parkway Dr,38.001005,-122.113929
+831374,Ivy Dr and Descanso Dr,37.853296,-122.146692
+83647,John Glenn Dr and Burnett Ave,37.977915,-122.054365
+83646,John Glenn Dr and Concord Ave,37.97958,-122.055497
+83645,John Glenn Dr and Concord Ave,37.979549,-122.055161
+832087,John Muir Medical Center Walnut Creek,37.912265,-122.040377
+832181,John Muir Medical Center Walnut Creek,37.912608,-122.041729
+831959,Kirker Pass Rd and Allegro Ave,37.953726,-121.954932
+83443,Kirker Pass Rd and Castlewood Dr,37.995415,-121.897097
+83442,Kirker Pass Rd and Castlewood Dr,37.995851,-121.897554
+83650,Kirker Pass Rd and Clayton Rd,37.953373,-121.956005
+83649,Kirker Pass Rd and Olive Dr,37.955105,-121.953642
+83648,Kirker Pass Rd and Olive Dr,37.954863,-121.953542
+831162,Lafayette BART,37.893571,-122.125128
+83656,Laguna St and Detroit Ave,37.968293,-122.040575
+83657,Laguna St and Ellis Park,37.970336,-122.035589
+83655,Laguna St and Ellis St,37.969668,-122.03698
+83665,Landana Dr and Beechwood Dr,37.983083,-121.998862
+83662,Landana Dr and Cottonwood Dr,37.980826,-121.996974
+83664,Landana Dr and Cottonwood Dr,37.980763,-121.996755
+83667,Landana Dr and Larkspur Dr,37.989401,-122.004535
+832187,Landana Dr and Mulberry Dr,37.978721,-121.994192
+83660,Landana Dr and Sandalwood Dr,37.98463,-121.999617
+83661,Landana Dr and Silverwood Dr,37.983303,-121.99904
+83666,Landana Dr and Village Rd,37.987081,-122.001019
+83659,Landana Dr and Village Rd,37.987033,-122.001039
+83658,Landana Dr and Willow Pass Rd,37.989823,-122.00535
+831991,Lennon Ln and N Wiget Ln,37.927635,-122.029807
+831752,Lilac Dr and Lancaster Rd,37.890117,-122.060646
+83977,Lilac Dr and Newell Ave,37.890165,-122.064457
+831757,Locust St and Bonanza St,37.899515,-122.062304
+831755,Locust St and Civic Dr,37.901011,-122.062941
+832294,Locust St and Mt Diablo Blvd,37.897198,-122.061463
+832152,Lusitano St and Charbray St,37.79531,-121.882494
+83669,Market St and Clayton Rd,37.969226,-122.046982
+83668,Market St and Clayton Rd andMeadow Ln,37.96773,-122.047769
+83454,Marsh Creek Rd and Bigelow St,37.932405,-121.923959
+83453,Marsh Creek Rd and El Molino Dr,37.93391,-121.92825
+83452,Marsh Creek Rd and Greystone Rd,37.935328,-121.932224
+83499,Marsh Creek Rd and High St,37.940065,-121.933515
+831039,Martinez Amtrak,38.018485,-122.139187
+832285,Martinez Amtrak Unloading,38.019091,-122.139522
+83681,Meadow Ln and Blackfield Dr,37.964181,-122.04588
+83675,Meadow Ln and Gelbke Ln,37.960705,-122.04284
+83678,Meadow Ln and Lodge Dr,37.958268,-122.040537
+83674,Meadow Ln and Mayette Ave,37.96302,-122.044945
+83677,Meadow Ln and Monument Blvd,37.957267,-122.039978
+83676,Meadow Ln and Robin Ln,37.958936,-122.04131
+83679,Meadow Ln and Robin Ln,37.95935,-122.04147
+83680,Meadow Ln and Sunshine Dr,37.96133,-122.04326
+83673,Meadow Ln and William Way,37.965889,-122.047753
+831000,Meadow Rd and Meadow Crest Ln,37.879626,-122.05655
+83682,Michigan Blvd and El Camino Dr,37.942743,-121.950522
+83683,Michigan Blvd and Maryland Dr,37.94328,-121.95231
+83684,Michigan Blvd and Pennsylvania Blvd,37.944003,-121.954595
+83687,Michigan Blvd and Round Tree Way,37.946674,-121.961831
+83686,Michigan Blvd and Washington Blvd,37.94598,-121.960122
+83688,Michigan Blvd and Ygnacio Valley Rd,37.947336,-121.963199
+831376,Miner Rd and Camino Don Miguel,37.896995,-122.19207
+831375,Miner Rd and Camino Lenada,37.890499,-122.194107
+831377,Miner Rd and Camino Sobrante,37.900781,-122.190899
+832192,Miner Rd and Gardiner Ct,37.903526,-122.173289
+831378,Miner Rd and Lombardy Ln,37.902193,-122.190084
+831381,Miner Rd and Sycamore Rd,37.906405,-122.179157
+831380,Miner Rd and Tiger Tail Ct,37.90578,-122.182355
+831379,Miner Rd and Valley View Rd,37.903965,-122.183845
+831774,Minert Rd and Bancroft Rd,37.934148,-122.04594
+831777,Minert Rd and Litwin Dr,37.942195,-122.030324
+831775,Minert Rd and Normandy Ln,37.937856,-122.038807
+831776,Minert Rd and Weaver Ln,37.939573,-122.03545
+831367,Miramonte High School,37.84035,-122.14544
+83695,Mira Vista Ter and Salvio St,37.975665,-122.037575
+83694,Mira Vista Ter and Willow Pass Rd,37.975215,-122.037629
+831780,Mitchell Dr and N Wiget Ln,37.928995,-122.025535
+831781,Mitchell Dr and Oak Grove Rd,37.932018,-122.019734
+831782,Mitchell Dr and Oak Grove Rd,37.931991,-122.020012
+831779,Mitchell Dr and Park andRide Lot,37.929813,-122.023967
+831778,Mitchell Dr and Park andRide Lot,37.929713,-122.023927
+83701,Mohr Ln and Bentley St,37.939076,-122.045544
+83697,Mohr Ln and Del Rio Cir,37.946041,-122.047729
+83698,Mohr Ln and Del Rio Cir,37.945728,-122.045484
+83705,Mohr Ln and Del Rio Cir,37.945851,-122.045524
+83706,Mohr Ln and Del Rio Cir,37.946182,-122.048066
+83699,Mohr Ln and Del Rio Ct,37.94378,-122.045105
+83704,Mohr Ln and Hidden Creek Town Homes,37.94462,-122.04443
+83696,Mohr Ln and Monument Blvd,37.947396,-122.05059
+83707,Mohr Ln and Monument Blvd,37.947506,-122.050515
+83702,Mohr Ln and Nuala St,37.939565,-122.045504
+83703,Mohr Ln and Wicket Ct,37.941589,-122.045121
+83700,Mohr Ln and Wicket Ct,37.941571,-122.045185
+831786,Montego and Casa Montego Apts,37.910731,-122.041589
+831783,Montego and San Marco Apartments,37.908693,-122.047867
+831784,Montego and Tampico,37.910087,-122.045647
+831785,Montego and Tampico,37.910224,-122.043778
+831788,Montego and Tampico,37.91032,-122.04306
+832083,Montego and Ygnacio Valley Rd,37.90859,-122.049557
+831654,Montevideo Dr and Broadmoor Dr,37.752763,-121.949807
+831655,Montevideo Dr and Canal,37.753716,-121.947184
+831657,Montevideo Dr and San Ramon Valley Blvd,37.747348,-121.957475
+831653,Montevideo Dr and San Ramon Valley Blvd,37.7473,-121.957119
+831473,Monument Blvd and Contra Costa Blvd,37.945251,-122.05953
+832116,Monument Blvd and Detroit Ave,37.959925,-122.034099
+832117,Monument Blvd and Detroit Ave,37.959576,-122.034219
+83712,Monument Blvd and Lacey Ln,37.953595,-122.043119
+83718,Monument Blvd and Lacey Ln,37.95356,-122.04282
+83710,Monument Blvd and Meadow Ln,37.957036,-122.038192
+83715,Monument Blvd and Mohr Ln,37.94769,-122.051305
+83714,Monument Blvd and Mohr Ln,37.948249,-122.050759
+832118,Monument Blvd and Monument Ct and Systron Dr,37.963088,-122.031615
+83719,Monument Blvd and Oak Grove Rd,37.95681,-122.038132
+83708,Monument Blvd and Oakmead Ave,37.968421,-122.03229
+83717,Monument Blvd and Reganti Dr,37.952443,-122.04439
+832176,Monument Blvd and Studio 6 Concord,37.950898,-122.046635
+83713,Monument Blvd and Victory Ln,37.950759,-122.04728
+83711,Monument Blvd and Virginia Ln,37.954366,-122.042007
+832115,Monument Blvd and Walters Way,37.963358,-122.031774
+831339,Moraga Rd and Alta Mesa Dr,37.83774,-122.125692
+831354,Moraga Rd and Alta Mesa Dr,37.837761,-122.126053
+831342,Moraga Rd and Ascot Dr,37.854798,-122.124857
+831351,Moraga Rd and Ascot Dr,37.85491,-122.125015
+831186,Moraga Rd and Brook St,37.888661,-122.11836
+831349,Moraga Rd and Buckingham Dr,37.864716,-122.12426
+831344,Moraga Rd and Buckingham Dr,37.864931,-122.124082
+831348,Moraga Rd and Campolindo Dr,37.868015,-122.125274
+831345,Moraga Rd and Campolindo Dr,37.868221,-122.125215
+831353,Moraga Rd and Corliss Dr,37.84692,-122.126168
+831340,Moraga Rd and Corliss Dr,37.846848,-122.12593
+831352,Moraga Rd and Devin Dr,37.850704,-122.125466
+831341,Moraga Rd and Devin Dr,37.851215,-122.125175
+831188,Moraga Rd and Herman Dr,37.8853,-122.11836
+831350,Moraga Rd and Kendall Cir,37.858045,-122.124222
+831343,Moraga Rd and Kendall Cir,37.857716,-122.12414
+831184,Moraga Rd and Moraga Blvd,37.889938,-122.11836
+831338,Moraga Rd and Moraga Way,37.83412,-122.127142
+831355,Moraga Rd and Moraga Way,37.834518,-122.127175
+831185,Moraga Rd and Mt Diablo Blvd,37.89112,-122.118729
+831187,Moraga Rd and O'Conner Dr,37.886731,-122.118102
+831183,Moraga Rd and Oliver Ct,37.883961,-122.118619
+832144,Moraga Rd and Rheem Blvd,37.861076,-122.125075
+831182,Moraga Rd and Silver Springs Rd,37.881788,-122.11981
+831189,Moraga Rd and Tanglewood Dr,37.88329,-122.118937
+831346,Moraga Rd and Via Granada Dr,37.872361,-122.123824
+831347,Moraga Rd and Via Granada Dr,37.872378,-122.123982
+831399,Moraga Way and Ardor Dr,37.857898,-122.157839
+831403,Moraga Way and Brookside Dr,37.865583,-122.174647
+831357,Moraga Way and Camino Ricardo,37.837171,-122.134514
+831384,Moraga Way and Casa Vieja,37.862245,-122.168647
+831394,Moraga Way and Coral Dr,37.844718,-122.148739
+831405,Moraga Way and Eastwood Dr,37.84341,-122.146275
+831391,Moraga Way and El Camino Moraga,37.847836,-122.152514
+831392,Moraga Way and El Corte,37.845118,-122.149732
+831393,Moraga Way and Estabueno,37.843541,-122.146732
+831402,Moraga Way and Glorietta Blvd,37.862403,-122.168824
+831398,Moraga Way and Hall Dr,37.856365,-122.155175
+831358,Moraga Way and Hardie Dr,37.841278,-122.142327
+831401,Moraga Way and Holy Shepherd Lutheran Church,37.86041,-122.165209
+831397,Moraga Way and Ivy Dr,37.854806,-122.152772
+831389,Moraga Way and Ivy Dr,37.85416,-122.152394
+831385,Moraga Way and Los Cerros,37.860433,-122.165547
+831383,Moraga Way and McDonnell Nursery,37.865405,-122.174727
+831359,Moraga Way and Miramonte Dr,37.841066,-122.142102
+831386,Moraga Way and Oak Dr,37.85878,-122.161375
+832129,Moraga Way and Orchard Rd,37.859663,-122.1635
+831382,Moraga Way and Orchard Rd,37.871246,-122.177567
+831404,Moraga Way and Orchard Rd,37.871226,-122.177289
+831356,Moraga Way and School St,37.835271,-122.130002
+831390,Moraga Way and Southwaite Ct,37.851603,-122.151977
+831396,Moraga Way and Southwaite Ct,37.85203,-122.151719
+831360,Moraga Way and St Andrews Dr,37.836993,-122.134592
+831387,Moraga Way and Valley View Dr,37.857651,-122.157699
+831361,Moraga Way and Viader Dr,37.83484,-122.129427
+831395,Moraga Way and Whitehall Dr,37.847058,-122.151937
+831388,Moraga Way and Woodland Rd,37.85619,-122.155215
+831305,Morello Ave and Arnold Dr,37.994819,-122.100393
+831312,Morello Ave and Arnold Dr,37.994678,-122.100604
+831308,Morello Ave and Gilrix Ct,38.008093,-122.10179
+831310,Morello Ave and Marie Ave,38.004047,-122.101929
+831307,Morello Ave and Marie Ave,38.003931,-122.101747
+831306,Morello Ave and Midhill Rd,37.997915,-122.100365
+831489,Morello Ave and Taylor Blvd,37.961293,-122.078762
+831490,Morello Ave and Taylor Blvd,37.961646,-122.07908
+831311,Morello Ave and Village Oaks Dr,37.997416,-122.100422
+831001,Mountain View Blvd and Mynah Ct,37.886753,-122.034584
+831197,Mt Diablo Blvd and Acalanes Rd,37.889933,-122.153407
+831193,Mt Diablo Blvd and Brown Ave,37.893661,-122.109975
+831211,Mt Diablo Blvd and Carol Ln,37.895901,-122.1032
+832097,Mt Diablo Blvd and Carol Ln,37.896122,-122.103272
+831213,Mt Diablo Blvd and First St,37.892338,-122.115837
+831195,Mt Diablo Blvd and First St,37.892401,-122.11681
+831201,Mt Diablo Blvd and Gallagher,37.889775,-122.130619
+831206,Mt Diablo Blvd and Golden Gate Way,37.892063,-122.117824
+831208,Mt Diablo Blvd and Golden Gate Way,37.893036,-122.111387
+831210,Mt Diablo Blvd and Hampton Dr,37.894805,-122.1063
+831191,Mt Diablo Blvd and Hampton Rd,37.895091,-122.106042
+832101,Mt Diablo Blvd and Lafayette Cemetery,37.896728,-122.10022
+831199,Mt Diablo Blvd and Lafayette Reservoir Recreational Area,37.88799,-122.13944
+831205,Mt Diablo Blvd and Moraga Rd,37.891888,-122.119492
+831196,Mt Diablo Blvd and Moraga Rd,37.892088,-122.119254
+831202,Mt Diablo Blvd and Mountain View Dr,37.890848,-122.127082
+831212,Mt Diablo Blvd and Mt Diablo Ct,37.89657,-122.097935
+831190,Mt Diablo Blvd and Mt Diablo Ct,37.896796,-122.097935
+831198,Mt Diablo Blvd and Paulson Ct,37.889655,-122.14991
+831207,Mt Diablo Blvd and Second St,37.892695,-122.113234
+831194,Mt Diablo Blvd and Second St,37.892868,-122.113526
+831192,Mt Diablo Blvd and Stuart St,37.89421,-122.108465
+831200,Mt Diablo Blvd and Village Center,37.888281,-122.134017
+831209,Mt Diablo Blvd and Willow Dr,37.894245,-122.10787
+831314,Muir Rd and Center Ave,37.995013,-122.118539
+831313,Muir Rd and Center Ave,37.994628,-122.118691
+831319,Muir Rd and Fountainhead Ct,37.990415,-122.083432
+831316,Muir Rd and Fountainhead Ct,37.99055,-122.084167
+831318,Muir Rd and Glacier Dr,37.990308,-122.086352
+831320,Muir Rd and Sweetwater Dr,37.991221,-122.077809
+831315,Muir Rd and Sweetwater Dr,37.99123,-122.078524
+831804,N Broadway and Arroyo Way,37.905248,-122.061199
+831801,N Broadway and Carlback Ave,37.903865,-122.061279
+831802,N Broadway and Civic Dr,37.901775,-122.060842
+831716,N Broadway and Lincoln Ave,37.901513,-122.060584
+831803,N Broadway and S Carlback Ave,37.904246,-122.06108
+831800,N Broadway and Ygnacio Valley Rd,37.906186,-122.061477
+831810,N California Blvd and Bonanza St,37.89988,-122.063622
+831807,N California Blvd and Bonanza St,37.898975,-122.063599
+831813,N California Blvd and California Plaza,37.908458,-122.065909
+831805,N California Blvd and Cole Ave,37.902492,-122.064949
+831811,N California Blvd and Cole Ave,37.902165,-122.064497
+831812,N California Blvd and Lacassie Ave,37.903522,-122.065293
+831809,N California Blvd and Mt Diablo Blvd,37.897928,-122.063067
+831806,N California Blvd and Trinity Ave,37.901203,-122.064492
+832190,N Civic Dr and Brio Dr,37.908441,-122.058496
+832191,N Civic Dr and Brio Dr,37.908896,-122.058457
+831824,N Civic Dr and Brio Dr,37.908748,-122.058755
+831821,N Civic Dr and Deodora Way,37.914975,-122.059649
+831818,N Civic Dr and Deodora Way,37.915063,-122.05945
+831817,N Civic Dr and Parkside Dr,37.912686,-122.059809
+831822,N Civic Dr and Parkside Dr,37.912305,-122.060127
+831823,N Civic Dr and Pine St,37.910406,-122.05955
+831816,N Civic Dr and Pine St,37.910668,-122.05949
+831820,N Civic Dr and Walden Rd,37.916763,-122.059352
+831819,N Civic Dr and Walden Rd,37.916935,-122.059143
+831825,N Civic Dr and Ygnacio Valley Rd,37.907155,-122.058855
+831814,N Civic Dr and Ygnacio Valley Rd,37.907278,-122.058597
+831795,Newell Ave and Kaiser Medical Center,37.892771,-122.059947
+831797,Newell Ave and San Miguel Dr,37.893263,-122.052139
+831798,Newell Ave and S Broadway,37.893788,-122.054662
+831799,Newell Ave and S Main St,37.893245,-122.057892
+832298,N Main St and Arroyo Way,37.904908,-122.06366
+831764,N Main St and Arroyo Way,37.905526,-122.063802
+831829,N Main St and Auto Center Dr,37.922378,-122.06392
+831761,N Main St and Bonanza St,37.899888,-122.061022
+831763,N Main St and Civic Dr,37.901645,-122.061806
+831760,N Main St and Duncan St,37.89831,-122.060338
+831832,N Main St and Geary Rd,37.925633,-122.062987
+831830,N Main St and Lesnick Ln,37.923635,-122.063464
+831833,N Main St and Lesnick Ln,37.923781,-122.063644
+831831,N Main St and N Main Pet Lodge,37.925028,-122.062967
+832119,N Main St and Parkside Dr,37.912401,-122.065332
+831837,N Main St and Parkside Dr,37.911193,-122.06551
+832297,N Main St and Pringle Ave,37.907496,-122.064874
+831827,N Main St and San Luis Rd,37.917575,-122.06561
+831834,N Main St and Second Ave,37.921551,-122.064419
+831828,N Main St and Sos Dr,37.918918,-122.065114
+831835,N Main St and Third Ave,37.919688,-122.065054
+831836,N Main St and Third Ave andSan Luis Rd,37.918175,-122.06557
+831659,Norris Canyon Rd and Iron Horse Trail,37.775234,-121.963395
+832288,North Concord BART Unloading,38.002858,-122.024113
+83897,North Concord Martinez BART,38.00225,-122.024201
+83896,North Concord Martinez BART,38.00241,-122.024216
+S3,North Concord Martinez BART,38.002694,-122.024608
+832195,N Via Monte and Ygnacio Valley Rd andShadelands Dr,37.927116,-122.019157
+831992,N Wiget Ln and Mitchell Dr,37.929138,-122.027244
+831842,N Wiget Ln and Mitchell Dr,37.927881,-122.026172
+831841,N Wiget Ln and Mitchell Dr,37.928065,-122.026112
+831840,N Wiget Ln and Shadelands Dr,37.926287,-122.02454
+831843,N Wiget Ln and Shadelands Dr,37.926773,-122.025101
+831839,N Wiget Ln and Ygnacio Valley Rd,37.925243,-122.023767
+831844,N Wiget Ln and Ygnacio Valley Rd,37.9251,-122.023887
+83741,Oak Grove Rd and Chalomar Rd,37.947813,-122.033304
+83738,Oak Grove Rd and David Ave,37.943701,-122.029747
+83736,Oak Grove Rd and Gilly Ln,37.951255,-122.036742
+83737,Oak Grove Rd and Junction Dr,37.946303,-122.032132
+832209,Oak Grove Rd and Mitchell Dr,37.932535,-122.019437
+83744,Oak Grove Rd and Monument Blvd,37.956241,-122.038709
+83735,Oak Grove Rd and Monument Blvd,37.95549,-122.038659
+832197,Oak Grove Rd and Peach Willow Ln,37.93261,-122.019317
+83743,Oak Grove Rd and Pear Dr,37.953181,-122.037259
+83739,Oak Grove Rd and Risdon Rd,37.944535,-122.030264
+83740,Oak Grove Rd and Rockne Ln,37.946303,-122.031894
+831845,Oak Grove Rd and Shadelands Dr,37.930131,-122.01721
+831857,Oak Grove Rd and Shadelands Dr,37.9299,-122.016834
+831983,Oak Grove Rd and Smith Ln,37.941488,-122.027464
+831982,Oak Grove Rd and Smith Ln,37.941233,-122.027502
+831987,Oak Grove Rd and Treat Blvd,37.93879,-122.025277
+831988,Oak Grove Rd and Treat Blvd,37.93943,-122.025515
+83742,Oak Grove Rd and Whitman Rd,37.949013,-122.034377
+831862,Oakland Blvd and Almond Ave,37.900368,-122.069882
+831860,Oakland Blvd and Mt Diablo Blvd,37.897448,-122.07012
+831863,Oakland Blvd and Planned Parenthood-Walnut Creek Health Center,37.897833,-122.070259
+831493,Oak Park Blvd and Hook Ave,37.933398,-122.062909
+831504,Oak Park Blvd and Monte Cresta Dr,37.933688,-122.069942
+831495,Oak Park Blvd and Monte Cresta Dr,37.933771,-122.069942
+832283,Oak Park Blvd and Monticello Ave,37.933539,-122.067179
+831503,Oak Park Blvd and Patterson Blvd,37.933683,-122.072345
+831496,Oak Park Blvd and Patterson Blvd,37.933803,-122.072802
+831507,Oak Park Blvd and Pleasant Valley Dr,37.93333,-122.062114
+831505,Oak Park Blvd and Via Del Sol,37.93312,-122.064657
+831858,Oak Rd and Charter Oak Cir,37.920078,-122.058795
+831509,Oak Rd and I-680 NB On-Ramp,37.931665,-122.058994
+831859,Oak Rd and Walden Park,37.921131,-122.058339
+83745,Oak St and Galindo St,37.972136,-122.03233
+83746,Oak St and Galindo St,37.972256,-122.03247
+832074,Old Orchard Rd and Arnold Dr,37.99664,-122.110608
+831510,Old Quarry Rd and Chilpancingo Pkwy,37.974378,-122.068114
+831513,Old Quarry Rd and Chilpancingo Pkwy,37.974366,-122.067974
+83756,Olivera Rd and Grant St,37.997683,-122.042285
+83749,Olivera Rd and Hillsborough Dr,37.996785,-122.0368
+83757,Olivera Rd and Hillsborough Dr,37.996531,-122.036602
+83750,Olivera Rd and Northwood Dr,37.997905,-122.042344
+83752,Olivera Rd and Peralta Rd,37.998645,-122.047364
+83754,Olivera Rd and Peralta Rd,37.998493,-122.047829
+83755,Olivera Rd and Terraza Del Sol,37.998203,-122.045007
+832023,Olivera Rd and Terraza Del Sol andPeralta Rd,37.998486,-122.046119
+83758,Olivera Rd and Thunderbird Dr,37.99601,-122.034179
+83748,Olivera Rd and Thunderbird Dr,37.996086,-122.034188
+83753,Olivera Rd and Ups Customer Center Concord,37.998685,-122.05039
+83747,Olivera Rd and Welch Ct,37.995678,-122.032181
+83759,Olivera Rd and Welch Ct,37.995621,-122.03227
+831366,Orinda BART,37.87796,-122.184319
+831409,Orinda Way and Avenida De Orinda,37.88538,-122.191794
+831408,Orinda Way and Irwin Way,37.884215,-122.190005
+831407,Orinda Way and Orinda Community Center,37.882383,-122.187899
+831406,Orinda Way and Orinda Library,37.881538,-122.186787
+831410,Orindawoods Dr and Ironbark Cir,37.893033,-122.17552
+831411,Orindawoods Dr and Ironbark Cir,37.89014,-122.177773
+831412,Orindawoods Dr and Village Gate Rd,37.8853,-122.182415
+832229,Orindawoods Dr and Woodhall-Orindawoods Clubhouse,37.888996,-122.18005
+832254,Oro Valley Cir Flag Stop Area 1,37.889209,-122.020406
+832255,Oro Valley Cir Flag Stop Area 2,37.887807,-122.023573
+831010,Pacheco Blvd and Ace Truckbox Center Martinez,38.011606,-122.104354
+831004,Pacheco Blvd and Arreba St,38.014305,-122.126287
+831029,Pacheco Blvd and Arreba St,38.0144,-122.126307
+831014,Pacheco Blvd and Arthur Rd,38.00626,-122.090569
+831022,Pacheco Blvd and Arthur Rd,38.006878,-122.09128
+832127,Pacheco Blvd and Blum Rd,37.99454,-122.074432
+831007,Pacheco Blvd and Bush St,38.01283,-122.120585
+831028,Pacheco Blvd and Bush St,38.012885,-122.120804
+831023,Pacheco Blvd and Camino Del Sol,38.008366,-122.095412
+831013,Pacheco Blvd and Camino Del Sol,38.00826,-122.09569
+831015,Pacheco Blvd and Carolos Dr,37.990395,-122.073319
+831018,Pacheco Blvd and Center Ave,37.982876,-122.067359
+831017,Pacheco Blvd and Center Ave,37.982941,-122.067597
+831021,Pacheco Blvd and Contra Costa Health Services Discovery House,38.00369,-122.08508
+831026,Pacheco Blvd and Howe Rd,38.012428,-122.111336
+832126,Pacheco Blvd and Hwy 4 West Entrance,37.993558,-122.074174
+832125,Pacheco Blvd and Little Valley Rd,38.002903,-122.082459
+831011,Pacheco Blvd and Morello Ave,38.010728,-122.102089
+831024,Pacheco Blvd and Morello Ave,38.010982,-122.10228
+831012,Pacheco Blvd and Morello Ave,38.010271,-122.100915
+831020,Pacheco Blvd and N Buchanan Cir,37.990745,-122.073259
+831016,Pacheco Blvd and Pacheco Manor Dr,37.988655,-122.071929
+831008,Pacheco Blvd and Peach St,38.012353,-122.11683
+831025,Pacheco Blvd and Refinery Rd,38.012127,-122.105263
+831009,Pacheco Blvd and Santa Fe Ave,38.012266,-122.111445
+831019,Pacheco Blvd and S Buchanan Cir,37.987876,-122.071054
+831027,Pacheco Blvd and Shell Ave,38.012962,-122.118264
+831041,Palmer Rd and Hawthorne Dr,37.884946,-122.03229
+831864,Palmer Rd and Hillendale Ct,37.880083,-122.029709
+831042,Palmer Rd and Mountain View Blvd,37.886723,-122.033324
+831040,Palmer Rd and Sylvan Rd,37.882213,-122.0308
+83765,Parkside Dr and Concord Civic Center,37.980938,-122.025337
+832121,Parkside Dr and N Broadway,37.911793,-122.06247
+832122,Parkside Dr and N Civic Dr andPimlico Dr,37.911845,-122.060644
+83764,Parkside Dr and Willow Pass Rd,37.980628,-122.025059
+831518,Patterson Blvd and Roberta Ave,37.938825,-122.070279
+831515,Patterson Blvd and Roberta Rd,37.939295,-122.07016
+831519,Patterson Blvd and Santa Barbara Rd,37.936186,-122.072345
+831514,Patterson Blvd and Santa Barbara Rd,37.936068,-122.072305
+831516,Patterson Blvd and Soule Ave,37.941301,-122.069584
+831517,Patterson Blvd and Soule Ave,37.941249,-122.06971
+83770,Pennsylvania Blvd and Colorado Dr,37.947578,-121.956604
+83767,Pennsylvania Blvd and Highlands Park,37.943025,-121.955649
+83769,Pennsylvania Blvd and Michigan Blvd,37.944376,-121.954615
+83766,Pennsylvania Blvd and Washington Blvd,37.947893,-121.95686
+83771,Peralta Rd and Dalis Dr,37.99973,-122.047669
+83772,Pine Hollow Rd and Pine Hollow School,37.941273,-121.954595
+83773,Pine Hollow Rd and Redlands Way,37.941241,-121.951992
+83927,Pine St and Douglas Dr,37.995943,-122.121002
+832221,Pine St and Sentinel Dr,37.99758,-122.122592
+832216,Pine St and Sentinel Dr,37.99725,-122.122565
+831030,Pine St and Susana St,38.015735,-122.130631
+831663,Pine Valley Rd and Broadmoor Dr,37.739321,-121.941919
+832135,Pleasant Hill BART,37.928255,-122.055835
+831071,Pleasant Hill BART,37.92878,-122.055218
+831074,Pleasant Hill BART,37.9283,-122.0558
+832136,Pleasant Hill BART,37.928375,-122.055617
+831073,Pleasant Hill BART,37.928461,-122.055715
+832137,Pleasant Hill BART,37.928581,-122.055417
+831070,Pleasant Hill BART,37.9287,-122.055321
+S4,Pleasant Hill BART,37.928523,-122.056026
+831072,Pleasant Hill BART,37.928621,-122.055477
+831528,Pleasant Hill Rd and Devon Ave,37.956194,-122.09063
+831218,Pleasant Hill Rd and Hwy 24,37.897628,-122.096062
+831525,Pleasant Hill Rd and Mercury Way,37.951278,-122.083869
+831529,Pleasant Hill Rd and Paso Nogal,37.957331,-122.091809
+831532,Pleasant Hill Rd and Strand Ave,37.950675,-122.08371
+831527,Pleasant Hill Rd and Taylor Blvd,37.953703,-122.086829
+831530,Pleasant Hill Rd and Taylor Blvd,37.95393,-122.087624
+831524,Pleasant Hill Rd and Valley View Rd,37.948986,-122.082717
+832094,Pleasanton ACE Train Station,37.659113,-121.882374
+83778,Port Chicago Hwy and Arnold Industrial Way,38.011765,-122.023152
+83780,Port Chicago Hwy and Arnold Industrial Way,38.011431,-122.02335
+83779,Port Chicago Hwy and Bates Ave,38.014463,-122.02476
+83775,Port Chicago Hwy and Concord Blvd,37.97776,-122.029192
+83776,Port Chicago Hwy and Olivera Rd,37.995505,-122.030562
+83782,Port Chicago Hwy and Olivera Rd,37.995911,-122.030522
+83781,Port Chicago Hwy and Panoramic Dr,38.004295,-122.024292
+831867,Pringle Ave and N Main St,37.907716,-122.065054
+832224,Railroad Ave and Church St,37.8202,-121.99904
+831998,Railroad Ave and Linda Mesa Ave,37.822568,-122.00227
+831123,Railroad Ave and Love Ln,37.823765,-122.003264
+831117,Railroad Ave and Love Ln andLinda Mesa Ave,37.823518,-122.003284
+831118,Railroad Ave and Prospect Ave,37.82088,-122.000324
+831870,Riviera Ave and Short St,37.909213,-122.067399
+832252,Rockspring Pl Flag Stop Area 1,37.889333,-122.02292
+832253,Rockspring Pl Flag Stop Area 2,37.889592,-122.021233
+831221,Rohrer Dr and Merriewood Dr,37.861142,-122.091662
+831873,Rossmoor Pkwy and Tice Valley Blvd,37.877221,-122.071372
+832261,Rossmoor Shopping Center,37.878198,-122.072783
+831874,Rudgear Rd and Youngs Ct,37.879566,-122.03694
+831416,Saint Stephens Dr and De Soto Ct,37.896618,-122.172044
+831414,Saint Stephens Dr and E Altarinda Dr,37.892878,-122.171725
+831415,Saint Stephens Dr and Via Floreado,37.894563,-122.171945
+83784,Salvio St and Colfax St,37.978469,-122.032799
+83783,Salvio St and Date St,37.980671,-122.028437
+83786,Salvio St and Galindo St,37.97652,-122.036702
+83785,Salvio St and Galindo St,37.976715,-122.036522
+83787,Salvio St and Grant St,37.977901,-122.033742
+831046,San Miguel Dr and Adeline Dr,37.890495,-122.045622
+831875,San Miguel Dr and Blackwood Dr,37.891326,-122.04905
+831044,San Miguel Dr and Hillview Ter,37.88778,-122.040635
+831052,San Miguel Dr and Milton Ave,37.881191,-122.037834
+831043,San Miguel Dr and Mountain View Blvd,37.886085,-122.037072
+831045,San Miguel Dr and Shady Glen Rd,37.88902,-122.043259
+831051,San Miguel Dr and St Lukes Lutheran Church,37.882916,-122.03539
+83792,San Miguel Rd and Galloway Dr,37.957628,-122.026985
+83791,San Miguel Rd and Galloway Dr,37.958282,-122.027703
+83794,San Miguel Rd and Sunny Acres Mobile Home andRv Park,37.96268,-122.029867
+83789,San Miguel Rd and Sunny Acres Mobile Home andRV Park,37.962436,-122.029729
+83790,San Miguel Rd and Tioga Rd,37.960136,-122.028555
+83793,San Miguel Rd and Tioga Rd,37.960315,-122.028655
+831697,San Ramon Transit Center,37.770443,-121.96032
+831699,San Ramon Transit Center,37.770211,-121.960297
+832052,San Ramon Transit Center,37.770546,-121.960511
+831696,San Ramon Transit Center,37.770475,-121.960257
+S7,San Ramon Transit Center,37.770184,-121.960345
+831700,San Ramon Transit Center,37.770466,-121.960417
+831695,San Ramon Transit Center,37.770486,-121.960337
+831129,San Ramon Valley and Sycamore Square,37.812686,-121.995544
+831130,San Ramon Valley Blvd and Bank Of America,37.815338,-121.996354
+831669,San Ramon Valley Blvd and Barnwood Dr,37.754575,-121.962562
+831668,San Ramon Valley Blvd and Bollinger Canyon Rd,37.75905,-121.967985
+831672,San Ramon Valley Blvd and Bollinger Crossing,37.757985,-121.966555
+831667,San Ramon Valley Blvd and Courtyard Center,37.774718,-121.976192
+831675,San Ramon Valley Blvd and Crow Canyon Rd,37.77531,-121.97782
+831125,San Ramon Valley Blvd and Danville Town andCountry Shopping Center,37.81523,-121.996397
+831673,San Ramon Valley Blvd and Fostoria Way,37.78089,-121.978357
+831679,San Ramon Valley Blvd and Harness Dr,37.757536,-121.9659
+831664,San Ramon Valley Blvd and Hooper Dr,37.784973,-121.980364
+831674,San Ramon Valley Blvd and Hooper Dr,37.784938,-121.980145
+831126,San Ramon Valley Blvd and Livery-Mercantile,37.81337,-121.9959
+831670,San Ramon Valley Blvd and Morgan Dr,37.751218,-121.960475
+831678,San Ramon Valley Blvd and Morgan Dr,37.751445,-121.960437
+831665,San Ramon Valley Blvd and Purdue Rd,37.782446,-121.979232
+831676,San Ramon Valley Blvd and Regal Crow Canyon,37.772178,-121.974225
+831128,San Ramon Valley Blvd and Ridgeland Dr,37.789965,-121.98247
+831127,San Ramon Valley Blvd and Ridgeland Dr,37.789488,-121.98245
+831131,San Ramon Valley Blvd and Sonora Ave,37.817366,-121.996417
+831124,San Ramon Valley Blvd and Sonora Ave,37.817636,-121.996655
+831680,San Ramon Valley Blvd and Twin Canyon Shopping Center,37.7726,-121.974245
+831413,Santa Maria Way and Orinda Way,37.881008,-122.186012
+831880,S Broadway and Mt Diablo Blvd,37.89725,-122.057404
+831885,S Broadway and Mt Diablo Blvd,37.89777,-122.057662
+831882,S Broadway and Newell Ave,37.893946,-122.05529
+831883,S Broadway and Newell Ave,37.893923,-122.055
+831886,S California Blvd and Botelho Dr,37.894773,-122.061974
+831889,S California Blvd and Botelho Dr,37.8944,-122.061875
+831888,S California Blvd and Mt Diablo Blvd andOlympic Blvd,37.896546,-122.063385
+831808,S California Blvd and Newell Ave,37.892946,-122.061199
+831737,S California Blvd and Olympic Blvd,37.896458,-122.062987
+832196,Shadelands Dr and Lennon Ln,37.925661,-122.027502
+831993,Shadelands Dr and N Via Monte,37.929075,-122.019294
+831994,Shadelands Dr and N Wiget Ln,37.92694,-122.024238
+831891,S Main St and Creekside Dr,37.886918,-122.055755
+831893,S Main St and Creekside Dr,37.887685,-122.056034
+831054,S Main St and Crest Ave,37.881105,-122.051007
+831890,S Main St and Kaiser Medical Center,37.890998,-122.057862
+831894,S Main St and Lilac Dr,37.890506,-122.057504
+831895,S Main St and Newell Ave,37.892636,-122.05812
+832296,S Main St and Olympic Blvd,37.896212,-122.059864
+831892,S Main St and Rudgear Rd,37.87926,-122.050054
+831055,S Main St and Rudgear Rd,37.879363,-122.050272
+83802,Solano Way and Avon Ave,37.992711,-122.049715
+83800,Solano Way and Grant St,37.989751,-122.042047
+83799,Solano Way and Grant St,37.98964,-122.041947
+83801,Solano Way and Hillside Ave,37.990808,-122.045722
+83796,Solano Way and Hilltop Rd,37.994345,-122.05198
+83803,Solano Way and Hilltop Rd,37.994401,-122.05198
+831053,Solano Way and Imhoff Rd,38.001908,-122.053664
+83795,Solano Way and Marsh Dr,37.998767,-122.053109
+83804,Solano Way and Olivera Rd,37.998576,-122.052894
+83797,Solano Way and Solano Ct,37.992636,-122.049655
+83798,Solano Way and Westgate Ave,37.990641,-122.045344
+83433,Somersville Rd and Buchanan Rd,37.998401,-121.843889
+831239,Stanley Blvd and Acalanes High School,37.902971,-122.096365
+831896,Stewart Ave and Rudgear Rd,37.879408,-122.035112
+831322,St Mary's College,37.842095,-122.110135
+831222,St Mary's Rd and Acampo Dr,37.88455,-122.113949
+831238,St Mary's Rd and Avalon Ave,37.885021,-122.11522
+831363,St Mary's Rd and Carter Dr,37.842488,-122.117904
+831364,St Mary's Rd and Carter Dr,37.8426,-122.117942
+831230,St Mary's Rd and Cattle Chute Rd,37.854226,-122.103697
+831231,St Mary's Rd and Cattle Chute Rd,37.85396,-122.103697
+831229,St Mary's Rd and Driftwood Dr,37.857326,-122.102049
+831232,St Mary's Rd and Driftwood Dr,37.857616,-122.101969
+831224,St Mary's Rd and Glenside Dr,37.881151,-122.103915
+831236,St Mary's Rd and Glenside Dr,37.880921,-122.10328
+831235,St Mary's Rd and Glenside Dr,37.871981,-122.098234
+831237,St Mary's Rd and Hope Ln,37.883456,-122.110035
+831223,St Mary's Rd and Hope Ln,37.88337,-122.109915
+831234,St Mary's Rd and Lafayette Community Center,37.864768,-122.099962
+831227,St Mary's Rd and Lafayette Community Center,37.864715,-122.100068
+831362,St Mary's Rd and Moraga Library,37.841046,-122.123049
+831365,St Mary's Rd and Moraga Library,37.841161,-122.123069
+831233,St Mary's Rd and Rohrer Dr,37.859006,-122.10173
+831228,St Mary's Rd and Rohrer Dr,37.859012,-122.101763
+831225,St Mary's Rd and Saint Mary's Ballfields,37.876796,-122.100539
+831226,St Mary's Rd and Woodview Dr,37.871321,-122.098492
+831056,Stone Valley Rd and Alamo Ranch Rd,37.851866,-122.025475
+831057,Stone Valley Rd and Miranda Ave,37.852191,-122.016019
+831132,Stone Valley Rd and Monte Vista High,37.844889,-121.981741
+831058,Stone Valley Rd and Stonecreek Pl,37.847075,-121.996
+831681,Sunset Dr and Bishop Dr,37.763128,-121.961137
+83879,Sun Valley Blvd and Contra Costa Blvd,37.963383,-122.060524
+83858,Sun Valley Blvd and Santa Monica Dr,37.962945,-122.060842
+831133,Sycamore Valley Rd and Brookside Dr,37.811264,-121.986802
+831134,Sycamore Valley Rd and Greenbrook Dr,37.8124,-121.975437
+83811,Systron Dr and Monument Blvd,37.964248,-122.031039
+83810,Systron Dr and Monument Blvd,37.964086,-122.03086
+832185,Tahiti Dr and Bahama Ct andBarbados Dr,37.782231,-121.957615
+831140,Tassajara Ranch Dr and Blackstone Dr,37.79316,-121.92074
+831139,Tassajara Ranch Dr and Blackstone Dr,37.795385,-121.918654
+831141,Tassajara Ranch Dr and Blackstone Dr,37.793155,-121.921157
+831138,Tassajara Ranch Dr and Center Way,37.797336,-121.917302
+831142,Tassajara Ranch Dr and Mountain Ridge Dr,37.795126,-121.918674
+831143,Tassajara Ranch Dr and Zenith Ridge Dr,37.797078,-121.917402
+831540,Taylor Blvd and Apollo Way,37.95819,-122.083372
+831543,Taylor Blvd and Apollo Way,37.957903,-122.083969
+831063,Tice Valley Blvd and Byron Park,37.881848,-122.076557
+831067,Tice Valley Blvd and Castle Hill Ranch Rd,37.875533,-122.057107
+832265,Tice Valley Blvd and Chives Way,37.876164,-122.068633
+831068,Tice Valley Blvd and Crest Ave,37.875136,-122.052577
+831899,Tice Valley Blvd and Del Valle Theatre,37.87721,-122.073459
+831897,Tice Valley Blvd and Grace Presbyterian Church,37.876455,-122.069484
+831066,Tice Valley Blvd and Montecillo Dr,37.874795,-122.065232
+831065,Tice Valley Blvd and Olympic Blvd,37.88408,-122.077809
+831898,Tice Valley Blvd and Rolling Hills Dr,37.879951,-122.075425
+831069,Tice Valley Blvd and Tice Valley Ln,37.875808,-122.066994
+831064,Tice Valley Blvd and Westborough Ln,37.883901,-122.07751
+83823,Treat Blvd and Arkell Rd,37.93325,-122.035907
+83830,Treat Blvd and Arkell Rd,37.932571,-122.036702
+83812,Treat Blvd and Bel Air Dr,37.962376,-121.994192
+83840,Treat Blvd and Bel Air Dr,37.962325,-121.994014
+83833,Treat Blvd and Blarney Ave,37.941273,-122.020927
+83819,Treat Blvd and Blarney Ave,37.941,-122.02172
+83825,Treat Blvd and Candelero Dr,37.92754,-122.045504
+83828,Treat Blvd and Candelero Dr,37.927715,-122.044847
+83829,Treat Blvd and Carriage Dr,37.930826,-122.039682
+83824,Treat Blvd and Carriage Dr,37.931022,-122.039902
+83826,Treat Blvd and Cherry Ln,37.926586,-122.050789
+83835,Treat Blvd and Citrus Ave,37.945056,-122.015324
+83838,Treat Blvd and Cowell Rd,37.955666,-122.001117
+83814,Treat Blvd and Cowell Rd,37.955143,-122.002297
+83827,Treat Blvd and Jones Rd andCherry Ln,37.926464,-122.052483
+83837,Treat Blvd and Kingswood Dr,37.95048,-122.005429
+832291,Treat Blvd and Lancelot Dr,37.957984,-121.998587
+83836,Treat Blvd and Navaronne Way,37.946773,-122.012164
+83816,Treat Blvd and Navaronne Way,37.946739,-122.012993
+832198,Treat Blvd and Oak Grove Plaza Driveway,37.937888,-122.026827
+83832,Treat Blvd and Oak Grove Rd,37.938308,-122.025575
+83820,Treat Blvd and Oak Grove Rd,37.938865,-122.02492
+83839,Treat Blvd and Pembroke Dr,37.95795,-121.998261
+83821,Treat Blvd and Royal Anne Ln,37.936625,-122.02935
+83817,Treat Blvd and San Miguel Rd,37.945533,-122.015025
+83818,Treat Blvd and San Simeon Dr,37.942973,-122.0188
+83834,Treat Blvd and San Simeon Dr,37.942903,-122.018522
+832292,Treat Blvd and Thompson Rd,37.951633,-122.005612
+83822,Treat Blvd and Winton Dr,37.934661,-122.033165
+83831,Treat Blvd and Winton Dr,37.93451,-122.032907
+832084,Trinity Ave and St Pauls Episcopal Church,37.901327,-122.068272
+832085,Trinity Ave and St Pauls Episcopal Church,37.901455,-122.067968
+831903,Trotter Way and Bridle Ln,37.87065,-122.030105
+831904,Trotter Way and Dapplegray Ln,37.869398,-122.029609
+831902,Trotter Way and Lariat Ln,37.872906,-122.031914
+831901,Trotter Way and Stewart Ave,37.875671,-122.031675
+83633,UFCW & Employers Plaza,37.973667,-122.060784
+831248,Upper Happy Valley Rd and Los Arabis Dr,37.89516,-122.151307
+831246,Upper Happy Valley Rd and N Peardale Dr,37.899898,-122.150956
+831245,Upper Happy Valley Rd and Oleander Dr,37.903035,-122.153129
+831247,Upper Happy Valley Rd and Rahara Dr,37.898124,-122.15091
+831249,VA Clinic,37.994031,-122.114485
+831417,Via Las Cruces and Honey Hill Rd,37.899793,-122.170275
+831418,Via Las Cruces and Las Vegas Rd,37.899076,-122.172342
+831546,Viking Dr and College Park High,37.965846,-122.070994
+831548,Viking Dr and Diablo Valley College,37.96591,-122.070637
+831549,Viking Dr and Norse Dr,37.965823,-122.075207
+831550,Viking Dr and Odin Dr,37.964706,-122.078425
+831544,Viking Dr and Odin Dr,37.96463,-122.078316
+831545,Viking Dr and Stubbs Rd,37.965766,-122.07459
+831547,Viking Dr and Valley View Middle,37.965901,-122.068232
+831153,Village Pkwy and Amador Valley Blvd,37.709716,-121.926857
+831151,Village Pkwy and Brighton Dr,37.718273,-121.926839
+831150,Village Pkwy and Davona Dr,37.72165,-121.92658
+831689,Village Pkwy and Elmwood Dr,37.727435,-121.930694
+831149,Village Pkwy and Kimball Ave,37.725841,-121.929322
+831152,Village Pkwy and Tamarack Dr,37.714515,-121.927163
+832215,Vista Way and Pine St,37.99949,-122.122888
+832222,Vista Way and Pine St,37.999535,-122.12287
+831928,Walnut Blvd and Fraser Dr,37.894423,-122.040934
+831929,Walnut Blvd and Golden Hill Pl,37.891038,-122.03231
+831926,Walnut Blvd and Homestead Ave,37.90056,-122.050112
+832175,Walnut Blvd and Scots Ln,37.892946,-122.035847
+831925,Walnut Blvd and Sierra Dr,37.903353,-122.052497
+831927,Walnut Blvd and Walker Ave,37.898386,-122.048125
+831924,Walnut Blvd and Ygnacio Valley Rd,37.907627,-122.054726
+831923,Walnut Blvd and Ygnacio Valley Rd,37.909317,-122.054963
+832256,Walnut Blvd Flag Stop Area 1,37.889776,-122.025393
+S5,Walnut Creek BART,37.905511,-122.067784
+832250,Walnut Creek BART,37.905949,-122.068758
+832242,Walnut Creek BART,37.905626,-122.068293
+832248,Walnut Creek BART,37.905823,-122.068404
+832247,Walnut Creek BART,37.905706,-122.06822
+832241,Walnut Creek BART,37.905561,-122.068117
+832244,Walnut Creek BART,37.905759,-122.06865
+832243,Walnut Creek BART,37.90569,-122.068468
+832246,Walnut Creek BART,37.905691,-122.068039
+832249,Walnut Creek BART,37.905886,-122.06858
+832239,Walnut Creek BART,37.905344,-122.068256
+83853,Washington Blvd and Clayton Rd,37.95083,-121.95678
+83857,Washington Blvd and Clayton Rd,37.951128,-121.956184
+83854,Washington Blvd and Kelrose Ct,37.94934,-121.956622
+83856,Washington Blvd and Kelrose Ct,37.948918,-121.956304
+83855,Washington Blvd and Pennsylvania Blvd,37.948045,-121.95676
+83847,West St and Chestnut Ave,37.972513,-121.996994
+83846,West St and Clayton Way,37.9734,-121.9959
+83850,West St and Denver St,37.971846,-121.997749
+83852,West St and El Dorado Middle School,37.976781,-121.991789
+83844,West St and Forestview Ave,37.976603,-121.992027
+83845,West St and Glendale Ave,37.974961,-121.993974
+83849,West St and Salem St,37.970695,-121.99912
+83848,West St and Wesley Ct,37.970018,-121.999974
+83851,West St and Wilson Ln,37.974298,-121.994709
+831551,W Hookston Rd and Hookston Senior Homes,37.940559,-122.062851
+83868,Willow Pass Rd and Ashdale Dr,37.988905,-122.00684
+83869,Willow Pass Rd and Ashdale Dr,37.988678,-122.00734
+83859,Willow Pass Rd and Diamond Blvd,37.96901,-122.051544
+83872,Willow Pass Rd and East Olivera Rd,37.983609,-122.015209
+83874,Willow Pass Rd and Esperanza Dr,37.98076,-122.02194
+83863,Willow Pass Rd and Esperanza Dr,37.980751,-122.021185
+83865,Willow Pass Rd and Farm Bureau Rd,37.983047,-122.016053
+83860,Willow Pass Rd and Franquette Ave,37.96994,-122.050112
+83866,Willow Pass Rd and Granada Dr,37.986143,-122.010674
+83873,Willow Pass Rd and N Sixth St,37.981999,-122.018649
+83867,Willow Pass Rd and San Vincente Dr,37.987308,-122.009025
+83870,Willow Pass Rd and San Vincente Dr,37.987236,-122.009384
+83864,Willow Pass Rd and Sixth St,37.981517,-122.019364
+83878,Willow Pass Rd and Waterworld Pkwy,37.969375,-122.051415
+832107,Windemere Pkwy and Albion Rd,37.761191,-121.888275
+832110,Windemere Pkwy and Bethany Rd,37.760476,-121.88742
+832111,Windemere Pkwy and Bethany Rd,37.757433,-121.887044
+832105,Windemere Pkwy and E Branch Pkwy,37.749633,-121.889605
+832109,Windemere Pkwy and Harcourt Way,37.762725,-121.895189
+832108,Windemere Pkwy and Harcourt Way,37.762776,-121.894115
+832106,Windemere Pkwy and Longleaf Cir,37.758088,-121.886269
+831936,Ygnacio Valley Rd and Bancroft Rd,37.92038,-122.035749
+831930,Ygnacio Valley Rd and Civic Dr,37.906563,-122.059967
+832141,Ygnacio Valley Rd and Diablo Creek Dentistry,37.92129,-122.032787
+831938,Ygnacio Valley Rd and Homestead Ave,37.90919,-122.051842
+831937,Ygnacio Valley Rd and Kinross Dr,37.913036,-122.044152
+831935,Ygnacio Valley Rd and Lennon Ln,37.923755,-122.027703
+832095,Ygnacio Valley Rd and Marchbanks Dr,37.911325,-122.046674
+831933,Ygnacio Valley Rd and Mendocino Farms,37.91883,-122.037794
+83880,Ygnacio Valley Rd and Michigan Blvd,37.947631,-121.963615
+83881,Ygnacio Valley Rd and Michigan Blvd,37.947635,-121.963139
+831939,Ygnacio Valley Rd and N Civic Dr,37.907211,-122.057892
+83882,Ygnacio Valley Rd and Park Highlands,37.950019,-121.960549
+831931,Ygnacio Valley Rd and Walnut Blvd,37.907997,-122.055153
+832143,Ygnacio Valley Rd and Walnut Blvd,37.908013,-122.055477
+831934,Ygnacio Valley Rd and Wimbledon Rd,37.92266,-122.02949

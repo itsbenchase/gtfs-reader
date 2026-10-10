@@ -1,0 +1,649 @@
+882498,Adams Wy & Kottinger Dr NB,37.659455,-121.863613
+883083,Adams Wy & Kottinger Dr SB,37.65996,-121.863756
+881672,Alcosta Blvd & Fircrest Ln EB,37.731428,-121.928006
+881706,Alcosta Blvd & Fircrest Ln WB,37.731665,-121.928178
+882355,Alcosta Blvd & San Ramon Rd,37.722985,-121.941821
+881673,Alcosta Blvd & Stagecoach Rd,37.732527,-121.924632
+882868,Alcosta Blvd & Village Pkwy,37.729515,-121.931612
+881660,Amador Valley Blvd & Donohue Dr EB,37.708406,-121.932087
+881718,Amador Valley Blvd & Donohue Dr WB,37.708564,-121.932484
+881679,Amador Valley Blvd & Dublin Meadows St,37.717321,-121.914399
+882871,Amador Valley Blvd & Penn Dr EB,37.714004,-121.920216
+882867,Amador Valley Blvd & Penn Dr WB,37.714232,-121.9202
+881659,Amador Valley Blvd & Regional St EB,37.706399,-121.934179
+881719,Amador Valley Blvd & Regional St WB,37.706621,-121.934356
+881697,Amador Valley Blvd & Stagecoach Rd,37.717211,-121.914994
+881717,Amador Valley Blvd & Village Pkwy,37.709862,-121.928378
+881696,Amador Valley Blvd & Wildwood Rd,37.718214,-121.91325
+882356,Amador Valley Blvd & York Dr,37.710727,-121.924926
+882394,Arbor Dr & Vintage Hills Park,37.657049,-121.8497
+882014,Bernal Ave & Case Ave,37.656767,-121.880813
+882639,Bernal Ave & E Angela St,37.65395,-121.861442
+882253,Bernal Ave & Independence Dr EB,37.65232,-121.869512
+882217,Bernal Ave & Independence Dr WB,37.652358,-121.868917
+882662,Bernal Ave & Kottinger Dr NB,37.655636,-121.859255
+882216,Bernal Ave & Kottinger Dr SB,37.655719,-121.859493
+882570,Bernal Ave & Old Bernal Ave,37.657037,-121.880941
+881881,Bernal Ave & Palomino Dr,37.661286,-121.857512
+881504,Bluebell Dr & Capriconus Ave,37.717142,-121.74152
+881516,Bluebell Dr & Heather Ln,37.711063,-121.735201
+881518,Bluebell Dr & Las Flores Rd,37.706441,-121.738155
+881503,Bluebell Dr & Marlin A. Pound Park,37.718826,-121.744844
+881517,Bluebell Dr & Sunflower Ct,37.70777,-121.735897
+882957,Bordeaux St & Bordeaux Pl,37.655921,-121.851292
+882945,Brisa St & National Dr,37.701413,-121.714445
+881508,Broadmoor St & Bridgeport Cir,37.723184,-121.732319
+881507,Broadmoor St & Greenwich Ave,37.719295,-121.732489
+881510,Broadmoor St & Haggin Oaks Ave,37.725999,-121.732449
+881854,Case Ave & Bernal Ave NB,37.65619,-121.881553
+881875,Case Ave & Bernal Ave SB,37.656448,-121.881779
+881853,Case Ave & Pleasanton Middle School,37.653838,-121.882969
+882495,Central Pkwy & Arnold Rd,37.708887,-121.8924
+882676,Central Pkwy & Aspen St,37.708781,-121.884014
+883112,Central Pkwy & Cottonwood Creek TK-8 School,37.709571,-121.845671
+882681,Central Pkwy & Emerald High School (Chancery),37.709318,-121.8657
+882682,Central Pkwy & Emerald High School (Grafton),37.708689,-121.86311
+882673,Central Pkwy & Glynnis Rose Dr EB,37.709328,-121.875319
+882675,Central Pkwy & Glynnis Rose Dr WB,37.709785,-121.874375
+882671,Central Pkwy & Hibernia Dr,37.708548,-121.885879
+882928,Central Pkwy & Kelton St,37.71017,-121.854871
+882672,Central Pkwy & Killian St,37.708528,-121.878105
+883103,Central Pkwy & Lockhart St,37.709113,-121.856612
+882494,Central Pkwy & Park Pl,37.708951,-121.889509
+882226,Concannon Blvd & Barcelona St EB,37.660722,-121.782025
+881574,Concannon Blvd & Barcelona St WB,37.660946,-121.782506
+881576,Concannon Blvd & Niagara Dr,37.660908,-121.786973
+881598,Concannon Blvd & Pulsar Ave EB,37.660642,-121.790006
+881577,Concannon Blvd & Pulsar Ave WB,37.660893,-121.790182
+881599,Concannon Blvd & Vega Rd,37.660666,-121.78526
+882799,Concord St & Bordeaux St,37.653737,-121.853489
+882239,Crellin Rd & Crestablanca Dr,37.658429,-121.844961
+883029,Croak Rd & Margaret Wy NB,37.712646,-121.838887
+882949,Croak Rd & S Terracina Dr NB,37.717653,-121.83979
+880043,Dalton Ave & N Vasco Rd,37.726887,-121.726686
+881668,Davona Dr & Bluebell Wy,37.722685,-121.936237
+881665,Davona Dr & Briarwood Ln,37.721583,-121.929047
+881710,Davona Dr & Gate Wy,37.722901,-121.936563
+881713,Davona Dr & Lucania St EB,37.721352,-121.931344
+881666,Davona Dr & Lucania St WB,37.72145,-121.930995
+881711,Davona Dr & Wicklow Ln EB,37.720963,-121.935074
+881667,Davona Dr & Wicklow Ln WB,37.720989,-121.934787
+883130,Dolores St & Arbor Ave,37.67935,-121.757156
+881656,Dolores St & Carrigan Cmn,37.679168,-121.756966
+881655,Dolores St & Pacific Ave,37.676408,-121.756951
+883131,Dougherty Rd & Camp Parks Blvd,37.715643,-121.910046
+882794,Dougherty Rd & Houston Pl,37.708804,-121.910127
+881687,Dougherty Rd & Mariposa Cir,37.714643,-121.910448
+881688,Dougherty Rd & Park Sierra,37.711816,-121.910477
+881690,Dougherty Rd & Sierra Ln NB,37.705972,-121.910076
+881689,Dougherty Rd & Sierra Ln SB,37.70689,-121.910485
+882878,Downtown Livermore / Transit Center EB,37.683728,-121.768165
+882880,Downtown Livermore / Transit Center WB,37.684071,-121.767487
+882999,Dublin Blvd & Amador Plaza Rd,37.704771,-121.927974
+882956,Dublin Blvd & Arnold Rd,37.706527,-121.893811
+883118,Dublin Blvd & Brigadoon Wy,37.698918,-121.956793
+882955,Dublin Blvd & Campus Dr,37.706148,-121.896326
+881742,Dublin Blvd & Civic Center EB,37.704254,-121.915784
+881745,Dublin Blvd & Civic Center WB,37.704753,-121.916744
+881741,Dublin Blvd & Clark Ave EB,37.705427,-121.920948
+882712,Dublin Blvd & Clark Ave WB,37.705867,-121.92141
+882365,Dublin Blvd & Donlon Wy EB,37.701167,-121.93862
+882224,Dublin Blvd & Donlon Wy WB,37.701602,-121.937975
+881743,Dublin Blvd & Dublin Ct EB,37.703837,-121.911277
+881744,Dublin Blvd & Dublin Ct WB,37.704481,-121.91087
+882914,Dublin Blvd & Fallon Gateway EB,37.706124,-121.852857
+882916,Dublin Blvd & Fallon Gateway WB,37.706021,-121.854013
+880103,Dublin Blvd & Glynnis Rose Dr,37.705802,-121.875028
+881740,Dublin Blvd & Golden Gate Dr EB,37.704186,-121.929016
+881746,Dublin Blvd & Golden Gate Dr WB,37.704121,-121.930049
+882872,Dublin Blvd & Grafton St EB,37.704808,-121.864501
+882684,Dublin Blvd & Grafton St WB,37.705548,-121.8659
+882876,Dublin Blvd & Hacienda Dr EB,37.706066,-121.887218
+882143,Dublin Blvd & Hacienda Dr WB,37.706452,-121.888567
+881759,Dublin Blvd & Hibernia Dr EB,37.706061,-121.884774
+881758,Dublin Blvd & Hibernia Dr WB,37.706403,-121.886002
+881761,Dublin Blvd & John Monego Ct,37.705494,-121.876312
+882873,Dublin Blvd & Keegan St EB,37.704405,-121.859141
+882683,Dublin Blvd & Keegan St WB,37.704764,-121.861223
+882874,Dublin Blvd & Lockhart St,37.704828,-121.85796
+883122,Dublin Blvd & Marshall Canyon Dr EB,37.700823,-121.976222
+883119,Dublin Blvd & Marshall Canyon Dr WB,37.700918,-121.975924
+881757,Dublin Blvd & Myrtle Dr,37.706157,-121.881403
+882962,Dublin Blvd & Persimmon Pl,37.706149,-121.891779
+881739,Dublin Blvd & Regional St,37.70283,-121.933131
+882856,Dublin Blvd & Scarlett Dr,37.705672,-121.907013
+883120,Dublin Blvd & Schaefer Heights Dr,37.704385,-121.98236
+881760,Dublin Blvd & Tassajara Creek,37.70548,-121.879553
+881747,Dublin Blvd & Village Pkwy,37.705806,-121.924693
+882846,Dublin/Pleasanton BART,37.702687,-121.899256
+882844,Dublin/Pleasanton BART Station,37.700944,-121.896379
+880095,Dublin/Pleasanton BART Unloading,37.701623,-121.89803
+881452,E Airway Blvd & Portola Ave,37.697866,-121.787292
+881474,E Airway Blvd & Sutter St,37.700048,-121.793378
+881475,E Airway Blvd & Via Montalvo,37.697829,-121.787603
+881615,East Ave & Buena Vista Ave EB,37.679774,-121.737286
+881626,East Ave & Buena Vista Ave WB,37.680032,-121.735788
+881617,East Ave & Charlotte Wy EB,37.679709,-121.725603
+881624,East Ave & Charlotte Wy WB,37.67999,-121.72567
+881611,East Ave & Dolores St,37.679847,-121.756617
+881612,East Ave & East Avenue Middle School,37.679832,-121.750671
+881629,East Ave & Estates St,37.680029,-121.752078
+881628,East Ave & Hayes Ave,37.680023,-121.747034
+881630,East Ave & Jensen St,37.680039,-121.7557
+882879,East Ave & Livermore Community Center EB,37.679805,-121.74228
+881627,East Ave & Livermore Community Center WB,37.68006,-121.740858
+881610,East Ave & Maple St,37.679883,-121.761002
+881616,East Ave & N Mines Rd EB,37.679724,-121.730759
+881625,East Ave & N Mines Rd WB,37.679972,-121.731629
+881618,East Ave & Research Dr EB,37.679693,-121.720489
+881623,East Ave & Research Dr WB,37.679918,-121.721922
+881620,East Ave & S Vasco Rd,37.67928,-121.717745
+883001,East County Hall of Justice,37.714937,-121.888059
+882420,E Jack London Blvd & Arlington Rd EB,37.688978,-121.796548
+882809,E Jack London Blvd & Arlington Rd WB,37.689175,-121.79738
+882997,E Jack London Blvd & Hagemann Dr EB,37.68894,-121.800299
+882992,E Jack London Blvd & Hagemann Dr WB,37.689184,-121.801412
+882808,E Jack London Blvd & Murrieta Blvd,37.68915,-121.791721
+882807,E Jack London Blvd & Troy St,37.689165,-121.793717
+882421,E Jack London Blvd & Turino St,37.688925,-121.793199
+881580,El Caminito & Andalucia St,37.668127,-121.791047
+881595,El Caminito & El Padro Dr,37.667858,-121.790904
+881594,El Caminito & Encino Dr,37.669038,-121.793151
+882227,El Padro Dr & Mendenhall Middle School NB,37.663406,-121.792168
+881597,El Padro Dr & Mendenhall Middle School SB,37.663664,-121.792338
+881596,El Padro Dr & Ontario Dr,37.665455,-121.791795
+881579,El Padro Dr & Orange Wy,37.665828,-121.791368
+882211,E Ruby Hill Dr & Donata Ct,37.636997,-121.799554
+882913,E Ruby Hill Dr & Piemonte Dr 1,37.647671,-121.80745
+882911,E Ruby Hill Dr & Piemonte Dr 2,37.647178,-121.807025
+882903,E Ruby Hill Dr & Sangro Ct,37.639703,-121.799395
+882212,E Ruby Hill Dr & Vantini Wy,37.643078,-121.803104
+882019,E Ruby Hill Dr & Varese Ct,37.649742,-121.810045
+881557,E Stanley Blvd & El Caminito,37.677144,-121.79494
+881556,E Stanley Blvd & Murdell Ln EB,37.676595,-121.799795
+881566,E Stanley Blvd & Murdell Ln WB,37.676798,-121.800519
+881558,E Stanley Blvd & Murrieta Blvd EB,37.678045,-121.786643
+882838,E Stanley Blvd & Murrieta Blvd WB,37.678275,-121.78684
+881559,E Stanley Blvd & ValleyCare Medical Center EB,37.678849,-121.782024
+881564,E Stanley Blvd & ValleyCare Medical Center WB,37.679257,-121.781549
+881565,E Stanley Blvd & Wall St,37.677746,-121.79181
+882918,Fallon Rd & Antone Wy NB,37.719193,-121.85915
+882922,Fallon Rd & Antone Wy SB,37.720014,-121.859535
+882478,Fallon Rd & Bent Tree Dr,37.715639,-121.854542
+882927,Fallon Rd & Gleason Dr,37.715983,-121.856191
+882921,Fallon Rd & Kingsmill Ter,37.725755,-121.858511
+882919,Fallon Rd & Signal Hill Dr,37.72649,-121.858158
+882929,Fallon Rd & Silvera Ranch Dr NB,37.732698,-121.866401
+882920,Fallon Rd & Silvera Ranch Dr SB,37.732074,-121.865964
+882726,First St & Inman St EB,37.684737,-121.762739
+882963,First St & Inman St WB,37.685169,-121.762192
+881822,First St & Kottinger Dr,37.662164,-121.870817
+881492,First St & Larch Ln EB,37.688788,-121.756406
+881521,First St & Larch Ln WB,37.689235,-121.756199
+881519,First St & Las Positas Rd,37.697926,-121.743472
+881952,First St & Neal St NB,37.659496,-121.873816
+882784,First St & Neal St SB,37.659507,-121.874064
+881495,First St & N Mines Rd EB,37.694783,-121.746219
+881520,First St & N Mines Rd WB,37.693935,-121.748235
+881493,First St & Portola Ave,37.690516,-121.753015
+881828,First St & Ray St,37.662523,-121.870689
+881496,First St & Southfront Rd,37.699242,-121.741945
+881494,First St & Trevarno Rd,37.691598,-121.750965
+882063,Foothill Rd & Foothill High School,37.672483,-121.920255
+881633,Fourth St & South J St,37.679432,-121.768192
+881634,Fourth St & South K St,37.679118,-121.768693
+881587,Fourth St & South M St EB,37.678227,-121.771619
+881567,Fourth St & South M St WB,37.678296,-121.771998
+881586,Fourth St & South P St EB,37.677292,-121.774796
+881568,Fourth St & South P St WB,37.677515,-121.774561
+881502,Galloway St & Bluebell Dr,37.719071,-121.74653
+882207,Garaventa Ranch Rd & Altamont Creek Elementary School,37.72231,-121.718637
+882206,Garaventa Ranch Rd & Periwinkle Cmn,37.722656,-121.721407
+882208,Garaventa Ranch Rd & Scenic Ave,37.7172,-121.717493
+882329,Gibraltar Dr & Hart Middle School,37.687015,-121.896982
+883026,Gibraltar Dr & Hopyard Rd,37.695821,-121.902721
+882907,Gibraltar Dr & Willow Rd EB,37.695751,-121.897372
+882908,Gibraltar Dr & Willow Rd WB,37.696023,-121.899164
+881753,Gleason Dr & Arnold Rd,37.713853,-121.892538
+882967,Gleason Dr & Brannigan St,37.712818,-121.867486
+882932,Gleason Dr & Grafton St,37.71368,-121.864614
+881754,Gleason Dr & Hacienda Dr,37.713826,-121.890391
+882926,Gleason Dr & Madden Wy,37.714504,-121.858835
+882166,Greenwood Rd & Harvest Park Middle School,37.674746,-121.880542
+882491,Guzman Pkwy & Dennis Dr,37.69292,-121.86258
+881755,Hacienda Dr & Central Pkwy,37.709642,-121.888178
+881748,Hacienda Dr & Dublin Blvd,37.706938,-121.887823
+881919,Hacienda Dr & Gibraltar Dr EB,37.695709,-121.893162
+882790,Hacienda Dr & Gibraltar Dr NB,37.687662,-121.894382
+881897,Hacienda Dr & Gibraltar Dr WB,37.694782,-121.894703
+881896,Hacienda Dr & Owens Dr,37.697293,-121.890239
+881918,Hacienda Dr & Stoneridge Dr NB,37.69234,-121.894707
+882789,Hacienda Dr & Stoneridge Dr SB,37.690525,-121.894762
+881749,Hacienda Dr & Summer Glen Dr,37.711378,-121.887833
+882251,Hansen Dr & Calle Morelia,37.668854,-121.901388
+882242,Hansen Dr & Calle Reynoso,37.668604,-121.903273
+882248,Hansen Dr & Camino Segura,37.669546,-121.8998
+881515,Heather Ln & Iris Wy,37.713254,-121.734118
+881603,Holmes St & Anza Wy,37.671268,-121.780304
+881601,Holmes St & Concannon Blvd NB,37.661684,-121.780116
+881573,Holmes St & Concannon Blvd SB,37.662473,-121.78041
+881571,Holmes St & Elaine Ave,37.669431,-121.780546
+881572,Holmes St & El Caminito,37.667343,-121.780526
+881570,Holmes St & Mocho St,37.672391,-121.780571
+881604,Holmes St & Murrieta Blvd NB,37.674388,-121.779944
+881569,Holmes St & Murrieta Blvd SB,37.674456,-121.780198
+881602,Holmes St & Vancouver Wy,37.666185,-121.780184
+881863,Hopyard Rd & Gibraltar Dr NB,37.696602,-121.903323
+881844,Hopyard Rd & Gibraltar Dr SB,37.695546,-121.903845
+881861,Hopyard Rd & Inglewood Dr NB,37.689716,-121.903447
+881846,Hopyard Rd & Inglewood Dr SB,37.687174,-121.903935
+881859,Hopyard Rd & Parkside Dr,37.677344,-121.898905
+881862,Hopyard Rd & Stoneridge Dr NB,37.69251,-121.903415
+881845,Hopyard Rd & Stoneridge Dr SB,37.692689,-121.90388
+881848,Hopyard Rd & S Valley Trails Dr,37.677825,-121.900466
+881860,Hopyard Rd & W Las Positas Blvd NB,37.682849,-121.903566
+881847,Hopyard Rd & W Las Positas Blvd SB,37.682251,-121.904147
+883019,Horizon Pkwy & Sterling St EB,37.710185,-121.901842
+883020,Horizon Pkwy & Sterling St WB,37.710341,-121.901902
+881555,Junction Ave & Chestnut St EB,37.686987,-121.767302
+880059,Junction Ave & Chestnut St WB,37.686851,-121.766652
+882888,Junction Ave & N Livermore Ave,37.689458,-121.771987
+883116,Junction Ave & Walnut St,37.688091,-121.769558
+882389,Kamp Dr & Cameron Ave NB,37.684973,-121.868141
+882333,Kamp Dr & Cameron Ave SB,37.68515,-121.8683
+882332,Kamp Dr & Eilene Dr,37.688273,-121.869847
+882390,Kamp Dr & Glen Isle Ave,37.688351,-121.869746
+882388,Kamp Dr & Mohr Ave,37.6823,-121.868859
+883121,Kelly Canyon Dr & Reimers Wy,37.70478,-121.979279
+882403,Kirkcaldy St & Stacey Wy,37.69988,-121.859795
+882797,Kohnen Wy & Fallon Middle School,37.71495,-121.866645
+882699,Koll Center Pkwy & Bernal Corporate Park EB,37.661791,-121.901999
+882698,Koll Center Pkwy & Bernal Corporate Park NB,37.659525,-121.901359
+882696,Koll Center Pkwy & Koll Center Dr,37.658639,-121.90008
+881885,Kottinger Dr & Adams Wy,37.659348,-121.864117
+881886,Kottinger Dr & Amaral Cir,37.660249,-121.866232
+882254,Kottinger Dr & Moselle Ct,37.658329,-121.861295
+881883,Kottinger Dr & Salvador Ct,37.65834,-121.860408
+881887,Kottinger Dr & Second St,37.66162,-121.86944
+881884,Kottinger Dr & Sharab Ct,37.658535,-121.861966
+881882,Kottinger Dr & Sherry Ct,37.656832,-121.859721
+881464,Las Positas College,37.710408,-121.799793
+882769,Las Positas Rd & Arroyo Plaza EB,37.698217,-121.769589
+881549,Las Positas Rd & Arroyo Plaza WB,37.698471,-121.769628
+882795,Las Positas Rd & Arroyo Vista EB,37.696839,-121.741964
+882842,Las Positas Rd & Arroyo Vista WB,37.697375,-121.741643
+882806,Las Positas Rd & Bennett Dr EB,37.697369,-121.733049
+882851,Las Positas Rd & Bennett Dr WB,37.697344,-121.733794
+882839,Las Positas Rd & Capitol St EB,37.701592,-121.722871
+882841,Las Positas Rd & Capitol St WB,37.701692,-121.723253
+882805,Las Positas Rd & Contractors St,37.696215,-121.737889
+881530,Las Positas Rd & First St EB,37.699749,-121.745233
+881547,Las Positas Rd & First St WB,37.69941,-121.744138
+882779,Las Positas Rd & Lawrence Dr EB,37.709795,-121.704873
+882772,Las Positas Rd & Lawrence Dr WB,37.710008,-121.705098
+882780,Las Positas Rd & Mountain Vista Pkwy EB,37.711737,-121.701409
+882768,Las Positas Rd & Mountain Vista Pkwy WB,37.711837,-121.7018
+882729,Las Positas Rd & N Mines Rd EB,37.699832,-121.761217
+882714,Las Positas Rd & N Mines Rd WB,37.69951,-121.763714
+881548,Las Positas Rd & Plaza 580,37.700591,-121.747077
+882778,Las Positas Rd & Preston Ave EB,37.707345,-121.709057
+882773,Las Positas Rd & Preston Ave WB,37.706872,-121.710626
+882777,Las Positas Rd & Pullman St EB,37.705477,-121.713606
+882840,Las Positas Rd & Pullman St WB,37.705123,-121.714853
+882776,Las Positas Rd & S Vasco Rd EB,37.702981,-121.719473
+881488,Las Positas Rd & S Vasco Rd WB,37.703575,-121.718631
+883005,Las Positas Rd & Vilana St,37.696033,-121.738642
+883080,Lembert Hills Dr & Palisades Dr,37.740631,-121.853064
+882847,Livermore Transit Center,37.685146,-121.766573
+882101,Lylewood Dr & Jorgensen Ln,37.657731,-121.90819
+882338,Lylewood Dr & Paragon Cir,37.656929,-121.906745
+882343,Lylewood Dr & Regency Dr,37.658311,-121.908515
+882341,Lylewood Dr & Takens Ct,37.660969,-121.909063
+882238,Madeira Dr & Sylvaner Ct,37.660153,-121.849946
+881751,Madigan Rd & Broder Blvd,37.715789,-121.883315
+881819,Main St & Del Valle Pkwy,37.665697,-121.873829
+881831,Main St & Vervais Ave,37.665551,-121.873551
+883016,Maple & Fourth St WB,37.681845,-121.764091
+881649,Maple St & Fourth St,37.68201,-121.764013
+881522,Maple St & Livermore High School,37.680663,-121.761918
+882334,Mohr Ave & Kamp Dr,37.68199,-121.869789
+882387,Mohr Ave & Kolln St EB,37.68189,-121.873085
+882335,Mohr Ave & Kolln St WB,37.68199,-121.873251
+882707,Muirwood Dr & Cottonwood Ln,37.678162,-121.91646
+882326,Muirwood Dr & Eastwood Wy,37.670134,-121.914392
+882327,Muirwood Dr & Fallwood Ct,37.669591,-121.917344
+882897,Muirwood Dr & Joshua Cir,37.673035,-121.913449
+882321,Muirwood Dr & Linwood Ct,37.674746,-121.914164
+882708,Muirwood Dr & Muirwood Community Park NB,37.684355,-121.918757
+882307,Muirwood Dr & Muirwood Community Park SB,37.684096,-121.918705
+882346,Muirwood Dr & Oakhill Park,37.674744,-121.914328
+882308,Muirwood Dr & Sandalwood Dr,37.679238,-121.916328
+882309,Muirwood Dr & W Las Positas Blvd,37.677346,-121.916464
+881478,Murrieta Blvd & Del Norte Dr,37.693858,-121.787771
+881450,Murrieta Blvd & Huron Rd,37.69356,-121.787974
+881448,Murrieta Blvd & Olivina Ave NB,37.683323,-121.790902
+881480,Murrieta Blvd & Olivina Ave SB,37.682447,-121.791197
+881449,Murrieta Blvd & Pine St NB,37.687598,-121.790799
+881479,Murrieta Blvd & Pine St SB,37.687766,-121.791023
+881451,Murrieta Blvd & Portola Ave NB,37.694343,-121.785615
+881477,Murrieta Blvd & Portola Ave SB,37.695198,-121.784719
+882988,National Dr & Exchange Ct EB,37.700354,-121.710464
+883133,National Dr & Exchange Ct WB,37.700465,-121.710929
+882987,National Dr & Greenville Rd EB,37.702837,-121.701329
+882941,National Dr & Greenville Rd WB,37.703475,-121.701221
+882944,National Dr & Longfellow Ct,37.701608,-121.70398
+881461,N Canyons Pkwy & Constitution Dr EB,37.704543,-121.816336
+881467,N Canyons Pkwy & Constitution Dr WB,37.704536,-121.817984
+881462,N Canyons Pkwy & Independence Dr EB,37.704169,-121.811221
+881466,N Canyons Pkwy & Independence Dr WB,37.704182,-121.812863
+881463,N Canyons Pkwy & Triad Dr,37.705726,-121.80764
+881465,N Canyons Pkwy & Triad Pl,37.7055,-121.809079
+882376,N Dublin Ranch Dr & Cedar Crest Ter,37.721078,-121.867919
+882377,N Dublin Ranch Dr & Groveland Ln,37.719649,-121.865275
+882481,N Dublin Ranch Dr & Oak Bluff Ln,37.719765,-121.865142
+882972,N Dublin Ranch Dr & Round Hill Dr,37.721243,-121.867494
+882973,N Dublin Ranch Dr & Shadow Hill Dr,37.719847,-121.870305
+882159,N Dublin Ranch Dr & Springvale Dr,37.719647,-121.870348
+881527,N Livermore Ave & Cromwell Wy NB,37.693988,-121.77306
+881551,N Livermore Ave & Cromwell Wy SB,37.693032,-121.773381
+881550,N Livermore Ave & Las Positas Ct,37.697125,-121.773636
+881528,N Livermore Ave & Las Positas Rd,37.697103,-121.773212
+882980,N Livermore Ave & Portola Ave,37.690429,-121.772985
+882974,N Livermore Ave & Walnut St NB,37.687244,-121.771182
+882981,N Livermore Ave & Walnut St SB,37.687657,-121.771625
+882232,N Mines Rd & Charlotte Wy,37.686529,-121.737419
+882201,N Mines Rd & Dana Cir NB,37.685449,-121.736003
+882204,N Mines Rd & Dana Cir SB,37.684631,-121.735703
+882200,N Mines Rd & East Ave NB,37.681442,-121.733326
+882205,N Mines Rd & East Ave SB,37.68175,-121.733868
+882151,N Mines Rd & First St,37.693707,-121.746497
+882202,N Mines Rd & Patterson Pass Rd NB,37.689189,-121.741319
+882203,N Mines Rd & Patterson Pass Rd SB,37.68874,-121.740942
+882383,N Valley Trails Dr & Carlsbad Wy,37.678446,-121.903524
+882727,N Valley Trails Dr & National Park Rd,37.67832,-121.903559
+882384,N Valley Trails Dr & Platt Ct,37.677682,-121.907793
+882899,N Valley Trails Dr & Yosemite Ct,37.677419,-121.908641
+882820,Olivina Ave & Adelle St EB,37.682966,-121.779148
+881935,Olivina Ave & Adelle St WB,37.683083,-121.779253
+882819,Olivina Ave & Albatross Ave,37.682866,-121.786521
+882818,Olivina Ave & Murrieta Blvd EB,37.682773,-121.790001
+881940,Olivina Ave & Murrieta Blvd WB,37.682943,-121.788766
+881937,Olivina Ave & Rincon Ave,37.683007,-121.783653
+881840,Owens Dr & Andrews Dr,37.693351,-121.883696
+881803,Owens Dr & Chabot Dr,37.6996,-121.902233
+881809,Owens Dr & Hacienda Dr EB,37.696912,-121.888468
+881842,Owens Dr & Hacienda Dr WB,37.698511,-121.889864
+881810,Owens Dr & Rosewood Dr EB,37.695531,-121.886503
+881841,Owens Dr & Rosewood Dr WB,37.696616,-121.887315
+881806,Owens Dr & Willow Rd,37.700099,-121.900495
+881811,Owens Dr & W Las Positas Blvd,37.692404,-121.883272
+881654,Pacific Ave & Dolores St EB,37.676088,-121.758141
+883002,Pacific Ave & Dolores St WB,37.676211,-121.757393
+883089,Parkside Dr & Arthur Dr,37.67961,-121.898612
+882277,Paseo Santa Cruz & Calle Morelia,37.666517,-121.899745
+882297,Paseo Santa Cruz & Calle Reynoso EB,37.665476,-121.90231
+882292,Paseo Santa Cruz & Calle Reynoso WB,37.665677,-121.902129
+882276,Paseo Santa Cruz & Camino Segura EB,37.674656,-121.899825
+882900,Paseo Santa Cruz & Camino Segura WB,37.674798,-121.899853
+882278,Paseo Santa Cruz & Corte Del Oro,37.665388,-121.905618
+882280,Paseo Santa Cruz & Corte Mercado,37.666424,-121.906456
+882298,Paseo Santa Cruz & Corte Nina,37.666389,-121.906589
+882294,Paseo Santa Cruz & Corte Santa Maria,37.672194,-121.907113
+882281,Paseo Santa Cruz & Del Prado Park NB,37.668786,-121.907178
+882295,Paseo Santa Cruz & Del Prado Park SB,37.66879,-121.907336
+882283,Paseo Santa Cruz & Paseo Catalina,37.672349,-121.905833
+882293,Paseo Santa Cruz & Paseo San Leon,37.673202,-121.903659
+882489,Paseo Santa Cruz & Valley Ave,37.666753,-121.898752
+882357,Penn Dr & Wells Middle School,37.710556,-121.918725
+881733,Peppertree Rd & Juarez Ln,37.712796,-121.942966
+881729,Peppertree Rd & Shannon Ave,37.71347,-121.94286
+881734,Peppertree Rd & Silvergate Dr,37.709662,-121.941901
+881728,Peppertree Rd & Solana Dr,37.710449,-121.941825
+881820,Peters Ave & Division St,37.661765,-121.876871
+881830,Peters Ave & Saint Mary St,37.66269,-121.876313
+882401,Pimlico Dr & Belmont Wy,37.700935,-121.866949
+882400,Pimlico Dr & Brockton Dr,37.700132,-121.868902
+882399,Pimlico Dr & Santa Rita Rd,37.700127,-121.871215
+882402,Pimlico Dr & Thistle Wy,37.700951,-121.864638
+882005,Pleasant Hill BART,37.928652,-122.055526
+882273,Pleasanton ACE,37.658846,-121.882602
+882322,Pleasanton Ave & Fairgrounds Rd,37.659136,-121.882503
+882163,Pleasanton Middle School,37.652975,-121.88417
+883003,Portola Ave & Campus Hill Dr,37.706863,-121.796109
+882883,Portola Ave & Montage Dr EB,37.706615,-121.799212
+882854,Portola Ave & Montage Dr WB,37.706652,-121.800518
+882975,Portola Ave & N Livermore Ave,37.691339,-121.775023
+882993,Portola Ave & North P Street EB,37.693878,-121.781432
+882995,Portola Ave & North P Street WB,37.694099,-121.781321
+882978,Portola Ave & Rincon Ave EB,37.695064,-121.783501
+882977,Portola Ave & Rincon Ave WB,37.695269,-121.783334
+883004,Portola Ave & Tranquility Cir,37.705418,-121.793283
+882946,Positano Pkwy & E Cantara Dr,37.719538,-121.84497
+882947,Positano Pkwy & Valentano Dr,37.719714,-121.845173
+882951,Positano Pkwy & Vinton Ave,37.715957,-121.85045
+881562,Railroad Ave & North L St,37.682467,-121.772825
+881563,Railroad Ave & North P St,37.680725,-121.77878
+881561,Railroad Ave & N St,37.681635,-121.77495
+882877,Railroad Ave & South L St,37.682608,-121.771608
+881560,Railroad Ave & South P St,37.680664,-121.778142
+882339,Regency Dr & Tudor Ct,37.659785,-121.907295
+881657,Regional St & Dublin Blvd NB,37.703851,-121.934066
+881721,Regional St & Dublin Blvd SB,37.70369,-121.934223
+882393,Rhine Wy & Arbor Dr,37.656942,-121.844269
+882834,Rutan Dr & E Airway Blvd,37.695868,-121.800157
+881473,Rutan Dr & Rickenbacker Pl NB,37.692004,-121.800411
+881454,Rutan Dr & Rickenbacker Pl SB,37.692162,-121.800592
+882833,Rutan Dr & Sonic Ave,37.695532,-121.799975
+881752,Santa Rita Jail,37.716084,-121.888143
+881832,Santa Rita Rd & Amador Valley High School NB,37.668588,-121.873058
+881818,Santa Rita Rd & Amador Valley High School SB,37.668187,-121.873378
+881833,Santa Rita Rd & Black Ave NB,37.672544,-121.872432
+881817,Santa Rita Rd & Black Ave SB,37.67156,-121.872799
+881837,Santa Rita Rd & Iron Horse Trail,37.685977,-121.876948
+881836,Santa Rita Rd & Mohr Ave NB,37.682288,-121.87567
+881814,Santa Rita Rd & Mohr Ave SB,37.681139,-121.875682
+882593,Santa Rita Rd & Pickens Ln,37.694833,-121.877718
+881838,Santa Rita Rd & Stoneridge Dr NB,37.688413,-121.877697
+881813,Santa Rita Rd & Stoneridge Dr SB,37.686844,-121.877657
+881835,Santa Rita Rd & Valley Ave NB,37.677566,-121.874007
+881816,Santa Rita Rd & Valley Ave SB,37.675873,-121.873795
+881505,Scenic Ave & Aquarius St,37.716996,-121.737581
+881514,Scenic Ave & Broadmoor St,37.717113,-121.733238
+881513,Scenic Ave & Croce Elementary School,37.717114,-121.729187
+881506,Scenic Ave & Heather Ln,37.716977,-121.733039
+881512,Scenic Ave & N Vasco Rd,37.717113,-121.725035
+881957,Scenic Ave & Ridgestone Rd,37.717084,-121.721425
+882936,S Dublin Ranch Dr & Springvale Dr,37.716741,-121.870596
+881730,Shannon Ave & Shannon Park EB,37.713688,-121.941424
+881732,Shannon Ave & Shannon Park WB,37.713825,-121.941514
+882870,Silvergate Dr & Amarillo Rd EB,37.709256,-121.944203
+881735,Silvergate Dr & Amarillo Rd WB,37.709516,-121.943966
+881723,Silvergate Dr & Betlen Dr NB,37.701144,-121.944878
+881738,Silvergate Dr & Betlen Dr SB,37.70121,-121.945237
+881724,Silvergate Dr & Hansen Dr NB,37.703796,-121.945835
+881737,Silvergate Dr & Hansen Dr SB,37.703711,-121.946057
+881726,Silvergate Dr & Rolling Hills Cir,37.706717,-121.946475
+881736,Silvergate Dr & Rolling Hills Dr,37.706984,-121.94668
+882996,South P St & First St,37.679763,-121.776213
+881951,South P St & Railroad Ave,37.680827,-121.776921
+882359,Southwick Dr & Beckett Wy,37.719047,-121.946149
+882353,Southwick Dr & Southwick Ct,37.719557,-121.94569
+882354,Southwick Dr & Westside Dr NB,37.722529,-121.943791
+882358,Southwick Dr & Westside Dr SB,37.722378,-121.944059
+882305,Springdale Ave & Chestnut Wy,37.689062,-121.92463
+882959,Springdale Ave & Maywood Dr NB,37.686556,-121.921934
+882306,Springdale Ave & Maywood Dr SB,37.68683,-121.922361
+882709,Springdale Ave & Rosedale Ct,37.689242,-121.924543
+881764,Springdale Ave & Stoneridge Dr,37.691157,-121.92577
+880040,Springtown Blvd & Bluebell Dr,37.705346,-121.740859
+881500,Springtown Blvd & Oleander St,37.712621,-121.747849
+881498,Springtown Blvd & Poppy Wy,37.708364,-121.745438
+881501,Springtown Blvd & Rhododendron Dr,37.716079,-121.747881
+881705,Stagecoach Rd & Alcosta Blvd,37.732895,-121.923972
+881701,Stagecoach Rd & Jade Cir NB,37.723905,-121.919044
+881675,Stagecoach Rd & Jade Cir SB,37.724103,-121.919308
+881704,Stagecoach Rd & N Lake Dr NB,37.727511,-121.922181
+881674,Stagecoach Rd & N Lake Dr SB,37.726565,-121.92183
+881700,Stagecoach Rd & Topaz Cir,37.720556,-121.918429
+881678,Stagecoach Rd & Turquoise St,37.720615,-121.918594
+881824,Stanley Blvd & Bernal Ave,37.670353,-121.856189
+881823,Stanley Blvd & California Ave,37.668712,-121.862782
+883125,Stanley Blvd & Nevada St,37.66691,-121.865743
+881827,Stanley Blvd & Reflections Dr,37.668952,-121.862957
+881825,Stanley Blvd & Shadow Cliffs EB,37.671817,-121.84433
+881826,Stanley Blvd & Shadow Cliffs WB,37.671977,-121.844818
+882233,Stanley Blvd & Stanley Blvd,37.666358,-121.866788
+883115,Stanley Blvd & Valley Ave,37.670146,-121.85984
+883018,Sterling St & Central Pkwy,37.708754,-121.899753
+883017,Sterling St & Nugget Wy,37.707936,-121.90004
+883091,Stoneridge Dr & Belleza Dr,37.687929,-121.883928
+881903,Stoneridge Dr & Chabot Dr,37.691301,-121.900772
+882986,Stoneridge Dr & El Charro Rd EB,37.697198,-121.850119
+882985,Stoneridge Dr & El Charro Rd WB,37.697246,-121.851667
+882798,Stoneridge Dr & Franklin Dr,37.690786,-121.910157
+882501,Stoneridge Dr & Gibraltar Dr EB,37.692166,-121.890814
+881917,Stoneridge Dr & Gibraltar Dr WB,37.69205,-121.892784
+881898,Stoneridge Dr & Hacienda Dr EB,37.691477,-121.893541
+882943,Stoneridge Dr & Hacienda Dr WB,37.691567,-121.896
+881778,Stoneridge Dr & Hopyard Rd EB,37.690937,-121.907662
+881779,Stoneridge Dr & Hopyard Rd WB,37.691669,-121.90544
+882982,Stoneridge Dr & Newton Wy,37.690358,-121.868388
+882391,Stoneridge Dr & Nielsen Park,37.688415,-121.872192
+882496,Stoneridge Dr & Rialto Wy,37.691885,-121.889095
+882331,Stoneridge Dr & Santa Rita Rd EB,37.687927,-121.87445
+882424,Stoneridge Dr & Santa Rita Rd WB,37.688205,-121.876318
+882492,Stoneridge Dr & Stone Pointe Wy,37.691249,-121.867974
+882984,Stoneridge Dr & Stoneridge Creek Wy EB,37.696385,-121.852442
+882983,Stoneridge Dr & Stoneridge Creek Wy WB,37.695676,-121.85355
+882502,Stoneridge Dr & Tassajara Creek,37.690618,-121.887959
+882961,Stoneridge Dr & Willow Rd EB,37.691256,-121.897602
+881911,Stoneridge Dr & Willow Rd WB,37.691591,-121.899073
+882050,Stoneridge Dr & W Las Positas Blvd,37.689299,-121.885547
+881763,Stoneridge Mall,37.696365,-121.930346
+882710,Stoneridge Mall Rd & Canyon Wy,37.697767,-121.930669
+881766,Stoneridge Mall Rd & Embarcadero Ct,37.695944,-121.925348
+882497,Stoneridge Mall Rd & McWilliams Ln,37.693036,-121.923766
+882881,Stoneridge Mall Rd & West Dublin/Pleasanton BART,37.698116,-121.927266
+881877,Sunol Blvd & Mission Dr NB,37.652995,-121.879849
+881852,Sunol Blvd & Mission Dr SB,37.652283,-121.88033
+882386,S Valley Trails Dr & Hopyard Rd,37.676878,-121.90089
+882717,S Valley Trails Dr & National Park Rd,37.676907,-121.901024
+882718,S Valley Trails Dr & Yellowstone Ct,37.67431,-121.906372
+881645,S Vasco Rd & Brisa St NB,37.700364,-121.71852
+881491,S Vasco Rd & Brisa St SB,37.699051,-121.718475
+882198,S Vasco Rd & Daphne Dr,37.688431,-121.718814
+881641,S Vasco Rd & East Ave,37.680437,-121.718477
+882199,S Vasco Rd & Emily Wy,37.683068,-121.718818
+881647,S Vasco Rd & Industrial Wy,37.704533,-121.721819
+881489,S Vasco Rd & Las Positas Rd NB,37.703585,-121.720707
+881490,S Vasco Rd & Las Positas Rd SB,37.702137,-121.720273
+881642,S Vasco Rd & Mesquite Wy,37.684761,-121.718401
+881644,S Vasco Rd & Patterson Pass Rd NB,37.693885,-121.718342
+882197,S Vasco Rd & Patterson Pass Rd SB,37.693746,-121.718795
+881643,S Vasco Rd & Westgate Dr,37.690122,-121.718385
+882484,Tassajara Rd & Gleason Dr,37.713357,-121.872227
+883038,Tassajara Rd & Kylemore Entry,37.736275,-121.8684
+882924,Tassajara Rd & Quarry Lane School,37.727659,-121.871261
+882375,Tassajara Rd & S Dublin Ranch Dr,37.714692,-121.871793
+882923,Tassajara Rd & Shadow Hill Dr,37.723654,-121.871336
+882925,Tassajara Rd & Silvera Ranch Dr,37.730763,-121.870956
+883100,Tassajara Rd & Wallis Ranch Dr,37.729805,-121.87144
+882237,Tawny Dr & Tawny Park EB,37.662935,-121.855748
+882241,Tawny Dr & Tawny Park WB,37.663256,-121.854693
+882664,Tawny Dr & Touriga Dr,37.663344,-121.852523
+882395,Touriga Dr & Arbor Dr,37.658084,-121.852836
+882392,Touriga Dr & Tawny Dr,37.663575,-121.85237
+882490,Trevor Pkwy & Dennis Dr,37.692535,-121.857245
+883124,Valley Ave & Case Ave EB,37.65044,-121.884864
+883114,Valley Ave & Case Ave WB,37.65051,-121.885336
+881858,Valley Ave & Hansen Dr NB,37.670353,-121.899016
+881873,Valley Ave & Hansen Dr SB,37.669417,-121.898997
+881851,Valley Ave & Harvest Park Middle School,37.676567,-121.882076
+881855,Valley Ave & Koll Center Pkwy NB,37.660515,-121.896912
+881874,Valley Ave & Koll Center Pkwy SB,37.660739,-121.897255
+881857,Valley Ave & Paseo Santa Cruz NB,37.667451,-121.897678
+881871,Valley Ave & Paseo Santa Cruz SB,37.673127,-121.899367
+881856,Valley Ave & Rd 12,37.663412,-121.897164
+881888,Valley Ave & Santa Rita Rd,37.676786,-121.875817
+881872,Valley Ave & Via De Los Cerros,37.670977,-121.899496
+882631,Valley Ave & Via De Los Milagros,37.674481,-121.898308
+882931,Valley Ave & Wild Rose Pl NB,37.655745,-121.89585
+882930,Valley Ave & Wild Rose Pl SB,37.654445,-121.89512
+882719,Valley Trails Dr & Arches Wy,37.676554,-121.910002
+882385,Valley Trails Dr & Hot Springs Ct,37.674012,-121.909792
+882965,Vasco Road ACE,37.697289,-121.716887
+882721,Village Pkwy & Alcosta Blvd,37.728963,-121.931835
+881661,Village Pkwy & Amador Valley Blvd,37.7106,-121.927027
+881715,Village Pkwy & Brighton Dr,37.718327,-121.926855
+881664,Village Pkwy & Davona Dr,37.721434,-121.926313
+881663,Village Pkwy & Dublin High School NB,37.718988,-121.9265
+881714,Village Pkwy & Dublin High School SB,37.721643,-121.926631
+882722,Village Pkwy & Elmwood Dr,37.727415,-121.930783
+882723,Village Pkwy & Kimball Ave,37.725836,-121.929361
+882720,Village Pkwy & Shavano Wy,37.72598,-121.929112
+881662,Village Pkwy & Tamarack Dr NB,37.715232,-121.92681
+881716,Village Pkwy & Tamarack Dr SB,37.714549,-121.927167
+882398,Vineyard Ave & Birch Creek Dr,37.663082,-121.865176
+882214,Vineyard Ave & El Capitan Dr,37.664957,-121.845457
+881878,Vineyard Ave & Kottinger Village Park,37.663031,-121.867844
+881880,Vineyard Ave & Mavis Dr,37.662874,-121.860778
+882257,Vineyard Ave & Sauterne Wy,37.664744,-121.84811
+882256,Vineyard Ave & Touriga Dr EB,37.664733,-121.851617
+882215,Vineyard Ave & Touriga Dr WB,37.664963,-121.85265
+882397,Vineyard Ave & Vineyard Pl,37.663006,-121.861834
+882362,Vomac Rd & Countess St,37.717335,-121.938993
+882344,Vomac Rd & Deervale Rd,37.717382,-121.938537
+882342,Vomac Rd & Dublin Elementary School,37.71529,-121.937297
+882363,Vomac Rd & Holanda Ln,37.715069,-121.937377
+881581,Wall St & Caliente Ave,37.67044,-121.793233
+882942,Wall St & El Caminito,37.670532,-121.793408
+881582,Wall St & Granada High School NB,37.675057,-121.789775
+881591,Wall St & Granada High School SB,37.674832,-121.789968
+882274,Walnut Creek BART,37.90575,-122.06865
+882906,West Dublin/Pleasanton BART,37.70071,-121.927179
+881905,Willow Rd & Gibraltar Dr NB,37.696256,-121.898141
+881914,Willow Rd & Gibraltar Dr SB,37.695377,-121.898386
+881901,Willow Rd & Hart Middle School NB,37.686624,-121.898312
+882937,Willow Rd & Hart Middle School SB,37.686823,-121.898539
+881804,Willow Rd & Owens Dr NB,37.698419,-121.898098
+881908,Willow Rd & Owens Dr SB,37.698868,-121.898359
+881904,Willow Rd & Stoneridge Dr NB,37.691889,-121.898213
+883027,Willow Rd & Stoneridge Dr SB,37.690914,-121.898468
+882785,Willow Rd & W Las Positas Blvd,37.684822,-121.898582
+882964,W Jack London Blvd & Discovery Dr,37.689264,-121.811084
+882935,W Jack London Blvd & Outlets EB,37.696879,-121.844301
+882934,W Jack London Blvd & Outlets WB,37.697524,-121.845678
+883123,W Jack London Blvd & Voyager St,37.689584,-121.809374
+883128,W Jack London Blvd & Wolf House Dr EB,37.695231,-121.840248
+883127,W Jack London Blvd & Wolf House Dr WB,37.695657,-121.84059
+882960,W Las Positas Blvd & Belleza Ln,37.687724,-121.8862
+882310,W Las Positas Blvd & Dorman Rd EB,37.680603,-121.905879
+882311,W Las Positas Blvd & Dorman Rd WB,37.680742,-121.906158
+882902,W Las Positas Blvd & Fairlands Dr,37.692158,-121.877567
+882409,W Las Positas Blvd & Fairlands Elementary School,37.691847,-121.874069
+882406,W Las Positas Blvd & Gulfstream St,37.695343,-121.865339
+881866,W Las Positas Blvd & Hacienda Dr,37.686342,-121.891497
+881868,W Las Positas Blvd & Hart Middle School,37.684844,-121.895446
+881892,W Las Positas Blvd & Hopyard Rd EB,37.682024,-121.90182
+881870,W Las Positas Blvd & Hopyard Rd WB,37.682359,-121.901849
+882404,W Las Positas Blvd & Meadows Park,37.69679,-121.858538
+882405,W Las Positas Blvd & Melbourne Ct,37.695585,-121.859748
+883129,W Las Positas Blvd & Pimlico Dr,37.695621,-121.863329
+882407,W Las Positas Blvd & Rockingham Dr,37.693959,-121.868704
+881812,W Las Positas Blvd & Santa Rita Rd,37.691871,-121.879852
+881894,W Las Positas Blvd & Serra Cir,37.685008,-121.893852
+881895,W Las Positas Blvd & Stoneridge Dr EB,37.689135,-121.884286
+881864,W Las Positas Blvd & Stoneridge Dr WB,37.688148,-121.886198
+881867,W Las Positas Blvd & Tassajara Creek,37.687062,-121.88945
+881839,W Las Positas Blvd & ValleyCare Medical Center,37.692232,-121.879713
+881893,W Las Positas Blvd & Willow Rd EB,37.683824,-121.897599
+881869,W Las Positas Blvd & Willow Rd WB,37.683623,-121.899136
+882210,W Ruby Hill Dr & Campinia Pl,37.632759,-121.804253
+882850,W Ruby Hill Dr & Manzano Ct,37.631372,-121.811948
+882665,W Ruby Hill Dr & Piemonte Dr,37.647374,-121.818381
+882218,W Ruby Hill Dr & Romano Cir 1,37.640829,-121.818253
+882219,W Ruby Hill Dr & Romano Cir 2,37.638263,-121.814784
+882352,W Vomac Rd & Peppertree Ct,37.71602,-121.942327
+882360,W Vomac Rd & Peppertree Rd,37.716062,-121.942756
+882361,W Vomac Rd & San Ramon Rd EB,37.717138,-121.940914
+882351,W Vomac Rd & San Ramon Rd WB,37.717262,-121.941008
