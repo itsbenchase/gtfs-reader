@@ -1,4 +1,5 @@
 cal;ca-ac;AC Transit (Oakland);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=AC
+cal;bart;BART (Bay Area);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=BA
 cal;ca-bbb;Big Blue Bus (Santa Monica);https://gtfs.bigbluebus.com/current.zip
 cal;caltrain;Caltrain (San Francisco);https://api.511.org/transit/datafeeds?api_key=385fee06-02cf-4239-9237-db3fe911b3f7&operator_id=CT
 cal;ca-culver;Culver CityBus (Los Angeles);https://web.culvercity.org/gtfs/gtfsexport.zip
